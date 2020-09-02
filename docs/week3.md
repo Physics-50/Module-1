@@ -12,7 +12,7 @@ At the end of this week you should have a complete data set for the measured cri
 
 Before you begin taking data, there are two principles that we would like to introduce: **"real-time data visualization"** and **"iterative experimental design"**. In taking experimental data, we don't want to just blindly follow the procedure laid out in the experimental design. We need to ensure the data we are taking is reasonable and that our conclusions are well-founded and impactful. One way to ensure the data is reasonable is to have some real-time visualization set up ("plotting as you go"). That way we can see our data as we are taking it, and adapt based on any new information.
 
-*Warning* When "plotting as we go" we don't want to make a real-time decision that incorrectly shapes our conclusions. For example, suppose we had made a plan to take 10 data points based on our exploratory measurements. But in taking the first 3 data points we notice a small sample standard deviation and that if we just stop taking data now, we end up with a reasonable conclusion. If we stop our hypothesis testing based on whether or not the data gives us the answer we are looking for, then we might draw INCORRECT conclusions based on the spread of just a few data points ([explained here](https://replicationindex.com/2015/01/24/questionable-research-practices-definition-detect-and-recommendations-for-better-practices/){:target="_blank"}. If this puzzles you, you might look back to the discussion of [random uncertainty](uncertainty-introduction#random-uncertainty). Rlated concerns are also raised [here](https://www.explainxkcd.com/wiki/index.php/882:_Significant){:target="_blank"}). 
+*Warning* When "plotting as we go" we don't want to make a real-time decision that incorrectly shapes our conclusions. For example, suppose we had made a plan to take 10 data points based on our exploratory measurements. But in taking the first 3 data points we notice a small sample standard deviation and that if we just stop taking data now, we end up with a reasonable conclusion. If we stop our hypothesis testing based on whether or not the data gives us the answer we are looking for, then we might draw INCORRECT conclusions based on the spread of just a few data points ([explained here](https://replicationindex.com/2015/01/24/questionable-research-practices-definition-detect-and-recommendations-for-better-practices/){:target="_blank"}. If this puzzles you, you might look back to the discussion of [random uncertainty](uncertainty-introduction#random-uncertainty). Related concerns are also raised [here](https://www.explainxkcd.com/wiki/index.php/882:_Significant){:target="_blank"}). 
 
 To provide some separation between our experimental decisions and our hypothesis testing, we will iterate on our experimental design. It's okay to change your plan if it turned out to be a bad one. But we want to provide some justification for any changes we make to our initial plan. Here we will provide more details about the two principles we will employ this week, **"real-time data visualization"** and **"iterative experimental design"**. We encourage you to refer back to them as you undertake your detailed data collection.
 
@@ -22,7 +22,7 @@ An important habit we would like you to develop as an experimentalist is to be p
 
 + Is your sample mean very different than what you measured in your exploratory analysis? 
     + If so, then try to troubleshoot what the differences might be (e.g. a calculation error, an uncontrolled variable), and then revise your approach
-+ Is your sample standard deviation much larger than what you found in your exploratory analysis? 
++ Is your sample standard deviation much larger than what you found in your week 2 exploratory analysis? 
     + If so, then maybe you need to revise how many data points you plan on taking
 + Does your data look Normally-Distributed* (like a Gaussian, bell-curve)?
     + If not, then you should try to investigate uncontrolled variables or perhaps increase the number data points of your experimental design
@@ -112,7 +112,7 @@ These steps will guide you through this process:
 
 6. Add another row to use the same calculations you did last week to calculate the coefficient of static friction, $$\mu_s$$, for your new data set.
 
-7. Finally duplicate the sheet. At the bottom left are tabs that allow you to have multiple sheets in your worksheet. If you click on the downward arrow next to your sheet name a menu will appear. Click on "duplicate" and you will now have a second identical sheet ready for data from your second mass. You can rename your sheets from the same menu.
+7. Now you need to set up your worksheet to collect data for the second mass. There are two ways you might go about this. One is to add a second column to the right of your first column, duplicating the equations for your calculations. You should then create a second histogram to monitor the data from the second mass in real time. Alternatively, you can duplicate the sheet. At the bottom left are tabs that allow you to have multiple sheets in your worksheet. If you click on the downward arrow next to your sheet name a menu will appear. Click on "duplicate" and you will now have a second identical sheet ready for data from your second mass. You can rename your sheets from the same menu.
  <img src="images/Duplicating_sheet_in_sheets.png" alt="The duplicate menu item will allow you to duplicate your worksheet, easily creating a second worksheet already set-up for the second mass" width="125"/>
 
 Once you have collected a few data points you will want to go back to the chart editor and select customize. Next week we will focus on polishing our plot for communicating our results but even for your own records you want to make a few adjustments while collecting data. 
@@ -144,12 +144,12 @@ At this point, you need to consider if your results are conclusive. Review the s
 
 **Reasonable is subjective. We don't expect for the purposes of our Module 1 that you will take hundreds of data points. But if taking 10 more data points will result in a stronger conclusion, then we encourage you to do so!*
 
-## Checkpiont #3
+## Checkpoint #3
 
 Please submit the following to Checkpoint #3 on Gradescope
 
 + A screen-shot showing an organized spreadsheet used for data collection
 
-+ Two histograms showing the number of data points measured as a function of the angle $$\theta_c$$
++ Two histograms (one for each mass tested) showing the distribution of the number of data points collected as a function of the angle $$\theta_c$$
 
 + The value you obtained for the coefficient of static friction, $$\mu_s$$, for each mass, including the estimated uncertainty.
