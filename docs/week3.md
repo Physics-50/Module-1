@@ -12,7 +12,7 @@ At the end of this week you should have a complete data set for the measured cri
 
 Before you begin taking data, there are two principles that we would like to introduce: **"real-time data visualization"** and **"iterative experimental design"**. In taking experimental data, we don't want to just blindly follow the procedure laid out in the experimental design. We need to ensure the data we are taking is reasonable and that our conclusions are well-founded and impactful. One way to ensure the data is reasonable is to have some real-time visualization set up ("plotting as you go"). That way we can see our data as we are taking it, and adapt based on any new information.
 
-*Warning* When "plotting as we go" we don't want to make a real-time decision that incorrectly shapes our conclusions. For example, suppose we had made a plan to take 10 data points based on our exploratory measurements. But in taking the first 3 data points we notice a small sample standard deviation and that if we just stop taking data now, we end up with a reasonable conclusion. If we stop our hypothesis testing based on whether or not the data gives us the answer we are looking for, then we might draw INCORRECT conclusions based on the spread of just a few data points [explained here](https://replicationindex.com/2015/01/24/questionable-research-practices-definition-detect-and-recommendations-for-better-practices/){:target="_blank"}. If this puzzles you, you might look back to the discussion of [random uncertainty](uncertainty-introduction#random-uncertainty). Related concerns are also raised [here](https://www.explainxkcd.com/wiki/index.php/882:_Significant){:target="_blank"}. 
+*Warning* When "plotting as we go" we don't want to make a real-time decision that incorrectly shapes our conclusions. For example, suppose we had made a plan to take 10 data points based on our exploratory measurements. But in taking the first 3 data points we notice a small sample standard deviation and that if we just stop taking data now, we end up with a reasonable conclusion. If we stop our hypothesis testing based on whether or not the data gives us the answer we are looking for, then we might draw INCORRECT conclusions based on the spread of just a few data points [explained here](https://replicationindex.com/2015/01/24/questionable-research-practices-definition-detect-and-recommendations-for-better-practices/){:target="_blank"}. If this puzzles you, you might look back to the discussion of [random uncertainty](uncertainty-introduction#random-uncertainty){:target="_blank"}. Related concerns are also raised [here](https://www.explainxkcd.com/wiki/index.php/882:_Significant){:target="_blank"}. 
 
 To provide some separation between our experimental decisions and our hypothesis testing, we will iterate on our experimental design. It's okay to change your plan if it turned out to be a bad one. But we want to provide some justification for any changes we make to our initial plan. Here we will provide more details about the two principles we will employ this week, **"real-time data visualization"** and **"iterative experimental design"**. We encourage you to refer back to them as you undertake your detailed data collection.
 
@@ -41,7 +41,7 @@ An important habit we would like you to develop as an experimentalist is to be p
 
 ### Iterative Experimental Design
 
-If your real-time data visualization indicates something is going wrong, you should iterate on your experimental design. Sometimes this is just as simple as making a note in your lab notebook of the revised plan. For example, *"The first 5 data points had sample standard deviation larger than what was observed in the exploratory measurement. Instead of 10 data points, I will now take 20."*
+If your real-time data visualization indicates something is going wrong, you should iterate on your experimental design. Sometimes this is just as simple as making a note in your lab notebook of the revised plan. For example, *"The first 5 data points had a sample standard deviation larger than what was observed in the exploratory measurement. Instead of 10 data points, I will now take 20."*
 
 Or maybe you've noticed some uncontrolled factor in your experiment and you need to start over. In that case, carefully note any data that was taken, but do not delete it! Even if you aren't going to include data you've taken in your analysis, it's important to keep a record of what happened. Here's an example of how you might document such an event in your lab notebook: *"My experimental design called for 10 data points, but in my first 5 data points I noticed a larger standard deviation than I expected based on my exploratory measurements. I noticed that the pencils inside my hard pencil case (used as the block) were sometimes shifting inside the pencil case before the pencil case was slipping on my book (the ramp). The first 5 trials were taken without carefully controlling that factor, and I will not include them in my analysis. In subsequent trials, I will make sure the pencils are pushed up against the "downhill" side of the pencil case before starting. I will take 10 new data points according to my experimental design."*
 
@@ -59,7 +59,11 @@ As an experimentalist, you have to make the tough decision of when the experimen
 -----
 ## Week 3 - Generating Data to Test a Hypothesis
 
+
+
 ## Data Collection
+
+With the background reading complete, you are now ready to start the data collection process. 
 
 ### Step 1: Set-up a Spreadsheet
 Your spreadsheet should allow you to:
@@ -146,10 +150,13 @@ At this point, you need to consider if your results are conclusive. Review the s
 
 ## Checkpoint #3
 
-Please submit the following to Checkpoint #3 on Gradescope
+Please submit the following to [Checkpoint #3 on Gradescope](https://www.gradescope.com/courses/165932/assignments/646638/){:target="_blank"}
 
 + A screen-shot showing an organized spreadsheet used for data collection
 
-+ Two histograms (one for each mass tested) showing the distribution of the number of data points collected as a function of the angle $$\theta_c$$
++ A histogram for each mass tested (at least two) showing the distribution of the number of data points collected as a function of the angle $$\theta_c$$
 
 + The value you obtained for the coefficient of static friction, $$\mu_s$$, for each mass, including the estimated uncertainty.
+
+
+Don't forget to double check that you've completed [all of this week's miniquestions at this link.](mini-questions#week-3){:target="_blank"}

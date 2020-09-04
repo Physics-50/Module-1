@@ -18,7 +18,7 @@ On this page you will find all of the mini-questions for Module 1. Although each
 -----------
 
 #### Miniquestion: Uncertainty Propagation
-*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSdxJPMhqDtPMvSZN0lv1p0JURr3jssV2tglvVg8tRweqEczVw/viewform){:target="_blank"}*
+[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSdxJPMhqDtPMvSZN0lv1p0JURr3jssV2tglvVg8tRweqEczVw/viewform){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdxJPMhqDtPMvSZN0lv1p0JURr3jssV2tglvVg8tRweqEczVw/viewform?embedded=true" width="640" height="600" frameborder="1" marginheight="10" marginwidth="0">Loading…
 </iframe>
 
@@ -34,8 +34,8 @@ On this page you will find all of the mini-questions for Module 1. Although each
 
 ## Week 2
 
-#### Miniquestion: MATLAB
-*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSeasXUSl_nhqgLiacs6A5kVKMuBAeJtP4Ln4LsqXUoqP_cvyA/viewform?usp=sf_link){:target="_blank"}*
+### Miniquestion: MATLAB
+[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSeasXUSl_nhqgLiacs6A5kVKMuBAeJtP4Ln4LsqXUoqP_cvyA/viewform?usp=sf_link){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeasXUSl_nhqgLiacs6A5kVKMuBAeJtP4Ln4LsqXUoqP_cvyA/viewform?embedded=true" width="640" height="300" frameborder="10" marginheight="20" marginwidth="10">Loading…
 </iframe>
@@ -43,7 +43,8 @@ On this page you will find all of the mini-questions for Module 1. Although each
 ------------------
 
 #### Miniquestion: How Many Trials
-*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSeEwh4nclVo5lUZFmhBCM-n0td4vU4kPXocUJORmOVp1w2-Gg/viewform){:target="_blank"}
+[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSeEwh4nclVo5lUZFmhBCM-n0td4vU4kPXocUJORmOVp1w2-Gg/viewform){:target="_blank"}
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeEwh4nclVo5lUZFmhBCM-n0td4vU4kPXocUJORmOVp1w2-Gg/viewform?embedded=true" width="640" height="600" frameborder="1" marginheight="10" marginwidth="0">Loading…
 </iframe>
 
@@ -54,14 +55,21 @@ On this page you will find all of the mini-questions for Module 1. Although each
 #### Miniquestion: Making an experimental plan
 [*Click here to open in a new tab*](https://forms.gle/dUEeSjauPuXdWdGQA){:target="_blank"}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfN0ZrJe3JAKf4JEn8enzzwZxvwE8q9wmX03lc_p4ojOMC0jQ/viewform?embedded=true" width="640" height="753" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfN0ZrJe3JAKf4JEn8enzzwZxvwE8q9wmX03lc_p4ojOMC0jQ/viewform?embedded=true" width="640" height="753" frameborder="1" marginheight="10" marginwidth="0">Loading…
 </iframe>
 --------------
 
+
+#### Miniquestion: Iterative Experimental Design
+[*Click here to open in a new tab*](https://forms.gle/NcgosyMdDvaTssni6){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfbfx5oJyy117QD2xn4THhV6s-pbtv_T4cbtJFu0922d46eMw/viewform?embedded=true" width="640" height="600" frameborder="1" marginheight="10" marginwidth="0">Loading…
+</iframe>
+
+-----
 ## Week 4
 
 #### Miniquestion: Reporting Significant Figures
-*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSf1OFObboakQdFkymAOxaCNowGB7LPWrEzHXvSNMqERC2eYFQ/viewform){:target="_blank"}S*
+[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSf1OFObboakQdFkymAOxaCNowGB7LPWrEzHXvSNMqERC2eYFQ/viewform){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf1OFObboakQdFkymAOxaCNowGB7LPWrEzHXvSNMqERC2eYFQ/viewform?embedded=true" width="640" height="600" frameborder="1" marginheight="10" marginwidth="0">Loading…
 </iframe>
