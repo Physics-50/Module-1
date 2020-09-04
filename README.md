@@ -9,7 +9,7 @@ You can use a "\<details>" tag to create expandable tabs:
 <details>
 <summary markdown='span'> Click to expand </summary>
 
-Take a look a the raw markdown file for how to format the "\<details>" tag. Inside of these tags Latex will not be marked down as an inline equation using the "$$ ... $$" markup, and you should use "\\( ... \\)" instead. 
+Take a look a the raw markdown file for how to format the "\<details>" tag. 
 
 </details>
 
@@ -23,11 +23,10 @@ Take a look a the raw markdown file for how to format the "\<details>" tag. Insi
 - [X] set up Piazza
 - [X] set up Sakai
 - [X] What does it mean to test a hypothesis and why do we need to estimate uncertainty?
-- [ ] syllabus
-- [ ] intro video about syllabus
-- [ ] Tailor resolution uncertainty discussion for theta measurement
-- [ ] Video for random uncertainty
-- [ ] Week 3 Checkpoint - Data & Hypothesis Testing
-- [ ] Week 4 Communication 
-- [ ] Guide to creating figures
+- [X] syllabus
+- [X] Tailor resolution uncertainty discussion for theta measurement
+- [X] rewrite random uncertainty discussion
+- [X] Week 3 Checkpoint - Data & Hypothesis Testing
+- [X] Guide to creating figures
+- [ ] Finish Week 4 
 - [ ] Final deliverable rubric
