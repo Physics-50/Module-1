@@ -158,5 +158,7 @@ Please submit the following to [Checkpoint #3 on Gradescope](https://www.gradesc
 
 + The value you obtained for the coefficient of static friction, $$\mu_s$$, for each mass, including the estimated uncertainty.
 
++ A single-sentence, preliminary conclusion that you can draw about the hypothesis based on your experimental data
+
 
 Don't forget to double check that you've completed [all of this week's miniquestions at this link.](mini-questions#week-3){:target="_blank"}

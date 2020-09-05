@@ -5,7 +5,7 @@
 [Weekly Plan](#weekly-plan)
 + [Week 1 - Exploratory Phase (part 1)](week1)
 + [Week 2 - Exploratory Phase (part 2)](week2)
-+ Week 3 - Hypothesis Testing Phase
++ [Week 3 - Hypothesis Testing Phase](week3)
 + Week 4 - Scientific Communication Phase
 
 [Background Reading](#background-reading)
@@ -47,7 +47,7 @@ Module 1 is four weeks long. Each week, you will have a checkpoint due. These ch
     - Checkpoint: single, preliminary measurement of $$\mu_s$$ with resolution uncertainty
 2. [Week 2 - Exploratory Phase (continued)](week2)
     - Checkpoint: an experimental design for hypothesis testing
-3. Week 3 - Hypothesis Testing Phase
+3. [Week 3 - Hypothesis Testing Phase](week3)
     - Checkpoint: rough plots and a conclusion based on your experimental measurements
 4. Week 4 - Scientific Communication Phase
     - Deliverable: a figure with a caption that communicates your results
