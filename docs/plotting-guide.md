@@ -27,7 +27,7 @@ Now that you have an idea of how to run a MATLAB script, download this [MATLAB s
 
 [*Click here to open image in a new tab*
 ![the two figure windows that pop up](images/figure-windows.jpg)](images/figure-windows.jpg){:target="_blank"}
-*Note: the font sizes of your plots might look slightly different than the ones shown here.*
+*Note: the font sizes in your plots may be different than the ones shown here.*
 
 Before we dig into the details of the MATLAB code, can you spot the differences between the two plots? 
 
