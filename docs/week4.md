@@ -1,10 +1,10 @@
-# Week 4: Communicating written scientific results, physics-style
+# Week 4: Communicating written scientific results, physics-style DRAFT VERSION
 
 While talks, podcasts and videos are all wonderfully rich formats for sharing scientific results, in physics and many other scientific disciplines, the golden standard for communication is a published journal article, or “paper” for short. The physics article is typically composed of (1) a short abstract summarizing the main findings, (2) the main body of the paper, including figures, and (3) a bibliography to help contextualize the results within the broader field of research.
 
 But what if you just don’t have the time to read all those parts of each article you need to check out? The neat trick for quickly scanning physics papers also works as a fantastic method for writing your own paper: focus on the figures. A good rule of thumb is that if you “read” every figure+caption, you should get the gist of the main conclusions of the paper, as well as a sense of how those results were determined. In fact, the sequence of figures+captions acts a lot like an outline you may have produced in Writ 001, in that it conveys the main result (thesis) by showing evidence in support of a sequence of subclaims. The evidence is usually shown directly in the figure, using either a plot with data points or an image of the system studied. The analysis of that evidence is ideally concisely summarized in the figure captions. 
 
-In physics 50, you will ultimately get to experience what it’s like to create a physics poster, which is like a mini version of a physics paper. The first step in that process is to learn how to create a single figure with a caption. For the Module I deliverable, you will produce a figure containing a plot, and later in this course you will also create figures that don’t contain a plot. Both types of figures are essential for communicating your scientific results.
+In physics 50, you will ultimately get to experience what it’s like to create a physics poster, which is like a mini version of a physics paper. The first step in that process is to learn how to create a single figure with a caption. For the Module 1 deliverable, you will produce a figure containing a plot, and later in this course you will also create figures that don’t contain a plot. Both types of figures are essential for communicating your scientific results.
 
 ## A figure showing a plot 
 
@@ -38,8 +38,8 @@ The fundamental elements that a figure with a plot needs to be effective are:
 
 Here is an annotated example of a figure with a plot, taken from [this article](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.018002){:target="_blank"} in the journal Physical Review Letters. Note that the figure also contains some experimental images that help to convey the main point of the figure, but for the purposes of this lesson, we will just focus on the last panel of the figure, which contains a plot.
 
-*Click on the image to enlarge in a new tab:*
-[![annotated figure with a plot](images/annotated-figure-plot.png)](images/annotated-figure-plot.png){:target="_blank"}
+[*Click on the image to enlarge in a new tab:*
+![annotated figure with a plot](images/annotated-figure-plot.png)](images/annotated-figure-plot.png){:target="_blank"}
 
 ## A figure without a plot
 
@@ -65,39 +65,41 @@ In the figure itself
 
 Here is an annotated example of a figure without a plot, taken from [this article](https://www.nature.com/articles/nphys3632) in the journal *Nature Physics*. Again, this figure consists of many individual panels, some of which are obscured below to allow room for the annotations. To see the full figure in proper context, we encourage you to follow the link above to take a look at the original article.
 
-*Click on the image to enlarge in a new tab:*
-[![annotated figure without a plot](images/annotated-figure-no-plot.png)](images/annotated-figure-no-plot.png){:target="_blank"}
-
+[*Click on the image to enlarge in a new tab:*
+![annotated figure without a plot](images/annotated-figure-no-plot.png)](images/annotated-figure-no-plot.png){:target="_blank"}
 
 
 
 
 ## Module 1 Deliverable
 
-What do I need to make for Module I?
-
-For Module I, your deliverable is a single figure, with a caption, that conveys what you learned from your experimentation. In your experiment, you explored the effect of mass on the coefficient of static friction, but to give you a sense of what we hope your figure will be like, let’s imagine for a moment that you were studying the effect of location on the inclined plane (eg. cutting board) on the coefficient of static friction. Here’s what a figure about that might look like:
+**We strongly recommend that you learn how to plot your data using MATLAB by following the steps we've outlined in the [MATLAB Plotting Guide](plotting-guide)**
 
 
-![figure example](images/figure-example.png)
-Figure 1. Coefficient of static friction depends on the location of the tuna can on the cutting board. (a) Experimental setup. The coefficient of static friction was determined by measuring the critical angle for two different starting locations of a tuna can on a cutting board. Scale bar: 10 cm. (b) The two values do not agree within the error bars, which indicate the standard error of the mean.
+What do I need to make for Module 1?
+
+For Module 1, your deliverable is a single figure, with a caption, that conveys what you learned from your experimentation. In your experiment, you explored the effect of mass on the coefficient of static friction, but to give you a sense of what we hope your figure will be like, let’s imagine for a moment that you were studying the effect of location on the inclined plane (eg. cutting board) on the coefficient of static friction. Here’s what a figure about that might look like:
 
 
-The above plot was produced using MATLAB with the following commands:
-
-
-
-{% highlight matlab  %}
-
-distances = [5,30]; 
-mus = [0.495, 0.371]; 
-muerrors = [0.002, 0.005];
-errorbar(distances,mus,muerrors,'k.');
-xlabel('distance from bottom of cutting board (cm)');
-ylabel('coefficient of static friction \mu_s');
-xlim([0,40]); ylim([0.3,0.55]);
-{% endhighlight %}
+![figure example](images/figure-example.jpg)
+Figure 1. Coefficient of static friction depends on the location of the tuna can on the cutting board. (a) Experimental setup. The coefficient of static friction was determined by measuring the critical angle for two different starting locations of a tuna can on a cutting board. Scale bar: 5 cm. (b) The two values do not agree within the error bars, which indicate the standard error of the mean.
 
 
 
-The two panels were assembled into a figure using Powerpoint.
+#### Your figure should include:
++ a visual representation of your experimental setup (a photo or clearly drawn schematic drawing) 
++ a plot with the data that supports the conclusion you've drawn
++ a caption
+
+#### Your figure will be evaluated on (in order of decreasing weight):
+1. accuracy: does the figure accurately characterize your experiment? Are the data, uncertainties, scale bars, conclusion etc. correctly determined from what you measured? Are the units of any values correct?
+
+2. plot of the data: Is the plot clearly laid out and properly labeled? Does it contain all of the required items from the guidelines above?
+
+3. caption: Does the caption summarize the results of your experiment? Does it contain all of the required items from the guidelines above?
+
+4. visual representation of your experimental setup: Is your photo or schematic clear and free of visual distractions? Is there a scale bar included? 
+
+5. aesthetic clarity: Are all displayed objects (e.g. text, images, data points, lines) large enough to be visible and not pixelated? Was some consideration given to "salience" and "simplicity"? ([described here](plotting-guide#plotting-the-example-data)) Is the figure laid out in a way that flows well and is easy to follow?
+
+
