@@ -100,6 +100,6 @@ Figure 1. Coefficient of static friction depends on the location of the tuna can
 
 4. visual representation of your experimental setup: Is your photo or schematic clear and free of visual distractions? Is there a scale bar included? 
 
-5. aesthetic clarity: Are all displayed objects (e.g. text, images, data points, lines) large enough to be visible and not pixelated? Was some consideration given to "salience" and "simplicity"? ([described here](plotting-guide#plotting-the-example-data)) Is the figure laid out in a way that flows well and is easy to follow?
+5. aesthetic clarity: Are all displayed objects (e.g. text, images, data points, lines) large enough to be visible and not pixelated? Was some consideration given to "salience" and "simplicity"? ([described here](plotting-guide#plotting-the-example-data){:target="_blank"}) Is the figure laid out in a way that flows well and is easy to follow?
 
 
