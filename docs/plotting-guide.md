@@ -23,7 +23,7 @@ And if you've never used a MATLAB "script" before, this 3-minute video gives an 
 ----------
 #### Plotting the example data
 
-Now that you have an idea of how to run a MATLAB script, download this [MATLAB script for our example data plotted with error bars](plotting-script-for-figure.m){:target="_blank"}. Make sure you save the file into a meaningful directory (e.g. Ph50/Module1). If you open the script and run it in MATLAB, two figures should pop up (one might be behind the other):
+Now that you have an idea of how to run a MATLAB script, download this [MATLAB script for our example data plotted with error bars](plotting_script_for_figure.m){:target="_blank"}. Make sure you save the file into a meaningful directory (e.g. Ph50/Module1). If you open the script and run it in MATLAB, two figures should pop up (one might be behind the other):
 
 [*Click here to open image in a new tab*
 ![the two figure windows that pop up](images/figure-windows.jpg)](images/figure-windows.jpg){:target="_blank"}
@@ -45,7 +45,7 @@ For our plotting guide here, let's follow this plan:
 2. understand the "Improved" version of the plotting script (that generated the right hand plot)
 
 ### "Basic" Plotting in MATLAB with error bars
-Let's dissect the plotting script you already downloaded [plotting-script-for-figure.m](plotting-script-for-figure.m){:target="_blank"}. The relevant lines of code are on lines 1-24.
+Let's dissect the plotting script you already downloaded [plotting_script_for_figure.m](plotting_script_for_figure.m){:target="_blank"}. The relevant lines of code are on lines 1-24.
 
 [*Click here to open image in new tab*
 ![Script for basic error bar plot](images/basic-plotting-script.jpg)](images/basic-plotting-script.jpg){:target="_blank"}
@@ -63,7 +63,7 @@ Now that we have the data imported into MATLAB, we can plot it. We will use the 
 
 "errorbar(X,Y,E) plots Y versus X with symmetric error bars 2*E(i) long. X, Y, E must be the same size. Each error bar is a distance of E(i) above and below the point defined by (X(i),Y(i))."
 
-The plotting-script-for-figure.m uses errorbar on line 12:
+The plotting_script_for_figure.m uses errorbar on line 12:
 ``` MATLAB
 errorbar(distances,mus,muerrors,'ko');  % Plot the data with errorbars
 ```
@@ -76,7 +76,7 @@ Other important pieces in the code are setting the axes labels (lines 18-19), se
 
 ### Improved plot (easier to read)
 
-The code for the improved plot with error bars is on lines 25-43 of [plotting-script-for-figure.m](plotting-script-for-figure.m){:target="_blank"}.
+The code for the improved plot with error bars is on lines 25-43 of [plotting_script_for_figure.m](plotting_script_for_figure.m){:target="_blank"}.
 
 [*Click here to open image in new tab*
 ![Script for basic error bar plot](images/improved-plotting-script.jpg)](images/improved-plotting-script.jpg){:target="_blank"}
