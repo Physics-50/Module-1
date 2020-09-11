@@ -73,7 +73,7 @@ Here is an annotated example of a figure without a plot, taken from [this articl
 
 ## Module 1 Deliverable
 
-**We strongly recommend that you learn how to plot your data using MATLAB by following the steps we've outlined in the [MATLAB Plotting Guide](plotting-guide)**
+**We strongly recommend that you learn how to plot your data using MATLAB by following the steps we've outlined in the [MATLAB Plotting Guide](plotting-guide){:target="_blank"}**
 
 
 What do I need to make for Module 1?
