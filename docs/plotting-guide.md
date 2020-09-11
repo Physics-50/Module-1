@@ -23,10 +23,11 @@ And if you've never used a MATLAB "script" before, this 3-minute video gives an 
 ----------
 #### Plotting the example data
 
-Now that you have an idea of how to run a MATLAB script, download this [MATLAB script for our example data plotted with error bars](plotting_script_for_figure.m){:target="_blank"}. Make sure you save the file into a meaningful directory (e.g. Ph50/Module1). If you open the script and run it in MATLAB, two figures should pop up (one might be behind the other):
+Now that you have an idea of how to run a MATLAB script, download this [MATLAB script for our example data plotted with error bars](plotting_script_for_figure.m){:target="_blank"}. Make sure you save the file into a meaningful directory (e.g. Ph50/Module1). If you open the script and run it in MATLAB, two figures should pop up (one might be behind the other) that are two versions of the same plot:
 
 [*Click here to open image in a new tab*
 ![the two figure windows that pop up](images/figure-windows.jpg)](images/figure-windows.jpg){:target="_blank"}
+*Note: the font sizes of your plots might look slightly different than the ones shown here.*
 
 Before we dig into the details of the MATLAB code, can you spot the differences between the two plots? 
 
@@ -104,7 +105,7 @@ The script saves the result as a jpeg image "static-friction-plot-improved.jpg" 
 <img src="images/static-friction-plot-improved.jpg" alt="Improved plot with error bars" width=350 />
 
 
-**Important: Now that you understand some ways to customize your plot in MATLAB, you can delete the code for the "Basic" version (lines 10-24). You will need to alter the remaining code for plotting your data. You will need to import your own data, and you might also need to tweak some of the improvements. If you can't see your data points, then check that your data points fall within the "xrange" and "yrange" you are using.**
+**Important: Now that you understand some ways to customize your plot in MATLAB, you can delete the code for the "Basic" version (lines 10-24). You will need to alter the remaining code for plotting your data. You will need to import your own data, and you might also need to tweak some of the improvements. If you can't see your data points, then check that your data points fall within the "xlim" and "ylim" you are using.**
 
 
 
