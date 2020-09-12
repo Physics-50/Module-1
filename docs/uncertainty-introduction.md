@@ -185,7 +185,8 @@ Prof. Gerbode explains how to propagate uncertainties from a measured quantity t
 
 #### Miniquestion: Uncertainty Propagation
 *[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSdxJPMhqDtPMvSZN0lv1p0JURr3jssV2tglvVg8tRweqEczVw/viewform){:target="_blank"}*
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdxJPMhqDtPMvSZN0lv1p0JURr3jssV2tglvVg8tRweqEczVw/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdxJPMhqDtPMvSZN0lv1p0JURr3jssV2tglvVg8tRweqEczVw/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
 
 
 -----------
@@ -194,7 +195,8 @@ Extra practice:
 If we now have a cone, with the same radius $$r=2.4 \pm0.3\textrm{cm}$$ and a height $$h=10.2\pm0.4\textrm{cm}$$, what is the volume of the cone? (Hint: $$V_\mathrm{cone}=\frac{1}{3}\pi r^2 h$$)
 
 <details>
-<summary markdown='span'> (try it first, then click to expand/collapse) Solution: </summary>
+<summary markdown='span'> (try it first, then click to expand/collapse) Solution: 
+</summary>
 
 The volume of the cone is \( V_\mathrm{cone}=\frac{1}{3} \pi r^2 h= 61.49376 \textrm{cm}^3 \). But what is the uncertainty?
 
@@ -209,7 +211,8 @@ Therefore \( V_\mathrm{cone}=(61 \pm 16) \textrm{cm}^3 \).
 Bonus: What measurement’s uncertainty was dominant in our uncertainty in the volume of the cone, \(r\) or \(h\)? 
 
 <details>
-<summary markdown='span'> (try it first, then click to expand/collapse) Solution: </summary>
+<summary markdown='span'> (try it first, then click to expand/collapse) Solution: 
+</summary>
 
 Since the uncertainty in the volume of the cone due to the uncertainty in the radius is much larger than that from the height ( \(15.5 \textrm{cm}^3>>2.41 \textrm{cm}^3\) ) we should refine our experimental procedure to be much more careful and precise in our radius measurement since this is limiting our knowledge of the cone's volume.
 
