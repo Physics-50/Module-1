@@ -67,6 +67,30 @@ On this page you will find all of the mini-questions for Module 1. Although each
 
 -----
 ## Week 4
+---------------------------------
+
+#### Miniquestion: Mailing Address
+[*Click here to open in a new tab*](https://forms.gle/FtypQB3xq6RFmYio7){:target="_blank"}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdAxAaCYRjN2oxZ6FRN2I6d1CrKKNEmwJqAguXJVfHMwW4S9Q/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+---------------
+
+
+#### Miniquestion: Combining Random and Resoultion Uncertainty
+[*Click here to open in a new tab*](https://forms.gle/rWo6mJHquyMUXyrX6){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScy_IJoMPsTvU-vOWYMQs2_s_54tkfSOg01eWkfDsKSJA_YkQ/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+---------------------------------------------------
+
+#### Miniquestion: What's wrong with this figure?
+[*Click here to open in a new tab*](https://forms.gle/ffTusS9iJrceYnso9){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf8_p6Lsi88Q6wHKpcgfzDTnEXGxgBQsXeijAAHam57e0Lj7w/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+---------------
 
 #### Miniquestion: Reporting Significant Figures
 [*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSf1OFObboakQdFkymAOxaCNowGB7LPWrEzHXvSNMqERC2eYFQ/viewform){:target="_blank"}

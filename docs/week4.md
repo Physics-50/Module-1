@@ -1,4 +1,32 @@
+# Week 4: Before you start
+
+Before you start week 4, there are two things we would like to cover with miniquestions:
+
+1. We need your mailing address to send you an experimental kit for Module 3 
+
+2. There was a common point of confusion last week during office hours about how to calculate the uncertainty in $$\mu_s$$. Some were unclear on whether to propagate the resolution uncertainty in $$\theta_c$$ or the random uncertainty (SEM over repeated measurements of $$\theta_c$$).
+
+---------------------------------
+
+#### Miniquestion: Mailing Address
+[*Click here to open in a new tab*](https://forms.gle/FtypQB3xq6RFmYio7){:target="_blank"}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdAxAaCYRjN2oxZ6FRN2I6d1CrKKNEmwJqAguXJVfHMwW4S9Q/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+---------------
+
+
+#### Miniquestion: Combining Random and Resoultion Uncertainty
+[*Click here to open in a new tab*](https://forms.gle/rWo6mJHquyMUXyrX6){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScy_IJoMPsTvU-vOWYMQs2_s_54tkfSOg01eWkfDsKSJA_YkQ/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+---------------------------------------------------
+
 # Week 4: Communicating written scientific results, physics-style DRAFT VERSION
+
+
 
 While talks, podcasts and videos are all wonderfully rich formats for sharing scientific results, in physics and many other scientific disciplines, the golden standard for communication is a published journal article, or “paper” for short. The physics article is typically composed of (1) a short abstract summarizing the main findings, (2) the main body of the paper, including figures, and (3) a bibliography to help contextualize the results within the broader field of research.
 
@@ -68,6 +96,18 @@ Here is an annotated example of a figure without a plot, taken from [this articl
 [*Click on the image to enlarge in a new tab:*
 ![annotated figure without a plot](images/annotated-figure-no-plot.png)](images/annotated-figure-no-plot.png){:target="_blank"}
 
+
+--------------
+#### Miniquestion: What's wrong with this figure?
+[*Click here to open in a new tab*](https://forms.gle/ffTusS9iJrceYnso9){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf8_p6Lsi88Q6wHKpcgfzDTnEXGxgBQsXeijAAHam57e0Lj7w/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+---------------
+
+
+
+
 ## Reporting Data with Significant Figures
 
 Another thing to consider when communicating your results is the number of significant figures (decimal places) you report. Imagine you calculated the coefficient of static friction and its uncertainty. The value you obtain from Google Sheets is 0.44030407 ± 0.00403726. So you should communicate this value when you write up your experimental results, right? Hold on:  do you really know the value of $$\mu$$ to the 8th decimal place? Our uncertainty of $$\delta \mu_s = $$0.00<span style="color:red">4</span>03726 tells us that we are unsure of the 3rd decimal place, so we are definitely not sure about the value in the 8th decimal place of $$\mu_s = $$0.4403040<span style="color:red">7</span>! This digit is insignificant;you don’t truly have that kind of precision in this experiment and cannot quote results that would imply otherwise.
@@ -92,11 +132,19 @@ This is where the term significant digits, or “sig figs” for short, comes in
 
 ---------------------------
 
+## Plotting with MATLAB
 
+
+**We strongly recommend** that you learn how to plot your data using MATLAB by following the steps we've outlined in the [MATLAB Plotting Guide](plotting-guide){:target="_blank"}.
+
+<br>
+<br>
+
+[Click here to open the MATLAB Plotting Guide in a new tab](plotting-guide){:target="_blank"}.
+
+<br>
+<br>
 ## Module 1 Deliverable
-
-**We strongly recommend that you learn how to plot your data using MATLAB by following the steps we've outlined in the [MATLAB Plotting Guide](plotting-guide){:target="_blank"}**
-
 
 What do I need to make for Module 1?
 
@@ -130,3 +178,4 @@ Figure 1. Coefficient of static friction depends on the location of the tuna can
 6. aesthetic clarity: Are all displayed objects (e.g. text, images, data points, lines) large enough to be visible and not pixelated? Was some consideration given to "salience" and "simplicity"? ([described here](plotting-guide#plotting-the-example-data){:target="_blank"}) Is the figure laid out in a way that flows well and is easy to follow?
 
 
+Don't forget to double-check that you've completed all of the miniquestions for this week. You should also make sure that you've completed the miniquestions for all the weeks of Module 1 for at least partial credit. You can find them all [gathered here](mini-questions).
