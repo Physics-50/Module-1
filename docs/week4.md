@@ -78,7 +78,10 @@ Here is an annotated example of a figure without a plot, taken from [this articl
 
 What do I need to make for Module 1?
 
-For Module 1, your deliverable is a single figure, with a caption, that conveys what you learned from your experimentation. In your experiment, you explored the effect of mass on the coefficient of static friction, but to give you a sense of what we hope your figure will be like, let’s imagine for a moment that you were studying the effect of location on the inclined plane (eg. cutting board) on the coefficient of static friction. Here’s what a figure about that might look like:
+For Module 1, your deliverable is a single figure, with a caption, that conveys what you learned from your experimentation. Remember: **Experimental science is not about getting the "right" or expected answer.** You are trying to make a careful conclusion that is supported by the data you collected. If your data doesn't support the hypothesis, you should draw a cautious and properly qualified conclusion based on your data.
+
+
+In your experiment, you explored the effect of mass on the coefficient of static friction, but to give you a sense of what we hope your figure will be like, let’s imagine for a moment that you were studying the effect of location on the inclined plane (eg. cutting board) on the coefficient of static friction. Here’s what a figure about that might look like:
 
 
 ![figure example](images/figure-example.jpg)
@@ -94,12 +97,14 @@ Figure 1. Coefficient of static friction depends on the location of the tuna can
 #### Your figure will be evaluated on (in order of decreasing weight):
 1. accuracy: does the figure accurately characterize your experiment? Are the data, uncertainties, scale bars, conclusion etc. correctly determined from what you measured? Are the units of any values correct?
 
-2. plot of the data: Is the plot clearly laid out and properly labeled? Does it contain all of the required items from the guidelines above?
+2. experimental procedure: Do the results show evidence of careful and thoughtful experimentation? 
 
-3. caption: Does the caption summarize the results of your experiment? Does it contain all of the required items from the guidelines above?
+3. plot of the data: Is the plot clearly laid out and properly labeled? Does it contain all of the required items from the guidelines above?
 
-4. visual representation of your experimental setup: Is your photo or schematic clear and free of visual distractions? Is there a scale bar included? 
+4. caption: Does the caption summarize the results of your experiment? Does it contain all of the required items from the guidelines above?
 
-5. aesthetic clarity: Are all displayed objects (e.g. text, images, data points, lines) large enough to be visible and not pixelated? Was some consideration given to "salience" and "simplicity"? ([described here](plotting-guide#plotting-the-example-data){:target="_blank"}) Is the figure laid out in a way that flows well and is easy to follow?
+5. visual representation of your experimental setup: Is your photo or schematic clear and free of visual distractions? Is there a scale bar included? 
+
+6. aesthetic clarity: Are all displayed objects (e.g. text, images, data points, lines) large enough to be visible and not pixelated? Was some consideration given to "salience" and "simplicity"? ([described here](plotting-guide#plotting-the-example-data){:target="_blank"}) Is the figure laid out in a way that flows well and is easy to follow?
 
 
