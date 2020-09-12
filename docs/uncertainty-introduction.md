@@ -226,7 +226,7 @@ Since the uncertainty in the volume of the cone due to the uncertainty in the ra
 
 ## Significant Figures
 
-Imagine you have just calculated the coefficient of static friction and its uncertainty. The value you obtain from Google Sheets is 0.44030407 ± 0.00403726. So you should write this down and move on, right? Hold on:  do you really know the value of $$\mu$$ to the 8th decimal place? Our uncertainty of $$\delta \mu_s = $$0.00<span style="color:red">4</span>03726 tells us that we are unsure of the 3rd decimal place, so we are definitely not sure about the value in the 8th decimal place of $$\mu_s = $$0.4403040<span style="color:red">7</span>! This digit is insignificant;you don’t truly have that kind of precision in this experiment and cannot quote results that would imply otherwise.
+Imagine you have just calculated the coefficient of static friction and its uncertainty. The value you obtain from Google Sheets is 0.44030407 ± 0.00403726. So you should communicate this value when you write up your experimental results, right? Hold on:  do you really know the value of $$\mu$$ to the 8th decimal place? Our uncertainty of $$\delta \mu_s = $$0.00<span style="color:red">4</span>03726 tells us that we are unsure of the 3rd decimal place, so we are definitely not sure about the value in the 8th decimal place of $$\mu_s = $$0.4403040<span style="color:red">7</span>! This digit is insignificant;you don’t truly have that kind of precision in this experiment and cannot quote results that would imply otherwise.
 
 This is where the term significant digits, or “sig figs” for short, comes into play. We only want to report digits that are significant — accurately reflect the precision of our experiment — in our results. We will now present the rule of thumb for determining significant digits:
 
@@ -241,7 +241,7 @@ This is where the term significant digits, or “sig figs” for short, comes in
     + in our example we began with 0.44030407 ± 0.00403726. We determined that the uncertainty should be 0.004, meaning the least significant digit of the uncertainty is in the 3rd decimal place. We need to round our measurement value to the same digit so the value we will report for our measurement is **0.440 ± 0.004**.
 
 #### Miniquestion: Reporting Significant Figures
-*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSf1OFObboakQdFkymAOxaCNowGB7LPWrEzHXvSNMqERC2eYFQ/viewform){:target="_blank"}S*
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSf1OFObboakQdFkymAOxaCNowGB7LPWrEzHXvSNMqERC2eYFQ/viewform){:target="_blank"}*
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf1OFObboakQdFkymAOxaCNowGB7LPWrEzHXvSNMqERC2eYFQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0"> Loading…
 </iframe>
