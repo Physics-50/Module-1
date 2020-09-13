@@ -162,3 +162,6 @@ Please submit the following to [Checkpoint #3 on Gradescope](https://www.gradesc
 
 
 Don't forget to double check that you've completed [all of this week's miniquestions at this link.](mini-questions#week-3){:target="_blank"}
+
+
+When you've received feedback on your Week 3 checkpoint, get started on [Week 4](week4).

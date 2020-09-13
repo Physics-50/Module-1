@@ -24,7 +24,7 @@ Before you start week 4, there are two things we would like to cover with miniqu
 
 ---------------------------------------------------
 
-# Week 4: Communicating written scientific results, physics-style DRAFT VERSION
+# Week 4: Communicating written scientific results, physics-style
 
 
 
@@ -132,15 +132,15 @@ This is where the term significant digits, or “sig figs” for short, comes in
 
 ---------------------------
 
-## Plotting with MATLAB
+## Guide to MATLAB plotting and figure assembly in Powerpoint
 
 
-**We strongly recommend** that you learn how to plot your data using MATLAB by following the steps we've outlined in the [MATLAB Plotting Guide](plotting-guide){:target="_blank"}.
+**We strongly recommend** that you learn how to plot your data using MATLAB by following the steps we've outlined in the [MATLAB Plotting + Powerpoint Figure Assembly Guide](plotting-guide){:target="_blank"}. There's also some important information there about how to make your plots and figures easier to read.   
 
 <br>
 <br>
 
-[Click here to open the MATLAB Plotting Guide in a new tab](plotting-guide){:target="_blank"}.
+[Click here to open the MATLAB Plotting + Powerpoint Figure Assembly Guide in a new tab](plotting-guide){:target="_blank"}.
 
 <br>
 <br>

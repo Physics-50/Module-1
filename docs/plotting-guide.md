@@ -1,4 +1,4 @@
-# Guide to plotting and creating a figure for Module 1 DRAFT VERSION
+# Guide to plotting and creating a figure for Module 1
 
 In this page, we are going to go through the steps of creating a plot in MATLAB, and then assembling that plot along with a photo of the experiment into a figure. We will use some data from an experiment that was studying the effect of location on the inclined plane (eg. cutting board) on the coefficient of static friction. Although this is different than the experiment you performed, these steps should be similar to what you will need to do for your figure.
 
