@@ -13,20 +13,5 @@ Take a look a the raw markdown file for how to format the "\<details>" tag.
 
 </details>
 
-
-### Instructor To Do List:
-- [X] overview of Module 1
-- [X] video for uncertainty propagation
-- [X] Week 1 Checkpoint - Exploratory Measurements
-- [X] write-up for block on a ramp 
-- [X] set up Google classroom
-- [X] set up Piazza
-- [X] set up Sakai
-- [X] What does it mean to test a hypothesis and why do we need to estimate uncertainty?
-- [X] syllabus
-- [X] Tailor resolution uncertainty discussion for theta measurement
-- [X] rewrite random uncertainty discussion
-- [X] Week 3 Checkpoint - Data & Hypothesis Testing
-- [X] Guide to creating figures
-- [ ] Finish Week 4 
-- [ ] Final deliverable rubric
+## Instructor Brainstorming For Module 1 Improvements
+- make it clearer that students will need to propagate SEM in Week 3
