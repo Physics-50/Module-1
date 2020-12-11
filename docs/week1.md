@@ -25,8 +25,9 @@ Before diving into data collection and analysis we would like to set some expect
 Collaboration:
 We expect every student to perform the data analysis, miniquestions, checkpoints, and deliverables for themselves. If you would like to discuss with a classmate (either a roommate or via Zoom) while doing measurements/analysis in parallel, we encourage that type of collaboration! It will likely not save you any time, but often working through material together gives a better learning experience. Just remember that each of you needs to do your own measurements and analysis.
 
-To make sure we all start on the same page please answer the following mini-questions (mini-questions will appear through this manual and are required. Please see the syllabus for more information regarding mini-questions)
---------
+To make sure we all start on the same page please answer the following mini-questions (mini-questions will appear through this manual and are required. Please see the syllabus for more information regarding mini-questions).
+
+--------------------
 
 #### Miniquestion: Acceptable forms of collaboration
 *[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSc1cnV36goAOx-2CoKGTioDpyajLhYshON1zceV19wu0WG5wQ/viewform){:target="_blank"}*
