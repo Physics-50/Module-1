@@ -3,11 +3,12 @@
 <img src="images/exploratory-phase.png" alt="Exploratory Phase" width="400"/>
 
 --------------
-1. [Background Reading](#background-reading)
-2. [Formulating a Hypothesis](#formulating-a-hypothesis)
-3. [Instrumentation](#instrumentation)
-4. [Exploratory Measurements](#exploratory-measurements) (and continued in Week 2)
-5. Designing the Experiment (Week 2)
+1. [Preface](#preface)
+2. [Background Reading](#background-reading)
+3. [Formulating a Hypothesis](#formulating-a-hypothesis)
+4. [Instrumentation](#instrumentation)
+5. [Exploratory Measurements](#exploratory-measurements) (and continued in Week 2)
+6. Designing the Experiment (Week 2)
 
 --------------
 
@@ -15,6 +16,33 @@
 We begin our investigation of measuring $$\mu_s$$ by doing an initial exploration. Our goal is to come up with a hypothesis to test and a plan for how we will do so (an experimental design). In the Exploratory Phase it can be especially important to take detailed notes. Organizing a digital lab notebook and data spreadsheet can be tricky, so for Week 1 we are providing a [template for you to follow along with that we've assigned from Google Classroom](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MTI3ODQ4MDY2NDMx/details){:target="_blank"}. 
 
 **Make sure you have this spreadsheet and your Module 1 Lab Notebook handy as you go through the content on this Week 1 page.**
+
+## Preface
+If you have any questions working through this course remotely we encourage you to reach out through the class Piazza site or come to office hours. [Sign up for the class Piazza site](https://piazza.com/hmc/spring2021/ph50)
+
+Before diving into data collection and analysis we would like to set some expectations. This course centers around the collection, analysis, and communication of experimental data and results. We expect all of these to be conducted with care and integrity.
+
+Collaboration:
+We expect every student to perform the data analysis, miniquestions, checkpoints, and deliverables for themselves. If you would like to discuss with a classmate (either a roommate or via Zoom) while doing measurements/analysis in parallel, we encourage that type of collaboration! It will likely not save you any time, but often working through material together gives a better learning experience. Just remember that each of you needs to do your own measurements and analysis.
+
+To make sure we all start on the same page please answer the following mini-questions (mini-questions will appear through this manual and are required. Please see the syllabus for more information regarding mini-questions)
+--------
+
+#### Miniquestion: Acceptable forms of collaboration
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSc1cnV36goAOx-2CoKGTioDpyajLhYshON1zceV19wu0WG5wQ/viewform){:target="_blank"}*
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc1cnV36goAOx-2CoKGTioDpyajLhYshON1zceV19wu0WG5wQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+------------------------------
+
+Data Collection:
+Please make sure you read the tips for Electronic lab notebooks in the syllabus. We emphasize that your notebook is a record of the experiment. Deleting experimental data from a lab notebook is never acceptable. However, it is acceptable to remeasure/reanalyze data because of an inaccurate or incorrect initial analysis. This includes recollecting data with an improved experimental procedure. An example of an acceptable procedure would be: 
+
+You are trying to time how fast your little brother can run. Initially you do this in your hallway but you realize you are getting inaccurate results. You take him to a track and restart the experiment in a way that is less sensitive to the initial conditions. You make a note next to the data you collected with a procedure you believe to be less reliable and then focus on the newly collected data in your analysis, but you do not delete the original data from your lab notebook.
+
+Sometimes it might not be clear what is acceptable. When in doubt please ask! 
+
 
 ## Background Reading
 
