@@ -41,8 +41,19 @@ Please make sure you read the tips for Electronic lab notebooks in the syllabus.
 
 You are trying to time how fast your little brother can run. Initially you do this in your hallway but you realize you are getting inaccurate results. You take him to a track and restart the experiment in a way that is less sensitive to the initial conditions. You make a note next to the data you collected with a procedure you believe to be less reliable and then focus on the newly collected data in your analysis, but you do not delete the original data from your lab notebook.
 
-Sometimes it might not be clear what is acceptable. When in doubt please ask! 
+Sometimes it might not be clear what is acceptable. When in doubt please ask!
 
+--------
+
+#### Miniquestion: Handling data
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSeAKMIHuPP0wX4WZKX78GnCsjuOFV63meAfYjctYu1r6kWlMg/viewform?){:target="_blank"}*
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeAKMIHuPP0wX4WZKX78GnCsjuOFV63meAfYjctYu1r6kWlMg/viewform?embedded=true" width="640" height="1953" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+------------------------------
+
+You may find yourself in a situation where it isn't as clear what is acceptable as the examples we provided. When in doubt please ask. Both the class Piazza discussion board and office hours are great ways to reach out with questions!
 
 ## Background Reading
 
