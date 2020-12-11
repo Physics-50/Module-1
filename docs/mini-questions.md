@@ -10,6 +10,23 @@ On this page you will find all of the mini-questions for Module 1. Although each
 
 ## Week 1
 
+--------
+
+#### Miniquestion: Acceptable forms of collaboration
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSc1cnV36goAOx-2CoKGTioDpyajLhYshON1zceV19wu0WG5wQ/viewform){:target="_blank"}*
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc1cnV36goAOx-2CoKGTioDpyajLhYshON1zceV19wu0WG5wQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+------------------------------
+
+#### Miniquestion: Handling data
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSeAKMIHuPP0wX4WZKX78GnCsjuOFV63meAfYjctYu1r6kWlMg/viewform?){:target="_blank"}*
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeAKMIHuPP0wX4WZKX78GnCsjuOFV63meAfYjctYu1r6kWlMg/viewform?embedded=true" width="640" height="1953" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+------------------------------
 #### Miniquestion: Critical Angle Factors
 [*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSfsx8s07WCsCfoSiP2k2TAldJ-59ZFq16UpUFlPugfHGEq38w/viewform){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfsx8s07WCsCfoSiP2k2TAldJ-59ZFq16UpUFlPugfHGEq38w/viewform?embedded=true" width="640" height="600" frameborder="1" marginheight="10" marginwidth="0">Loading…
