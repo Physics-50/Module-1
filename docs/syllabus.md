@@ -57,7 +57,7 @@ For Module II, you will create a sequence of 2-3 figures that, along with captio
 For Module III, you will create a poster that contains 3 or 4 figures with captions, as well as concise paragraphs and clear headings to help flesh out the story of your experiment and your results.
 
 # Grading
-The course grade will be calculated based upon your performance on each of the three modules, which are weighted equally. For each module, your grade will be based upon your timely completion of the reading miniquestions (15%) and checkpoints (25%), and upon the quality of your module deliverable (60%).  
+The course grade will be calculated based upon your performance on each of the three modules, which are weighted equally. For each module, your grade will be based upon your timely completion of the reading miniquestions (15%) and checkpoints (25%), and upon the quality of your module deliverable (60%). All 3 modules must be satisfactorily completed to pass this course. 
 
 # Late Policy
 Late work will be accepted within the windows listed below with the following consequences:
