@@ -1,4 +1,4 @@
-<img src="images/Calendar.png" alt="Calendar" width="800"/>
+<img src="images/Calendar.png" alt="Calendar" width="1600"/>
   
   
 
