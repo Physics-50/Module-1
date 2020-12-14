@@ -1,1 +1,1 @@
-[<img src="images/static-friction-video-preview.png" alt="refresher on how mu_s is related to theta_c" width="400"/>](https://drive.google.com/file/d/19qMGg5rJfkDCQVHRK2G1Nl4_CAMSgvHX/view?usp=sharing){:target="_blank"} 
+<img src="images/Ph50_Spring2021_Calendar.pdf" alt="Calendar" width="400"/>
