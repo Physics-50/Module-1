@@ -9,6 +9,7 @@ T. Donnelly (Tom_Donnelly@hmc.edu)<br>
 S. Gerbode (gerbode@hmc.edu)
 
 + [Reading and Miniquestions](#reading-and-miniquestions)
++ [Weekly Chekcpoints](#weekly-checkpoints)
 + [Module Deliverables](#module-deliverables)
 + [Grading](#grading)
 + [Late Policy](#late-policy)
@@ -39,13 +40,13 @@ observations of the physical world. Knowing what questions to ask and what pitfa
 
 
 # Course Structure
-In this course you will work on three modules that each will last four weeks. In each week of each module, you will start by doing reading and completing the associated miniquestions on the course website for that module (linked on Sakai). Then at the end of each week you will submit a checkpoint via Gradescope. Finally, at the end of each module you will submit a module deliverable via Gradescope.
+In this course you will work on three modules that each will last four-five weeks. In each week of each module, you will start by reading the online manual (linked on Sakai) and completing the associated embedded miniquestions (due by Tuesday 1pm). Each week you will submit a checkpoint via Gradescope, due by Thursday, 1pm. Finally, at the end of each module you will submit a module deliverable via Gradescope.
 
 
 # Reading and miniquestions
 Each week you will start by going to the module website (linked from Sakai). There you will find detailed procedures and lab instructions, with miniquestions embedded throughout the text. These miniquestions are intended to help you quickly confirm your understanding of what you are reading and should be completed as you are reading. After submission of a miniquestion, if your answer is incorrect you will be prompted to resubmit your answer. In order to receive credit for your resubmission, you must explain why your new answer is correct. When resubmitting remember that your goal is not to describe what you did wrong but rather to explain and clarify the correct answer.
 
-Weekly checkpoints:
+# Weekly checkpoints:
 At the end of each week you will complete a weekly checkpoint and submit it via Gradescope. Your instructors will read these checkpoints and use your responses to provide feedback on whether you are on the right track for the following week of the module. 
 
 # Module deliverables
