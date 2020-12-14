@@ -1,9 +1,11 @@
 <img src="images/Calendar.png" alt="Calendar" width="500"/>
+  
+  
 
-Instructors: 
-J. Arlett (jarlett@hmc.edu)
-E. Connolly (connolly@hmc.edu)
-T. Donnelly (Tom_Donnelly@hmc.edu)
+Instructors: <br>
+J. Arlett (jarlett@hmc.edu)<br>
+E. Connolly (connolly@hmc.edu)<br>
+T. Donnelly (Tom_Donnelly@hmc.edu)<br>
 S. Gerbode (gerbode@hmc.edu)
 
 + [Reading and Miniquestions](#reading-and-miniquestions)
