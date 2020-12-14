@@ -1,20 +1,20 @@
 <img src="images/Calendar.png" alt="Calendar" width="500"/>
 
 Instructors: 
-J. Arlett (jarlett@hmc.edu), E. Connolly (connolly@hmc.edu), T. Donnelly (Tom_Donnelly@hmc.edu), S. Gerbode (gerbode@hmc.edu)
+J. Arlett (jarlett@hmc.edu)
+E. Connolly (connolly@hmc.edu)
+T. Donnelly (Tom_Donnelly@hmc.edu)
+S. Gerbode (gerbode@hmc.edu)
 
-+ [Preamble](#preamble)
-+ [Course Schedule](#course-structure)
 + [Reading and Miniquestions](#reading-and-miniquestions)
-+ [Module Deliverables](#module-deliverables
++ [Module Deliverables](#module-deliverables)
 + [Grading](#grading)
 + [Late Policy](#late-policy)
 + [Online Resources](#online-resources)
 + [Lab Books](#lab-books)
-+ [The Writing Center](#the-writing-center)
-+ [Accomodations](#Accomodations)
-+ [Wellness](#Wellness)
-+ [Belonging]
++ [Writing Center](#the-writing-center)
++ [Accomodations, Wellness, and Belonging](#Accomodations)
+
 
 
 # Preamble
