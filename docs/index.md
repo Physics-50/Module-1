@@ -1,7 +1,6 @@
 # Module 1
 
-[Syllabus](#syllabus)
-[Module 1 Overview](#module-1-overview)
+[Syllabus](syllabus)
 
 [Weekly Plan](#weekly-plan)
 + [Week 1 - Exploratory Phase (part 1)](week1)
