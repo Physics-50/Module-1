@@ -8,6 +8,8 @@ E. Connolly (connolly@hmc.edu)<br>
 T. Donnelly (Tom_Donnelly@hmc.edu)<br>
 S. Gerbode (gerbode@hmc.edu)
 
+# Syllabus
+
 + [Reading and Miniquestions](#reading-and-miniquestions)
 + [Weekly Chekcpoints](#weekly-checkpoints)
 + [Module Deliverables](#module-deliverables)
