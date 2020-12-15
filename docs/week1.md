@@ -144,9 +144,9 @@ Usually one of the first exploratory steps is to use your equipment to take a si
 --------
 
 #### Miniquestion: Uncertainty Propagation
-*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSdxJPMhqDtPMvSZN0lv1p0JURr3jssV2tglvVg8tRweqEczVw/viewform){:target="_blank"}*
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSdGBpAsDmSC8Ndwu0ksH5ViBPUN4lclLMx04Tl8R2vVia4pQw/viewform?){:target="_blank"}*
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdxJPMhqDtPMvSZN0lv1p0JURr3jssV2tglvVg8tRweqEczVw/viewform?embedded=true" width="640" height="303" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdGBpAsDmSC8Ndwu0ksH5ViBPUN4lclLMx04Tl8R2vVia4pQw/viewform?embedded=true" width="640" height="303" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 ------------------------------
@@ -167,9 +167,9 @@ Comment on whether your measured value is reasonable (e.g. is $$\mu_s$$ within t
 Before you submit Checkpoint 1, let's first double-check your procedure. Using the exact same procedure as you did to calculate your $$\mu_s$$  and  $$\delta_\mathrm{res.} \mu_s $$ above, complete the following miniquestion with a different measurement of $$\theta_c$$:
 
 #### Miniquestion: Calculating coefficient of static friction and resolution uncertainty
-[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSePneKoMuKH7PGq0k1jKHiPh6WaRmbSR3SvevviarDiG6Yn3Q/viewform){:target="_blank"}
+[*Click here to open in a new tab*](https://forms.gle/mvteqnKeZNQXDytZ9){:target="_blank"}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSePneKoMuKH7PGq0k1jKHiPh6WaRmbSR3SvevviarDiG6Yn3Q/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKSGfERWII08uU0DZio3Wtcul85SiBFLkbG44IAQgMJg4hMg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 -------------
@@ -179,9 +179,9 @@ Before we wrap up week 1, we need your mailing address to send you an experiment
 ---------------------------------
 
 #### Miniquestion: Mailing Address
-[*Click here to open in a new tab*](https://forms.gle/FtypQB3xq6RFmYio7){:target="_blank"}
+[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSc-Z5SUG8NmNFJhllyxUmiR3bxDAAo4I5Bpv4-vO9Y64hfyew/viewform){:target="_blank"}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdAxAaCYRjN2oxZ6FRN2I6d1CrKKNEmwJqAguXJVfHMwW4S9Q/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc-Z5SUG8NmNFJhllyxUmiR3bxDAAo4I5Bpv4-vO9Y64hfyew/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 --------------
