@@ -174,6 +174,17 @@ Before you submit Checkpoint 1, let's first double-check your procedure. Using t
 
 -------------
 
+Before we wrap up week 1, we need your mailing address to send you an experimental kit for Module 3. Please make sure this is an address at which you will be able to receive a package at some point over the next six weeks. If there are any special circumstances (e.g. you are expecting to move in the coming weeks) please reach out to us directly.
+
+---------------------------------
+
+#### Miniquestion: Mailing Address
+[*Click here to open in a new tab*](https://forms.gle/FtypQB3xq6RFmYio7){:target="_blank"}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdAxAaCYRjN2oxZ6FRN2I6d1CrKKNEmwJqAguXJVfHMwW4S9Q/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+--------------
 ## Checkpoint 1
 
 + [Submit the results of your single measurement on Gradescope](https://www.gradescope.com/courses/165932/assignments/605297){:target="_blank"}
