@@ -68,7 +68,7 @@ In your lab notebook, try the derivation yourself and document the result.
 We can now try to think of a hypothesis we can test with an experiment. As a quick check, according to the theory, which of factors will affect a measurement of $$\theta_c$$?
 
 #### Miniquestion: Critical Angle Factors
-[*Click here to open in a new tab*](https://forms.gle/LbZ62rJKbnku1Btv9){:target="_blank"}
+[*Click here to open in a new tab*](https://forms.gle/oUrvxpsg5foNjnVH7){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfFH6ZBvZzAlN_LNJQqnmFCPN97KyLGW44mU-AsTd_XSAxcTw/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
