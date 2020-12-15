@@ -47,9 +47,9 @@ Sometimes it might not be clear what is acceptable. When in doubt please ask!
 --------
 
 #### Miniquestion: Handling data
-*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSeAKMIHuPP0wX4WZKX78GnCsjuOFV63meAfYjctYu1r6kWlMg/viewform?){:target="_blank"}*
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSfFH6ZBvZzAlN_LNJQqnmFCPN97KyLGW44mU-AsTd_XSAxcTw/viewform?){:target="_blank"}*
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeAKMIHuPP0wX4WZKX78GnCsjuOFV63meAfYjctYu1r6kWlMg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfFH6ZBvZzAlN_LNJQqnmFCPN97KyLGW44mU-AsTd_XSAxcTw/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 ------------------------------
