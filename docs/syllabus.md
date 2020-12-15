@@ -17,6 +17,7 @@ S. Gerbode (gerbode@hmc.edu)
 + [Late Policy](#late-policy)
 + [Online Resources](#online-resources)
 + [Lab Books](#lab-books)
++ [Collaboration](#collaboration)
 + [Writing Center](#the-writing-center)
 + [Accomodations, Wellness, and Belonging](#Accomodations)
 
@@ -101,6 +102,9 @@ A picture truly is worth a thousand words when you are trying to remember how to
 It can be particularly powerful to upload a photo and then annotate it with a few well-placed arrows, words, etc.
 Link to your various electronic files (Google Sheets, Colaboratory, etc) in the body of your document in the context of describing how you took that particular data. 
 You can simply copy the URL of the item you wish to link to and paste it into your document.
+
+# Collaboration
+We expect every student to perform the data analysis, miniquestions, checkpoints, and deliverables for themselves. If you would like to discuss with a classmate (either a roommate or via Zoom) while doing measurements/analysis in parallel, we encourage that type of collaboration! It will likely not save you any time, but often working through material together gives a better learning experience. Just remember that each of you needs to do your own measurements and analysis.
 
 # The Writing Center
 The Writing Center provides a welcoming virtual space for writers to get feedback on their composition projects, whether written, spoken or visual pieces. Writing Center Consultants are prepared to assist students in any discipline with any stage of the writing process, from developing an idea to polishing a final draft. Even the most accomplished writers benefit from seeking feedback at the writing center. You may schedule an online appointment through their website, https://www.hmc.edu/learning-programs/writing-center/
