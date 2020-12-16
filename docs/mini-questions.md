@@ -84,15 +84,6 @@ On this page you will find all of the mini-questions for Module 1. Although each
 
 -----
 ## Week 4
----------------------------------
-
-#### Miniquestion: Mailing Address
-[*Click here to open in a new tab*](https://forms.gle/FtypQB3xq6RFmYio7){:target="_blank"}
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdAxAaCYRjN2oxZ6FRN2I6d1CrKKNEmwJqAguXJVfHMwW4S9Q/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
-</iframe>
-
----------------
 
 
 #### Miniquestion: Combining Random and Resoultion Uncertainty
