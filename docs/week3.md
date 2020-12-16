@@ -4,6 +4,8 @@ This week we are going to generate a data set to test our hypothesis. This will 
 
 [Background Reading for Week 3](#background-reading-and-miniquestions)
 
+[Review: Estimating Uncertainties](#Review-of-uncertainty-estimation)
+
 [Data Collection for Week 3](#data-collection)
 
 ## Background Reading and Miniquestions
@@ -52,11 +54,31 @@ As an experimentalist, you have to make the tough decision of when the experimen
 -------
 
 #### Miniquestion: Iterative Experimental Design
-[*Click here to open in a new tab*](https://forms.gle/btGJZHBpoPudT6Ux5){:target="_blank"}
+[*Click here to open in a new tab*](https://forms.gle/sC1e3oDHZkgPxwAX9){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeyFal_30OZSOz6SSoOeJ_ZyLkEv8VSClnloKLNQLbwGuMDBw/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 -----
+
+## Review of Uncertainty Estimation
+
+Before collecting and analyzing your data this week, please make sure that you have read this [discussion about combining uncertainties](https://physics-50.github.io/Module-1/uncertainty-introduction#combining-uncertainties)
+
+And if you're confused about the rounding of the values, you might want to [read this first](https://physics-50.github.io/Module-1/uncertainty-introduction#significant-figures)
+
+To make sure you've understood these ideas, please complete the following mini-question. This is goign to come up repeatedly throughout the course. If you have any uncertainty about your response please stop by office hours and talk to us or post a question on Piazza.
+
+---------------
+
+
+#### Miniquestion: Combining Random and Resoultion Uncertainty
+[*Click here to open in a new tab*](https://forms.gle/rWo6mJHquyMUXyrX6){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScy_IJoMPsTvU-vOWYMQs2_s_54tkfSOg01eWkfDsKSJA_YkQ/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+---------------------------------------------------
+
+
 
 
 ## Week 3 - Generating Data to Test a Hypothesis
@@ -148,7 +170,7 @@ It is important to take a moment to reflect on your results. Are there any anoma
 
 At this point, you need to consider if your results are conclusive. Review the section [Iterative Experimental Design](#iterative-experimental-design) above. If your results are inconclusive, then can you think of some reasonable* steps that you can take to improve your measurement? If so, then come up with a revised experimental plan and try it!
 
-**Reasonable is subjective. We don't expect for the purposes of our Module 1 that you will take hundreds of data points. But if taking 10 more data points will result in a stronger conclusion, then we encourage you to do so!*
+**Reasonable is subjective. We don't expect for the purposes of our Module 1 that you will take hundreds of data points. But if taking 10 more data points will result in a stronger conclusion, then we encourage you to do so! It is also important to recognize that statistical analysis is not valid for very small numbers of data points. As a rough guide we would not consider a statistical analysis relying on less than 6 data points to be valid and therefore recommend you collect no fewer than 6 data points for each mass.*
 
 Next week you will make use of the Matlab software package to plot your data. If you do not have Matlab installed on your device we encourage you to install it to be prepared for next week's assignment (HMC has a site license). If you have any issues please reach out to us. The CIS help desk can also be helpful with installation issues.
 
@@ -158,7 +180,7 @@ Please submit the following to [Checkpoint #3 on Gradescope](https://www.gradesc
 
 + A screen-shot showing an organized spreadsheet used for data collection
 
-+ A histogram for each mass tested (at least two) showing the distribution of the number of data points collected as a function of the angle $$\theta_c$$
++ A histogram for each mass tested (at least three) showing the distribution of the number of data points collected as a function of the angle $$\theta_c$$
 
 + The value you obtained for the coefficient of static friction, $$\mu_s$$, for each mass, including the estimated uncertainty.
 
