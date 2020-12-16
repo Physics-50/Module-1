@@ -57,6 +57,8 @@ As an experimentalist, you have to make the tough decision of when the experimen
 </iframe>
 
 -----
+
+
 ## Week 3 - Generating Data to Test a Hypothesis
 
 
