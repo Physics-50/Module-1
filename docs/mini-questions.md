@@ -78,20 +78,20 @@ On this page you will find all of the mini-questions for Module 1. Although each
 
 
 #### Miniquestion: Iterative Experimental Design
-[*Click here to open in a new tab*](https://forms.gle/btGJZHBpoPudT6Ux5){:target="_blank"}
+[*Click here to open in a new tab*](https://forms.gle/sC1e3oDHZkgPxwAX9){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeyFal_30OZSOz6SSoOeJ_ZyLkEv8VSClnloKLNQLbwGuMDBw/viewform?embedded=true" width="640" height="600" frameborder="1" marginheight="10" marginwidth="0">Loading…
 </iframe>
 
 -----
-## Week 4
-
 
 #### Miniquestion: Combining Random and Resoultion Uncertainty
 [*Click here to open in a new tab*](https://forms.gle/rWo6mJHquyMUXyrX6){:target="_blank"}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScy_IJoMPsTvU-vOWYMQs2_s_54tkfSOg01eWkfDsKSJA_YkQ/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeyFal_30OZSOz6SSoOeJ_ZyLkEv8VSClnloKLNQLbwGuMDBw/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 ---------------------------------------------------
+
+## Week 4
 
 #### Miniquestion: What's wrong with this figure?
 [*Click here to open in a new tab*](https://forms.gle/ffTusS9iJrceYnso9){:target="_blank"}
