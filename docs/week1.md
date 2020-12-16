@@ -187,7 +187,7 @@ Before we wrap up week 1, we need your mailing address to send you an experiment
 --------------
 ## Checkpoint 1
 
-+ [Submit the results of your single measurement on Gradescope](https://www.gradescope.com/courses/165932/assignments/605297){:target="_blank"}
++ [Submit the results of your single measurement on Gradescope](https://www.gradescope.com/courses/165932/assignments/904955){:target="_blank"}
 
 + And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-1){:target="_blank"}
 
