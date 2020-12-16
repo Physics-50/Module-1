@@ -8,7 +8,7 @@ This week we are going to generate a data set to test our hypothesis. This will 
 
 ## Background Reading and Miniquestions
 
-At the end of this week you should have a complete data set for the measured critical angle for (at least) two different masses.
+At the end of this week you should have a complete data set for the measured critical angle for (at least) three different masses.
 
 Before you begin taking data, there are two principles that we would like to introduce: **"real-time data visualization"** and **"iterative experimental design"**. In taking experimental data, we don't want to just blindly follow the procedure laid out in the experimental design. We need to ensure the data we are taking is reasonable and that our conclusions are well-founded and impactful. One way to ensure the data is reasonable is to have some real-time visualization set up ("plotting as you go"). That way we can see our data as we are taking it, and adapt based on any new information.
 
@@ -32,9 +32,9 @@ An important habit we would like you to develop as an experimentalist is to be p
 ---------------------------------
 
 #### Miniquestion: Making an experimental plan
-[*Click here to open in a new tab*](https://forms.gle/dUEeSjauPuXdWdGQA){:target="_blank"}
+[*Click here to open in a new tab*](https://forms.gle/WUFjm2wJ6vETJW827){:target="_blank"}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfN0ZrJe3JAKf4JEn8enzzwZxvwE8q9wmX03lc_p4ojOMC0jQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeDfsXQ_oZD63gIQcvD2Owi-4uvYaC0O2wBbnInH6jlJzF2pA/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 -------------------
