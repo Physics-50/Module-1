@@ -90,7 +90,7 @@ Remember our goal is to make the strongest conclusion we can, which involves min
 
 
 #### Miniquestion: How Many Trials
-*[Click here to open in a new tab](https://forms.gle/vAwTgKnkRn1Jau6H8){:target="_blank"}*
+*[Click here to open in a new tab](https://forms.gle/Zc7GbHhS1ySxQbnFA){:target="_blank"}*
 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe7JH6ImWbMSDfMZkXMq2pYSVCpLyeMy4QVmInBqcK7j2yNqw/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
