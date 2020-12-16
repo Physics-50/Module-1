@@ -52,8 +52,8 @@ As an experimentalist, you have to make the tough decision of when the experimen
 -------
 
 #### Miniquestion: Iterative Experimental Design
-[*Click here to open in a new tab*](https://forms.gle/NcgosyMdDvaTssni6){:target="_blank"}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfbfx5oJyy117QD2xn4THhV6s-pbtv_T4cbtJFu0922d46eMw/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
+[*Click here to open in a new tab*](https://forms.gle/btGJZHBpoPudT6Ux5){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeyFal_30OZSOz6SSoOeJ_ZyLkEv8VSClnloKLNQLbwGuMDBw/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 -----
