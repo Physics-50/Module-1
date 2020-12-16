@@ -70,9 +70,9 @@ On this page you will find all of the mini-questions for Module 1. Although each
 ## Week 3
 
 #### Miniquestion: Making an experimental plan
-[*Click here to open in a new tab*](https://forms.gle/dUEeSjauPuXdWdGQA){:target="_blank"}
+[*Click here to open in a new tab*](https://forms.gle/WUFjm2wJ6vETJW827){:target="_blank"}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfN0ZrJe3JAKf4JEn8enzzwZxvwE8q9wmX03lc_p4ojOMC0jQ/viewform?embedded=true" width="640" height="753" frameborder="1" marginheight="10" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeDfsXQ_oZD63gIQcvD2Owi-4uvYaC0O2wBbnInH6jlJzF2pA/viewform?embedded=true" width="640" height="753" frameborder="1" marginheight="10" marginwidth="0">Loading…
 </iframe>
 --------------
 
