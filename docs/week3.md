@@ -32,7 +32,7 @@ An important habit we would like you to develop as an experimentalist is to be p
 ---------------------------------
 
 #### Miniquestion: Making an experimental plan
-[*Click here to open in a new tab*](https://forms.gle/WUFjm2wJ6vETJW827){:target="_blank"}
+[*Click here to open in a new tab*](https://forms.gle/tb17PdvLxG1Q8aY78){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeDfsXQ_oZD63gIQcvD2Owi-4uvYaC0O2wBbnInH6jlJzF2pA/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
