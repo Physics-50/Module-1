@@ -60,9 +60,9 @@ On this page you will find all of the mini-questions for Module 1. Although each
 ## Week 2
 
 #### Miniquestion: How Many Trials
-[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSeEwh4nclVo5lUZFmhBCM-n0td4vU4kPXocUJORmOVp1w2-Gg/viewform){:target="_blank"}
+[*Click here to open in a new tab*](https://forms.gle/vAwTgKnkRn1Jau6H8){:target="_blank"}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeEwh4nclVo5lUZFmhBCM-n0td4vU4kPXocUJORmOVp1w2-Gg/viewform?embedded=true" width="640" height="600" frameborder="1" marginheight="10" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe7JH6ImWbMSDfMZkXMq2pYSVCpLyeMy4QVmInBqcK7j2yNqw/viewform?embedded=true" width="640" height="600" frameborder="1" marginheight="10" marginwidth="0">Loading…
 </iframe>
 
 -----------------
