@@ -148,6 +148,8 @@ At this point, you need to consider if your results are conclusive. Review the s
 
 **Reasonable is subjective. We don't expect for the purposes of our Module 1 that you will take hundreds of data points. But if taking 10 more data points will result in a stronger conclusion, then we encourage you to do so!*
 
+Next week you will make use of the Matlab software package to plot your data. If you do not have Matlab installed on your device we encourage you to install it to be prepared for next week's assignment (HMC has a site license). If you have any issues please reach out to us. The CIS help desk can also be helpful with installation issues.
+
 ## Checkpoint #3
 
 Please submit the following to [Checkpoint #3 on Gradescope](https://www.gradescope.com/courses/165932/assignments/646638/){:target="_blank"}
