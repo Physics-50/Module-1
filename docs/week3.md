@@ -176,7 +176,7 @@ Next week you will make use of the Matlab software package to plot your data. If
 
 ## Checkpoint #3
 
-Please submit the following to [Checkpoint #3 on Gradescope](https://www.gradescope.com/courses/165932/assignments/906692/){:target="_blank"}
+Please submit the following to [Checkpoint #3 on Gradescope](https://www.gradescope.com/courses/216639/assignments/906692){:target="_blank"}
 
 + A screen-shot showing an organized spreadsheet used for data collection
 
