@@ -127,5 +127,6 @@ Figure 1. Coefficient of static friction depends on the location of the tuna can
 
 6. aesthetic clarity: Are all displayed objects (e.g. text, images, data points, lines) large enough to be visible and not pixelated? Was some consideration given to "salience" and "simplicity"? ([described here](plotting-guide#plotting-the-example-data){:target="_blank"}) Is the figure laid out in a way that flows well and is easy to follow?
 
+Please upload your figure to [gradescope](https://www.gradescope.com/courses/216639/assignments/906819) according to the instructions provided there (note that you will have to upload it more than once). Make sure to include both the figure and caption.
 
-Don't forget to double-check that you've completed all of the miniquestions for this week. You should also make sure that you've completed the miniquestions for all the weeks of Module 1 for at least partial credit. You can find them all [gathered here](mini-questions).
+Don't forget to double-check that you've completed all of the miniquestions for this week. You can find them all [here](mini-questions#week-4).
