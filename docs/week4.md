@@ -129,4 +129,4 @@ Figure 1. Coefficient of static friction depends on the location of the tuna can
 
 Please upload your figure to [gradescope](https://www.gradescope.com/courses/216639/assignments/906819) according to the instructions provided there (note that you will have to upload it more than once). Make sure to include both the figure and caption.
 
-Don't forget to double-check that you've completed all of the miniquestions for this week. You can find them all [here](mini-questions#week-4).
+Don't forget to double-check that you've completed the miniquestion for this week. You can find this week's mini-question [here](mini-questions#week-4).
