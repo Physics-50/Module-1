@@ -141,7 +141,7 @@ Some questions to answer in your experimental design:
 
 ## Checkpoint 2
 
-+ Write up your experimental design (save a copy for yourself) and then paste your design into [checkpont 2 on Gradescope](https://www.gradescope.com/courses/165932/assignments/904967){:target="_blank"} by the end Week 2.
++ Write up your experimental design (save a copy for yourself) and then paste your design into [checkpont 2 on Gradescope](https://www.gradescope.com/courses/216639/assignments/904967){:target="_blank"} by the end Week 2.
 
 + And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-2){:target="_blank"}
 
