@@ -83,7 +83,13 @@ On this page you will find all of the mini-questions for Module 1. Although each
 </iframe>
 
 -----
+#### Miniquestion: Reporting Significant Figures
+[*Click here to open in a new tab*](hhttps://forms.gle/9FnE5SnK7z5i9QNWA){:target="_blank"}
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScXf6FeCt2rfBGMoQ7bln9a56mMxyHwQ0e8aYBs9vjnH9Yd6A/viewform?embedded=true" width="640" height="600" frameborder="1" marginheight="10" marginwidth="0">Loading…
+</iframe>
+
+---------------------------
 #### Miniquestion: Combining Random and Resoultion Uncertainty
 [*Click here to open in a new tab*](https://forms.gle/KMCCqJZxdkchbBvdA){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc7wj6OMBqqybagJhwZb0-Mkk8UnW2WOf5G7v474S0ryLvJOw/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
@@ -100,10 +106,3 @@ On this page you will find all of the mini-questions for Module 1. Although each
 
 ---------------
 
-#### Miniquestion: Reporting Significant Figures
-[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSf1OFObboakQdFkymAOxaCNowGB7LPWrEzHXvSNMqERC2eYFQ/viewform){:target="_blank"}
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf1OFObboakQdFkymAOxaCNowGB7LPWrEzHXvSNMqERC2eYFQ/viewform?embedded=true" width="640" height="600" frameborder="1" marginheight="10" marginwidth="0">Loading…
-</iframe>
-
----------------------------
