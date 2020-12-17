@@ -1,28 +1,3 @@
-# Week 4: Before you start
-
-Before you start week 4, there are two things we would like to cover with miniquestions:
-
-1. We need your mailing address to send you an experimental kit for Module 3 
-
-2. There was a common point of confusion last week during office hours about how to calculate the uncertainty in $$\mu_s$$. Some were unclear on whether to propagate the resolution uncertainty in $$\theta_c$$ or the random uncertainty (SEM over repeated measurements of $$\theta_c$$).
-
----------------------------------
-
-#### Miniquestion: Mailing Address
-[*Click here to open in a new tab*](https://forms.gle/FtypQB3xq6RFmYio7){:target="_blank"}
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdAxAaCYRjN2oxZ6FRN2I6d1CrKKNEmwJqAguXJVfHMwW4S9Q/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
-</iframe>
-
----------------
-
-
-#### Miniquestion: Combining Random and Resoultion Uncertainty
-[*Click here to open in a new tab*](https://forms.gle/rWo6mJHquyMUXyrX6){:target="_blank"}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScy_IJoMPsTvU-vOWYMQs2_s_54tkfSOg01eWkfDsKSJA_YkQ/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
-</iframe>
-
----------------------------------------------------
 
 # Week 4: Communicating written scientific results, physics-style
 
