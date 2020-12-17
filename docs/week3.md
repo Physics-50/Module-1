@@ -176,11 +176,11 @@ Next week you will make use of the Matlab software package to plot your data. If
 
 ## Checkpoint #3
 
-Please submit the following to [Checkpoint #3 on Gradescope](https://www.gradescope.com/courses/165932/assignments/646638/){:target="_blank"}
+Please submit the following to [Checkpoint #3 on Gradescope](https://www.gradescope.com/courses/165932/assignments/906692/){:target="_blank"}
 
 + A screen-shot showing an organized spreadsheet used for data collection
 
-+ A histogram for each mass tested (at least three) showing the distribution of the number of data points collected as a function of the angle $$\theta_c$$
++ A histogram for each mass tested showing the distribution of the number of data points collected as a function of the angle $$\theta_c$$. You should have collected data for at least three different masses, with at least 6 data points for each mass.
 
 + The value you obtained for the coefficient of static friction, $$\mu_s$$, for each mass, including the estimated uncertainty.
 
