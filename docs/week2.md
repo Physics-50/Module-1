@@ -8,7 +8,7 @@
 2. Formulating a Hypothesis
 3. Instrumentation 
 4. [Exploratory Measurements](#exploratory-measurements) (continued from Week 1)
-5. [Ceheckpoint 2](#checkpoint-2)
+5. [Checkpoint 2](#checkpoint-2)
 
 
 ------------------
