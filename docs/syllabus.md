@@ -38,12 +38,12 @@ In order to be successful in this course you:
 
 If we (your instructors) could do all of these all of the time we would be better physicists and probably better people in general. We are looking for you to demonstrate competence in these areas; we do not expect perfection.
 
-By the end of this course you will be able to collect, analyze, and interpret real measured data in an ethical manner as responsible scientists and draw meaningful conclusions from personal 
+By the end of this course you will be able to collect, analyze, and interpret real measured data in an ethical manner and draw meaningful conclusions from personal 
 observations of the physical world. Knowing what questions to ask and what pitfalls to be on the lookout for is not always easy and is something of an art. To help you to be successful we will provide a large amount of guidance in the earlier labs, prompting you often to stop and think about various aspects of your experiment. As the semester progresses we will gradually taper off the guidance, and we will begin to focus more on how to best communicate your results. Scientific communication is an essential part of doing experimental research.
 
 
 # Course Structure
-In this course you will work on three modules that each will last four-five weeks. In each week of each module, you will start by reading the online manual (linked on Sakai) and completing the associated embedded miniquestions (due by Tuesday 1pm). Each week you will submit a checkpoint via Gradescope, due by Thursday, 1pm. Finally, at the end of each module you will submit a module deliverable via Gradescope.
+In this course you will work on three modules that each will last four-five weeks. In each week of each module, you will start by reading the online manual (linked on Sakai) and completing the associated embedded miniquestions (due by Tuesday 1 pm). Each week you will submit a checkpoint via Gradescope, due by Thursday, 1 pm. Finally, at the end of each module you will submit a module deliverable via Gradescope.
 
 
 # Reading and miniquestions
@@ -60,10 +60,10 @@ The end-of-module deliverables focus on the critical skill of scientific communi
 + For Module III, you will create a poster that contains 3 or 4 figures with captions, as well as concise paragraphs and clear headings to help flesh out the story of your experiment and your results.
 
 # Grading
-The course grade will be calculated based upon your performance on each of the three modules, which are weighted equally. For each module, your grade will be based upon your timely completion of the reading miniquestions (15%) and checkpoints (25%), and upon the quality of your module deliverable (60%). All 3 modules must be satisfactorily completed to pass this course. 
+The course grade will be calculated based upon your performance on each of the three modules, which are weighted equally. For each module, your grade will be based upon your timely completion of the reading miniquestions (15%) and checkpoints (25%), and upon the quality of your module deliverable (60%). All three modules must be satisfactorily completed to pass this course. 
 
 # Late Policy
-Late work will be accepted within the windows listed below with the following consequences:
+Late work will be accepted within the windows listed below with the following deductions:
 
 ## Miniquestions
 + Up to 24 hours past the deadline: 10%
@@ -75,10 +75,10 @@ Late work will be accepted within the windows listed below with the following co
 + Up to 48 hours past the deadline: 15%
 + Up to 72 hours past the deadline: 20%
 
-In recognition that this is a very unusual semester you may have two extensions of up to 24 hours without penalty over the course of the semester, provided you let us know in advance by e-mailing jarlett@hmc.edu that you would like the assignment to count for one of these extensions. (The extensions may be used for mini-questions, checkpoints or deliverables). If you are experiencing extenuating circumstances that might warrant additional flexibility such as acceptance of late work beyond our standard late acceptance window, or additional no penalty 24-hour extensions beyond the standard two we are offering, please don't hesitate to reach out. 
+In recognition that this is a very unusual semester you may have two extensions of up to 24 hours without penalty over the course of the semester, provided you let us know in advance by e-mailing jarlett@hmc.edu that you would like the assignment to count for one of these extensions. (The extensions may be used for mini-questions, checkpoints or deliverables.) If you are experiencing extenuating circumstances please don't hesitate to reach out. 
 
 # Online Resources
-The course website is available on Sakai, where you will find links to each Module of the course in the side menu of the Physics 50 page. Also linked from that page are Gradescope, Piazza, and Zoom. You will submit the Module checkpoints and deliverables through Gradescope.In Piazza you can ask questions to the class; we encourage you to use this forum to ask your classmates and instructors course-related questions. Office hours are offered by all the instructors -- students should feel welcome to join any professor’s office hours. The office hour starting times are listed and hosted out of the “Office Hours” link on the side menu of Sakai -- each office hour will be open for 30 minutes and students will raise their questions on a first come, first served basis.
+The course website is available on Sakai, where you will find links to each Module of the course in the side menu of the Physics 50 page. Also linked from that page are Gradescope, Piazza, and Zoom. You will submit the Module checkpoints and deliverables through Gradescope. In Piazza you can ask questions to the class; we encourage you to use this forum to ask your classmates and instructors course-related questions. Office hours are offered by all the instructors -- students should feel welcome to join any professor’s office hours. The office hour starting times are listed and hosted out of the “Office Hours” link on the side menu of Sakai -- each office hour will be open for 30 minutes and students will raise their questions on a first come, first served basis.
 
 We will also be using Google apps including Docs, Sheets, and Colaboratory. There will be several templates assigned at various times throughout the course via Google Classroom. Google Classroom enables us to create copies of documents for every student. You will need to login to Google Classroom when prompted from the Module instructions, but you do not need to actively monitor Google Classroom for new assignments. Sakai is our primary point of contact with you, not Google Classroom.
 
@@ -89,7 +89,7 @@ What information will I need to replicate this experiment in 6 months or 6 years
 
 Your lab book will not receive a grade of its own, but the quality of your lab book will impact other graded portions of the lab. The hallmark of a good lab book is how useful it is to you and others at a later point in time. You will need the information from your lab book to complete your checkpoints and end of module deliverables. Detailed notes will be useful!
 
-Electronic lab books are convenient in many ways but are far from perfect. Google Docs is also not necessarily the most refined tool for online lab book-keeping.  Some tips: 
+Some tips: 
 
 + Don’t rewrite history. 
     + If you realize you made a procedural mistake, resist the temptation to omit what was incorrect. Your lab notebook needs to be a complete record of what actually happened; that means the bad as well as the good.
@@ -104,10 +104,10 @@ Electronic lab books are convenient in many ways but are far from perfect. Googl
     + You can simply copy the URL of the item you wish to link to and paste it into your document.
 
 # Collaboration
-We expect every student to perform the data analysis, miniquestions, checkpoints, and deliverables for themselves. If you would like to discuss with a classmate (either a roommate or via Zoom) while doing measurements/analysis in parallel, we encourage that type of collaboration! It will likely not save you any time, but often working through material together gives a better learning experience. Just remember that each of you needs to do your own measurements and analysis.
+We expect every student to perform the data analysis, miniquestions, checkpoints, and deliverables for themselves. If you would like to discuss with a classmate while doing measurements/analysis in parallel, we encourage that type of collaboration! It will likely not save you any time, but often working through material together gives a better learning experience. Just remember that each of you needs to do your own measurements and analysis.
 
 # The Writing Center
-The Writing Center provides a welcoming virtual space for writers to get feedback on their composition projects, whether written, spoken or visual pieces. Writing Center Consultants are prepared to assist students in any discipline with any stage of the writing process, from developing an idea to polishing a final draft. Even the most accomplished writers benefit from seeking feedback at the writing center. You may schedule an online appointment through their website, https://www.hmc.edu/learning-programs/writing-center/
+The Writing Center provides a welcoming virtual space for writers to get feedback on their composition projects, whether written, spoken or visual pieces. Writing Center Consultants are prepared to assist students in any discipline with any stage of the writing process, from developing an idea to polishing a final draft. Even the most accomplished writers benefit from seeking feedback at the Writing Center. You may schedule an online appointment through their website, https://www.hmc.edu/learning-programs/writing-center/
 
 
 # Accommodations
