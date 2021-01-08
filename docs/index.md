@@ -13,6 +13,8 @@
 
 ## Module 1 Overview 
 
+One of the main goals of this course is for you to "think like an experimental physicist." Instead of merely reinforcing specific concepts from other physics courses you've taken, we will focus on the experimental process. 
+
 ### Learning Objectives
 
 
@@ -22,15 +24,15 @@
 
 2. Test a hypothesis using experimental data and its estimated uncertainty 
 
-3. Communicate experimental results of with a well-designed figure
+3. Communicate experimental results with a well-designed figure
 
-One of the main goals of this course is for you to "think like an experimental physicist". Instead of merely reinforcing specific concepts from other physics courses you've taken, we will focus on the experimental process. These three learning objectives are tied to what we view as distinct phases in how we approach the experimental process, and we will use these three phases to frame Module 1:
+These three learning objectives are tied to what we view as distinct phases in how we approach the experimental process, and we will use these three phases to frame Module 1:
 
 1. Exploratory Phase
-    - this open-ended phase often involves doing some background reading, getting familiar with a measurement technique, trying to take some preliminary data, coming up with a hypothesis and a plan on how you will test it
+    - this open-ended phase often involves doing some background reading, getting familiar with a measurement technique, trying to take some preliminary data, coming up with a hypothesis and a plan for how you will test it
 
 2. Hypothesis Testing Phase
-    - in this phase you follow the experimental plan you developed in the "Exploratory Phase" to test a hypothesis (or multiple hypotheses)
+    - in this phase you follow the experimental plan you developed in the "Exploratory Phase" to test a hypothesis (or multiple hypotheses). Data analysis, including a detailed analysis of uncertainties (a statistical measure of your confidence in your results) is an important part of hypothesis testing. Determining whether your results are consistent with a hypothesis will generally come down to analyzing you data to see if the results follow a trend predicted by the hypothesis to within your experimental uncertainty.
 
 3. Communication Phase
     - after hypothesis testing, you now get to think carefully about how you will communicate your results: What is the best way to visualize your data? What are the deeper conclusions that you can draw from your data? What follow-up experiment would come next? This phase often ends with a scientific paper or presentation. By the end of this course, we are going to build towards a scientific poster presentation.
@@ -41,7 +43,7 @@ Although we are going to treat these phases as separate, linear progression, the
 
 To get started, we will begin with a simple experiment that meets the above learning objectives: measuring the coefficient of static friction, $$\mu_s$$, between two surfaces. You will place a block on a ramp and measure the critical angle $$\theta_c$$ at which sliding begins. 
 
-Module 1 is four weeks long. Each week, you will have a checkpoint due. These checkpoints will give us a chance to provide you feedback as your work towards the Module 1 deliverable: a single figure with a caption that conveys what you learned from your experimentation. You have a couple of options on how to proceed. We recommend that you dive in to Week 1 directly, and the relevant concepts will be linked in context as you go along. But alternatively, you can first read over the Background Reading below and learn about the new concepts you will use in this module before starting Week 1. 
+Module 1 is four weeks long. Each week, you will have a checkpoint due. These checkpoints will give us a chance to provide you feedback as your work towards the Module 1 deliverable: a single figure with a caption that conveys what you learned from your experimentation. You have a couple of options on how to proceed. We recommend that you dive into Week 1 directly, and the relevant concepts will be linked in context as you go along. But alternatively, you can first read over the Background Reading below and learn about the concepts you will use in this module before starting Week 1. 
 
 1. [Week 1 - Exploratory Phase](week1)
     - Checkpoint: single, preliminary measurement of $$\mu_s$$ with resolution uncertainty
