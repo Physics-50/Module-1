@@ -24,10 +24,10 @@ S. Gerbode (gerbode@hmc.edu)
 
 
 # Preamble
-Our goal in this course is for you to focus on the experimental process rather than racing to complete a list of tasks in a tight time frame. In each module you should first follow directions to gain familiarity with a broad set of equipment, techniques, and phenomena.  However, you should then take opportunities to investigate some aspect of the situation deeply, even if it means you are not able to address every question raised for your contemplation in the lab manual. Your ultimate task is to communicate the results of your experimental research.
+Our goal in this course is for you to focus on the experimental process rather than racing to complete a list of tasks in a tight time frame. In each module you should first follow directions to gain familiarity with a broad set of equipment, techniques, and phenomena.  In each module we will then guide you to take opportunities to investigate some aspect of the situation more deeply. Your ultimate task is to communicate the results of your experimental research.
 
 In order to be successful in this course you:
-+ are actively engaged and reach out for help on Piazza when you get stuck 
++ are actively engaged and reach out for help on Piazza and/or come to office hours when you get stuck 
 + complete mini-questions, checkpoints, and deliverables on time
 + document your work as you go along
 + design an experiment and carry it out, refine your methods along the way, go back and address major problems--do something, think about it, improve upon it
@@ -38,8 +38,7 @@ In order to be successful in this course you:
 
 If we (your instructors) could do all of these all of the time we would be better physicists and probably better people in general. We are looking for you to demonstrate competence in these areas; we do not expect perfection.
 
-By the end of this course you will be able to collect, analyze, and interpret real measured data in an ethical manner and draw meaningful conclusions from personal 
-observations of the physical world. Knowing what questions to ask and what pitfalls to be on the lookout for is not always easy and is something of an art. To help you to be successful we will provide a large amount of guidance in the earlier labs, prompting you often to stop and think about various aspects of your experiment. As the semester progresses we will gradually taper off the guidance, and we will begin to focus more on how to best communicate your results. Scientific communication is an essential part of doing experimental research.
+By the end of this course you will be able to collect, analyze, and interpret real measured data in an ethical manner and draw meaningful conclusions from personal observations of the physical world. Knowing what questions to ask and what pitfalls to be on the lookout for is not always easy and is something of an art. To help you to be successful we will provide a large amount of guidance in the earlier labs, prompting you often to stop and think about various aspects of your experiment. As the semester progresses we will gradually taper off the guidance, and we will begin to focus more on how to best communicate your results. Scientific communication is an essential part of doing experimental research.
 
 
 # Course Structure
