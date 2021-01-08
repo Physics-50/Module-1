@@ -27,14 +27,14 @@ S. Gerbode (gerbode@hmc.edu)
 Our goal in this course is for you to focus on the experimental process rather than racing to complete a list of tasks in a tight time frame. In each module you should first follow directions to gain familiarity with a broad set of equipment, techniques, and phenomena.  However, you should then take opportunities to investigate some aspect of the situation deeply, even if it means you are not able to address every question raised for your contemplation in the lab manual. Your ultimate task is to communicate the results of your experimental research.
 
 In order to be successful in this course you:
-are actively engaged and reach out for help on Piazza when you get stuck 
-complete mini-questions, checkpoints, and deliverables on time
-document your work as you go along
-design an experiment and carry it out, refine your methods along the way, go back and address major problems--do something, think about it, improve upon it
-reflect on your results, identify main limitations and correct glaring omissions, identify any questions that your results raise
-think about the next questions that would arise in the next iteration of the experiment 
-present your final results without major factual errors that undermine your credibility  (statements of fact versus we think this is happening because of xyz)
-tell the story about why you did what you did and what conclusions you can draw
++ are actively engaged and reach out for help on Piazza when you get stuck 
++ complete mini-questions, checkpoints, and deliverables on time
++ document your work as you go along
++ design an experiment and carry it out, refine your methods along the way, go back and address major problems--do something, think about it, improve upon it
++ reflect on your results, identify main limitations and correct glaring omissions, identify any questions that your results raise
++ think about the next questions that would arise in the next iteration of the experiment 
++ present your final results without major factual errors that undermine your credibility  (statements of fact versus we think this is happening because of xyz)
++ tell the story about why you did what you did and what conclusions you can draw
 
 If we (your instructors) could do all of these all of the time we would be better physicists and probably better people in general. We are looking for you to demonstrate competence in these areas; we do not expect perfection.
 
@@ -55,9 +55,9 @@ At the end of each week you will complete a weekly checkpoint and submit it via 
 # Module deliverables
 The end-of-module deliverables focus on the critical skill of scientific communication. In physics, the process of writing often begins with creating a sequence of figures with captions. This visual outlining procedure lays the groundwork for all the details that eventually fill in the space in between the figures. The module deliverables are structured to guide you through this physics writing process. Detailed instructions for each deliverable will be provided in each module website (linked from Sakai), but briefly:
 
-For Module I, you will create a figure with a caption that summarizes the result of your experiment. 
-For Module II, you will create a sequence of 2-3 figures that, along with captions, effectively tell the story of your Module II experiment: what you did, and what your results mean. 
-For Module III, you will create a poster that contains 3 or 4 figures with captions, as well as concise paragraphs and clear headings to help flesh out the story of your experiment and your results.
++ For Module I, you will create a figure with a caption that summarizes the result of your experiment. 
++ For Module II, you will create a sequence of 2-3 figures that, along with captions, effectively tell the story of your Module II experiment: what you did, and what your results mean. 
++ For Module III, you will create a poster that contains 3 or 4 figures with captions, as well as concise paragraphs and clear headings to help flesh out the story of your experiment and your results.
 
 # Grading
 The course grade will be calculated based upon your performance on each of the three modules, which are weighted equally. For each module, your grade will be based upon your timely completion of the reading miniquestions (15%) and checkpoints (25%), and upon the quality of your module deliverable (60%). All 3 modules must be satisfactorily completed to pass this course. 
@@ -91,17 +91,17 @@ Your lab book will not receive a grade of its own, but the quality of your lab b
 
 Electronic lab books are convenient in many ways but are far from perfect. Google Docs is also not necessarily the most refined tool for online lab book-keeping.  Some tips: 
 
-Don’t rewrite history. 
-If you realize you made a procedural mistake, resist the temptation to omit what was incorrect. Your lab notebook needs to be a complete record of what actually happened; that means the bad as well as the good.
-Suggestions: use the comment feature, make a note in a different color (note the date if different), or highlight your mistake and refer yourself to further down the document where you’ve written up the correction. Find the method that works for you, but be sure your record is complete.
-Include handwritten work.
-There is rarely a lab that does not require a sketch or calculation. Do not use “scratch paper” without including it in your lab record. 
-Google Docs has an app that allows you to insert a photo directly into your document from your phone. You can also use a camera to take a photo of your notes and upload them to your computer.
-Include photos of your apparatus.
-A picture truly is worth a thousand words when you are trying to remember how to set up your apparatus, or how to take a particular measurement.
-It can be particularly powerful to upload a photo and then annotate it with a few well-placed arrows, words, etc.
-Link to your various electronic files (Google Sheets, Colaboratory, etc) in the body of your document in the context of describing how you took that particular data. 
-You can simply copy the URL of the item you wish to link to and paste it into your document.
++ Don’t rewrite history. 
+    + If you realize you made a procedural mistake, resist the temptation to omit what was incorrect. Your lab notebook needs to be a complete record of what actually happened; that means the bad as well as the good.
+    + Suggestions: use the comment feature, make a note in a different color (note the date if different), or highlight your mistake and refer yourself to further down the document where you’ve written up the correction. Find the method that works for you, but be sure your record is complete.
++ Include handwritten work.
+    + There is rarely a lab that does not require a sketch or calculation. Do not use “scratch paper” without including it in your lab record. 
+    + Google Docs has an app that allows you to insert a photo directly into your document from your phone. You can also use a camera to take a photo of your notes and upload them to your computer.
++ Include photos of your apparatus.
+    + A picture truly is worth a thousand words when you are trying to remember how to set up your apparatus, or how to take a particular measurement.
+    + It can be particularly powerful to upload a photo and then annotate it with a few well-placed arrows, words, etc.
++ Link to your various electronic files (Google Sheets, Colaboratory, etc) in the body of your document in the context of describing how you took that particular data. 
+    + You can simply copy the URL of the item you wish to link to and paste it into your document.
 
 # Collaboration
 We expect every student to perform the data analysis, miniquestions, checkpoints, and deliverables for themselves. If you would like to discuss with a classmate (either a roommate or via Zoom) while doing measurements/analysis in parallel, we encourage that type of collaboration! It will likely not save you any time, but often working through material together gives a better learning experience. Just remember that each of you needs to do your own measurements and analysis.
