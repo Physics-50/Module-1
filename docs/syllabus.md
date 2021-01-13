@@ -16,7 +16,7 @@ S. Gerbode (gerbode@hmc.edu)
 + [Grading](#grading)
 + [Late Policy](#late-policy)
 + [Online Resources](#online-resources)
-+ [Lab Books](#lab-books)
++ [Lab Books and Data Sheets](#lab-books-and-data-sheets)
 + [Collaboration](#collaboration)
 + [Writing Center](#the-writing-center)
 + [Accomodations, Wellness, and Belonging](#Accomodations)
@@ -49,7 +49,7 @@ In this course you will work on three modules that each will last four-five week
 Each week you will start by going to the module website (linked from Sakai). There you will find detailed procedures and lab instructions, with miniquestions embedded throughout the text. These miniquestions are intended to help you quickly confirm your understanding of what you are reading and should be completed as you are reading. After submission of a miniquestion, if your answer is incorrect you will be prompted to resubmit your answer. In order to receive credit for your resubmission, you must explain why your new answer is correct. When resubmitting remember that your goal is not to describe what you did wrong but rather to explain and clarify the correct answer.
 
 # Weekly checkpoints:
-At the end of each week you will complete a weekly checkpoint and submit it via Gradescope. Your instructors will read these checkpoints and use your responses to provide feedback on whether you are on the right track for the following week of the module. 
+At the end of each week you will complete a weekly checkpoint and submit it via Gradescope. Take any deductions on checkpoints seriously even if they are small. By the end of the module we expect that any issues will be addressed in your final deliverable. Come to office hours to discuss your checkpoint feedback, we are here to help!
 
 # Module deliverables
 The end-of-module deliverables focus on the critical skill of scientific communication. In physics, the process of writing often begins with creating a sequence of figures with captions. This visual outlining procedure lays the groundwork for all the details that eventually fill in the space in between the figures. The module deliverables are structured to guide you through this physics writing process. Detailed instructions for each deliverable will be provided in each module website (linked from Sakai), but briefly:
@@ -77,11 +77,12 @@ Late work will be accepted within the windows listed below with the following de
 In recognition that this is a very unusual semester you may have two extensions of up to 24 hours without penalty over the course of the semester, provided you let us know in advance by e-mailing jarlett@hmc.edu that you would like the assignment to count for one of these extensions. (The extensions may be used for mini-questions, checkpoints or deliverables.) If you are experiencing extenuating circumstances please don't hesitate to reach out. 
 
 # Online Resources
-The course website is available on Sakai, where you will find links to each Module of the course in the side menu of the Physics 50 page. Also linked from that page are Gradescope, Piazza, and Zoom. You will submit the Module checkpoints and deliverables through Gradescope. In Piazza you can ask questions to the class; we encourage you to use this forum to ask your classmates and instructors course-related questions. Office hours are offered by all the instructors -- students should feel welcome to join any professor’s office hours. The office hour starting times are listed and hosted out of the “Office Hours” link on the side menu of Sakai -- each office hour will be open for 30 minutes and students will raise their questions on a first come, first served basis.
+The course website is available on Sakai, where you will find links to each Module of the course in the side menu of the Physics 50 page. Also linked from that page are Gradescope, Piazza, and Zoom. You will submit the Module checkpoints and deliverables through Gradescope. To create another way for students to communicate asynchronously with each other we have created [this Piazza site](piazza.com/hmc/spring2021/ph50/home){:target="_blank"}. In Piazza you can ask questions to the class; we encourage you to use this forum to ask your classmates course-related questions and to answer each others questions. Office hours are offered by all the instructors -- students should feel welcome to join any professor’s office hours. The office hour starting times are listed and hosted out of the “Office Hours” link on the side menu of Sakai -- each office hour will be open for 30 minutes and students will raise their questions on a first come, first served basis.
 
 We will also be using Google apps including Docs, Sheets, and Colaboratory. There will be several templates assigned at various times throughout the course via Google Classroom. Google Classroom enables us to create copies of documents for every student. You will need to login to Google Classroom when prompted from the Module instructions, but you do not need to actively monitor Google Classroom for new assignments. Sakai is our primary point of contact with you, not Google Classroom.
 
-# Lab Books
+# Lab Books and Data Sheets
+## Lab Books
 In this course we will not be using traditional lab books. Instead you will be assigned a Google Doc at the beginning of each module to keep your lab record. What we will stress in this course is not a particular structure or format for your lab book, but rather the usefulness of the record. 
 
 What information will I need to replicate this experiment in 6 months or 6 years? Would a sketch or photo of the setup be helpful? How exactly did I take that particular data point? What did or did not work in my experimental procedure and what did I learn from it? What are my units? What does this variable mean? etc.
@@ -102,6 +103,9 @@ Some tips:
 + Link to your various electronic files (Google Sheets, Colaboratory, etc) in the body of your document in the context of describing how you took that particular data. 
     + You can simply copy the URL of the item you wish to link to and paste it into your document.
 
+## Data Sheets
+We would like you to get in the habit of using formulae in Google Sheets to make your intermediate calculations. This helps avoid mistakes and it’s easier to fix any mistakes later. Although we aren’t grading your data sheet or lab notebook, we will look at them occasionally when grading your checkpoints and/or ask to see them in office hours. If we see formulae in your data sheet, we can more effectively help you debug any problems.
+
 # Collaboration
 We expect every student to perform the data analysis, miniquestions, checkpoints, and deliverables for themselves. If you would like to discuss with a classmate while doing measurements/analysis in parallel, we encourage that type of collaboration! It will likely not save you any time, but often working through material together gives a better learning experience. Just remember that each of you needs to do your own measurements and analysis.
 
@@ -120,4 +124,7 @@ College can be stressful, and it’s important to support the physical and menta
 
 # Belonging
 Everyone who is registered for this course belongs here and has valuable contributions to make to our class. Our diversity of backgrounds, experiences, and viewpoints will enrich the classroom, and our mutual respect will allow us all the grace to make mistakes and learn from them.
+
+# Title IX Notification
+Harvey Mudd College is committed to providing an environment free of all forms of discrimination and sexual harassment, including sexual assault, domestic violence, dating violence, and stalking. If you (or someone you know) has experienced or experiences any of these incidents, know that you are not alone. We are available to talk to you if you are in need although we are obligated to report any contraventions of Title IX to the HMC Title IX Coordinator, Jennifer Alanis (jalanis@hmc.edu). If you want to speak to someone confidentially, the following resources are available on and off campus: the EmPOWER Center (909-607-2689), the Monsour Counseling Center (909-621-8202), the Project Sister Family Services' 24-hr sexual assault hotline (909-626-4357, ask for HMC Advocates) and the McAlister Chaplains (909-621-8685). Additional information about your options is also available at https://www.hmc.edu/tix."  
 
