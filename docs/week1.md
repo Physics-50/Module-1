@@ -15,10 +15,10 @@
 
 We begin our investigation of measuring $$\mu_s$$ by doing an initial exploration. Our goal is to come up with a hypothesis to test and a plan for how we will do so (an experimental design). In the Exploratory Phase it can be especially important to take detailed notes. Organizing a digital lab notebook and data spreadsheet can be tricky, so for Week 1 we are providing a [template for you to follow along with that we've assigned from Google Classroom](https://classroom.google.com/u/0/w/MjUxNTgyMzY1MDM5/t/all){:target="_blank"}. The class code to join the Google classroom site is: ak7xp3q. Please make sure to join Google classroom from your g.hmc.edu account. Students from other Claremont colleges taking the course should consult HMC's CIS support if you have any issues - they will issue you a g.hmc.edu account.
 
-**Make sure you have this spreadsheet and your Module 1 Lab Notebook handy as you go through the content on this Week 1 page.**
+**Make sure you have this spreadsheet and your Module 1 Lab Notebook handy as you go through the content on this Week 1 page. Please note that we require you to use the provided spreadsheet/lab notebook. The shared spreadsheet will make it easier for us to troubleshoot if any issues come up.**
 
 ## Preface
-If you have any questions working through this course remotely we encourage you to reach out through the class Piazza site or come to office hours. [Sign up for the class Piazza site](https://piazza.com/hmc/spring2021/ph50)
+If you have any questions working through this course remotely we encourage you to reach out to your classmates through the class Piazza site or come to office hours to talk to an instructor. [Sign up for the class Piazza site](https://piazza.com/hmc/spring2021/ph50)
 
 Before diving into data collection and analysis we would like to set some expectations. This course centers around the collection, analysis, and communication of experimental data and results. We expect all of these to be conducted with care and integrity.
 
@@ -38,11 +38,9 @@ To make sure we all start on the same page please answer the following mini-ques
 ------------------------------
 
 Data Collection:
-Please make sure you read the tips for Electronic lab notebooks in the syllabus. We emphasize that your notebook is a record of the experiment. Deleting experimental data from a lab notebook is never acceptable. However, it is acceptable to remeasure/reanalyze data because of an inaccurate or incorrect initial analysis. This includes recollecting data with an improved experimental procedure. An example of an acceptable procedure would be: 
+Please make sure you read the tips for Electronic lab notebooks in the syllabus. We emphasize that your notebook is a record of the experiment. Deleting experimental data from a lab notebook is never acceptable. However, it is acceptable to remeasure/reanalyze data because of inaccurate or incorrect initial efforts. This includes recollecting data with an improved experimental procedure. An example of an acceptable procedure would be: 
 
 You are trying to time how fast your little brother can run. Initially you do this in your hallway but you realize you are getting inaccurate results. You take him to a track and restart the experiment in a way that is less sensitive to the initial conditions. You make a note next to the data you collected with a procedure you believe to be less reliable and then focus on the newly collected data in your analysis, but you do not delete the original data from your lab notebook.
-
-Sometimes it might not be clear what is acceptable. When in doubt please ask!
 
 --------
 
@@ -54,7 +52,7 @@ Sometimes it might not be clear what is acceptable. When in doubt please ask!
 
 ------------------------------
 
-You may find yourself in a situation where it isn't as clear what is acceptable as the examples we provided. When in doubt please ask. Both the class Piazza discussion board and office hours are great ways to reach out with questions!
+You may find yourself in a situation where it isn't as clear what is acceptable. When in doubt please ask. Both the class Piazza discussion board and office hours are great ways to reach out with questions!
 
 ## Background Reading
 
