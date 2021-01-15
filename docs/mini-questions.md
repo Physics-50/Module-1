@@ -84,7 +84,7 @@ On this page you will find all of the mini-questions for Module 1. Although each
 
 -----
 #### Miniquestion: Reporting Significant Figures
-[*Click here to open in a new tab*](hhttps://forms.gle/9FnE5SnK7z5i9QNWA){:target="_blank"}
+[*Click here to open in a new tab*](https://forms.gle/9FnE5SnK7z5i9QNWA){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScXf6FeCt2rfBGMoQ7bln9a56mMxyHwQ0e8aYBs9vjnH9Yd6A/viewform?embedded=true" width="640" height="600" frameborder="1" marginheight="10" marginwidth="0">Loading…
 </iframe>
