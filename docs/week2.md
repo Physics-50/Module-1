@@ -127,13 +127,13 @@ At the end of the exploratory observations, we can now complete an Experimental 
 
 Please answer the following questions and paste your responses into the appropriates boxes for [checkpont 2 on Gradescope](https://www.gradescope.com/courses/216639/assignments/904967){:target="_blank"} by the end Week 2.
 
-+ Question 1: Independent Variable - Your independent variable will be the mass. Please describe the procedure by which you will vary the mass. You should plan to test at least 3 different masses. Expected response: 1-2 sentences.
++ Question 1: Independent Variable - Your independent variable will be the mass. Please describe the procedure by which you will vary the mass. You should plan to test at least 5 different masses. Keep your response to 1-2 sentences.
 
 + Question 2: Controlled variables - What factors are you going to control (hold constant)? For each factor please include (in one sentence) relevant details as to the procedure you will use to hold the variable constant. These details should be quantitative where appropriate (e.g. it would be a good idea to control the rate at which you raise the ramp. A strong experimental plan would include an estimate of the rate at which you will raise the ramp.) Expected response: list of variables to be controlled with a one sentence description of relevant details for each variable.
 
-+ Question 3: Measurement of critical angle - The Phyphox app will continuously measure the angle of your phone. How will you accurately read out the angle corresponding to the critical angle. Expected response: 2-3 sentences.
++ Question 3: Measurement of critical angle - The Phyphox app will continuously measure the angle of your phone. How will you accurately read out the angle corresponding to the critical angle. Keep your response to 1-2 sentences.
 
-+ Question 4: Data collection - How many data points will you take? (Given the spread of your preliminary data, think about an acceptable random uncertainty to observe an effect. You should follow a similar approach to the "How Many Trials" mini-question to make this estimate). In what order will you take the data points? (think about shuffling the order of data points you take). Expected response: 2-4 sentences
++ Question 4: Data collection - How many data points will you take? (Given the spread of your preliminary data, think about an acceptable random uncertainty to observe an effect. You should follow a similar approach to the "How Many Trials" mini-question to make this estimate). In what order will you take the data points? (think about shuffling the order of data points you take). 
 
 + Question 5: Testing of Hypothesis - Based on the data you will obtain, how will you test the hypothesis? Expected response: 1-2 sentences.
 
