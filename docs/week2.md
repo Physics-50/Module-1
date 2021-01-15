@@ -21,7 +21,7 @@
 
 #### 1 Perform a Single Measurement
 
-From Week 1, you should have completed a single measurement of the critical angle and its resolution uncertainty $$\theta_c \pm \delta_\mathrm{res.}\theta_c$$. From that you propagated the uncertainty to calculate $$ \mu_s \pm \delta_\mathrm{res.} \mu_s$$, and concluded that your result was reasonable. If that isn't the case, please revisit [Week 1](week1) and [ask for help on Piazza](https://piazza.com/class/kdyuyniyaz052s){:target="_blank"} or [come to Office Hours](https://sakai.claremont.edu/portal/site/CX_mtg_130832/page/8bb99f43-12a4-4f97-8e47-802814328a26){:target=_"blank"}. 
+From Week 1, you should have completed a single measurement of the critical angle and its resolution uncertainty $$\theta_c \pm \delta_\mathrm{res.}\theta_c$$. From that you propagated the uncertainty to calculate $$ \mu_s \pm \delta_\mathrm{res.} \mu_s$$, and concluded that your result was reasonable. If that isn't the case, please revisit [Week 1](week1) and [consult your classmates on Piazza](https://piazza.com/class/kijtj4yqer66na){:target="_blank"} or [come to Office Hours](https://sakai.claremont.edu/portal/site/CX_mtg_130832/page/8bb99f43-12a4-4f97-8e47-802814328a26){:target=_"blank"}. 
 
 
 #### 2 Perform a preliminary test of the hypothesis
