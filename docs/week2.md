@@ -86,8 +86,6 @@ From this preliminary test of repeatability, we would like to get an idea of wha
 
 + How many data points would you need to take in order for any effect due to changing mass to be larger than your random uncertainty? 
 
-Remember our goal is to make the strongest conclusion we can, which involves minimizing the experimental uncertainty. But more trials will take more time to perform,and there are diminishing returns to taking more datapoints. There is no right answer for balancing these two, but decide on the number of datapoints you will take and explain your reasoning in your experimental design.
-
 
 #### Miniquestion: How Many Trials
 *[Click here to open in a new tab](https://forms.gle/Zc7GbHhS1ySxQbnFA){:target="_blank"}*
@@ -96,6 +94,7 @@ Remember our goal is to make the strongest conclusion we can, which involves min
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe7JH6ImWbMSDfMZkXMq2pYSVCpLyeMy4QVmInBqcK7j2yNqw/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
+Remember our goal is to make the strongest conclusion we can, which involves minimizing the experimental uncertainty. But more trials will take more time to perform,and there are diminishing returns to taking more datapoints. There is no right answer for balancing these two, but if your calculations suggest you need 10,000 data points to achieve your desired resolution your time might want to redesing the experiment. While there is no magic number, for the purpose of this course, balancing realistical expectations on your time, we will generally be satisfied with 5 data points. Anything less than this becomes very suspect in terms of statistical analysis, but we do want to respect realistic limits on your time and encourage you to be mindful of this as well. This means that for this experiment we expect you to look at 5 different masses and collect 5 data points for each mass. This "rule of thumb" will set our expectations throughout the course.
 
 
 #### 4 Explore Other Factors
@@ -133,9 +132,9 @@ Please answer the following questions and paste your responses into the appropri
 
 + Question 3: Measurement of critical angle - The Phyphox app will continuously measure the angle of your phone. How will you accurately read out the angle corresponding to the critical angle. Keep your response to 1-2 sentences.
 
-+ Question 4: Data collection - How many data points will you take? (Given the spread of your preliminary data, think about an acceptable random uncertainty to observe an effect. You should follow a similar approach to the "How Many Trials" mini-question to make this estimate). In what order will you take the data points? (think about shuffling the order of data points you take). 
++ Question 4: It is important to have a plan for how many trials you will take as well as the order in which you will collect your data. How many trials per mass? How to order the measurements?
 
-+ Question 5: Testing of Hypothesis - Based on the data you will obtain, how will you test the hypothesis? Expected response: 1-2 sentences.
++ Question 5: Testing of Hypothesis - Based on the data you will obtain, how will you test the hypothesis? Keep your response to: 1-2 sentences.
 
 + And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-2){:target="_blank"}
 
