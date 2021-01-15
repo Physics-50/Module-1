@@ -75,7 +75,7 @@ We can now try to think of a hypothesis we can test with an experiment. As a qui
 
 -----
 
-Based on this answer, try to come up with some hypotheses you could try to test. The theory makes specific predictions, and you can use those predictions to form the basis of a hypothesis. Post some of your ideas and check out others [on the "Hypotheses" note on Piazza](https://piazza.com/class/kdyuyniyaz052s?cid=7){:target="_blank"}.
+Based on this answer, try to come up with some hypotheses you could try to test. The theory makes specific predictions, and you can use those predictions to form the basis of a hypothesis. Post some of your ideas and check out others [on the "Hypotheses" note on Piazza](https://piazza.com/class/kijtj4yqer66na){:target="_blank"}.
 
 **For Module 1 we will all test the same hypothesis. The hypothesis we will test is:**
 
@@ -91,13 +91,13 @@ You will need a "block" and a "ramp" (e.g. a hard pencil case on a hardcover tex
 + when you tilt the ramp, the block needs to slide without rolling or tipping
 + a way to add mass to the block without changing the surfaces in contact between the block and ramp
 
-Share your ideas and check out what others are doing at [Piazza: Instrumentation for Module 1](https://piazza.com/class/kdyuyniyaz052s?cid=8){:target="_blank"}.
+Share your ideas and check out what others are doing at [Piazza: Instrumentation for Module 1](https://piazza.com/class/kijtj4yqer66na){:target="_blank"}.
 
 To measure the angle we will use your phone or a tablet as the tool. Please go to [phyphox.org](https://phyphox.org){:target="_blank"} (or to the app store on your device) and download the phyphox app. After downloading, find the "Inclination" tool and test that it works correctly with your phone.
 
 <img src="images/phyphox.png" alt="phyphox.org inclination tool" width="400"/>
 
-Make note of your equipment in your lab notebook (record keeping is so important) and record any other notes you think might be helpful if someone else was trying to replicate your setup. 
+Make note of your equipment in your lab notebook (record keeping is important) and record any other notes you think might be helpful if someone else was trying to replicate your setup. 
 
 ## Exploratory Measurements
 
@@ -113,7 +113,7 @@ For your exploratory measurements in Module 1, we would like you to do the follo
 
 + Check other factors that might affect your measurement (this is where you get to play!)
 
-The steps below guide you through these four items, and provide links to important concepts (so please follow along carefully). Make sure you are recording your exploratory observations as you go so that you have a record of them (reminder: we have set up [a spreadsheet for you on Google Classroom](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MTI3ODQ4MDY2NDMx/details){:target="_blank"}, use the "Exploratory Observations" tab to record your data in this section).
+The steps below guide you through these four items, and provide links to important concepts (so please follow along carefully). Make sure you are recording your exploratory observations as you go so that you have a record of them (reminder: we have set up [a spreadsheet for you on Google Classroom](https://classroom.google.com/c/MjUxNTgyMzY1MDM5/a/MjUxNTgyMzY1MDQ5/details){:target="_blank"}, use the "Exploratory Observations" tab to record your data in this section).
 
 
 #### 1 Perform a Single Measurement
