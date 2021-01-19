@@ -12,7 +12,7 @@ On this page you will find all of the mini-questions for Module 1. Although each
 
 --------
 
-#### Miniquestion: Acceptable forms of collaboration
+#### Miniquestion: 1. Acceptable forms of collaboration
 *[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSc1cnV36goAOx-2CoKGTioDpyajLhYshON1zceV19wu0WG5wQ/viewform){:target="_blank"}*
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc1cnV36goAOx-2CoKGTioDpyajLhYshON1zceV19wu0WG5wQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
@@ -20,28 +20,28 @@ On this page you will find all of the mini-questions for Module 1. Although each
 
 ------------------------------
 
-#### Miniquestion: Handling data
+#### Miniquestion: 2. Handling data
 *[Click here to open in a new tab](https://forms.gle/vuCCDuDNYRaWeC7e6){:target="_blank"}*
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeAKMIHuPP0wX4WZKX78GnCsjuOFV63meAfYjctYu1r6kWlMg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 ------------------------------
-#### Miniquestion: Critical Angle Factors
+#### Miniquestion: 3. Critical Angle Factors
 [*Click here to open in a new tab*](https://forms.gle/LbZ62rJKbnku1Btv9){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfFH6ZBvZzAlN_LNJQqnmFCPN97KyLGW44mU-AsTd_XSAxcTw/viewform?embedded=true" width="640" height="600" frameborder="1" marginheight="10" marginwidth="0">Loading…
 </iframe>
 
 -----------
 
-#### Miniquestion: Uncertainty Propagation
+#### Miniquestion: 4. Uncertainty Propagation
 [*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSdGBpAsDmSC8Ndwu0ksH5ViBPUN4lclLMx04Tl8R2vVia4pQw/viewform){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdGBpAsDmSC8Ndwu0ksH5ViBPUN4lclLMx04Tl8R2vVia4pQw/viewform?embedded=true" width="640" height="600" frameborder="1" marginheight="10" marginwidth="0">Loading…
 </iframe>
 
 ------------
 
-#### Miniquestion: Calculating coefficient of static friction and resolution uncertainty
+#### Miniquestion: 5. Calculating coefficient of static friction and resolution uncertainty
 [*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSdKSGfERWII08uU0DZio3Wtcul85SiBFLkbG44IAQgMJg4hMg/viewform?usp=sf_link){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKSGfERWII08uU0DZio3Wtcul85SiBFLkbG44IAQgMJg4hMg/viewform?embedded=true" width="640" height="600" frameborder="1" marginheight="10" marginwidth="0">Loading…
@@ -49,7 +49,7 @@ On this page you will find all of the mini-questions for Module 1. Although each
 
 -------------
 
-#### Miniquestion: Mailing Address
+#### Miniquestion: 6. Mailing Address
 [*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSc-Z5SUG8NmNFJhllyxUmiR3bxDAAo4I5Bpv4-vO9Y64hfyew/viewform){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc-Z5SUG8NmNFJhllyxUmiR3bxDAAo4I5Bpv4-vO9Y64hfyew/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
