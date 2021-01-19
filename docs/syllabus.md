@@ -62,7 +62,7 @@ The end-of-module deliverables focus on the critical skill of scientific communi
 The course grade will be calculated based upon your performance on each of the three modules, which are weighted equally. For each module, your grade will be based upon your timely completion of the reading miniquestions (15%) and checkpoints (25%), and upon the quality of your module deliverable (60%). All three modules must be satisfactorily completed to pass this course. 
 
 # Late Policy
-Late work will be accepted within the windows listed below with the following deductions:
+Late work will be accepted within the windows listed below with the following deductions. These deductions are based on the available points for the item, not your score:
 
 ## Miniquestions
 + Up to 24 hours past the deadline: 10%
