@@ -55,8 +55,7 @@ At the end of each week you will complete a weekly checkpoint and submit it via 
 The end-of-module deliverables focus on the critical skill of scientific communication. In physics, the process of writing often begins with creating a sequence of figures with captions. This visual outlining procedure lays the groundwork for all the details that eventually fill in the space in between the figures. The module deliverables are structured to guide you through this physics writing process. Detailed instructions for each deliverable will be provided in each module website (linked from Sakai), but briefly:
 
 + For Module I, you will create a figure with a caption that summarizes the result of your experiment. 
-+ For Module II, you will create a sequence of 2-3 figures that, along with captions, effectively tell the story of your Module II experiment: what you did, and what your results mean. 
-+ For Module III, you will create a poster that contains 3 or 4 figures with captions, as well as concise paragraphs and clear headings to help flesh out the story of your experiment and your results.
++ For Modules II and III, you will create a sequence of 3 figures that, along with captions, effectively tell the story of your Module II experiment: what you did, and what your results mean. 
 
 # Grading
 The course grade will be calculated based upon your performance on each of the three modules, which are weighted equally. For each module, your grade will be based upon your timely completion of the reading miniquestions (15%) and checkpoints (25%), and upon the quality of your module deliverable (60%). All three modules must be satisfactorily completed to pass this course. 
