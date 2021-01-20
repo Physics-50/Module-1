@@ -113,14 +113,14 @@ Figure 1. Coefficient of static friction depends on the location of the tuna can
 
 
 #### Your figure must include:
-1 Panel (a) featuring a photo of your experimental setup with
+1. Panel (a) featuring a photo of your experimental setup with
   - a **scale bar** placed in a lower corner of the photo
   - minimal visual distractions 
-2 Panel (b) showing a plot of your data that includes
+2. Panel (b) showing a plot of your data that includes
   - **axes**, with axis labels, units, and tick marks
   - **data points**, with consistent data point symbols
   - **error bars**, attached to the individual data points
-3 A caption that includes
+3. A caption that includes
   - a **title sentence:** (with a verb) that briefly states what to conclude from the figure
   - A description of panel (a), including 
     - a brief **explanation of the experiment**
