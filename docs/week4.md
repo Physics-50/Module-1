@@ -29,7 +29,7 @@ The fundamental elements that a figure with a plot needs to be effective are:
 
 + **Title sentence:** This short sentence (with a verb!) explains the point of what is shown in the figure. It tells the reader what your data mean and ideally this clearly connects to the main result (thesis) of the paper.
 
-+ **Connection to data** The caption must make a direct connection between what is shown in the plot and the claim made in the title sentence.
++ **Connection to data:** The caption must make a direct connection between what is shown in the plot and the claim made in the title sentence.
 
 + **(optional) Panel title:** If the figure has multiple panels (or an inset plot within the main plot), each panel or plot gets its own brief title. This is almost always a phrase, without a verb. For a panel with a plot, it is usually a statement of axis labels (see next bullet point).
 
