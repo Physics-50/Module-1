@@ -29,9 +29,11 @@ The fundamental elements that a figure with a plot needs to be effective are:
 
 + **Title sentence:** This short sentence (with a verb!) explains the point of what is shown in the figure. It tells the reader what your data mean and ideally this clearly connects to the main result (thesis) of the paper.
 
++ **Connection to data** The caption must make a direct connection between what is shown in the plot and the claim made in the title sentence.
+
 + **(optional) Panel title:** If the figure has multiple panels (or an inset plot within the main plot), each panel or plot gets its own brief title. This is almost always a phrase, without a verb. For a panel with a plot, it is usually a statement of axis labels (see next bullet point).
 
-+ **Statement of axis labels:** If any axes are labeled using mathematical symbols, those symbols must be defined using words in the caption.
++ **(optional) Statement of axis labels:** If any axes are labeled using mathematical symbols, those symbols must be defined using words in the caption.
 
 + **(optional) Definition of data point symbols:** If there is more than one data set shown in the plot, each data point symbol must be defined. Typically this is done in the caption, not in a legend.
 
@@ -60,6 +62,8 @@ In the figure itself
 
 + **Title sentence:** This short sentence (with a verb!) explains the point of what is shown in the figure. It tells the reader what your data mean and ideally this clearly connects to the main result (thesis) of the paper.
 
++ **Connection to data** The caption must make a direct connection between what is shown in the figure and the claim made in the title sentence.
+
 + **(optional) Panel title:** If the figure has multiple panels, each panel gets its own brief title. This is almost always a phrase, without a verb. 
 
 + **(optional) Definition of scale bar:** If the scale bar length is not shown in the figure, it must be clearly defined in the caption.
@@ -85,7 +89,7 @@ Here is an annotated example of a figure without a plot, taken from [this articl
 ## Guide to MATLAB plotting and figure assembly in Powerpoint
 
 
-**We strongly recommend** that you learn how to plot your data using MATLAB by following the steps we've outlined in the [MATLAB Plotting + Powerpoint Figure Assembly Guide](plotting-guide){:target="_blank"}. There's also some important information there about how to make your plots and figures easier to read.   
+**In Physics 50 you will use MATLAB** to plot your data. To help you get started, we have outlined the essential steps in the [MATLAB Plotting + Powerpoint Figure Assembly Guide](plotting-guide){:target="_blank"}. There's also some important information there about how to make your plots and figures easier to read.   
 
 <br>
 <br>
@@ -108,24 +112,24 @@ In your experiment, you explored the effect of mass on the coefficient of static
 Figure 1. Coefficient of static friction depends on the location of the tuna can on the cutting board. (a) Experimental setup. The coefficient of static friction was determined by measuring the critical angle for two different starting locations of a tuna can on a cutting board. Scale bar: 5 cm. (b) The two values do not agree within the error bars, which indicate the standard error of the mean.
 
 
-
-#### Your figure should include:
-+ a visual representation of your experimental setup (a photo or clearly drawn schematic drawing) 
-+ a plot with the data that supports the conclusion you've drawn
-+ a caption
-
-#### Your figure will be evaluated on (in order of decreasing weight):
-1. accuracy: Does the figure accurately characterize your experiment? Are the data, uncertainties, scale bars, conclusion etc. correctly determined from what you measured? Are the units of any values correct?
-
-2. experimental procedure: Do the results show evidence of careful and thoughtful experimentation? 
-
-3. plot of the data: Is the plot clearly laid out and properly labeled? Does it contain all of the required items from the guidelines above?
-
-4. caption: Does the caption summarize the results of your experiment? Does it contain all of the required items from the guidelines above?
-
-5. visual representation of your experimental setup: Is your photo or schematic clear and free of visual distractions? Is there a scale bar included? 
-
-6. aesthetic clarity: Are all displayed objects (e.g. text, images, data points, lines) large enough to be visible and not pixelated? Was some consideration given to "salience" and "simplicity"? ([described here](plotting-guide#plotting-the-example-data){:target="_blank"}) Is the figure laid out in a way that flows well and is easy to follow?
+#### Your figure must include:
++ Panel (a) featuring a photo of your experimental setup with
+ + a **scale bar** placed in a lower corner of the photo
+ + minimal visual distractions 
++ Panel (b) showing a plot of your data that includes
+ + **axes**, with axis labels, units, and tick marks
+ + **data points**, with consistent data point symbols
+ + **error bars**, attached to the individual data points
++ a caption that includes
+ + a **title sentence:** (with a verb) that briefly states what to conclude from the figure
+ + A description of panel (a), including 
+  + a brief **explanation of the experiment**
+  + a definition of the **scale bar**
+ + A description of panel (b), including
+  + a **connection to data** sentence that directly connects your conclusion to the data shown in the plot
+  + a definition of the **error bars**
+ 
+Can you find each of these elements in the above example figure?
 
 Please upload your figure to [gradescope](https://www.gradescope.com/courses/216639/assignments/906819) according to the instructions provided there (note that you will have to upload it more than once). Make sure to include both the figure and caption.
 
