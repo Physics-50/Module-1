@@ -133,4 +133,7 @@ Can you find each of these elements in the above example figure?
 
 Please upload your figure to [gradescope](https://www.gradescope.com/courses/216639/assignments/906819) according to the instructions provided there (note that you will have to upload it more than once). Make sure to include both the figure and caption.
 
+The tentative rubric that will be used to evaluate this checkpoint is provided below.
+IS A SCREENSHOT BEST? DON'T KNOW HOW TO DO THIS
+
 Don't forget to double-check that you've completed the miniquestion for this week. You can find this week's mini-question [here](mini-questions#week-4).
