@@ -8,6 +8,12 @@ E. Connolly (connolly@hmc.edu)<br>
 T. Donnelly (Tom_Donnelly@hmc.edu)<br>
 S. Gerbode (gerbode@hmc.edu)
 
+Graders:
+Kathleen Durkin
+Madison Hobbs
+Amy Qian
+
+
 # Physics 50 Syllabus
 
 + [Reading and Miniquestions](#reading-and-miniquestions)
