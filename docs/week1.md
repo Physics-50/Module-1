@@ -192,7 +192,9 @@ Before we wrap up week 1, we need your mailing address to send you an experiment
 
 ## Sample Rubric for Grading of Checkpoint 1
 
-The first checkpoint will be graded primarily on completion. To ensure you are on the correct track heading into week 2, we are providing a draft grading rubric. Please recognize that while we plan to follow this rubric we may make adjustments if needed. The checkpoint is graded out of 10 points.
+The first checkpoint will be graded primarily on completion. We are providing a draft grading rubric. These deductions are intended primarily to ensure you are prepared for week 2 and to be successful in the module. On this and all checkpoints please take even small deductions seriously. For example, deductions such as the 0.2 point deduction at the end of this rubric are intended to point out issues that we do not want to penalize in a substantial way on an early checkpoint but that you will need to address in order to move forward successfully. Please recognize that while we plan to follow this rubric we may make adjustments if needed. These adjustmets may include zero point deductions. Please don't assume that becasue a deduction is zero points it isn't important. It may be for an important error that we chose not to take off points for at an early stage in the course but are more likely to deduct points for next time. Since the deductions are intended to provide feedback to help you be successful on future checkpoints, if you don't understand our suggestions, please stop by office hours to talk to us.
+
+The checkpoint is graded out of 10 points.
 
 **Anticipated week 1 checkpoint deductions:**
 + Incorrect result for the sample calculation of the $$\mu_s$$ [-1 point]
