@@ -185,10 +185,21 @@ Before we wrap up week 1, we need your mailing address to send you an experiment
 --------------
 ## Checkpoint 1
 
-+ [Submit the results of your single measurement on Gradescope](https://www.gradescope.com/courses/216639/assignments/904955){:target="_blank"}
+
++ [Submit the results of your single measurement on Gradescope](https://www.gradescope.com/courses/216639/assignments/904955){:target="_blank"}. The Gradescope assignment includes a sample calculation to ensure you are calculating $$\mu_s$$ and propogating the uncertainty correctly.
 
 + And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-1){:target="_blank"}
 
+## Sample Rubric for Grading of Checkpoint 1
 
+The first checkpoint will be graded primarily on completion. To ensure you are on the correct track heading into week 2, we are providing a draft grading rubric. Please recognize that while we plan to follow this rubric we may make adjustments if needed. The checkpoint is graded out of 10 points.
+
+**Anticipated week 1 checkpoint deductions:**
++ Incorrect result for the sample calculation of the $$\mu_s$$ [-1 point]
++ Sample Calculation: Incorrect result for the propogated resolution uncertainty [-1 point]
++ Reported critical angle departs substantially from expectations [-1 point]
++ $$\mu_s$$ calculated incorrectly [-1 point]
++ Propogated resolution uncertainty departs substantially from expectations [-1 point]
++ Possible issues with your choice of block and ramp. For example, do you have a plan on how to add mass to your "block" [-0.2 points]
 
 When you're all finished and ready to move on, you can start [Week 2 - Exploratory Phase (part 2)](week2).
