@@ -89,7 +89,7 @@ To make the important parts stand out and the plot more readable, we add the fol
 errorbar(distances,mus,muerrors,'ko','MarkerFaceColor','k','LineWidth',1,'MarkerSize',7); % plot the data
 ```
 
-+ increasing the font size to 18 pt for the axes labels and 14 pt for tick labels (lines 37-38)
++ increasing the font size to 18 pt for the axes labels and 14 pt for tick labels (lines 36-39)
 ``` MATLAB
 ax = gca; % gca means get current axes, so ax is a handle to the axes object
 ax.FontSize = 14; % sets the default font size for axis and tick labels - this is how to set tick font size
@@ -97,10 +97,10 @@ xlabel('distance from bottom of cutting board (cm)','FontSize',18); %label x axi
 ylabel('coefficient of static friction \mu_s','FontSize',18); % label y axis (backslash for Greek symbols), increasing FontSize for "salience" 
 ```
 
-+ reducing the number of tick marks (line 40-41)
++ reducing the number of tick marks (line 41-42)
 ``` MATLAB
-set(gca,'XTick',[0, 10, 20, 30]); % set the x-tick locations manually (reduce number of ticks for "simplicity")
-set(gca,'YTick',[0.3, 0.4, 0.5]); % set the y-tick locations manually (reduce number of ticks for "simplicity")
+set(ax,'XTick',[0, 10, 20, 30]); % set the x-tick locations manually (reduce number of ticks for "simplicity")
+set(ax,'YTick',[0.3, 0.4, 0.5]); % set the y-tick locations manually (reduce number of ticks for "simplicity")
 ```
 
 The script saves the result as a jpeg image "static-friction-plot-improved.jpg" (line 43):
