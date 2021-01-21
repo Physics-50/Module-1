@@ -104,6 +104,7 @@ set(ax,'YTick',[0.3, 0.4, 0.5]); % set the y-tick locations manually (reduce num
 ```
 
 The script saves the result as a jpeg image "static-friction-plot-improved.jpg" (line 43):
+
 <img src="images/static-friction-plot-improved.jpg" alt="Improved plot with error bars" width=350 />
 
 
