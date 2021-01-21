@@ -200,6 +200,6 @@ The first checkpoint will be graded primarily on completion. To ensure you are o
 + Reported critical angle departs substantially from expectations [-1 point]
 + $$\mu_s$$ calculated incorrectly [-1 point]
 + Propogated resolution uncertainty departs substantially from expectations [-1 point]
-+ Possible issues with your choice of block and ramp. For example, do you have a plan on how to add mass to your "block" [-0.2 points]
++ Possible issues with your choice of block and ramp. For example, do you have a plan on how to add mass to your "block"? [-0.2 points]
 
 When you're all finished and ready to move on, you can start [Week 2 - Exploratory Phase (part 2)](week2).
