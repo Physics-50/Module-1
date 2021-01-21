@@ -8,9 +8,9 @@ E. Connolly (connolly@hmc.edu)<br>
 T. Donnelly (Tom_Donnelly@hmc.edu)<br>
 S. Gerbode (gerbode@hmc.edu)
 
-Graders:
-Kathleen Durkin
-Madison Hobbs
+Graders:<br>
+Kathleen Durkin <br>
+Madison Hobbs<br>
 Amy Qian
 
 
