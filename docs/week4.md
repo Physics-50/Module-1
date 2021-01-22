@@ -109,7 +109,7 @@ In your experiment, you explored the effect of mass on the coefficient of static
 
 
 ![figure example](images/SampleFigureModI_fivePointsPanelAandB.png)
-Figure 1. Coefficient of static friction depends on the location of the tuna can on the cutting board. (a) Experimental setup. The coefficient of static friction was determined by measuring the critical angle for two different starting locations of a tuna can on a cutting board. Scale bar: 5 cm. (b) The values do not agree within their error bars, which indicate the standard error of the mean.
+Figure 1. Coefficient of static friction depends on the location of the tuna can on the cutting board. (a) Experimental setup. The coefficient of static friction was determined by measuring the critical angle for two different starting locations of a tuna can on a cutting board. Scale bar: 5 cm. (b) The coefficient of static friction is not independent of position, since the values do not agree within their error bars (standard error of the mean).
 
 
 #### Your figure must include:
