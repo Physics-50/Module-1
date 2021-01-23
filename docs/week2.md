@@ -138,11 +138,16 @@ Please answer the following questions and paste your responses into the appropri
 
 + And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-2){:target="_blank"}
 
-## Sample Rubric for Grading of Checkpoint 1
 
-The first checkpoint will be graded primarily on completion. To ensure you are on the correct track heading into week 2, we are providing a draft grading rubric. Please recognize that while we plan to follow this rubric we may make adjustments if needed. The checkpoint is graded out of 10 points.
+## Anticipated week 2 checkpoint deductions:
+The checkpoint will be graded out of 14 points.
 
-**Anticipated week 1 checkpoint deductions:**
++ Independent Variable
+    - Your explanation does not make it clear that other parameters which might influence the results (size, shape, materials in contact) will remain the same as the mass is varied [-0.25 points]
+    - Your explanation does not state what range of masses will be explored (Ok to state the range using nontraditional units) [-0.25 points]
+    - The grader cannot follow the student's plan for varying the mass. [-1.5 points]
++ Dependent Variable
+    - Deductions ranging from 0.5 points to 
 ## Final Note
 
 In the diagram at the top of the page, the arrows come full-circle and suggest that we may not be done. Although we have come up with an experimental design, we could return to some background reading to make sure that we are exploring hasn't been done already. We could, for example continue doing background reading to refine our experimental design and hypothesis by [searching Google Scholar for academic articles related to  our topic/hypothesis](https://scholar.google.com/scholar?q=critical+angle+and+the+coefficient+of+static+friction). The first search result, for example, measured $$\mu_s$$ for lubricated surfaces and found that the measured $$\mu_s$$ might depend on mass based on the type of lubricant. Although this type of hypothesis refinement frequently happens in experimental research, it is beyond the scope of our learning objectives in Physics 50. 
