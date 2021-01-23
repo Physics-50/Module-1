@@ -139,6 +139,6 @@ The tentative rubric that will be used to evaluate this checkpoint is provided b
 
 *Click on the below images to enlarge in a new tab:*
 [![Figure Mechanics Rubric](images/Mod1Deliverable_FigMechanicsRubric.png)](images/Mod1Deliverable_FigMechanicsRubric.png){:target="_blank"}
-![Caption Mechanics rubric](images/Mod1Deliverable_CapMechanicsRubric.png)(images/Mod1Deliverable_CapMechanicsRubric.png){:target="_blank" rel="noopener"}
+[![Caption Mechanics rubric](images/Mod1Deliverable_CapMechanicsRubric.png)](images/Mod1Deliverable_CapMechanicsRubric.png){:target="_blank" }
 
 Don't forget to double-check that you've completed the miniquestion for this week. You can find this week's mini-question [here](mini-questions#week-4){:target="_blank"}.
