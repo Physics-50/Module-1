@@ -138,7 +138,7 @@ Please upload your figure to [gradescope](https://www.gradescope.com/courses/216
 The tentative rubric that will be used to evaluate this checkpoint is provided below. Please keep in mind that these rubric items are subject to change as we can never foresee all the issues that may arise. This is meant to give you a sense of how it will be graded.
 
 *Click on the below images to enlarge in a new tab:*
-![Figure Mechanics Rubric][(images/Mod1Deliverable_FigMechanicsRubric.png)](images/Mod1Deliverable_FigMechanicsRubric.png){:target="_blank"}
+[![Figure Mechanics Rubric](images/Mod1Deliverable_FigMechanicsRubric.png)](images/Mod1Deliverable_FigMechanicsRubric.png){:target="_blank"}
 ![Caption Mechanics rubric](images/Mod1Deliverable_CapMechanicsRubric.png)(images/Mod1Deliverable_CapMechanicsRubric.png){:target="_blank" rel="noopener"}
 
 Don't forget to double-check that you've completed the miniquestion for this week. You can find this week's mini-question [here](mini-questions#week-4){:target="_blank"}.
