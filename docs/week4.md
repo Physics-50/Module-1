@@ -109,31 +109,36 @@ In your experiment, you explored the effect of mass on the coefficient of static
 
 
 ![figure example](images/SampleFigureModI_fivePointsPanelAandB.png)
-Figure 1. Coefficient of static friction depends on the location of the tuna can on the cutting board. (a) Experimental setup. The coefficient of static friction was determined by measuring the critical angle for two different starting locations of a tuna can on a cutting board. Scale bar: 5 cm. (b) The values do not agree within their error bars, which indicate the standard error of the mean.
+Figure 1. Coefficient of static friction depends on the location of the tuna can on the cutting board. (a) Experimental setup. The coefficient of static friction was determined by measuring the critical angle for two different starting locations of a tuna can on a cutting board. Scale bar: 5 cm. (b) The coefficient of static friction is not independent of position, since the values do not agree within their error bars (standard error of the mean).
 
 
 #### Your figure must include:
 1. Panel (a) featuring a photo of your experimental setup with
-  + a **scale bar** placed in a lower corner of the photo
-  + minimal visual distractions 
+   + a **scale bar** placed in a lower corner of the photo
+   + minimal visual distractions 
 2. Panel (b) showing a plot of your data that includes
-  + **axes**, with axis labels, units, and tick marks
-  + **data points**, with consistent data point symbols
-  + **error bars**, attached to the individual data points
-3. A caption that includes
-  + a **title sentence:** (with a verb) that briefly states what to conclude from the figure
-  + A description of panel (a), including 
-    - a brief **explanation of the experiment**
-    - a definition of the **scale bar**
-  + A description of panel (b), including
-    - a **connection to data** sentence that directly connects your conclusion to the data shown in the plot
-    - a definition of the **error bars**
+   + **axes**, with axis labels, units, and tick marks
+   + **data points**, with consistent data point symbols
+   + **error bars**, attached to the individual data points
+   
+The figure must also include a caption with the following:
+1. A **title sentence** (with a verb) that briefly states what to conclude from the figure
+
+2. A description of panel (a), including 
+   + a brief **explanation of the experiment**
+   + a definition of the **scale bar**
+3. A description of panel (b), including
+   + a **connection to data** sentence that directly connects your conclusion to the data shown in the plot
+   + a definition of the **error bars**
  
 Can you find each of these elements in the above example figure?
 
 Please upload your figure to [gradescope](https://www.gradescope.com/courses/216639/assignments/906819) according to the instructions provided there (note that you will have to upload it more than once). Make sure to include both the figure and caption.
 
-The tentative rubric that will be used to evaluate this checkpoint is provided below.
-IS A SCREENSHOT BEST? DON'T KNOW HOW TO DO THIS
+The tentative rubric that will be used to evaluate this checkpoint is provided below. Please keep in mind that these rubric items are subject to change as we can never foresee all the issues that may arise. This is meant to give you a sense of how it will be graded.
+
+[*Click on the below images to enlarge in a new tab:*]
+![Figure Mechanics Rubric](images/Mod1Deliverable_FigMechanicsRubric.png)(images/Mod1Deliverable_FigMechanicsRubric.png){:target="_blank"}
+![Caption Mechanics rubric](images/Mod1Deliverable_CapMechanicsRubric.png)(images/Mod1Deliverable_CapMechanicsRubric.png){:target="_blank"}
 
 Don't forget to double-check that you've completed the miniquestion for this week. You can find this week's mini-question [here](mini-questions#week-4).

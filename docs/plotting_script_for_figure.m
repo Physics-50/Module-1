@@ -3,9 +3,9 @@ close all; % close all figure windows
 clearvars; % clear variables from the workspace
 
 %% import data (manual entry)
-distances = [5, 12, 18, 25, 30]; % distance from the bottom of the cutting board in cm  
-mus = [0.495, 0.51, 0.421, 0.462, 0.372];  % measured coefficient of friciton
-muerrors = [0.009, 0.018, 0.012, 0.014, 0.017]; % uncertainty in the coefficient of friciton
+distances = [5, 30]; % distance from the bottom of the cutting board in cm  
+mus = [0.49512, 0.37151];  % measured coefficient of friciton
+muerrors = [0.00923, 0.0173]; % uncertainty in the coefficient of friciton
 
 %% plot the data -- basic version
 fig1 = figure('color','w'); % create a new figure window
