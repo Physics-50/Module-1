@@ -143,9 +143,9 @@ Please answer the following questions and paste your responses into the appropri
 The checkpoint will be graded out of 15 points.
 
 + Independent Variable [2 points]
-    - Your explanation does not make it clear that other parameters which might influence the results (size, shape, materials in contact) will remain the same as the mass is varied [-0.25 points]
-    - Your explanation does not state what range of masses will be explored (Ok to state the range using nontraditional units) [-0.25 points]
-    - The grader cannot follow the student's plan for varying the mass. [-1.5 points]
+    - Deduction if your explanation does not make it clear that other parameters which might influence the results (size, shape, materials in contact) will remain the same as the mass is varied [-0.25 points]
+    - Deduction if your explanation does not state what range of masses will be explored (Ok to state the range using nontraditional units) [-0.25 points]
+    - Deduction if the grader cannot follow the student's plan for varying the mass. [-1.5 points]
 + Controlled  Variables [4 points]
     - Deductions ranging from 0.5 points to 2.0 points if description of how the tilting rate will be controlled is incomplete
     - Deduction of 0.5 to 1.0 points if consistent positioning of object on ramp is not adequately described
