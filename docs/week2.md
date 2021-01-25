@@ -154,6 +154,7 @@ The checkpoint will be graded out of 15 points.
     - For full credit you will need to propose a reasonable method to identify the maximum angle before the mass begins to slide that does not require fancy handiwork during the experiment.
 + Testing of hypothesis [3 points]
     - For full credit you will need to propose a reasonable method to assess your hypothesis that takes into consideration your experimental uncertainties.
++ Deductions will also be assessed for failing to submit the checkpoint on time as outlined in the course syllabus.
 
 ## Final Note
 
