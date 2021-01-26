@@ -204,7 +204,7 @@ Please submit the following to [Checkpoint #3 on Gradescope](https://www.gradesc
 
 + A screen-shot showing an organized spreadsheet used for data collection
 
-+ A histogram for each mass tested showing the distribution of the number of data points collected as a function of the angle $$\theta_c$$. You should have collected data for at least three different masses, with at least 5 data points for each mass.
++ A histogram for each mass tested showing the distribution of the number of data points collected as a function of the angle $$\theta_c$$. You should have collected data for five different masses, with 5 data points for each mass.
 
 + The value you obtained for the coefficient of static friction, $$\mu_s$$, for each mass, including the estimated uncertainty. Please make sure to use significant figures appropriately. If unsure please reread the section on significant figures, come to office hours to discuss, and/or consult your classmates through Piazza.
 
