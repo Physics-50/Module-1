@@ -6,6 +6,8 @@ This week we are going to generate a data set to test our hypothesis. This will 
 
 [Review: Estimating Uncertainties](#Review-of-uncertainty-estimation)
 
+[Reporting Data with Significant Figures](#reporting-data-with-significant-figures)
+
 [Data Collection for Week 3](#data-collection)
 
 ## Background Reading and Miniquestions
