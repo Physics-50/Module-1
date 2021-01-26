@@ -212,6 +212,11 @@ Please submit the following to [Checkpoint #3 on Gradescope](https://www.gradesc
 
 + A single-sentence, preliminary conclusion that you can draw about the hypothesis based on your experimental data
 
+## Grading Rubric
+The tentative rubric that will be used to evaluate this deliverable is provided below. Please keep in mind that these rubric items are subject to change as we can never foresee all the issues that may arise. This is meant to give you a sense of how it will be graded.
+
+**Click on the below images to enlarge in a new tab:**
+[![Figure Mechanics Rubric](images/Mod1Deliverable_FigMechanicsRubric.png)](images/Mod1Deliverable_FigMechanicsRubric.png){:target="_blank"}
 
 Don't forget to double check that you've completed [all of this week's miniquestions at this link.](mini-questions#week-3){:target="_blank"}
 
