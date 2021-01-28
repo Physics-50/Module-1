@@ -11,7 +11,7 @@
 6. Designing the Experiment (Week 2)
 
 --------------
-
+Please note that in order for the Google classroom link below to work you must first go to Google Classroom through a Chrome browser logged into your g.hmc.edu account and join the class with classroom code: ak7xp3q  - once you've done this once you will not have to log into Google classroom again and all links to documents we provide through Google classroom will work.
 
 We begin our investigation of measuring $$\mu_s$$ by doing an initial exploration. Our goal is to come up with a hypothesis to test and a plan for how we will do so (an experimental design). In the Exploratory Phase it can be especially important to take detailed notes. Organizing a digital lab notebook and data spreadsheet can be tricky, so for Week 1 we are providing a [template for you to follow along with that we've assigned from Google Classroom](https://classroom.google.com/u/0/w/MjUxNTgyMzY1MDM5/t/all){:target="_blank"}. The class code to join the Google classroom site is: ak7xp3q. Please make sure to join Google classroom from your g.hmc.edu account. Students from other Claremont colleges taking the course should consult HMC's CIS support if you have any issues - they will issue you a g.hmc.edu account.
 
@@ -185,6 +185,7 @@ Before we wrap up week 1, we need your mailing address to send you an experiment
 --------------
 ## Checkpoint 1
 
+Please note that the first time you access the class Gradescope site you need to do so through Sakai (using the Gradescope link from the items on the left). Once you have done so once all Gradescope links in the manual will work going forward.
 
 + [Submit the results of your single measurement on Gradescope](https://www.gradescope.com/courses/216639/assignments/904955){:target="_blank"}. The Gradescope assignment includes a sample calculation to ensure you are calculating $$\mu_s$$ and propogating the uncertainty correctly.
 
