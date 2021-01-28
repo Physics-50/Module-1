@@ -187,7 +187,7 @@ Before we wrap up week 1, we need your mailing address to send you an experiment
 --------------
 ## Checkpoint 1
 
-Please note that the first time you access the class Gradescope site you need to do so through Sakai (using the Gradescope link from the items on the left). Once you have done so once all Gradescope links in the manual will work going forward.
+**Please note that the first time you access the class Gradescope site you need to do so through Sakai (using the Gradescope link from the items on the left). Once you have done so once all Gradescope links in the manual will work going forward.**
 
 + [Submit the results of your single measurement on Gradescope](https://www.gradescope.com/courses/216639/assignments/904955){:target="_blank"}. The Gradescope assignment includes a sample calculation to ensure you are calculating $$\mu_s$$ and propogating the uncertainty correctly.
 
