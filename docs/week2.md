@@ -115,7 +115,7 @@ What combination of block/ramp might yield the best quality data?
 
 If any of these factors affect the measurement, which ones are most significant?
 
-*Note: If we didn't already have a hypothesis in mind, we could use this exploration to help generate a hypothesis. If you have an idea that comes out of your exploration, be sure to share it [here on Piazza](https://piazza.com/class/kdyuyniyaz052s?cid=7){:target="_blank"}!* 
+*Note: If we didn't already have a hypothesis in mind, we could use this exploration to help generate a hypothesis. 
 
 
 ## Checkpoint 2
