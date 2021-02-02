@@ -115,7 +115,10 @@ What combination of block/ramp might yield the best quality data?
 
 If any of these factors affect the measurement, which ones are most significant?
 
-*Note: If we didn't already have a hypothesis in mind, we could use this exploration to help generate a hypothesis. 
+*Note: If we didn't already have a hypothesis in mind, we could use this exploration to help generate a hypothesis.
+
+#### 5 Additional Considerations
+Another consideration when forming an experimental plan is the order in which to collect data. Like with other considerations our underlying goal is to achieve experimental results in which any trends in the data can provide useful insight for the hypothesis we are investigating.  This includes an accurate representation of meaningful trends in our data (i.e. how does our data change with respect to changes in the independent variable) and an accurate representation of the uncertainty in our data. Often our data is sensitive to drift. Drift can occur from parameters that might “drift” over time. Temperature and humidity are two common sources of experimental drift. While unintentional and unadvised, experimental protocols can also unintentionally change over time, even when we try very hard to be consistent. One way to reduce our sensitivity to drift is to randomize the order in which data is collected. This will not eliminate the drift, but it will reduce the likelihood that it affects our results in a systematic way.
 
 
 ## Checkpoint 2
