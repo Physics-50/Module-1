@@ -129,7 +129,7 @@ Designing the Experiment
 
 At the end of the exploratory observations, we can now complete an Experimental Design that will determine how the actual experiment will be performed. The first step of making an experimental design is to clearly articulate the hypothesis you are testing. For Module 1 it's "The coefficient of static friction between two surfaces as measured by the critical angle at which an object slips is independent of its mass."
 
-Please answer the following questions and paste your responses into the appropriates boxes for [checkpont 2 on Gradescope](https://www.gradescope.com/courses/216639/assignments/904967){:target="_blank"} by the end Week 2.
+Please answer the following questions and paste your responses into the appropriates boxes for [checkpont 2 on Gradescope](https://www.gradescope.com/courses/216639/assignments/904967){:target="_blank"} by the end Week 2. You are not expected to complete the experiment just this week, just to submit a plan. Next week you will collect your data for the experiment.
 
 + Question 1: Independent Variable - Your independent variable will be the mass. Please describe the procedure by which you will vary the mass. You should plan to test at least 5 different masses. Keep your response to 1-2 sentences.
 
