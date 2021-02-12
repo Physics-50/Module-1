@@ -141,4 +141,8 @@ The tentative rubric that will be used to evaluate this deliverable is provided 
 [![Figure Mechanics Rubric](images/Mod1Deliverable_FigMechanicsRubric.png)](images/Mod1Deliverable_FigMechanicsRubric.png){:target="_blank"}
 [![Caption Mechanics rubric](images/Mod1Deliverable_CapMechanicsRubric.png)](images/Mod1Deliverable_CapMechanicsRubric.png){:target="_blank" }
 
+Your deliverable will also be graded for the quality of your data and the conclusions you drew [2 points].
+
+Deductions will also be assessed for failing to submit the checkpoint on time as outlined in the course syllabus.
+
 Don't forget to double-check that you've completed the miniquestion for this week. You can find this week's mini-question [here](mini-questions#week-4){:target="_blank"}.
