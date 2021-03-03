@@ -17,7 +17,7 @@ Amy Qian
 # Physics 50 Syllabus
 
 + [Reading and Miniquestions](#reading-and-miniquestions)
-+ [Weekly Chekcpoints](#weekly-checkpoints)
++ [Weekly Checkpoints](#weekly-checkpoints)
 + [Module Deliverables](#module-deliverables)
 + [Grading](#grading)
 + [Late Policy](#late-policy)
