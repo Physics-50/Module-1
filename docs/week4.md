@@ -120,7 +120,8 @@ Figure 1. Coefficient of static friction depends on the location of the tuna can
    + **axes**, with axis labels, units, and tick marks
    + **data points**, with consistent data point symbols
    + **error bars**, attached to the individual data points
-   
+
+## Preparing a figure caption   
 The figure must also include a caption with the following:
 1. A **title sentence** (with a verb) that briefly states what to conclude from the figure
 
