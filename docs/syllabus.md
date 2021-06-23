@@ -5,13 +5,12 @@
 Instructors: <br>
 J. Arlett (jarlett@hmc.edu)<br>
 E. Connolly (connolly@hmc.edu)<br>
-T. Donnelly (Tom_Donnelly@hmc.edu)<br>
-S. Gerbode (gerbode@hmc.edu)
+S. Gerbode (gerbode@hmc.edu)<br>
+T. Lynn (lynn@g.hmc.edu)<br>
+P. Saeta (saeta@hmc.edu)<br>
 
 Graders:<br>
-Kathleen Durkin <br>
-Madison Hobbs<br>
-Amy Qian
+
 
 
 # Physics 50 Syllabus
@@ -33,13 +32,13 @@ Amy Qian
 Our goal in this course is for you to focus on the experimental process rather than racing to complete a list of tasks in a tight time frame. In each module you should first follow directions to gain familiarity with a broad set of equipment, techniques, and phenomena.  In each module we will then guide you to take opportunities to investigate some aspect of the situation more deeply. Your ultimate task is to communicate the results of your experimental research.
 
 In order to be successful in this course you:
-+ are actively engaged and reach out for help on Piazza and/or come to office hours when you get stuck 
++ are actively engaged and reach out for help when you get stuck 
 + complete mini-questions, checkpoints, and deliverables on time
 + document your work as you go along
 + design an experiment and carry it out, refine your methods along the way, go back and address major problems--do something, think about it, improve upon it
 + reflect on your results, identify main limitations and correct glaring omissions, identify any questions that your results raise
 + think about the next questions that would arise in the next iteration of the experiment 
-+ present your final results without major factual errors that undermine your credibility  (statements of fact versus we think this is happening because of xyz)
++ present your final results without major factual errors that undermine your credibility 
 + tell the story about why you did what you did and what conclusions you can draw
 
 If we (your instructors) could do all of these all of the time we would be better physicists and probably better people in general. We are looking for you to demonstrate competence in these areas; we do not expect perfection.
@@ -48,30 +47,45 @@ By the end of this course you will be able to collect, analyze, and interpret re
 
 
 # Course Structure
-In this course you will work on three modules that each will last four-five weeks. In each week of each module, you will start by reading the online manual (linked on Sakai) and completing the associated embedded miniquestions (due by Tuesday 1 pm). Each week you will submit a checkpoint via Gradescope, due by Thursday, 1 pm. Finally, at the end of each module you will submit a module deliverable via Gradescope.
+In this course you will work on three modules that each will last several weeks. (There is also a 1 week interlude referred to as module 1.5 between modules 1 and 2). In each week of each module, you will start by reading the online manual (linked on Sakai) and completing the associated embedded miniquestions, due by the start of your lab period. Each week you will submit a checkpoint via Gradescope, due three days later. 
+
+Deadlines for checkpoints will be as follows:
+Monday sections: due Thursdays at 10pm
+Wednesday sections: due Saturdays at 10pm
+Thursday sections: due Sundays at 10pm
+Friday sections: due Mondays at 10pm
+
+Finally, at the end of each module you will submit a module deliverable via Gradescope. Deadlines for the deliverables will follow the same calendar.
 
 
 # Reading and miniquestions
-Each week you will start by going to the module website (linked from Sakai). There you will find detailed procedures and lab instructions, with miniquestions embedded throughout the text. These miniquestions are intended to help you quickly confirm your understanding of what you are reading and should be completed as you are reading. After submission of a miniquestion, if your answer is incorrect you will be prompted to resubmit your answer. In order to receive credit for your resubmission, you must explain why your new answer is correct. When resubmitting remember that your goal is not to describe what you did wrong but rather to explain and clarify the correct answer.
+Each week you will start by going to the module website (linked from Sakai). There you will find detailed procedures and lab instructions, with miniquestions embedded throughout the text. These miniquestions are intended to help you quickly confirm your understanding of what you are reading and should be completed as you are reading. **Each week you are expected to read through the material for the week and complete the embedded mini-questoins before the start of lab in order to be prepared to use your time efficiently in class.** After submission of a miniquestion, if your answer is incorrect you will be prompted to resubmit your answer. In order to receive credit for your resubmission, you must explain why your new answer is correct. When resubmitting remember that your goal is not to describe what you did wrong but rather to explain and clarify the correct answer.
 
 # Weekly checkpoints:
-At the end of each week you will complete a weekly checkpoint and submit it via Gradescope. Take any deductions on checkpoints seriously even if they are small. By the end of the module we expect that any issues will be addressed in your final deliverable. Come to office hours to discuss your checkpoint feedback, we are here to help!
+Each week you will complete a weekly checkpoint and submit it via Gradescope. Take any deductions on checkpoints seriously even if they are small. By the end of the module we expect that any issues will be addressed in your final deliverable. Come to office hours to discuss your checkpoint feedback, we are here to help!
 
 # Module deliverables
 The end-of-module deliverables focus on the critical skill of scientific communication. In physics, the process of writing often begins with creating a sequence of figures with captions. This visual outlining procedure lays the groundwork for all the details that eventually fill in the space in between the figures. The module deliverables are structured to guide you through this physics writing process. Detailed instructions for each deliverable will be provided in each module website (linked from Sakai), but briefly:
 
-+ For Module I, you will create a figure with a caption that summarizes the result of your experiment. 
-+ For Modules II and III, you will create a sequence of 3 figures that, along with captions, effectively tell the story of your Module II experiment: what you did, and what your results mean. 
++ For Module I, you will create a multi-panel figure with a caption that summarizes the result of your experiment. 
++ For Modules II and III, you will create a sequence of 2 multi-panel figures that, along with captions, effectively tell the story of your experiment: what you did, and what your results mean. 
 
 # Grading
-The course grade will be calculated based upon your performance on each of the three modules, which are weighted equally. For each module, your grade will be based upon your timely completion of the reading miniquestions (15%) and checkpoints (25%), and upon the quality of your module deliverable (60%). All three modules must be satisfactorily completed to pass this course. 
+The course grade will be calculated based upon your performance on the mini-questions, checkpoints, deliverables and in-lab practicum.
+
+Final grades will be determined as follows:
++ Timely completion of the reading miniquestions: 10%
++ Checkpoints: 25%
++ Deliverables: 45%
++ Practicum: 20%
+
+All modules must be satisfactorily completed to pass this course. 
 
 # Late Policy
 Late work will be accepted within the windows listed below with the following deductions. These deductions are based on the available points for the item, not your score:
 
 ## Miniquestions
-+ Up to 24 hours past the deadline: 10%
-+ Up to 48 hours past the deadline: 20%
+Mini-questions are intended to help you prepare for your time in lab and are due at the start of lab. We therefore do not offer extensions on mini-questions.
 
 ## Checkpoints and Deliverables
 + Up to 5 hours past the deadline: 5%
@@ -79,16 +93,16 @@ Late work will be accepted within the windows listed below with the following de
 + Up to 48 hours past the deadline: 15%
 + Up to 72 hours past the deadline: 20%
 
-In recognition that this is a very unusual semester you may have two extensions of up to 24 hours without penalty over the course of the semester, provided you let us know in advance by e-mailing jarlett@hmc.edu that you would like the assignment to count for one of these extensions. (The extensions may be used for mini-questions, checkpoints or deliverables.) If you are experiencing extenuating circumstances please don't hesitate to reach out. 
+ You may have two extensions of up to 24 hours without penalty over the course of the semester, provided you let us know in advance by e-mailing jarlett@hmc.edu that you would like the assignment to count for one of these extensions. The extensions may be used for checkpoints or deliverables (but not mini-questions). If you are experiencing extenuating circumstances please don't hesitate to reach out. 
 
 # Online Resources
-The course website is available on Sakai, where you will find links to each Module of the course in the side menu of the Physics 50 page. Also linked from that page are Gradescope, Piazza, and Zoom. You will submit the Module checkpoints and deliverables through Gradescope. To create another way for students to communicate asynchronously with each other we have created [this Piazza site](piazza.com/hmc/spring2021/ph50/home){:target="_blank"}. In Piazza you can ask questions to the class; we encourage you to use this forum to ask your classmates course-related questions and to answer each others questions. There are no grades associated with participation on Piazza, it is for your own benefit as a means to collaborate asynchronously with each other. Office hours are offered by all the instructors -- students should feel welcome to join any professor’s office hours. The office hour starting times are listed and hosted out of the “Office Hours” link on the side menu of Sakai. Clicking on an office hour will expand the information to include a zoom link as well as the start and end times for each office hour. Please note that you must be logged into your g.hmc.edu account through a Google Chrome browser to access this information.
+The course website is available on Sakai, where you will find links to each Module of the course in the side menu of the Physics 50 page. Also linked from that page are Gradescope and Piazza. You will submit the Module checkpoints and deliverables through Gradescope. To create another way for students to communicate with each other we have created [this Piazza site](piazza.com/hmc/fall2021/ph50){:target="_blank"}. In Piazza you can ask questions to the class; we encourage you to use this forum to ask your classmates course-related questions and to answer each others questions. There are no grades associated with participation on Piazza, it is for your own benefit as a means to collaborate with each other. Office hours are offered by all the instructors -- students should feel welcome to join any professor’s office hours. The office hour starting times are listed and hosted out of the “Office Hours” link on the side menu of Sakai. Please note that you must be logged into your g.hmc.edu account through a Google Chrome browser to access this information.
 
 We will also be using Google apps including Docs, Sheets, and Colaboratory. There will be several templates assigned at various times throughout the course via Google Classroom. Google Classroom enables us to create copies of documents for every student. You will need to login to Google Classroom when prompted from the Module instructions, but you do not need to actively monitor Google Classroom for new assignments. Sakai is our primary point of contact with you, not Google Classroom.
 
 # Lab Books and Data Sheets
 ## Lab Books
-In this course we will not be using traditional lab books. Instead you will be assigned a Google Doc at the beginning of each module to keep your lab record. What we will stress in this course is not a particular structure or format for your lab book, but rather the usefulness of the record. 
+In this course we will not be using traditional lab books. Instead you will be assigned a Google Doc and Google Spreadsheet at the beginning of each module to keep your lab record. What we will stress in this course is not a particular structure or format for your lab book, but rather the usefulness of the record. **Please note that even though they are not graded, you are required to use the Google Doc and Google Spreadsheet to document your work and data collected in the lab.
 
 What information will I need to replicate this experiment in 6 months or 6 years? Would a sketch or photo of the setup be helpful? How exactly did I take that particular data point? What did or did not work in my experimental procedure and what did I learn from it? What are my units? What does this variable mean? etc.
 
