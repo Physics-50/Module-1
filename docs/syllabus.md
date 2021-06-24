@@ -47,13 +47,13 @@ By the end of this course you will be able to collect, analyze, and interpret re
 
 
 # Course Structure
-In this course you will work on three modules that each will last several weeks. (There is also a 1 week interlude referred to as module 1.5 between modules 1 and 2). In each week of each module, you will start by reading the online manual (linked on Sakai) and completing the associated embedded miniquestions, due by the start of your lab period. Each week you will submit a checkpoint via Gradescope, due three days later. 
+In this course you will work on three modules that each will last several weeks. (There is also a 1 week interlude referred to as module 1.5 between modules 1 and 2). In each week of each module, you will start by reading the online manual (linked on Sakai) and completing the associated embedded miniquestions, due by the start of your lab period. Each week you will submit a checkpoint via Gradescope, due four days later. 
 
 Deadlines for checkpoints will be as follows:
-Monday sections: due Thursdays at 10pm
-Wednesday sections: due Saturdays at 10pm
-Thursday sections: due Sundays at 10pm
-Friday sections: due Mondays at 10pm
+Monday sections: due Fridays at 10pm
+Wednesday sections: due Sundays at 10pm
+Thursday sections: due Mondays at 10pm
+Friday sections: due Tuesdays at 10pm
 
 Finally, at the end of each module you will submit a module deliverable via Gradescope. Deadlines for the deliverables will follow the same calendar.
 
@@ -96,17 +96,17 @@ Mini-questions are intended to help you prepare for your time in lab and are due
  You may have two extensions of up to 24 hours without penalty over the course of the semester, provided you let us know in advance by e-mailing jarlett@hmc.edu that you would like the assignment to count for one of these extensions. The extensions may be used for checkpoints or deliverables (but not mini-questions). If you are experiencing extenuating circumstances please don't hesitate to reach out. 
 
 # Online Resources
-The course website is available on Sakai, where you will find links to each Module of the course in the side menu of the Physics 50 page. Also linked from that page are Gradescope and Piazza. You will submit the Module checkpoints and deliverables through Gradescope. To create another way for students to communicate with each other we have created [this Piazza site](piazza.com/hmc/fall2021/ph50){:target="_blank"}. In Piazza you can ask questions to the class; we encourage you to use this forum to ask your classmates course-related questions and to answer each others questions. There are no grades associated with participation on Piazza, it is for your own benefit as a means to collaborate with each other. Office hours are offered by all the instructors -- students should feel welcome to join any professor’s office hours. The office hour starting times are listed and hosted out of the “Office Hours” link on the side menu of Sakai. Please note that you must be logged into your g.hmc.edu account through a Google Chrome browser to access this information.
+The course website is available on Sakai, where you will find links to each Module of the course in the side menu of the Physics 50 page. Also linked from that page are Gradescope and Piazza. You will submit the Module checkpoints and deliverables through Gradescope. To create another way for students to communicate with each other we have created [this Piazza site](piazza.com/hmc/fall2021/ph50){:target="_blank"}. In Piazza you can ask questions to the class; we encourage you to use this forum to ask your classmates course-related questions and to answer each others questions. There are no grades associated with participation on Piazza, it is for your own benefit as a means to collaborate with each other. Office hours are posted on the "Office Hours" link on the side menu of Sakai. Please note that you must be logged into your g.hmc.edu account through a Google Chrome browser to access this information. **Students should feel welcome to attend any professor’s office hours.**
 
 We will also be using Google apps including Docs, Sheets, and Colaboratory. There will be several templates assigned at various times throughout the course via Google Classroom. Google Classroom enables us to create copies of documents for every student. You will need to login to Google Classroom when prompted from the Module instructions, but you do not need to actively monitor Google Classroom for new assignments. Sakai is our primary point of contact with you, not Google Classroom.
 
 # Lab Books and Data Sheets
 ## Lab Books
-In this course we will not be using traditional lab books. Instead you will be assigned a Google Doc and Google Spreadsheet at the beginning of each module to keep your lab record. What we will stress in this course is not a particular structure or format for your lab book, but rather the usefulness of the record. **Please note that even though they are not graded, you are required to use the Google Doc and Google Spreadsheet to document your work and data collected in the lab.
+In this course we will not be using traditional lab books. Instead you will be assigned a Google Doc and Google Spreadsheet at the beginning of each module to keep your lab record. What we will stress in this course is not a particular structure or format for your lab book, but rather the usefulness of the record. **Please note that even though they are not graded, you are required to use the provided Google Doc and Google Spreadsheet to document your work and data collected in the lab. Deductions will apply if they are not used. In addition, the Google doc and Google spreadsheet issued to you through this course are the only material you will have access to during the practicum.**
 
 What information will I need to replicate this experiment in 6 months or 6 years? Would a sketch or photo of the setup be helpful? How exactly did I take that particular data point? What did or did not work in my experimental procedure and what did I learn from it? What are my units? What does this variable mean? etc.
 
-Your lab book will not receive a grade of its own, but the quality of your lab book will impact other graded portions of the lab. The hallmark of a good lab book is how useful it is to you and others at a later point in time. You will need the information from your lab book to complete your checkpoints and end of module deliverables. Detailed notes will be useful!
+Your lab book will not receive a grade of its own, but the quality of your lab book will impact other graded portions of the lab. The hallmark of a good lab book is how useful it is to you and others at a later point in time. You will need the information from your lab book to complete your checkpoints, the end of module deliverables, and to be successful on the practicum. You will not have access to the lab manual during the practicum or to any notes outside of what you have recorded in the course-issued Google Docs and Google Spreadsheet. Detailed notes will be useful!
 
 Some tips: 
 
@@ -123,10 +123,10 @@ Some tips:
     + You can simply copy the URL of the item you wish to link to and paste it into your document.
 
 ## Data Sheets
-We would like you to get in the habit of using formulae in Google Sheets to make your intermediate calculations. This helps avoid mistakes and it’s easier to fix any mistakes later. Although we aren’t grading your data sheet or lab notebook, we will look at them occasionally when grading your checkpoints and/or ask to see them in office hours. If we see formulae in your data sheet, we can more effectively help you debug any problems.
+We would like you to get in the habit of using formulae in Google Sheets to make your intermediate calculations. This helps avoid mistakes and it’s easier to fix any mistakes later. Although we aren’t grading your data sheet or lab notebook, we will look at them occasionally when grading your checkpoints and/or ask to see them in office hours. If we see formulae in your data sheet, we can more effectively help you debug any problems. Your data sheet, coupled with the history feature of Google sheets, also serves as a time record of your work in the lab. Recording data elsewhere and then later pasting it into Google sheets is not acceptable. However, it is acceptable to collect data in one lab partners notebook and then copy it to the partner's notebook. If so you should include a note to the effect "this data was originally collect in **Name of Lab Partner**'s laboratory notebook and is reproduced here".
 
 # Collaboration
-We expect every student to perform the data analysis, miniquestions, checkpoints, and deliverables for themselves. If you would like to discuss with a classmate while doing measurements/analysis in parallel, we encourage that type of collaboration! It will likely not save you any time, but often working through material together gives a better learning experience. Just remember that each of you needs to do your own measurements and analysis.
+You will collect data with a partner in the lab. We expect student to perform the data analysis, miniquestions, checkpoints, and deliverables for themselves. If you would like to discuss with your lab partner or another classmate while doing analysis in parallel, we encourage that type of collaboration! It will likely not save you any time, but often working through material together gives a better learning experience. Just remember that each of you needs to do your own analysis.
 
 # The Writing Center
 The Writing Center provides a welcoming virtual space for writers to get feedback on their composition projects, whether written, spoken or visual pieces. Writing Center Consultants are prepared to assist students in any discipline with any stage of the writing process, from developing an idea to polishing a final draft. Even the most accomplished writers benefit from seeking feedback at the Writing Center. You may schedule an online appointment through their website, https://www.hmc.edu/learning-programs/writing-center/
