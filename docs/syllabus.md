@@ -1,3 +1,6 @@
+**Click on the below images to enlarge in a new tab:**
+[![Schedule](images/Ph50_schedule_fall2021.png)](images/Ph50_schedule_fall2021.png){:target="_blank"}
+
 <img src="images/Ph50_schedule_fall2021.png" alt="Calendar" width="1600"/>
   
   
