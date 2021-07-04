@@ -11,23 +11,23 @@
 6. Designing the Experiment (Week 2)
 
 --------------
-Please note that in order for the Google classroom link below to work you must first go to Google Classroom through a Chrome browser logged into your g.hmc.edu account and join the class with classroom code: ak7xp3q  - once you've done this once you will not have to log into Google classroom again and all links to documents we provide through Google classroom will work.
+Please note that in order for the Google classroom link below to work you must first go to Google Classroom through a Chrome browser logged into your g.hmc.edu account and join the class with classroom code: cztaii7  - or use this [link](https://classroom.google.com/c/MzY5MzA2OTcxNzM4?cjc=cztaii7). Once you've done this once you will not have to log into Google classroom separately again and all links to documents we provide through Google classroom in this lab manual will work.
 
-**The course will not appear in your Google Classroom account until you join the course with the class code.**
+Please make sure to join Google classroom from your g.hmc.edu account. Students from other Claremont colleges taking the course should consult HMC's CIS support if you have any issues - they will issue you a g.hmc.edu account. **The course will not appear in your Google Classroom account until you join the course with the class code.**
 
-We begin our investigation of measuring $$\mu_s$$ by doing an initial exploration. Our goal is to come up with a hypothesis to test and a plan for how we will do so (an experimental design). In the Exploratory Phase it can be especially important to take detailed notes. Organizing a digital lab notebook and data spreadsheet can be tricky, so for Week 1 we are providing a [template for you to follow along with that we've assigned from Google Classroom](https://classroom.google.com/u/0/w/MjUxNTgyMzY1MDM5/t/all){:target="_blank"}. The class code to join the Google classroom site is: ak7xp3q. Please make sure to join Google classroom from your g.hmc.edu account. Students from other Claremont colleges taking the course should consult HMC's CIS support if you have any issues - they will issue you a g.hmc.edu account.
+We begin our investigation of measuring $$\mu_s$$ by doing an initial exploration. Our goal is to come up with a hypothesis to test and a plan for how we will do so (an experimental design). In the Exploratory Phase it can be especially important to take detailed notes. Organizing a digital lab notebook and data spreadsheet can be tricky, so for Week 1 we are providing a [template for you to follow along with that we've assigned from Google Classroom](https://classroom.google.com/u/0/w/MzY5MzA2OTcxNzM4/t/all){:target="_blank"}. 
 
-**Make sure you have this spreadsheet and your Module 1 Lab Notebook handy as you go through the content on this Week 1 page. Please note that we require you to use the provided spreadsheet/lab notebook. The shared spreadsheet will make it easier for us to troubleshoot if any issues come up.**
+**Make sure you have this spreadsheet and your Module 1 Lab Notebook handy as you go through the content on this Week 1 page. Please note that we require you to use the provided spreadsheet/lab notebook. The shared spreadsheet will make it easier for us to troubleshoot if any issues come up and provides a historical record of your data collection. The spreadsheet/lab notebook assigned through Google classroom are the only documents you will have access to for the practicum at the end of the course. It is acceptable for lab partners to use one spreadsheet for collecting data. However, if you do so the partner whose spreadsheet was not used for data collection must 1) make a note in their spreadsheeting stating that the data was originally collected in your lab partners notebook and 2) Ensure you have a copy of the complete data set pasted into your own spreadsheet before leaving lab. Discussion and collaboration is permitted and encouraged, but both partners are individually responsible for completing your own analysis for the checkpoints and deliverables and submitting your own work.**
 
 ## Preface
-If you have any questions working through this course remotely we encourage you to reach out to your classmates through the class Piazza site or come to office hours to talk to an instructor. [Sign up for the class Piazza site](https://piazza.com/hmc/spring2021/ph50)
+If you have any questions outside of class, we encourage you to reach out to your classmates through the class Piazza site or come to office hours to talk to an instructor. [Sign up for the class Piazza site](https://piazza.com/hmc/spring2021/ph50)
 
 Before diving into data collection and analysis we would like to set some expectations. This course centers around the collection, analysis, and communication of experimental data and results. We expect all of these to be conducted with care and integrity.
 
 Collaboration:
-We expect every student to perform the data analysis, miniquestions, checkpoints, and deliverables for themselves. If you would like to discuss with a classmate (either a roommate or via Zoom) while doing measurements/analysis in parallel, we encourage that type of collaboration! It will likely not save you any time, but often working through material together gives a better learning experience. Just remember that each of you needs to do your own measurements and analysis.
+We expect every student to perform the data analysis, miniquestions, checkpoints, and deliverables for themselves, but you are welcome to discuss your results and analysis with your lab partner and classmates.
 
-To make sure we all start on the same page please answer the following mini-questions (mini-questions will appear through this manual and are required. Please see the syllabus for more information regarding mini-questions).
+To make sure we all start on the same page please answer the following mini-questions (mini-questions will appear throughout this manual and are required to be completed before you arrive in lab each week. Please see the syllabus for more information regarding mini-questions).
 
 --------------------
 
