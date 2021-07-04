@@ -41,22 +41,21 @@ Although we are going to treat these phases as separate, linear progression, the
 
 ## Weekly Plan
 
-To get started, we will begin with a simple experiment that meets the above learning objectives: measuring the coefficient of static friction, $$\mu_s$$, between two surfaces. You will place a block on a ramp and measure the critical angle $$\theta_c$$ at which sliding begins. 
+To get started, we will begin with a simple experiment that meets the above learning objectives: measuring the coefficient of static friction, $$\mu_s$$, between two surfaces. You will place a container on a ramp and measure the critical angle $$\theta_c$$ at which sliding begins. Over the course of the experiment you will vary the mass in the container and determine whether this leads to a statistically significant change in the coefficient of friction. 
 
-Module 1 is four weeks long. Each week, you will have a checkpoint due. These checkpoints will give us a chance to provide you feedback as your work towards the Module 1 deliverable: a single figure with a caption that conveys what you learned from your experimentation. You have a couple of options on how to proceed. We recommend that you dive into Week 1 directly, and the relevant concepts will be linked in context as you go along. But alternatively, you can first read over the Background Reading below and learn about the concepts you will use in this module before starting Week 1. 
+Module 1 is three weeks long. Each of the first two weeks, you will have a checkpoint due. These checkpoints will give us a chance to provide you feedback as your work towards the Module 1 deliverable: a single figure with a caption that conveys what you learned from your experimentation.  
 
 1. [Week 1 - Exploratory Phase](week1)
-    - Checkpoint: single, preliminary measurement of $$\mu_s$$ with resolution uncertainty
-2. [Week 2 - Exploratory Phase (continued)](week2)
-    - Checkpoint: an experimental design for hypothesis testing
-3. [Week 3 - Hypothesis Testing Phase](week3)
+    - Checkpoint: single, preliminary measurement of $$\mu_s$$ with resolution uncertainty plus an experimental design for hypothesis testing
+3. [Week 2 - Hypothesis Testing Phase](week3)
     - Checkpoint: rough plots and a conclusion based on your experimental measurements
-4. [Week 4 - Scientific Communication Phase](week4)
+4. [Week 3 - Scientific Communication Phase](week4)
     - Deliverable: a figure with a caption that communicates your results
 
 
 
 ## Background Reading
+The background reading is provided here for quick reference but is also linked directly at the points in the lab manual where we believe you will find it the most useful.
 
 + [The Relationship between the Critical Angle for Slipping $$\theta_c$$ and the Coefficient of Static Friction $$\mu_s$$](https://drive.google.com/file/d/19qMGg5rJfkDCQVHRK2G1Nl4_CAMSgvHX/view?usp=sharing){:target="_blank"}
 
