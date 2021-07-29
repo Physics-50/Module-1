@@ -17,7 +17,7 @@ Please make sure to join Google classroom from your g.hmc.edu account. Students 
 
 We begin our investigation of measuring $$\mu_s$$ by doing an initial exploration. Our goal is to come up with a hypothesis to test and a plan for how we will do so (an experimental design). In the Exploratory Phase it can be especially important to take detailed notes. Organizing a digital lab notebook and data spreadsheet can be tricky, so for Week 1 we are providing a [template for you to follow along with that we've assigned from Google Classroom](https://classroom.google.com/u/0/w/MzY5MzA2OTcxNzM4/t/all){:target="_blank"}. 
 
-**Make sure you have this spreadsheet and your Module 1 Lab Notebook handy as you go through the content on this Week 1 page. Please note that we require you to use the provided spreadsheet/lab notebook. The shared spreadsheet will make it easier for us to troubleshoot if any issues come up and provides a historical record of your data collection. The spreadsheet/lab notebook assigned through Google classroom are the only documents you will have access to for the practicum at the end of the course. It is acceptable for lab partners to use one spreadsheet for collecting data. However, if you do so the partner whose spreadsheet was not used for data collection must 1) make a note in their spreadsheeting stating that the data was originally collected in your lab partners notebook and 2) Ensure you have a copy of the complete data set pasted into your own spreadsheet before leaving lab. Discussion and collaboration is permitted and encouraged, but both partners are individually responsible for completing your own analysis for the checkpoints and deliverables and submitting your own work.**
+**Make sure you have this spreadsheet and your Module 1 Lab Notebook handy as you go through the content on this Week 1 page. Please note that we require you to use the provided spreadsheet/lab notebook. The shared spreadsheet will make it easier for us to troubleshoot if any issues come up and provides a historical record of your data collection. The spreadsheet/lab notebook assigned through Google classroom are the only documents you will have access to for the practicum at the end of the course. It is acceptable for lab partners to use one spreadsheet for collecting data. However, if you do so the partner whose spreadsheet was not used for data collection must 1) make a note in their spreadsheeting stating that the data was originally collected in your lab partners notebook and 2) Ensure you have a copy of the complete data set pasted into your own Google classroom assinged spreadsheet before leaving lab. Discussion and collaboration is permitted and encouraged, but both partners are individually responsible for completing your own analysis for the checkpoints and deliverables and submitting your own work.**
 
 ## Preface
 If you have any questions outside of class, we encourage you to reach out to your classmates through the class Piazza site or come to office hours to talk to an instructor. [Sign up for the class Piazza site](https://piazza.com/hmc/spring2021/ph50)
@@ -27,7 +27,7 @@ Before diving into data collection and analysis we would like to set some expect
 Collaboration:
 We expect every student to perform the data analysis, miniquestions, checkpoints, and deliverables for themselves, but you are welcome to discuss your results and analysis with your lab partner and classmates.
 
-To make sure we all start on the same page please answer the following mini-questions (mini-questions will appear throughout this manual and are required to be completed before you arrive in lab each week. Please see the syllabus for more information regarding mini-questions).
+To make sure we all start on the same page please answer the following mini-questions (mini-questions will appear throughout this manual and are required to be completed before you arrive in lab each week. Please see the syllabus for more information regarding mini-questions) - mini-questions are intersperesed throughout the lab manual and need to be completed before the start of lab.
 
 --------------------
 
@@ -54,7 +54,7 @@ You are trying to time how fast your little brother can run. Initially you do th
 
 ------------------------------
 
-You may find yourself in a situation where it isn't as clear what is acceptable. When in doubt please ask. Both the class Piazza discussion board and office hours are great ways to reach out with questions!
+You may find yourself in a situation where it isn't as clear what is acceptable. When in doubt please ask. 
 
 ## Background Reading
 
@@ -75,7 +75,7 @@ We can now try to think of a hypothesis we can test with an experiment. As a qui
 
 -----
 
-Based on this answer, try to come up with some hypotheses you could try to test. The theory makes specific predictions, and you can use those predictions to form the basis of a hypothesis. To encourage interaction with your classmates We encourage you to post some of your ideas and check out others [on the "Hypotheses" note on Piazza](https://piazza.com/class/kijtj4yqer66na){:target="_blank"}. There are no grades associated with Piazza, this suggestion is just to introduce you to the platform and encourage with 
+Based on this answer, try to come up with some hypotheses you could try to test. The theory makes specific predictions, and you can use those predictions to form the basis of a hypothesis. To encourage interaction with your classmates We encourage you to post some of your ideas and check out others [on the "Hypotheses" note on Piazza](https://piazza.com/class/kijtj4yqer66na){:target="_blank"}. There are no grades associated with Piazza, this suggestion is just to introduce you to the platform.
 
 **For Module 1 we will all test the same hypothesis. The hypothesis we will test is:**
 
@@ -83,21 +83,13 @@ Based on this answer, try to come up with some hypotheses you could try to test.
 
 ## Instrumentation
 
-Now that we've decided what we hypothesis we are going to test, we need to figure out what equipment and experimental tools we are going to use. For this module, we are going to make use of whatever you have on hand. 
+Now that we've decided what we hypothesis we are going to test, we need to figure out what equipment and experimental tools we are going to use. For this module, a ramp, container and different masses that can be placed in the container will be provided at your lab bench. 
 
-You will need a "block" and a "ramp" (e.g. a hard pencil case on a hardcover textbook) that satisfy the following requirements:
-
-+ both items need to have flat, rigid surfaces
-+ when you tilt the ramp, the block needs to slide without rolling or tipping
-+ a way to add mass to the block without changing the surfaces in contact between the block and ramp
-
-Share your ideas and check out what others are doing at [Piazza: Instrumentation for Module 1](https://piazza.com/class/kijtj4yqer66na){:target="_blank"}.
-
-To measure the angle we will use your phone or a tablet as the tool. Please go to [phyphox.org](https://phyphox.org){:target="_blank"} (or to the app store on your device) and download the phyphox app. After downloading, find the "Inclination" tool and test that it works correctly with your phone.
+To measure the angle we will use your phone or a tablet as the tool. Please go to [phyphox.org](https://phyphox.org){:target="_blank"} (or to the app store on your device) and download the phyphox app. Try to do this before you come to class for the first day of lab. After downloading, find the "Inclination" tool and test that it works correctly with your phone.
 
 <img src="images/phyphox.png" alt="phyphox.org inclination tool" width="400"/>
 
-Make note of your equipment in your lab notebook (record keeping is important) and record any other notes you think might be helpful if someone else was trying to replicate your setup. 
+Make note of your equipment in your lab notebook (record keeping is important) and record any other notes you think might be helpful if someone else was trying to replicate your setup. Remember: for the praciticum you will only have access to your Google-classroom assigned lab notebook and data sheet.
 
 ## Exploratory Measurements
 
@@ -109,9 +101,7 @@ For your exploratory measurements in Module 1, we would like you to do the follo
 
 + Get an understanding of the repeatability of your measurement 
 
-+ Perform a preliminary test of your hypothesis
-
-+ Check other factors that might affect your measurement (this is where you get to play!)
++ Check other factors that might affect your measurement and its reproducibility (this is where you get to play!)
 
 The steps below guide you through these four items, and provide links to important concepts (so please follow along carefully). Make sure you are recording your exploratory observations as you go so that you have a record of them (reminder: we have set up [a spreadsheet for you on Google Classroom](https://classroom.google.com/c/MjUxNTgyMzY1MDM5/a/MjUxNTgyMzY1MDQ5/details){:target="_blank"}, use the "Exploratory Observations" tab to record your data in this section).
 
@@ -164,7 +154,7 @@ Comment on whether your measured value is reasonable (e.g. is $$\mu_s$$ within t
 
 *At this point, if your answer were to be unreasonable or you were unable to calculate the quantity you are interested in testing (in our case $$\mu_s$$), then it would be a good idea to carefully rethink your measurement. Doing this initial single measurement and check can save a lot of time, especially when the experimental setup gets more complicated as it will later in the course. If you're stuck, [post a question up on our Piazza site](https://piazza.com/class/kdyuyniyaz052s){:target="_blank"} and [come to Office Hours](https://sakai.claremont.edu/portal/site/CX_mtg_130832/page/8bb99f43-12a4-4f97-8e47-802814328a26){:target=_"blank"}*
 
-Before you submit Checkpoint 1, let's first double-check your procedure. Using the exact same procedure as you did to calculate your $$\mu_s$$  and  $$\delta_\mathrm{res.} \mu_s $$ above, complete the following miniquestion with a different measurement of $$\theta_c$$:
+Let's double-check your procedure. Using the exact same procedure as you did to calculate your $$\mu_s$$  and  $$\delta_\mathrm{res.} \mu_s $$ above, complete the following miniquestion with a different measurement of $$\theta_c$$:
 
 #### Miniquestion: Calculating coefficient of static friction and resolution uncertainty
 [*Click here to open in a new tab*](https://forms.gle/mvteqnKeZNQXDytZ9){:target="_blank"}
@@ -172,19 +162,34 @@ Before you submit Checkpoint 1, let's first double-check your procedure. Using t
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKSGfERWII08uU0DZio3Wtcul85SiBFLkbG44IAQgMJg4hMg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
+## Reproducibility
+
+So far we've focused on the resolution uncertainty. But is that really a good estimate of the uncertainty of your measurement? 
+
+Read [this discussion about random uncertainty](uncertainty-introduction#random-uncertainty) 
+
+The goal of testing repeatability is to get a sense of the random error associated with the measurement. 
+
+Take a few measurements of $$\theta_c$$ under identical conditions (say 5). Make sure you "reset" your experimental setup each time: start the ramp from a horizontal position ($$\theta = 0$$), place the block onto the ramp, and then slowly start to raise the ramp. "Resetting" the experimental setup between trials helps to minimize systematic error, a major topic in Module II. 
+
+Trial #	| $$\theta_c$$ (degrees)	
+|:-------:|:-------------------------:|	
+1 |			
+2	|		
+3	|		
+4	|		
+
+
+Using the information provided in the [discussion on random undertainty](uncertainty-introduction#random-uncertainty), calculate the standard error in the mean for your data.
+
++ How does the standard error in your data compare to the resolution uncertainty? 
+    + Based on this, what should we focus on: improving our instrumentation (reducing resolution uncertainty) or reducing our random uncertainty.
+    
+    Reducing random uncertainty can include both improving our measurement technique to reduce the spread in our data and  taking many repeated trials. It is often helpful to do both. This is also your chance to take some initiative. The approach you use to measure the angle at which the container begins to slip will significantly affect the reproducibility. Materials will be provided at the back of the lab to allow you to raise the ramp in different ways. You should give some consideration to how to reliably determine the critical angle - trying to press a button on your phone as the container is starting to move while holding the ramp is unlikely to yield reproducible results. Use the remaining time to explore techniques that might help you to get more reproducibile results. If you aren't sure where to start talk to your instructor. Some ideas to consider - you may find equipment at the back of the lab that allows you to raise the ramp in a more controlable way, you may also find it helpful to know that Phyphox will record the data for later extraction. If you know the critical angle was the highest angle reached you don't need to press any buttons on the phone during the experiment.
+
+
 -------------
 
-Before we wrap up week 1, we need your mailing address to send you an experimental kit for Module 3. Please make sure this is an address at which you will be able to receive a package at some point over the next six weeks. If there are any special circumstances (e.g. you are expecting to move in the coming weeks) please reach out to us directly.
-
----------------------------------
-
-#### Miniquestion: Mailing Address
-[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSc-Z5SUG8NmNFJhllyxUmiR3bxDAAo4I5Bpv4-vO9Y64hfyew/viewform){:target="_blank"}
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc-Z5SUG8NmNFJhllyxUmiR3bxDAAo4I5Bpv4-vO9Y64hfyew/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
-</iframe>
-
---------------
 ## Checkpoint 1
 
 **Please note that the first time you access the class Gradescope site you need to do so through Sakai (using the Gradescope link from the items on the left). Once you have done so once all Gradescope links in the manual will work going forward.**
