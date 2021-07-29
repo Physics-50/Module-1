@@ -31,10 +31,10 @@ These three learning objectives are tied to what we view as distinct phases in h
     - this open-ended phase often involves doing some background reading, getting familiar with a measurement technique, trying to take some preliminary data, coming up with a hypothesis and a plan for how you will test it
 
 2. Hypothesis Testing Phase
-    - in this phase you follow the experimental plan you developed in the "Exploratory Phase" to test a hypothesis (or multiple hypotheses). Data analysis, including a detailed analysis of uncertainties (a statistical measure of your confidence in your results), is an important part of hypothesis testing. Determining whether your results are consistent with a hypothesis will generally come down to analyzing you data to see if the results follow a trend predicted by the hypothesis to within your experimental uncertainty.
+    - in this phase you follow the experimental plan you developed in the "Exploratory Phase" to test a hypothesis. Data analysis, including a detailed analysis of uncertainties (a statistical measure of your confidence in your results), is an important part of hypothesis testing. Determining whether your results are consistent with a hypothesis will generally come down to analyzing you data to see if the results follow a trend predicted by the hypothesis to within your experimental uncertainty.
 
 3. Communication Phase
-    - after hypothesis testing, you now get to think carefully about how you will communicate your results: What is the best way to visualize your data? What are the deeper conclusions that you can draw from your data? What follow-up experiment would come next? This phase often ends with a scientific paper or presentation. By the end of this course, we are going to build towards a scientific poster presentation.
+    - after hypothesis testing, you now get to think carefully about how you will communicate your results: What is the best way to visualize your data? What are the deeper conclusions that you can draw from your data? What follow-up experiment would come next? This phase often ends with a scientific paper or presentation. In this course we will focus on communicating results through figures with captions.
 
 Although we are going to treat these phases as separate, linear progression, they aren't always like that. Things often don't go as planned when hypothesis testing and you might end up back in the exploratory phase. And you might want to think of how you will communicate your work in the exploratory phase: thinking of the possible conclusions that would result from your experiment can help you decide if a hypothesis is worth testing. These phases are meant to be helpful guideposts for Module 1, and not a set of "rules" for how experimental work always unfolds.
 
@@ -45,7 +45,7 @@ To get started, we will begin with a simple experiment that meets the above lear
 Module 1 is three weeks long. Each of the first two weeks, you will have a checkpoint due. These checkpoints will give us a chance to provide you feedback as your work towards the Module 1 deliverable: a single figure with a caption that conveys what you learned from your experimentation.  
 
 1. [Week 1 - Exploratory Phase](week1)
-    - Checkpoint: single, preliminary measurement of $$\mu_s$$ with resolution uncertainty plus an experimental design for hypothesis testing
+    - Checkpoint: single, preliminary measurement of $$\mu_s$$ with resolution uncertainty plus an experimental design for hypothesis testing. As part of the exploratory phase you will determine a means to reproducibly measure the critical angle.
 3. [Week 2 - Hypothesis Testing Phase](week3)
     - Checkpoint: rough plots and a conclusion based on your experimental measurements
 4. [Week 3 - Scientific Communication Phase](week4)
