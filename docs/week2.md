@@ -1,169 +1,233 @@
-# Week 2: Exploratory Phase (continued)
+# Week 3: Generating Data to Test a Hypothesis
 
+This week we are going to generate a data set to test our hypothesis. This will include more detailed data collection for analysis than the exploratory measurement from Weeks 1-2.
 
-<img src="images/exploratory-phase.png" alt="Exploratory Phase" width="400"/>
+[Background Reading for Week 3](#background-reading-and-miniquestions)
 
---------------
-1. Background Reading
-2. Formulating a Hypothesis
-3. Instrumentation 
-4. [Exploratory Measurements](#exploratory-measurements) (continued from Week 1)
-5. [Checkpoint 2](#checkpoint-2)
+[Review: Estimating Uncertainties](#Review-of-uncertainty-estimation)
 
+[Reporting Data with Significant Figures](#reporting-data-with-significant-figures)
 
-------------------
+[Data Collection for Week 3](#data-collection)
 
+## Background Reading and Miniquestions
 
-**Make sure you have your [Module 1 Data Sheet and Lab Notebook](https://classroom.google.com/c/MTI2NjQ0NDEyMTAx/a/MTI3ODQ4MDY2NDMx/details){:target="_blank"} handy as you go through the content on this Week 1 page.**
+At the end of this week you should have a complete data set for the measured critical angle for (at least) five different masses.
 
+Before you begin taking data, there are two principles that we would like to introduce: **"real-time data visualization"** and **"iterative experimental design"**. In taking experimental data, we don't want to just blindly follow the procedure laid out in the experimental design. We need to ensure the data we are taking is reasonable and that our conclusions are well-founded and impactful. One way to ensure the data is reasonable is to have some real-time visualization set up ("plotting as you go"). That way we can see our data as we are taking it, and adapt based on any new information.
 
-## Exploratory Measurements
+*Warning* When "plotting as we go" we don't want to make a real-time decision that incorrectly shapes our conclusions. For example, suppose we had made a plan to take 10 data points based on our exploratory measurements. But in taking the first 3 data points we notice a small sample standard deviation and that if we just stop taking data now, we end up with a reasonable conclusion. If we stop our hypothesis testing based on whether or not the data gives us the answer we are looking for, then we might draw INCORRECT conclusions based on the spread of just a few data points [explained here](https://replicationindex.com/2015/01/24/questionable-research-practices-definition-detect-and-recommendations-for-better-practices/){:target="_blank"}. If this puzzles you, you might look back to the discussion of [random uncertainty](uncertainty-introduction#random-uncertainty){:target="_blank"}. Related concerns are also raised [here](https://www.explainxkcd.com/wiki/index.php/882:_Significant){:target="_blank"}. 
 
-#### 1 Perform a Single Measurement
+To provide some separation between our experimental decisions and our hypothesis testing, we will iterate on our experimental design. It's okay to change your plan if it turned out to be a bad one. But we want to provide some justification for any changes we make to our initial plan. Here we will provide more details about the two principles we will employ this week, **"real-time data visualization"** and **"iterative experimental design"**. We encourage you to refer back to them as you undertake your detailed data collection.
 
-From Week 1, you should have completed a single measurement of the critical angle and its resolution uncertainty $$\theta_c \pm \delta_\mathrm{res.}\theta_c$$. From that you propagated the uncertainty to calculate $$ \mu_s \pm \delta_\mathrm{res.} \mu_s$$, and concluded that your result was reasonable. If that isn't the case, please revisit [Week 1](week1) and [consult your classmates on Piazza](https://piazza.com/class/kijtj4yqer66na){:target="_blank"} or [come to Office Hours](https://sakai.claremont.edu/portal/site/CX_mtg_130832/page/8bb99f43-12a4-4f97-8e47-802814328a26){:target=_"blank"}. 
+### Real-time Data Visualization
 
+An important habit we would like you to develop as an experimentalist is to be plotting/visualizing your data as you take it. Even though you made a plan with your experimental design, there are many unexpected things that can happen. You should set up your data collection (e.g. in Google Sheets) so that recording each data point automatically updates a plot with your data and calculates statistical quantities (sample mean, sample standard deviation, and standard error of the mean). Here are some things to keep an eye out for as your taking your data:
 
-#### 2 Perform a preliminary test of the hypothesis
++ Is your sample mean very different than what you measured in your exploratory analysis? 
+    + If so, then try to troubleshoot what the differences might be (e.g. a calculation error, an uncontrolled variable), and then revise your approach
++ Is your sample standard deviation much larger than what you found in your week 2 exploratory analysis? 
+    + If so, then maybe you need to revise how many data points you plan on taking
++ Does your data look Normally-Distributed* (like a Gaussian, bell-curve)?
+    + If not, then you should try to investigate uncontrolled variables or perhaps increase the number data points of your experimental design
+    
+    **Note: if you have taken only a few data points, you shouldn't expect your data to look like it's Normally-Distributed, even if it was being sampled from a Normal distribution. Make sure you take enough data before checking if it's Normally-Distributed*
 
-The goal of the preliminary test is to understand what challenges there might be to making a conclusion and have that inform your experiential design. The goal at this point is **not** to actually test the hypothesis or come to any conclusions yet!
+---------------------------------
 
-Remember our hypothesis for Module 1 is:
+#### Miniquestion: Making an experimental plan
+[*Click here to open in a new tab*](https://forms.gle/tb17PdvLxG1Q8aY78){:target="_blank"}
 
-*"The coefficient of static friction between two surfaces as measured by the critical angle at which an object slips is independent of its mass."*
-
-Perform a single measurement of $$\theta_c$$ for a few different masses (choose the masses to cover as broad of a range as you have available). Report whatever units you are using for the mass. This could be in grams if you have a scale available, but other unconventional units are okay too (e.g. mass in terms of the number of tuna cans or whatever object you are using as the block).
-
-
-mass (what units?) |$$\theta_c$$ (degrees)
-|:-------:|:-------------------------:|	
- . |			
-.	|		
- .	|		
-
-		
-
-In this step, we are trying to get a rough sense of how big of an effect our independent variable (mass) might cause experimentally. The size of the effect will inform what amount of experimental uncertainty will allow us to draw a strong conclusion. 
-
-How does the difference in $$\theta_c$$ for different masses compare to the resolution uncertainty of your measurement?
-
-
-#### 3 Test Repeatability
-
-Now that we are confident we have a reasonable value of the quantity we are trying to measure, and have some sense of how large the effect we are trying to measure might be, we should test the variability in our experimental measurement.
-
-Read [this discussion about random uncertainty](uncertainty-introduction#random-uncertainty) 
-
-The goal of testing repeatability is to get a sense of the random error associated with the measurement. 
-
-Take a few measurements of $$\theta_c$$ under identical conditions (say 4 or 5). Make sure you "reset" your experimental setup each time: start the ramp from a horizontal position ($$\theta = 0$$), place the block onto the ramp, and then slowly start to raise the ramp. "Resetting" the experimental setup between trials helps to minimize systematic error, a major topic in Module II. 
-
-Trial #	| $$\theta_c$$ (degrees)	
-|:-------:|:-------------------------:|	
-1 |			
-2	|		
-3	|		
-4	|		
-
-
-From this preliminary test of repeatability, we would like to get an idea of what the variance of our distribution of measurements might be. With only a few datapoints, calculating the standard deviation will probably not give an accurate reflection of the underlying distribution. So let's take a conservative estimate of how random our dataset is by using the "spread" in the data: the maximum minus minimum value we measured.
-
-+ How does the spread in the data (maximum measured $$\theta_c$$ minus minimum $$\theta_c$$) compare to the resolution uncertainty? 
-    + Based on this, what should we focus on: improving our instrumentation (reducing resolution uncertainty) or taking many repeated trials (reducing our random uncertainty)?
-
-
- Assuming this spread approximates our standard deviation $$\sigma$$, let's use this to estimate how many trials we might need to reach a desired random uncertainty (standard error of the mean). Remember $$\textrm{SEM} = \sigma/\sqrt{N}$$. 
-
-
-| Desired random uncertainty / standard error of the mean (degrees) |	Number of trials likely required per datapoint|
-|:-----------------:|:------------------:|
-| 2 |	|
-| 1	 | |
-| 0.5 |	|
-| 0.1	| |
-| 0.01	|| 
-
-
-+ How many data points would you need to take in order for any effect due to changing mass to be larger than your random uncertainty? 
-
-
-#### Miniquestion: How Many Trials
-*[Click here to open in a new tab](https://forms.gle/Zc7GbHhS1ySxQbnFA){:target="_blank"}*
-
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe7JH6ImWbMSDfMZkXMq2pYSVCpLyeMy4QVmInBqcK7j2yNqw/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeDfsXQ_oZD63gIQcvD2Owi-4uvYaC0O2wBbnInH6jlJzF2pA/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
-Remember our goal is to make the strongest conclusion we can, which involves minimizing the experimental uncertainty. But more trials will take more time to perform, and there are diminishing returns to taking more data points. There is no right answer for balancing these two, but if your calculations suggest you need 10,000 data points to achieve your desired resolution your time might be better spent redesigning the experiment. While there is no magic number, for the purpose of this course, balancing realistical expectations on your time, we will generally be satisfied with 5 data points. Anything less than this becomes very suspect in terms of statistical analysis, but we do want to respect realistic limits on your time and encourage you to be mindful of this as well. This means that for this experiment we expect you to look at 5 different masses and collect 5 data points for each mass. This "rule of thumb" will set our expectations throughout the course.
+-------------------
+### Practical Considerations to the Experimental Design
+
+Before delving deeply into data collection it is helpul to take a step back and consider whether your experimental plan is practical. In this case, will you be able to complete the data collection in the time that should be allocated to a 1-unit class or is your plan unrealistic. An example of a practical consideration is in the randomization of the mass. 
+
+Perhaps a concrete example would be helpful. Imagine your mass is a container for which you are changing the mass by filling it with water. If you fully randomize the experiment the way we suggested last week you will have to add or remove water for each of the 25 measurements. Because there is significant start up time in terms of accurately measuring a consistent amount of water, this will take significantly longer than collecting all of the data for a single mass and then moving on to the next data point. You might make a conscious choice not to fully randomize the experiment. However, you should at a minimum randomize those parameters which can be reasonably randomized within the time constraints of the experiment. In this case this might mean choosing not to randomize every single trial but randomizing the trials in batches. A batch might include collecting all of the data for a given mass at once or as a compromise collecting 2-3 data points each time you set up the experiment with a given mass. The order in which you work through the "batches" should still be randomized. However, if instead of adding water you are adding crayons, it might not significantly affect the required time to complete the experiment to fully randomize the trials in which case this would be preferable.
+
+**Side note: we do not expect you to have access to a scale at home, can you think of an alternative way to estimate the mass in the previous experiment without one? Depending on your experimental configuration you may or may not be able to make a good estimate of the mass, when it comes to presenting your data it is okay to use alternative units. e.g. if you are adding more crayons to a pencil case but do not know the mass of each crayon you might report your results in terms of the number of crayons added.**
 
 
-#### 4 Explore Other Factors
+### Iterative Experimental Design
 
-Finally, it's a good idea to explore other factors that might affect the measurement. These other factors might be a source of systematic error. Read about  [systematic error here first](uncertainty-introduction#systematic-errors) (2 minutes).
+If your real-time data visualization indicates something is going wrong, you should iterate on your experimental design. Sometimes this is just as simple as making a note in your lab notebook of the revised plan. For example, *"The first 5 data points had a sample standard deviation larger than what was observed in the exploratory measurement. Instead of 5 data points, I will now take 10."*
 
+Or maybe you've noticed some uncontrolled factor in your experiment and you need to start over. In that case, carefully note any data that was taken, but do not delete it! Even if you aren't going to include data you've taken in your analysis, it's important to keep a record of what happened. Here's an example of how you might document such an event in your lab notebook: *"My experimental design called for 5 data points, but in my first 3 data points I noticed a larger standard deviation than I expected based on my exploratory measurements. I noticed that the pencils inside my hard pencil case (used as the block) were sometimes shifting inside the pencil case before the pencil case was slipping on my book (the ramp). The first 3 trials were taken without carefully controlling that factor, and I will not include them in my analysis. In subsequent trials, I will make sure the pencils are pushed up against the "downhill" side of the pencil case before starting. I will take 5 new data points according to my experimental design."*
 
-Here are some ideas of things you can explore (feel free to explore others too):
+Often even if things go as planned and we finish taking data according to our experimental design, we can end up with an inconclusive or unclear result. Just because you complete your experimental design, doesn't mean you are done with your experiment! It's far easier to communicate your results when there is a clear conclusion. It's often worth the effort to revise your plan and take more data, which will save you time trying to communicate your results (which we will do in Week 4) and allow you to reach a stronger conclusion.
 
-- Try out different combinations of blocks/ramps
-What combination of block/ramp might yield the best quality data?
+As an experimentalist, you have to make the tough decision of when the experiment is complete. It takes years of experience to build up the knowledge and intuition to comfortably decide "when am I done?". Even collaborators in the same research group can disagree on this point. To help get you started, let's look at a few examples in the following miniquestion. 
 
-- Do the following factors affect your measurement?
-    - the exact location of where the block is placed on the ramp
-    - speed of how quickly the ramp is raised
-    - the direction the ramp is tilted
-    - the orientation of the block 
+-------
 
-If any of these factors affect the measurement, which ones are most significant?
+#### Miniquestion: Iterative Experimental Design
+[*Click here to open in a new tab*](https://forms.gle/sC1e3oDHZkgPxwAX9){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeyFal_30OZSOz6SSoOeJ_ZyLkEv8VSClnloKLNQLbwGuMDBw/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
 
-*Note: If we didn't already have a hypothesis in mind, we could use this exploration to help generate a hypothesis.
-
-Please note that while it is important to explore the influence of parameters such as those suggested here during the exploratory phase to determine their significance on systematic error; once you begin collecting data you will want to control (keep constant) these same variables. Your exploration will give you an indication of how sigificant the parameters may be which inluences how tightly they need to be controlled.
-
-#### 5 Additional Considerations
-Another consideration when forming an experimental plan is the order in which to collect data. Like with other considerations our underlying goal is to achieve experimental results in which any trends in the data can provide useful insight for the hypothesis we are investigating.  This includes an accurate representation of meaningful trends in our data (i.e. how does our data change with respect to changes in the independent variable) and an accurate representation of the uncertainty in our data. Often our data is sensitive to drift. Drift can occur from parameters that might “drift” over time. Temperature and humidity are two common sources of experimental drift. While unintentional and unadvised, experimental protocols can also unintentionally change over time, even when we try very hard to be consistent. One way to reduce our sensitivity to drift is to randomize the order in which data is collected. This will not eliminate the drift, but it will reduce the likelihood that it affects our results in a systematic way.
+-----
 
 
-## Checkpoint 2
+## Reporting Data with Significant Figures
 
-Designing the Experiment
+Something to consider when communicating your results is the number of significant figures (decimal places) you report. Imagine you calculated the coefficient of static friction and its uncertainty. The value you obtain from Google Sheets is 0.44030407 ± 0.00403726. So you should communicate this value when you write up your experimental results, right? Hold on:  do you really know the value of $$\mu$$ to the 8th decimal place? Our uncertainty of $$\delta \mu_s = $$0.00<span style="color:red">4</span>03726 tells us that we are unsure of the 3rd decimal place, so we are definitely not sure about the value in the 8th decimal place of $$\mu_s = $$0.4403040<span style="color:red">7</span>! This digit is insignificant; you don’t truly have that kind of precision in this experiment and cannot quote results that would imply otherwise.
 
-At the end of the exploratory observations, we can now complete an Experimental Design that will determine how the actual experiment will be performed. The first step of making an experimental design is to clearly articulate the hypothesis you are testing. For Module 1 it's "The coefficient of static friction between two surfaces as measured by the critical angle at which an object slips is independent of its mass."
+This is where the term significant digits, or “sig figs” for short, comes into play. We only want to report digits that are significant — accurately reflect the precision of our experiment — in our results. We will now present the rule of thumb for determining significant digits:
 
-Please answer the following questions and paste your responses into the appropriates boxes for [checkpont 2 on Gradescope](https://www.gradescope.com/courses/216639/assignments/904967){:target="_blank"} by the end Week 2. You are not expected to complete the experiment just this week, just to submit a plan. Next week you will collect your data for the experiment.
+1. Round and keep only one digit in your uncertainty
 
-+ Question 1: Independent Variable - Your independent variable will be the mass. Please describe the procedure by which you will vary the mass. You should plan to test at least 5 different masses. Keep your response to 1-2 sentences.
+    + in our example this would mean we report our uncertainty as $$\delta \mu_s = 0.004$$
 
-+ Question 2: Controlled variables - What factors are you going to control (hold constant)? For each factor please include (in one sentence) relevant details as to the procedure you will use to hold the variable constant. These details should be quantitative where appropriate (e.g. it would be a good idea to control the rate at which you raise the ramp. A strong experimental plan would include an estimate of the rate at which you will raise the ramp.) Expected response: list of variables to be controlled with a one sentence description of relevant details for each variable.
+    **Exception**: if the most significant digit — in our example above, the digit in red 0.00<span style="color:red">4</span>03726 — is a 1 or 2, then report two digits in the uncertainty. For example: if your uncertainty is 0.0237304 then its most significant digit is a 2 so we will keep two digits, resulting in an uncertainty of 0.024 after rounding.
 
-+ Question 3: Measurement of critical angle - The Phyphox app will continuously measure the angle of your phone. How will you accurately read out the angle corresponding to the critical angle. Keep your response to 1-2 sentences.
+2. Round your measured value so the placement of the least significant digit matches that of the rounded uncertainty. Wow, that sounds confusing so let’s see how this applies to our example above:
 
-+ Question 4: It is important to have a plan for how many trials you will take as well as the order in which you will collect your data. How many trials per mass? How to order the measurements?
+    + in our example we began with 0.44030407 ± 0.00403726. We determined that the uncertainty should be 0.004, meaning the least significant digit of the uncertainty is in the 3rd decimal place. We need to round our measurement value to the same digit so the value we will report for our measurement is **0.440 ± 0.004**.
 
-+ Question 5: Testing of Hypothesis - Based on the data you will obtain, how will you test the hypothesis? Keep your response to: 1-2 sentences.
+#### Miniquestion: Reporting Significant Figures
+*[Click here to open in a new tab](https://forms.gle/9FnE5SnK7z5i9QNWA){:target="_blank"}*
 
-+ And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-2){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScXf6FeCt2rfBGMoQ7bln9a56mMxyHwQ0e8aYBs9vjnH9Yd6A/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0"> Loading…
+</iframe>
+
+---------------------------
+## Review of Uncertainty Estimation
+
+Before collecting and analyzing your data this week, please make sure that you have read this [discussion about combining uncertainties](https://physics-50.github.io/Module-1/uncertainty-introduction#combining-uncertainties)
+
+And if you're confused about the rounding of the values, you might want to [read this first](https://physics-50.github.io/Module-1/uncertainty-introduction#significant-figures)
+
+To make sure you've understood these ideas, please complete the following mini-question. This is going to come up repeatedly throughout the course. If you have any uncertainty about your response please stop by office hours and talk to us or consult with your classmates through Piazza.
+
+---------------
 
 
-## Anticipated week 2 checkpoint deductions:
-The checkpoint will be graded out of 15 points.
+#### Miniquestion: Combining Random and Resolution Uncertainty
+[*Click here to open in a new tab*](https://forms.gle/KMCCqJZxdkchbBvdA){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc7wj6OMBqqybagJhwZb0-Mkk8UnW2WOf5G7v474S0ryLvJOw/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
 
-+ Independent Variable [2 points]
-    - Deduction if your explanation does not make it clear that other parameters which might influence the results (size, shape, materials in contact) will remain the same as the mass is varied [-0.25 points]
-    - Deduction if your explanation does not state what range of masses will be explored (Ok to state the range using nontraditional units) [-0.25 points]
-    - Deduction if the grader cannot follow the student's plan for varying the mass. [-1.5 points]
-+ Controlled  Variables [4 points]
-    - Deductions ranging from 0.5 points to 2.0 points if description of how the tilting rate will be controlled is incomplete
-    - Deduction of 0.5 to 1.0 points if consistent positioning of object on ramp is not adequately described
-    -Deduction of 1.0 points if ambient variables are not given appropriate consideration
-+ Measurement and Critical Angle [3 points]
-    - For full credit you will need to propose a reasonable method to identify the maximum angle before the mass begins to slide that does not require fancy handiwork during the experiment.
-+ Testing of hypothesis [3 points]
-    - For full credit you will need to propose a reasonable method to assess your hypothesis that takes into consideration your experimental uncertainties.
-+ Deductions will also be assessed for failing to submit the checkpoint on time as outlined in the course syllabus.
+---------------------------------------------------
 
-## Final Note
 
-In the diagram at the top of the page, the arrows come full-circle and suggest that we may not be done. Although we have come up with an experimental design, we could return to some background reading to make sure that we are exploring hasn't been done already. We could, for example continue doing background reading to refine our experimental design and hypothesis by [searching Google Scholar for academic articles related to  our topic/hypothesis](https://scholar.google.com/scholar?q=critical+angle+and+the+coefficient+of+static+friction). The first search result, for example, measured $$\mu_s$$ for lubricated surfaces and found that the measured $$\mu_s$$ might depend on mass based on the type of lubricant. Although this type of hypothesis refinement frequently happens in experimental research, it is beyond the scope of our learning objectives in Physics 50. 
 
-When you're ready, move on to [Week 3 - Hypothesis Testing Phase](week3)
 
+## Week 3 - Generating Data to Test a Hypothesis
+
+
+
+## Data Collection
+
+With the background reading complete, you are now ready to start the data collection process. 
+
+### Step 1: Set-up a Spreadsheet
+Your spreadsheet should allow you to:
++ Record data.
++ Plot your data in real time.
++ Analyze your data. In this case your goal is to determine the co-efficient of static friction for each mass.
+
+![spreadsheet example](images/plot-as-you-go.gif)
+
+
+Look back to the spreadsheet you used for your preliminary data collection last week. You will want to organize your data collection in a similar way. 
+
+
+<details>
+<summary markdown='span'>Click here for detailed steps to guide you through the process of setting up your spreadsheet
+</summary>
+
+These steps will guide you through this process:
+
+
+1. Begin by creating a worksheet. This can be a new sheet in your existing worksheet using the add sheet button in the bottom left or a new worksheet.
+2. Set up a table to determine the critical angle for the first mass.
+
+    + Give the table a title.
+
+    + Title the column you will be using for data collection ($$\theta_c$$)
+
+    + As part of the Experimental Design you prepared for the week #2 checkpoint you estimated a reasonable number of data points to achieve the desired accuracy. Use this as a guide for how many rows to include in your table. 
+
+    + Use the borders feature to outline the table.
+    
+        <img src="images/borders.JPG" alt="The border button will allow you to outline your table" width="125"/>
+
+
+3. Set up a graph to plot your data in real time. For this experiment you will want to plot a histogram of your measurements of the the critical angle $$\theta_c$$. Today we are setting up an informal plot to look at our data in real time. This is different from a more formal figure that you would use to share/communicate your results - creating formal figures is a more careful process, we will do that next week after we've collected and reflected on our data. Here we summarize how to create a histogram in sheets. You can find more helpful information at: [*Click here to open in a new tab*](https://support.google.com/docs/answer/9146867?hl=en){:target="_blank"}
+
+    + You can add a chart by selecting "insert" and then "chart" from the drop down menus.
+
+    + A new "Chart Editor" Menu will appear on the RHS of the screen. Use the drop down menu under chart type to select "histogram".
+
+        <img src="images/Histogram.JPG" alt="The border button will allow you to outline your table" width="125"/>
+
+    + On the next line of the "Chart Editor" set data range to be the cells in which you plan to insert your data (you may have to go back and edit this later if you collect more data than expected)
+
+    + Press the x in the top right to exit the chart editor.
+
+    + Click on your chart and move it to a convenient spot in your worksheet. You will want to customize the chart further once you begin collecting data.
+
+5. Now add a row to calculate the average value for the critical angle, $$\theta_c$$ and standard error. This will be analogous to what you did last week just with more data, go ahead and look back to last week's worksheet to set-up the calculations.
+
+6. Add another row to use the same calculations you did last week to calculate the coefficient of static friction, $$\mu_s$$, for your new data set.
+
+7. Now you need to set up your worksheet to collect data for the second mass. There are two ways you might go about this. One is to add a second column to the right of your first column, duplicating the equations for your calculations. You should then create a second histogram to monitor the data from the second mass in real time. Alternatively, you can duplicate the sheet. At the bottom left are tabs that allow you to have multiple sheets in your worksheet. If you click on the downward arrow next to your sheet name a menu will appear. Click on "duplicate" and you will now have a second identical sheet ready for data from your second mass. You can rename your sheets from the same menu.
+ <img src="images/Duplicating_sheet_in_sheets.png" alt="The duplicate menu item will allow you to duplicate your worksheet, easily creating a second worksheet already set-up for the second mass" width="125"/>
+
+Once you have collected a few data points you will want to go back to the chart editor and select customize. Next week we will focus on polishing our plot for communicating our results but even for your own records you want to make a few adjustments while collecting data. 
+
++ Use the Chart and axis title dropdown to add a chart title
+
++ Within the same dropdown menu, if you click on chart title you can change the dropdown to "Horizontal axis title". Go ahead and label your axis.
+
++ The histogram dropdown will allow you to change the bucket size (by default it will be on auto which you may or may not find satisfactory depending on your data)
+
+
+</details>
+
+----------------------------------
+
+
+### Step 2: Collect and analyze data
+
+Make sure to record all relevant details such as what mass you are using. Always include units when recording data. If you are switching back and forth between the masses to randomize your experiment, then be very careful about where in your spreadsheet you are recording your data.  
+
+As you collect data, be on the lookout for problems like those mentioned in the [Real-time Data Visualization](#real-time-data-visualization) section above. The histogram and summary statistics of your critical angle will help you identify if you need to adjust your plan.
+
+
+### Step 3: Reflect and Iterate
+
+It is important to take a moment to reflect on your results. Are there any anomalies in your data? (This is often a reason to collect more data.) Are your final results and uncertainties reasonable? How do your results compare with your hypothesis?
+
+At this point, you need to consider if your results are conclusive. Review the section [Iterative Experimental Design](#iterative-experimental-design) above. If your results are inconclusive, then can you think of some reasonable* steps that you can take to improve your measurement? If so, then come up with a revised experimental plan and try it!
+
+**Reasonable is subjective. We don't expect for the purposes of our Module 1 that you will take hundreds of data points. But if taking 5 more data points will result in a stronger conclusion, then we encourage you to do so! It is also important to recognize that statistical analysis is not valid for very small numbers of data points. As a rough guide we would not consider a statistical analysis relying on less than 5 data points to be valid and therefore recommend you collect no fewer than 5 data points for each mass.*
+
+Next week you will make use of the Matlab software package to plot your data. If you do not have Matlab installed on your device we encourage you to install it to be prepared for next week's assignment (HMC has a site license). If you have any issues please reach out to us. The CIS help desk can also be helpful with installation issues.
+
+## Checkpoint #3
+
+Please submit the following to [Checkpoint #3 on Gradescope](https://www.gradescope.com/courses/216639/assignments/906692){:target="_blank"}
+
++ A screen-shot showing an organized spreadsheet used for data collection
+
++ A histogram for each mass tested showing the distribution of the number of data points collected as a function of the angle $$\theta_c$$. You should have collected data for five different masses, with 5 data points for each mass.
+
++ The value you obtained for the coefficient of static friction, $$\mu_s$$, for 3 of the 5 masses (smallest, middle, and largest), including the estimated uncertainty. Please make sure to use significant figures appropriately. If unsure please reread the section on significant figures, come to office hours to discuss, and/or consult your classmates through Piazza.
+
++ A single-sentence, preliminary conclusion that you can draw about the hypothesis based on your experimental data
+
+## Grading Rubric
+The tentative rubric that will be used to evaluate this deliverable is provided below. Please keep in mind that these rubric items are subject to change as we can never foresee all the issues that may arise. This is meant to give you a sense of how it will be graded.
+
+**Click on the below images to enlarge in a new tab:**
+[![Spreadsheet and Histograms Rubric](images/checkpoint3-spreadsheet-rubric.png)](images/checkpoint3-spreadsheet-rubric.png){:target="_blank"}
+[![Results Rubric](images/checkpoint3-results-rubric.png)](images/checkpoint3-results-rubric.png){:target="_blank"}
+
+Don't forget to double check that you've completed [all of this week's miniquestions at this link.](mini-questions#week-3){:target="_blank"}
+
+
+When you've received feedback on your Week 3 checkpoint, get started on [Week 4](week4).
