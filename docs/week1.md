@@ -185,7 +185,7 @@ Using the information provided in the [discussion on random undertainty](uncerta
 + How does the standard error in your data compare to the resolution uncertainty? 
     + Based on this, what should we focus on: improving our instrumentation (reducing resolution uncertainty) or reducing our random uncertainty.
     
-    Reducing random uncertainty can include both improving our measurement technique to reduce the spread in our data and  taking many repeated trials. It is often helpful to do both. This is also your chance to take some initiative. The approach you use to measure the angle at which the container begins to slip will significantly affect the reproducibility. Materials will be provided at the back of the lab to allow you to raise the ramp in different ways. You should give some consideration to how to reliably determine the critical angle - trying to press a button on your phone as the container is starting to move while holding the ramp is unlikely to yield reproducible results. Use the remaining time to explore techniques that might help you to get more reproducibile results. If you aren't sure where to start talk to your instructor. Some ideas to consider - you may find equipment at the back of the lab that allows you to raise the ramp in a more controlable way, you may also find it helpful to know that Phyphox will record the data for later extraction. If you know the critical angle was the highest angle reached you don't need to press any buttons on the phone during the experiment.
+Reducing random uncertainty can include both improving our measurement technique to reduce the spread in our data and  taking many repeated trials. It is often helpful to do both. This is also your chance to take some initiative. The approach you use to measure the angle at which the container begins to slip will significantly affect the reproducibility. Materials will be provided at the back of the lab to allow you to raise the ramp in different ways. You should give some consideration to how to reliably determine the critical angle - trying to press a button on your phone as the container is starting to move while holding the ramp is unlikely to yield reproducible results. Use the remaining time to explore techniques that might help you to get more reproducibile results. If you aren't sure where to start talk to your instructor. Some ideas to consider - you may find equipment at the back of the lab that allows you to raise the ramp in a more controlable way, you may also find it helpful to know that Phyphox will record the data for later extraction. If you know the critical angle was the highest angle reached you don't need to press any buttons on the phone during the experiment.
 
 
 -------------
@@ -194,23 +194,32 @@ Using the information provided in the [discussion on random undertainty](uncerta
 
 **Please note that the first time you access the class Gradescope site you need to do so through Sakai (using the Gradescope link from the items on the left). Once you have done so once all Gradescope links in the manual will work going forward.**
 
-+ [Submit the results of your single measurement on Gradescope](https://www.gradescope.com/courses/216639/assignments/904955){:target="_blank"}. The Gradescope assignment includes a sample calculation to ensure you are calculating $$\mu_s$$ and propogating the uncertainty correctly.
++ [Submit Module 1 checkpoint 1 on Gradescope](https://www.gradescope.com/courses/282675/assignments/1392670){:target="_blank"}. 
+
+    - The Gradescope assignment includes a sample calculation to ensure you are calculating $$\mu_s$$ and propogating the uncertainty correctly.
+
+    - You will be asked to submit your measured critical angle, coefficient of friction, and propogated uncertainty. This data should come from data you collected after settling on a procedure to yield reproducible data and should include averaging 5 data points collected with the same mass in the container all measurements.
+
+    -you will also be asked to describe the procedure you have settled on to accurately determine the critical angle.
 
 + And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-1){:target="_blank"}
 
 ## Sample Rubric for Grading of Checkpoint 1
 
-The first checkpoint will be graded primarily on completion. We are providing a draft grading rubric. These deductions are intended primarily to ensure you are prepared for week 2 and to be successful in the module. On this and all checkpoints please take even small deductions seriously. For example, deductions such as the 0.2 point deduction at the end of this rubric are intended to point out issues that we do not want to penalize in a substantial way on an early checkpoint but that you will need to address in order to move forward successfully. Please recognize that while we plan to follow this rubric we may make adjustments if needed. These adjustmets may include zero point deductions. Please don't assume that becasue a deduction is zero points it isn't important. It may be for an important error that we chose not to take off points for at an early stage in the course but are more likely to deduct points for next time. Since the deductions are intended to provide feedback to help you be successful on future checkpoints, if you don't understand our suggestions, please stop by office hours to talk to us.
+We are providing a draft grading rubric. These deductions are intended primarily to ensure you are prepared for week 2 and to be successful in the module. We may occasionally include zero point deductions. Please don't assume that becasue a deduction is zero points it isn't important. It may be for an important error that we chose not to take off points for at an early stage in the course but are more likely to deduct points for next time. Since the deductions are intended to provide feedback to help you be successful on future checkpoints, if you don't understand our suggestions, please stop by office hours to talk to us.
 
-The checkpoint is graded out of 10 points.
+The checkpoint is graded out of 12 points.
 
 **Anticipated week 1 checkpoint deductions:**
-+ Incorrect result for the sample calculation of the $$\mu_s$$ [-1 point]
-+ Sample Calculation: Incorrect result for the propogated resolution uncertainty [-1 point]
-+ Reported critical angle departs substantially from expectations [-1 point]
-+ $$\mu_s$$ calculated incorrectly [-1 point]
-+ Propogated resolution uncertainty departs substantially from expectations [-1 point]
-+ Possible issues with your choice of block and ramp. For example, do you have a plan on how to add mass to your "block"? [-0.2 points]
-+ Deductions for failing to submit the checpoint on time as outlined in the syllabus
++ Sample Calculations: Incorrect result for $$\mu_s$$ [-1 point]
++ Sample Calculation: Incorrect result for the propagated resolution uncertainty [-1 point]
++ Sample Calculation: Incorrect result for the propagated uncertainty including random error [-1 point]
++ Reported critical angle departs substantially from expectations [-2 points]
++ Reported uncertainty in the critical angle departs substantially from expectations [-1 point]
++ Link to shared Google classroom spreadsheet not provided [-1 point]
++ $$\mu_s$$ calculated incorrectly [-1.5 points]
++ Propogated uncertainty departs substantially from expectations and/or calculated incorrectly [-1.5 point]
++ Varying deductions if your procedure does not adequately lay out a method to generate reproducible measurements of the critical angle [up to 3 points]
++ Deductions for failing to submit the checkpoint on time as outlined in the syllabus
 
 When you're all finished and ready to move on, you can start [Week 2 - Exploratory Phase (part 2)](week2).
