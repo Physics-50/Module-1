@@ -1,19 +1,18 @@
 # Week 3: Generating Data to Test a Hypothesis
 
-This week we are going to generate a data set to test our hypothesis. This will include more detailed data collection for analysis than the exploratory measurement from Weeks 1-2.
+This week we are going to generate a data set to test our hypothesis. This will include more detailed data collection for analysis than the exploratory measurement from Week 1.
 
-[Background Reading for Week 3](#background-reading-and-miniquestions)
+[Background Reading for Week 2](#background-reading-and-miniquestions)
 
 [Review: Estimating Uncertainties](#Review-of-uncertainty-estimation)
 
 [Reporting Data with Significant Figures](#reporting-data-with-significant-figures)
 
-[Data Collection for Week 3](#data-collection)
+[Data Collection for Week 2](#data-collection)
 
 ## Background Reading and Miniquestions
 
 At the end of this week you should have a complete data set for the measured critical angle for (at least) five different masses.
-
 Before you begin taking data, there are two principles that we would like to introduce: **"real-time data visualization"** and **"iterative experimental design"**. In taking experimental data, we don't want to just blindly follow the procedure laid out in the experimental design. We need to ensure the data we are taking is reasonable and that our conclusions are well-founded and impactful. One way to ensure the data is reasonable is to have some real-time visualization set up ("plotting as you go"). That way we can see our data as we are taking it, and adapt based on any new information.
 
 *Warning* When "plotting as we go" we don't want to make a real-time decision that incorrectly shapes our conclusions. For example, suppose we had made a plan to take 10 data points based on our exploratory measurements. But in taking the first 3 data points we notice a small sample standard deviation and that if we just stop taking data now, we end up with a reasonable conclusion. If we stop our hypothesis testing based on whether or not the data gives us the answer we are looking for, then we might draw INCORRECT conclusions based on the spread of just a few data points [explained here](https://replicationindex.com/2015/01/24/questionable-research-practices-definition-detect-and-recommendations-for-better-practices/){:target="_blank"}. If this puzzles you, you might look back to the discussion of [random uncertainty](uncertainty-introduction#random-uncertainty){:target="_blank"}. Related concerns are also raised [here](https://www.explainxkcd.com/wiki/index.php/882:_Significant){:target="_blank"}. 
@@ -42,13 +41,20 @@ An important habit we would like you to develop as an experimentalist is to be p
 </iframe>
 
 -------------------
-### Practical Considerations to the Experimental Design
 
-Before delving deeply into data collection it is helpul to take a step back and consider whether your experimental plan is practical. In this case, will you be able to complete the data collection in the time that should be allocated to a 1-unit class or is your plan unrealistic. An example of a practical consideration is in the randomization of the mass. 
+### Making an Experimental Plan
 
-Perhaps a concrete example would be helpful. Imagine your mass is a container for which you are changing the mass by filling it with water. If you fully randomize the experiment the way we suggested last week you will have to add or remove water for each of the 25 measurements. Because there is significant start up time in terms of accurately measuring a consistent amount of water, this will take significantly longer than collecting all of the data for a single mass and then moving on to the next data point. You might make a conscious choice not to fully randomize the experiment. However, you should at a minimum randomize those parameters which can be reasonably randomized within the time constraints of the experiment. In this case this might mean choosing not to randomize every single trial but randomizing the trials in batches. A batch might include collecting all of the data for a given mass at once or as a compromise collecting 2-3 data points each time you set up the experiment with a given mass. The order in which you work through the "batches" should still be randomized. However, if instead of adding water you are adding crayons, it might not significantly affect the required time to complete the experiment to fully randomize the trials in which case this would be preferable.
++ How many data points would you need to take in order for any effect due to changing mass to be larger than your random uncertainty? 
 
-**Side note: we do not expect you to have access to a scale at home, can you think of an alternative way to estimate the mass in the previous experiment without one? Depending on your experimental configuration you may or may not be able to make a good estimate of the mass, when it comes to presenting your data it is okay to use alternative units. e.g. if you are adding more crayons to a pencil case but do not know the mass of each crayon you might report your results in terms of the number of crayons added.**
+
+#### Miniquestion: How Many Trials
+*[Click here to open in a new tab](https://forms.gle/Zc7GbHhS1ySxQbnFA){:target="_blank"}*
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe7JH6ImWbMSDfMZkXMq2pYSVCpLyeMy4QVmInBqcK7j2yNqw/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+Before delving deeply into data collection it is helpul to take a step back and consider whether your experimental plan is practical. In this case, will you be able to complete the data collection in the time that should be allocated to a 1-unit class or is your plan unrealistic. Remember our goal is to make the strongest conclusion we can, which involves minimizing the experimental uncertainty. But more trials will take more time to perform, and there are diminishing returns to taking more data points. There is no right answer for balancing these two, but if your calculations suggest you need 10,000 data points to achieve your desired resolution your time might be better spent redesigning the experiment. While there is no magic number, for the purpose of this course, balancing realistical expectations on your time, we will generally be satisfied with 5 data points. Anything less than this becomes very suspect in terms of statistical analysis, but we do want to respect realistic limits on your time and encourage you to be mindful of this as well. This means that for this experiment we expect you to look at 5 different masses and collect 5 data points for each mass. This "rule of thumb" will set our expectations throughout the course.
 
 
 ### Iterative Experimental Design
@@ -115,7 +121,7 @@ To make sure you've understood these ideas, please complete the following mini-q
 
 
 
-## Week 3 - Generating Data to Test a Hypothesis
+## Week 2 - Generating Data to Test a Hypothesis
 
 
 
@@ -148,8 +154,6 @@ These steps will guide you through this process:
     + Give the table a title.
 
     + Title the column you will be using for data collection ($$\theta_c$$)
-
-    + As part of the Experimental Design you prepared for the week #2 checkpoint you estimated a reasonable number of data points to achieve the desired accuracy. Use this as a guide for how many rows to include in your table. 
 
     + Use the borders feature to outline the table.
     
@@ -193,7 +197,7 @@ Once you have collected a few data points you will want to go back to the chart 
 
 ### Step 2: Collect and analyze data
 
-Make sure to record all relevant details such as what mass you are using. Always include units when recording data. If you are switching back and forth between the masses to randomize your experiment, then be very careful about where in your spreadsheet you are recording your data.  
+Make sure to record all relevant details such as what mass you are using. Always include units when recording data. When switching back and forth between the masses to randomize your experiment, then be very careful about where in your spreadsheet you are recording your data.  
 
 As you collect data, be on the lookout for problems like those mentioned in the [Real-time Data Visualization](#real-time-data-visualization) section above. The histogram and summary statistics of your critical angle will help you identify if you need to adjust your plan.
 
@@ -208,7 +212,7 @@ At this point, you need to consider if your results are conclusive. Review the s
 
 Next week you will make use of the Matlab software package to plot your data. If you do not have Matlab installed on your device we encourage you to install it to be prepared for next week's assignment (HMC has a site license). If you have any issues please reach out to us. The CIS help desk can also be helpful with installation issues.
 
-## Checkpoint #3
+## Checkpoint #2
 
 Please submit the following to [Checkpoint #3 on Gradescope](https://www.gradescope.com/courses/216639/assignments/906692){:target="_blank"}
 
@@ -227,7 +231,6 @@ The tentative rubric that will be used to evaluate this deliverable is provided 
 [![Spreadsheet and Histograms Rubric](images/checkpoint3-spreadsheet-rubric.png)](images/checkpoint3-spreadsheet-rubric.png){:target="_blank"}
 [![Results Rubric](images/checkpoint3-results-rubric.png)](images/checkpoint3-results-rubric.png){:target="_blank"}
 
-Don't forget to double check that you've completed [all of this week's miniquestions at this link.](mini-questions#week-3){:target="_blank"}
+Don't forget to double check that you've completed [all of this week's miniquestions at this link.](mini-questions#week-2){:target="_blank"}
 
 
-When you've received feedback on your Week 3 checkpoint, get started on [Week 4](week4).
