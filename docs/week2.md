@@ -1,4 +1,4 @@
-# Week 3: Generating Data to Test a Hypothesis
+# Week 2: Generating Data to Test a Hypothesis
 
 This week we are going to generate a data set to test our hypothesis. This will include more detailed data collection for analysis than the exploratory measurement from Week 1.
 
@@ -25,8 +25,7 @@ An important habit we would like you to develop as an experimentalist is to be p
 
 + Is your sample mean very different than what you measured in your exploratory analysis? 
     + If so, then try to troubleshoot what the differences might be (e.g. a calculation error, an uncontrolled variable), and then revise your approach
-+ Is your sample standard deviation much larger than what you found in your week 2 exploratory analysis? 
-    + If so, then maybe you need to revise how many data points you plan on taking
+
 + Does your data look Normally-Distributed* (like a Gaussian, bell-curve)?
     + If not, then you should try to investigate uncontrolled variables or perhaps increase the number data points of your experimental design
     
