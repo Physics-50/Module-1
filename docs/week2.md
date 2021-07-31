@@ -31,6 +31,8 @@ An important habit we would like you to develop as an experimentalist is to be p
     
     **Note: if you have taken only a few data points, you shouldn't expect your data to look like it's Normally-Distributed, even if it was being sampled from a Normal distribution. Make sure you take enough data before checking if it's Normally-Distributed*
 
+### Making an Experimental Plan
+
 ---------------------------------
 
 #### Miniquestion: Making an experimental plan
@@ -40,8 +42,6 @@ An important habit we would like you to develop as an experimentalist is to be p
 </iframe>
 
 -------------------
-
-### Making an Experimental Plan
 
 + How many data points would you need to take in order for any effect due to changing mass to be larger than your random uncertainty? 
 
