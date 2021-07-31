@@ -1,13 +1,13 @@
 
-# Week 4: Communicating written scientific results, physics-style
+# Week 3: Communicating written scientific results, physics-style
 
-
+This week is focused on the analysis and presentation of your results. You are not expected to come to lab this week but are encouraged to talk to your instructor if you have questions.
 
 While talks, podcasts and videos are all wonderfully rich formats for sharing scientific results, in physics and many other scientific disciplines, the golden standard for communication is a published journal article, or “paper” for short. The physics article is typically composed of (1) a short abstract summarizing the main findings, (2) the main body of the paper, including figures, and (3) a bibliography to help contextualize the results within the broader field of research.
 
 But what if you just don’t have the time to read all those parts of each article you need to check out? The neat trick for quickly scanning physics papers also works as a fantastic method for writing your own paper: focus on the figures. A good rule of thumb is that if you “read” every figure+caption, you should get the gist of the main conclusions of the paper, as well as a sense of how those results were determined. In fact, the sequence of figures+captions acts a lot like an outline you may have produced in Writ 001, in that it conveys the main result (thesis) by showing evidence in support of a sequence of subclaims. The evidence is usually shown directly in the figure, using either a plot with data points or an image of the system studied. The analysis of that evidence is ideally concisely summarized in the figure captions. 
 
-In Physics 50, you will ultimately get to experience what it’s like to create a sequence of figures with captions that would provide the backbone to a physics paper. The first step in that process is to learn how to create a single figure with a caption. For the Module 1 deliverable, you will produce a figure containing a plot, and later in this course you will also create figures that don’t contain a plot. Both types of figures are essential for communicating your scientific results.
+In Physics 50, you will ultimately get to experience what it’s like to create a sequence of figures with captions that would provide the backbone to a physics paper. The first step in that process is to learn how to create a single figure with a caption. 
 
 ## A figure showing a plot 
 
