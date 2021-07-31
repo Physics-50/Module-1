@@ -49,18 +49,7 @@ On this page you will find all of the mini-questions for Module 1. Although each
 
 -------------
 
-
 ## Week 2
-
-#### Miniquestion: How Many Trials
-[*Click here to open in a new tab*](https://forms.gle/vAwTgKnkRn1Jau6H8){:target="_blank"}
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe7JH6ImWbMSDfMZkXMq2pYSVCpLyeMy4QVmInBqcK7j2yNqw/viewform?embedded=true" width="640" height="600" frameborder="1" marginheight="10" marginwidth="0">Loading…
-</iframe>
-
------------------
-
-## Week 3
 
 #### Miniquestion: Making an experimental plan
 [*Click here to open in a new tab*](https://forms.gle/WUFjm2wJ6vETJW827){:target="_blank"}
@@ -70,6 +59,13 @@ On this page you will find all of the mini-questions for Module 1. Although each
 --------------
 
 
+#### Miniquestion: How Many Trials
+[*Click here to open in a new tab*](https://forms.gle/vAwTgKnkRn1Jau6H8){:target="_blank"}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe7JH6ImWbMSDfMZkXMq2pYSVCpLyeMy4QVmInBqcK7j2yNqw/viewform?embedded=true" width="640" height="600" frameborder="1" marginheight="10" marginwidth="0">Loading…
+</iframe>
+
+-----------------
 #### Miniquestion: Iterative Experimental Design
 [*Click here to open in a new tab*](https://forms.gle/sC1e3oDHZkgPxwAX9){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeyFal_30OZSOz6SSoOeJ_ZyLkEv8VSClnloKLNQLbwGuMDBw/viewform?embedded=true" width="640" height="600" frameborder="1" marginheight="10" marginwidth="0">Loading…
