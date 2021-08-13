@@ -86,7 +86,7 @@ On this page you will find all of the mini-questions for Module 1. Although each
 
 ---------------------------------------------------
 
-## Week 4
+## Week 3
 
 #### Miniquestion: What's wrong with this figure?
 [*Click here to open in a new tab*](https://forms.gle/aswmYqFn2AMm3wtj9){:target="_blank"}
