@@ -3,7 +3,7 @@
 [Syllabus](syllabus)
 
 [Weekly Plan](#weekly-plan)
-+ [Week 1 - Exploratory Phase (part 1)](week1)
++ [Week 1 - Exploratory Phase](week1)
 + [Week 2 - Hypothesis Testing Phase](week2)
 + [Week 3 - Scientific Communication Phase](week3)
 
