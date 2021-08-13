@@ -222,4 +222,4 @@ The checkpoint is graded out of 12 points.
 + Varying deductions if your procedure does not adequately lay out a method to generate reproducible measurements of the critical angle [up to 3 points]
 + Deductions for failing to submit the checkpoint on time as outlined in the syllabus
 
-When you're all finished and ready to move on, you can start [Week 2 - Exploratory Phase (part 2)](week2).
+
