@@ -1,8 +1,8 @@
 # Module 1.5
-
+\usepackage{gensymb}
 Module 1.5 is not a full module but a one week experiment with a checkpoint (no deliverable). There are also no mini-questions this week and most of the instruction and discussion will take place in lab.
 
-The experiment: You will roll a ball down a ramp. The ramp should be set to 5$$\degree$$. You need to measure the horizontal distance the ball lands from the end of the ramp, including an estimate of the uncertainty in the measurement.
+The experiment: You will roll a ball down a ramp. The ramp should be set to 5$$\degree$$. \degree \textdegree $$\^{\circ}$$ You need to measure the horizontal distance the ball lands from the end of the ramp, including an estimate of the uncertainty in the measurement.
 
 The tape provided on your bench can be used to visualize where the ball landed. Further instructions will be provided in lab. You should spend ~30min on an initial estimate. Please submit your estimate and uncertainty on the following form:
 
