@@ -114,7 +114,7 @@ The script saves the result as a jpeg image "static-friction-plot-improved.jpg" 
 
 At this point you should be thinking about how to analyze your data for consistency with your hypothesis and, if the results are consistent with the hypothesis, generate a mean value to report. At this point you should have multiple measured values for the coefficient of friction from measuerments with different mass. Measurements for different mass should each have their own random error $$\delta\mu_{s_1}, \delta\mu_{s_2}, ..., \delta\mu_{s_n}$$.  How should you combine these to get the best final value for coefficient of friction?  What is the correct random error for that final value? And how should you gauge whether the results are consistent with your hypothesis?
 
-Just averaging the different values is not the best method of combining the data, because some of the values are more certain than others.  If we are getting directions in a strange town, we naturally weight conflicting advice according to how certain each person seems about the directions they are giving us.  We need to do something similar -- but more quantitative -- with our several viscosity values.  
+Just averaging the different values is not the best method of combining the data, because some of the values are more certain than others.  If we are getting directions in a strange town, we naturally weight conflicting advice according to how certain each person seems about the directions they are giving us.  We need to do something similar -- but more quantitative -- with our several values for the coefficient of static friction.  
 
 One way to find the "best fit average" of those points, which we will make use of, is to find the best fit horizontal line to match the data when plotting coefficient of friection versus mass (see figure below). Looking at the horizontal fit to the plotted data will also help us to analyze whether our data agrees with the hypothesis. We will talk a lot more about curve fitting in Module 3 (if you want to see it now, here's the detailed [Curve Fitting Guide](https://physics-50.github.io/Module-3/curve-fitting){:target="_blank"}). For Module 1, all you need to do is download and run a MATLAB file that will fit a horizontal line to your data, as described below.
 
@@ -129,7 +129,7 @@ and search for the "curve fitting toolbox":
 
 If it says "Installed" you are good to go. Otherwise, click on the Curve Fitting Toolbox page and install it.
 
-Now that you have the curve fitting toolbox, please download the file [curve_fitting_demo_Mod2Week3.m](curve_fitting_demo_Mod2Week3.m) and run the script. 
+Now that you have the curve fitting toolbox, please download the file [curve_fitting_demo_Mod1Week3.m](curve_fitting_demo_Mod1Week3.m) and run the script. 
 
 Every time you run the script, you will get the following warning in the command window:
 ![warning](images/warning.png)
