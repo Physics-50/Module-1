@@ -46,14 +46,11 @@ Following the class discussion and further investigations please submit your fin
 
 --------------------------------
 
-#### Final Estimate
 
-[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLScvaAjEFgmLha8VIqN0pLOAK4n2BmM6thdftFbnvRVEXRms7w/viewform?usp=sf_link){:target="_blank"}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScvaAjEFgmLha8VIqN0pLOAK4n2BmM6thdftFbnvRVEXRms7w/viewform?usp=sf_link" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 ----------------------------------------------------------------
-# Checkpoint for module 1.5
+# Checkpoint for module 0
 
 Your checkpoint for this week (submitted on Gradescope) will include the following:
 
