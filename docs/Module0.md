@@ -32,9 +32,15 @@ One of our goals in these first few weeks is to become comfortable with what it 
 
 ## Return to Module 0 and begin data collection
 
-You should spend ~30min on an initial estimate. Please submit your estimate and uncertainty on the following form:
+You should spend ~30min on an initial estimate. Please submit your estimate and uncertainty on the following form: (only one lab partner should submit your team's result)
 
 --------------------------
+
+#### Initial Estimate
+*[Click here to open in a new tab]https://forms.gle/Cgo3vnpqFoVYfEjE6/viewform?){:target="_blank"}*
+
+<iframe src="https://forms.gle/Cgo3vnpqFoVYfEjE6/viewform?embedded=true" width="640" height="303" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
 
 --------------------------
 Once you have submitted your result please think about how you might obtain a more accurate estimate. Instructions for the rest of lab will be provided in class.
