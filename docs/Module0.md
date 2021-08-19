@@ -37,7 +37,8 @@ You should spend ~30min on an initial estimate. Please submit your estimate and 
 --------------------------
 #### Initial Estimate
 [*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLScvaAjEFgmLha8VIqN0pLOAK4n2BmM6thdftFbnvRVEXRms7w/viewform?usp=sf_link){:target="_blank"}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd3mydGdP_7kp1lxrU7AubdgjNYQ9VjfjR57ExSFNkHKXKyJA/viewform?usp=sf_link" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd3mydGdP_7kp1lxrU7AubdgjNYQ9VjfjR57ExSFNkHKXKyJA/viewform?usp=sf_link" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
 
 --------------------------
 Once you have submitted your result please think about how you might obtain a more accurate estimate. Instructions for the rest of lab will be provided in class.
