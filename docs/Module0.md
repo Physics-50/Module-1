@@ -22,11 +22,11 @@ Please follow the following instructions:
 Goal: measure, with uncertainty, the horizontal distance traveled by a ball rolling down an inclined plane placed on top of a lab bench.
 
 Steps:
-+   Set the incline of the “ramp” to 5 degrees above the table 
-+   Move the lower end of the ramp to the edge of the table
-+   Use the blue masking tape to attach a length of pressure sensitive tape (roll of colored paper) to the floor where you anticipate the ball will land
-+   Place the ball 1 meter on the ramp from the lower end (measured along the length of the ramp) and release
-+   Repeat as often as necessary to obtain a value for the horizontal distance “d” traveled by the ball (measured from the end of the ramp) and the associated uncertainty in “d”
++ Set the incline of the “ramp” to 5 degrees above the table 
++ Move the lower end of the ramp to the edge of the table
++ Use the blue masking tape to attach a length of pressure sensitive tape (roll of colored paper) to the floor where you anticipate the ball will land
++ Place the ball 1 meter on the ramp from the lower end (measured along the length of the ramp) and release
++ Repeat as often as necessary to obtain a value for the horizontal distance “d” traveled by the ball (measured from the end of the ramp) and the associated uncertainty in “d”
 
 
 Further instructions will be provided in lab. You should spend ~30min on an initial estimate. Please submit your estimate and uncertainty on the following form:
