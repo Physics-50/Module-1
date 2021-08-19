@@ -50,7 +50,7 @@ By the end of this course you will be able to collect, analyze, and interpret re
 
 
 # Course Structure
-In this course you will work on three modules that each will last several weeks. (There is also a 1 week interlude referred to as module 1.5 between modules 1 and 2). In each week of each module, you will start by reading the online manual (linked on Sakai) and completing the associated embedded miniquestions, due by the start of your lab period. Each week you will submit a checkpoint via Gradescope, due four days later. 
+In this course you will work on three modules that each will last several weeks. (There is also a 1 week experiment without a deliverable, referred to as module 0, the first week of class). In each week of each module, you will start by reading the online manual (linked on Sakai) and completing the associated embedded miniquestions, due by the start of your lab period (there are no mini-questions the first week of class) Each week you will submit a checkpoint via Gradescope, due four days later. 
 
 Deadlines for checkpoints will be as follows:
 Monday sections: due Fridays at 10pm
@@ -72,6 +72,8 @@ The end-of-module deliverables focus on the critical skill of scientific communi
 
 + For Module I, you will create a multi-panel figure with a caption that summarizes the result of your experiment. 
 + For Modules II and III, you will create a sequence of 2 multi-panel figures that, along with captions, effectively tell the story of your experiment: what you did, and what your results mean. 
+
+There is no deliverable for module 0.
 
 # Grading
 The course grade will be calculated based upon your performance on the mini-questions, checkpoints, deliverables and in-lab practicum.
