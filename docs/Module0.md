@@ -37,9 +37,9 @@ You should spend ~30min on an initial estimate. Please submit your estimate and 
 --------------------------
 
 #### Initial Estimate
-*[Click here to open in a new tab]https://forms.gle/Cgo3vnpqFoVYfEjE6/viewform?){:target="_blank"}*
+*[Click here to open in a new tab]https://docs.google.com/forms/d/e/1FAIpQLSd3mydGdP_7kp1lxrU7AubdgjNYQ9VjfjR57ExSFNkHKXKyJA/viewform?usp=sf_link/viewform?){:target="_blank"}*
 
-<iframe src="https://forms.gle/Cgo3vnpqFoVYfEjE6/viewform?embedded=true" width="640" height="303" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src=https://docs.google.com/forms/d/e/1FAIpQLSd3mydGdP_7kp1lxrU7AubdgjNYQ9VjfjR57ExSFNkHKXKyJA/viewform?usp=sf_link/viewform?embedded=true" width="640" height="303" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 --------------------------
