@@ -111,6 +111,8 @@ $$\mathrm{SEM} = \frac{x_\mathrm{dev.}}{\sqrt{N}}$$
 
 **Main point: our best estimate of our experimentally measured value is the sample mean, and our best estimate of its random uncertainty is the standard error of the mean. So only considering random sources of uncertainty, we would report $$x_\mathrm{mean} \pm  \mathrm{SEM}$$**
 
+For Module 0 in the first week of class this is as far as you need to read (you will return to this guide for more details in the coming weeks)
+[Return to Module 0 and begin data collection](Module0#return-to-module-0-and-begin-data-collection)
 ----------------------------------------
 
 Returning to our example with $$n=3$$ for our two techniques, and looking at these at these three important quantities (sample mean, sample standard deviation, and standard error of the mean):
@@ -126,7 +128,7 @@ B | 83.444 | 0.005
 
 Even though this data was obtained by sampling the two theoretical distributions, neither of these techniques results in a measured value within uncertainty of the actual mean. For example, Technique B gave us a sample mean value that is over 10 times the SEM away from the actual mean! What went wrong? We only used $$n=3$$ data points, which isn't enough to ensure that we are adequately sampling the distribution.
 
-**Important: doing a statistical analysis on a small sample size is a bad idea. As a rough rule-of-thumb, take at least 6 data points before applying any statistical tools.** 
+**Important: doing a statistical analysis on a small sample size is a bad idea. As a rough rule-of-thumb, take at least 5 data points before applying any statistical tools.** 
 
 Let's repeat that same thought experiment, but now we will sample each distribution $$n=10$$ times (take 10 data points for each experimental technique):
 ![experiment with 10 data points](images/exper-n10.jpg)
