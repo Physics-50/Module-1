@@ -28,6 +28,9 @@ Steps:
 + Place the ball 1 meter on the ramp from the lower end (measured along the length of the ramp) and release
 + Repeat as often as necessary to obtain a value for the horizontal distance “d” traveled by the ball (measured from the end of the ramp) and the associated uncertainty in “d”
 
+One of our goals in these first few weeks is to become comfortable with what it means to report a value with uncertainty. We've prepared a guide to help you through our expectations but do not expect you to read the full guide today. Please follow [this link, which will open in a new tab](uncertainty-introduction#random-uncertainty). You do not need to read the complete guide, just until the link:
+
+## Return to Module 0 and begin data collection
 
 Further instructions will be provided in lab. You should spend ~30min on an initial estimate. Please submit your estimate and uncertainty on the following form:
 
