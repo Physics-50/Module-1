@@ -11,9 +11,6 @@
 6. Designing the Experiment (Week 2)
 
 --------------
-Please note that in order for the Google classroom link below to work you must first go to Google Classroom through a Chrome browser logged into your g.hmc.edu account and join the class with classroom code: cztaii7  - or use this [link](https://classroom.google.com/c/MzY5MzA2OTcxNzM4?cjc=cztaii7). Once you've done this once you will not have to log into Google classroom separately again and all links to documents we provide through Google classroom in this lab manual will work.
-
-Please make sure to join Google classroom from your g.hmc.edu account. Students from other Claremont colleges taking the course should consult HMC's CIS support if you have any issues - they will issue you a g.hmc.edu account. **The course will not appear in your Google Classroom account until you join the course with the class code.**
 
 We begin our investigation of measuring $$\mu_s$$ by doing an initial exploration. Our goal is to come up with a hypothesis to test and a plan for how we will do so (an experimental design). In the Exploratory Phase it can be especially important to take detailed notes. Organizing a digital lab notebook and data spreadsheet can be tricky, so for Week 1 we are providing a [template for you to follow along with that we've assigned from Google Classroom](https://classroom.google.com/u/0/w/MzY5MzA2OTcxNzM4/t/all){:target="_blank"}. 
 
