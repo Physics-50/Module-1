@@ -48,7 +48,13 @@ Once you have submitted your result please think about how you might obtain a mo
 Following the class discussion and further investigations please submit your final estimate here:
 
 --------------------------------
---------------------------------
+
+#### Final Estimate
+*[Click here to open in a new tab]https://docs.google.com/forms/d/e/1FAIpQLScvaAjEFgmLha8VIqN0pLOAK4n2BmM6thdftFbnvRVEXRms7w/viewform?usp=sf_link/viewform?){:target="_blank"}*
+
+<iframe src=https://docs.google.com/forms/d/e/1FAIpQLScvaAjEFgmLha8VIqN0pLOAK4n2BmM6thdftFbnvRVEXRms7w/viewform?usp=sf_link/viewform?embedded=true" width="640" height="303" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
 ----------------------------------------------------------------
 # Checkpoint for module 1.5
 
