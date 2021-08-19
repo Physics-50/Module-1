@@ -111,8 +111,10 @@ $$\mathrm{SEM} = \frac{x_\mathrm{dev.}}{\sqrt{N}}$$
 
 **Main point: our best estimate of our experimentally measured value is the sample mean, and our best estimate of its random uncertainty is the standard error of the mean. So only considering random sources of uncertainty, we would report $$x_\mathrm{mean} \pm  \mathrm{SEM}$$**
 
-For Module 0 in the first week of class this is as far as you need to read (you will return to this guide for more details in the coming weeks)
+**For Module 0 in the first week of class this is as far as you need to read (you will return to this guide for more details in the coming weeks)**
 [Return to Module 0 and begin data collection](Module0#return-to-module-0-and-begin-data-collection)
+
+
 ----------------------------------------
 
 Returning to our example with $$n=3$$ for our two techniques, and looking at these at these three important quantities (sample mean, sample standard deviation, and standard error of the mean):
