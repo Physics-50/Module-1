@@ -47,11 +47,9 @@ Following the class discussion and further investigations please submit your fin
 --------------------------------
 
 #### Final Estimate
-*[Click here to open in a new tab]https://docs.google.com/forms/d/e/1FAIpQLScvaAjEFgmLha8VIqN0pLOAK4n2BmM6thdftFbnvRVEXRms7w/viewform?usp=sf_link/viewform?){:target="_blank"}*
-
+[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLScvaAjEFgmLha8VIqN0pLOAK4n2BmM6thdftFbnvRVEXRms7w/viewform?usp=sf_link/viewform?){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScvaAjEFgmLha8VIqN0pLOAK4n2BmM6thdftFbnvRVEXRms7w/viewform?embedded=true" width="640" height="303" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-<iframe src=https://docs.google.com/forms/d/e/1FAIpQLScvaAjEFgmLha8VIqN0pLOAK4n2BmM6thdftFbnvRVEXRms7w/viewform?usp=sf_link/viewform?embedded=true" width="640" height="303" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ----------------------------------------------------------------
 # Checkpoint for module 1.5
