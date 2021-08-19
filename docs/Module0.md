@@ -35,15 +35,10 @@ One of our goals in these first few weeks is to become comfortable with what it 
 You should spend ~30min on an initial estimate. Please submit your estimate and uncertainty on the following form: (only one lab partner should submit your team's result)
 
 --------------------------
-#### Miniquestion: What's wrong with this figure?
-[*Click here to open in a new tab*](https://forms.gle/aswmYqFn2AMm3wtj9){:target="_blank"}
+#### Initial Estimate
+[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSd3mydGdP_7kp1lxrU7AubdgjNYQ9VjfjR57ExSFNkHKXKyJA){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScU8X-RWA1R2DQKBAcs0yfU2IIa0xasrnsNsdA-l-F00ngkJw/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
-
-#### Initial Estimate
-*[Click here to open in a new tab]https://docs.google.com/forms/d/e/1FAIpQLSd3mydGdP_7kp1lxrU7AubdgjNYQ9VjfjR57ExSFNkHKXKyJA/viewform?usp=sf_link/viewform?){:target="_blank"}*
-
-<iframe src=https://docs.google.com/forms/d/e/1FAIpQLSd3mydGdP_7kp1lxrU7AubdgjNYQ9VjfjR57ExSFNkHKXKyJA/viewform?usp=sf_link/viewform?embedded=true" width="640" height="303" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 --------------------------
 Once you have submitted your result please think about how you might obtain a more accurate estimate. Instructions for the rest of lab will be provided in class.
