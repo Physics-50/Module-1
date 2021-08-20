@@ -52,10 +52,28 @@ Following the class discussion and further investigations please submit your fin
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScvaAjEFgmLha8VIqN0pLOAK4n2BmM6thdftFbnvRVEXRms7w/viewform?usp=sf_link" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
+------------------------------------------------------------
 
+Before preparing your checkpoint please read through this guideline for reporting results with appropriate significant figures. You should refer back to these guidelines and follow them throughout this course.
+
+## Reporting Data with Significant Figures
+
+Something to consider when communicating your results is the number of significant figures (decimal places) you report. Imagine you calculated the mean value for the distance from the table and its uncertainty. The value you obtain from Google Sheets is 14.44030407 ± 0.40372678. So you should communicate this value when you write up your experimental results, right? Hold on:  do you really know the value of d to the 8th decimal place? Our uncertainty of $$\delta d = $$0.00<span style="color:red">4</span>0372678 tells us that we are unsure of the 1st decimal place, so we are definitely not sure about the value in the 8th decimal place of $$d = $$14.4403040<span style="color:red">7</span>! This digit is insignificant; you don’t truly have that kind of precision in this experiment and cannot quote results that would imply otherwise.
+
+This is where the term significant digits, or “sig figs” for short, comes into play. We only want to report digits that are significant — accurately reflect the precision of our experiment — in our results. We will now present the rule of thumb for determining significant digits:
+
+1. Round and keep only one digit in your uncertainty
+
+    + in our example this would mean we report our uncertainty as $$\delta d = 0.4$$
+
+    **Exception**: if the most significant digit — in our example above, the digit in red 0.<span style="color:red">4</span>0372678 — is a 1 or 2, then report two digits in the uncertainty. For example: if your uncertainty is 0.0237304 then its most significant digit is a 2 so we will keep two digits, resulting in an uncertainty of 0.024 after rounding.
+
+2. Round your measured value so the placement of the least significant digit matches that of the rounded uncertainty. Wow, that sounds confusing so let’s see how this applies to our example above:
+
+    + in our example we began with 14.44030407 ± 0.40372678. We determined that the uncertainty should be 0.4, meaning the least significant digit of the uncertainty is in the 3rd decimal place. We need to round our measurement value to the same digit so the value we will report for our measurement is **14.4 ± 0.4**.
 
 ----------------------------------------------------------------
-# Checkpoint for module 0
+# Checkpoint for Module 0
 
 Your checkpoint for this week (submitted on Gradescope) will include the following:
 
@@ -63,5 +81,5 @@ Your checkpoint for this week (submitted on Gradescope) will include the followi
 + Your best estimate of the distance and uncertainty from the class results
 + Answers to the following questions:
     - What were the primary sources of uncertainty that you found it essential to control to obtain accurate results in this experiment (explain)? Please limit your response to 2-3 sentences.
-    - Do your results and those of the class as a whole appear reasonable? What basis are you using to reach this conclusion? Please limit your response to 1-2 sentences.
+    - Do your results and those of the class as a whole appear reasonable? What basis are you using to reach this conclusion? Please limit your response to 1-3 sentences.
 
