@@ -217,6 +217,7 @@ The checkpoint is graded out of 12 points.
 + $$\mu_s$$ calculated incorrectly [-1.5 points]
 + Propogated uncertainty departs substantially from expectations and/or calculated incorrectly [-1.5 point]
 + Varying deductions if your procedure does not adequately lay out a method to generate reproducible measurements of the critical angle [up to 3 points]
++ Deductions for not following the conventions for significant figures laid out in the lab manual last week [up to 2 points]
 + Deductions for failing to submit the checkpoint on time as outlined in the syllabus
 
 
