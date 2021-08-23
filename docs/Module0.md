@@ -32,7 +32,7 @@ One of our goals in these first few weeks is to become comfortable with what it 
 
 ## Return to Module 0 and begin data collection
 
-You should spend ~30min on an initial estimate. Please submit your estimate and uncertainty on the following form: (only one lab partner should submit your team's result)
+You should spend ~30 min on an initial estimate. Please submit your estimate and uncertainty on the following form: (only one lab partner should submit your team's result)
 
 --------------------------
 #### Initial Estimate
