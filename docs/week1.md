@@ -7,8 +7,8 @@
 2. [Background Reading](#background-reading)
 3. [Formulating a Hypothesis](#formulating-a-hypothesis)
 4. [Instrumentation](#instrumentation)
-5. [Exploratory Measurements](#exploratory-measurements) (and continued in Week 2)
-6. Designing the Experiment (Week 2)
+5. [Exploratory Measurements](#exploratory-measurements) 
+6. [Reproducibility](#reproducibility)
 
 --------------
 
@@ -102,17 +102,17 @@ For your exploratory measurements in Module 1, we would like you to do the follo
 
 The steps below guide you through these four items, and provide links to important concepts (so please follow along carefully). Make sure you are recording your exploratory observations as you go so that you have a record of them (reminder: we have set up [a spreadsheet for you on Google Classroom](https://classroom.google.com/c/MjUxNTgyMzY1MDM5/a/MjUxNTgyMzY1MDQ5/details){:target="_blank"}, use the "Exploratory Observations" tab to record your data in this section).
 
+#### Background: Uncertainty estimates
 
-#### 1 Perform a Single Measurement
+The "Uncertainty Introduction" has information we are going to need in Ph50 about treating sources of experimental uncertainty. Please first read both the [overview on uncertainties](uncertainty-introduction#overview){:target="_blank"} and also about [resolution uncertainty](uncertainty-introduction#resolution-uncertainty){:target="_blank"} ($$\approx$$ 5 minutes).  This is a more extended guide from which we took the excerpt provided last week.
+
+#### In lab: Perform a Single Measurement
 
 Usually one of the first exploratory steps is to use your equipment to take a single measurement. We want to make sure that our measurement (in this case, $$\theta_c$$) will lead to a reasonable value of the calculated quantity we are trying to obtain ($$\mu_s$$). We also want to get a sense of the resolution of our measurement device and how that will affect the uncertainty measured in the calculated quantity. 
 
 + Place the block on the ramp and slowly raise the ramp while keeping an eye on the plane inclination measurement on the phyphox app. Record in the spreadsheet the value of the angle you observe just before slipping (in other words, perform a single measurement of $$\theta_c$$).
 
-
-+ The "Uncertainty Introduction" has information we are going to need in Ph50 about treating sources of experimental uncertainty. Please first read both the [overview on uncertainties](uncertainty-introduction#overview){:target="_blank"} and also about [resolution uncertainty](uncertainty-introduction#resolution-uncertainty){:target="_blank"} ($$\approx$$ 5 minutes).  
-
-    Then record the resolution uncertainty for the critical angle $$\delta_\mathrm{res.} \theta_c$$ in your exploratory observations spreadsheet.
+    Record the resolution uncertainty for the critical angle $$\delta_\mathrm{res.} \theta_c$$ in your exploratory observations spreadsheet.
 
 | $$\theta_c$$ (degrees) | $$\delta_\mathrm{res.} \theta_c $$ (degrees) |
 |:-----------------------:|:---------------------------------------------:|
@@ -182,7 +182,7 @@ Using the information provided in the [discussion on random undertainty](uncerta
 + How does the standard error in your data compare to the resolution uncertainty? 
     + Based on this, what should we focus on: improving our instrumentation (reducing resolution uncertainty) or reducing our random uncertainty.
     
-Reducing random uncertainty can include both improving our measurement technique to reduce the spread in our data and  taking many repeated trials. It is often helpful to do both. This is also your chance to take some initiative. The approach you use to measure the angle at which the container begins to slip will significantly affect the reproducibility. Materials will be provided at the back of the lab to allow you to raise the ramp in different ways. You should give some consideration to how to reliably determine the critical angle - trying to press a button on your phone as the container is starting to move while holding the ramp is unlikely to yield reproducible results. Use the remaining time to explore techniques that might help you to get more reproducibile results. If you aren't sure where to start talk to your instructor. Some ideas to consider - you may find equipment at the back of the lab that allows you to raise the ramp in a more controlable way, you may also find it helpful to know that Phyphox will record the data for later extraction. If you know the critical angle was the highest angle reached you don't need to press any buttons on the phone during the experiment.
+Reducing random uncertainty can include both improving our measurement technique to reduce the spread in our data and  taking many repeated trials. It is often helpful to do both. This is also your chance to take some initiative. The approach you use to measure the angle at which the container begins to slip will significantly affect the reproducibility. Materials will be provided at the back of the lab to allow you to raise the ramp in different ways. You should give some consideration to how to reliably determine the critical angle - trying to press a button on your phone as the container is starting to move while holding the ramp is unlikely to yield reproducible results. Use the remaining time to explore techniques that might help you to get more reproducibile results. If you aren't sure where to start talk to your instructor. Some ideas to consider - you may find equipment at the back of the lab that allows you to raise the ramp in a more controlable way (e.g. you will find equipment that you could use to construct a pulley system), you may also find it helpful to know that Phyphox will record the data for later extraction. If you know the critical angle was the highest angle reached you don't need to press any buttons on the phone during the experiment. Designing/setting up the experiment in a way that will allow you to get reproducible results is a critical part of the experimental process and of this course. 
 
 
 -------------
