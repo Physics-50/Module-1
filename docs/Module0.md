@@ -11,7 +11,7 @@ Please make sure to join Google classroom from your g.hmc.edu account. Students 
 Next week we will talk more about carefully setting up and organizing a spreadsheet. For now please ask if you have questions but for now your main goal should be to organize your spreadsheet well enough that you and your partner can keep track of what you've done and would be able to come back several months later and still be able to understand, follow and work with the data.
 
 
-The experiment: You will roll a ball down a ramp. The ramp should be set to 5$$^{\circ}$$. You need to measure the horizontal distance the ball lands from the end of the ramp, including an estimate of the uncertainty in the measurement.
+The experiment: You will roll a ball down a ramp. The ramp should be set to 5°. You need to measure the horizontal distance the ball lands from the end of the ramp, including an estimate of the uncertainty in the measurement.
 
 The tape provided on your bench can be used to visualize where the ball landed. 
 
@@ -22,7 +22,7 @@ Please follow the following instructions:
 Goal: measure, with uncertainty, the horizontal distance traveled by a ball rolling down an inclined plane placed on top of a lab bench.
 
 Steps:
-+ Set the incline of the “ramp” to 5 degrees above the table 
++ Set the incline of the “ramp” to 5° above the table 
 + Move the lower end of the ramp to the edge of the table
 + Use the blue masking tape to attach a length of pressure sensitive tape (roll of colored paper) to the floor where you anticipate the ball will land
 + Place the ball 1 meter on the ramp from the lower end (measured along the length of the ramp) and release
