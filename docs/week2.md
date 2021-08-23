@@ -76,21 +76,19 @@ As an experimentalist, you have to make the tough decision of when the experimen
 -----
 
 
-## Reporting Data with Significant Figures
+## Reminder: Reporting Data with Significant Figures
 
-Something to consider when communicating your results is the number of significant figures (decimal places) you report. Imagine you calculated the coefficient of static friction and its uncertainty. The value you obtain from Google Sheets is 0.44030407 ± 0.00403726. So you should communicate this value when you write up your experimental results, right? Hold on:  do you really know the value of $$\mu$$ to the 8th decimal place? Our uncertainty of $$\delta \mu_s = $$0.00<span style="color:red">4</span>03726 tells us that we are unsure of the 3rd decimal place, so we are definitely not sure about the value in the 8th decimal place of $$\mu_s = $$0.4403040<span style="color:red">7</span>! This digit is insignificant; you don’t truly have that kind of precision in this experiment and cannot quote results that would imply otherwise.
-
-This is where the term significant digits, or “sig figs” for short, comes into play. We only want to report digits that are significant — accurately reflect the precision of our experiment — in our results. We will now present the rule of thumb for determining significant digits:
+In week 1, we introduced you to the idea of significant figures. As a reminder: we only want to report digits that are significant — accurately reflect the precision of our experiment — in our results. Here are the rules we ask you to use in this class:
 
 1. Round and keep only one digit in your uncertainty
 
-    + in our example this would mean we report our uncertainty as $$\delta \mu_s = 0.004$$
+    + For example we might report an uncertainty of $$\delta \mu_s = 0.006$$
 
-    **Exception**: if the most significant digit — in our example above, the digit in red 0.00<span style="color:red">4</span>03726 — is a 1 or 2, then report two digits in the uncertainty. For example: if your uncertainty is 0.0237304 then its most significant digit is a 2 so we will keep two digits, resulting in an uncertainty of 0.024 after rounding.
+    **Exception**: if the first non-zero digit — is a 1 or 2, then report two digits in the uncertainty. For example: if your uncertainty is 0.0237304 then its first non-zero digit is a 2 so we will keep two digits, resulting in an uncertainty of 0.024 after rounding.
 
 2. Round your measured value so the placement of the least significant digit matches that of the rounded uncertainty. Wow, that sounds confusing so let’s see how this applies to our example above:
 
-    + in our example we began with 0.44030407 ± 0.00403726. We determined that the uncertainty should be 0.004, meaning the least significant digit of the uncertainty is in the 3rd decimal place. We need to round our measurement value to the same digit so the value we will report for our measurement is **0.440 ± 0.004**.
+    + Suppose we began with 0.44030407 ± 0.01203726. We determined that the uncertainty should be 0.012, meaning the least significant digit of the uncertainty is in the 3rd decimal place. We need to round our measurement value to the same digit so the value we will report for our measurement is **0.440 ± 0.012**.
 
 #### Miniquestion: Reporting Significant Figures
 *[Click here to open in a new tab](https://forms.gle/9FnE5SnK7z5i9QNWA){:target="_blank"}*
