@@ -141,7 +141,7 @@ The Writing Center provides a welcoming virtual space for writers to get feedbac
 
 
 # Accommodations
-HMC is committed to providing an inclusive learning environment and support for all students. Given our current online learning environment, we recognize that the challenges facing students are different and student accommodation needs may change. Students with a disability (including mental health, chronic or temporary medical conditions) who may need some accommodation in order to fully participate in this class are encouraged to contact Educational Accessibility Services at ability@g.hmc.edu to request accommodations. Students from the other Claremont Colleges should contact their home college's disability resources officer.
+HMC is committed to providing an inclusive learning environment and support for all students. As we return back to in-person instruction, we recognize that the challenges facing students may be different and student accommodation needs may change. Students with a disability (including mental health, chronic or temporary medical conditions) who may need accommodations in order to fully participate in this class are encouraged to contact the Office of Accessible Education at access@g.hmc.edu to request accommodations. Students from the other Claremont Colleges should contact their home college's Accessible Education officer.
 
 
 
