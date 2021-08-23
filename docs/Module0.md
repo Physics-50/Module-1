@@ -66,7 +66,7 @@ This is where the term significant figures, or “sig figs” for short, comes i
 
     + in our example this would mean we report our uncertainty as $$\delta d = 0.4$$ cm
 
-    **Exception**: if the most significant digit — in our example above, the digit in red 0.<span style="color:red">4</span>0372678 — is a 1 or 2, then report two digits in the uncertainty. For example: if your uncertainty is 0.0237304 then its most significant digit is a 2 so we will keep two digits, resulting in an uncertainty of 0.024 after rounding.
+    **Exception**: if the most significant digit (i.e., the first nonzero digit) — in our example above, the digit in red 0.<span style="color:red">4</span>0372678 — is a 1 or 2, then report two digits in the uncertainty. For example: if your uncertainty is 0.0237304 then its most significant digit is a 2 so we will keep two digits, resulting in an uncertainty of 0.024 after rounding.
 
 2. Round your measured value so the placement of the least significant digit matches that of the rounded uncertainty. Wow, that sounds confusing so let’s see how this applies to our example above:
 
