@@ -13,7 +13,7 @@ Next week we will talk more about carefully setting up and organizing a spreadsh
 
 The experiment: You will roll a ball down a ramp. The ramp should be set to 5°. You need to measure the horizontal distance the ball lands from the end of the ramp, including an estimate of the uncertainty in the measurement.
 
-The tape provided on your bench can be used to visualize where the ball landed. 
+The pressure-sensitivetape provided on your bench can be used to visualize where the ball landed. 
 
 Please follow the following instructions:
 
@@ -74,7 +74,7 @@ This is where the term significant figures, or “sig figs” for short, comes i
 
 2. Round your measured value so the placement of the least significant digit matches that of the rounded uncertainty. Wow, that sounds confusing so let’s see how this applies to our example above:
 
-    + in our example we began with 14.44030407 ± 0.40372678 cm. We determined that the uncertainty should be 0.4 cm, meaning the least significant digit of the uncertainty is in the 3rd decimal place. We need to round our measurement value to the same digit so the value we will report for our measurement is **14.4 ± 0.4 cm**.
+    + in our example we began with 14.44030407 ± 0.40372678 cm. We determined that the uncertainty should be 0.4 cm, meaning the least significant digit of the uncertainty is in the 1st decimal place. We need to round our measurement value to the same digit so the value we will report for our measurement is **14.4 ± 0.4 cm**.
 
 ----------------------------------------------------------------
 # Checkpoint for Module 0
