@@ -8,6 +8,10 @@ Please make sure to join Google classroom from your g.hmc.edu account. Students 
 
 **Make sure you have your data spreadsheet and your Module 0 Lab Notebook handy as you go through the content on this page. Please note that we require you to use the provided spreadsheet/lab notebook. The shared spreadsheet will make it easier for us to troubleshoot if any issues come up and provides a historical record of your data collection. The spreadsheet/lab notebook assigned through Google classroom are the only documents you will have access to for the practicum at the end of the course. It is acceptable for lab partners to use one spreadsheet for collecting data. However, if you do so the partner whose spreadsheet was not used for data collection must 1) make a note in their spreadsheet stating that the data was originally collected in your lab partner's notebook and 2) ensure you have a copy of the complete data set pasted into your own Google classroom assigned spreadsheet before leaving lab. Discussion and collaboration is permitted and encouraged, but both partners are individually responsible for completing their own analysis for the checkpoints and deliverables and submitting their own work.**
 
+Once you've signed up for Google classroom you will receive links to your assigned spreadsheet and lab notebook via e-mail. You can also access them through Google classroom under classwork - Module 0.
+
+[link to Google classroom notebook and spreadsheet for Module 0](https://classroom.google.com/u/0/w/MzY5MzA2OTcxNzM4/tc/MzgwNzE0NTI5NzQ1){:target="_blank"}. 
+
 Next week we will talk more about carefully setting up and organizing a spreadsheet. For now, your main goal should be to organize your spreadsheet and notes well enough that you and your partner can keep track of what you've done and would be able to come back several months later and still be able to understand the procedure you followed and work with the data you recorded.  Don't hesitate to ask if you have questions.
 
 
