@@ -1,36 +1,36 @@
 # Module 0
 
-Module 0 is not a full module but a one-week experiment with a checkpoint (no deliverable). There are also no mini-questions this week and most of the instruction and discussion will take place in lab.
+Module 0 is a one-week introduction to careful experimentation and dealing with uncertainties.  It is not a full module and has only a short post-lab checkpoint to be turned in. Future modules will extend over multiple weeks, with pre-lab reading and mini-questions, post-lab checkpoints, and a final deliverable.
 
-Please note that in order for the Google classroom link below to work you must first go to Google Classroom through a Chrome browser logged into your g.hmc.edu account and join the class with classroom code: **cztaii7**  - or use this [link](https://classroom.google.com/c/MzY5MzA2OTcxNzM4?cjc=cztaii7). After you've done this once you will not have to log into Google classroom separately again and all links to documents we provide through Google classroom in this lab manual will work.
+For all experiments in this course, you will keep a data sheet (Google Sheet) and a lab notebook (Google Doc) that are individually assigned to you through Google Classroom.  Please note that in order for the Google classroom link below to work, you must first go to Google Classroom through a Chrome browser logged into your g.hmc.edu account and join the class with classroom code: **cztaii7**  - or use this [link](https://classroom.google.com/c/MzY5MzA2OTcxNzM4?cjc=cztaii7). After you've done this once, you will not have to log into Google classroom separately again; all links to documents we provide through Google classroom in this lab manual should work.
 
 Please make sure to join Google classroom from your g.hmc.edu account. Students from other Claremont colleges taking the course should consult HMC's CIS support if you have any issues - they will issue you a g.hmc.edu account. **The course will not appear in your Google Classroom account until you join the course with the class code.**
 
-**Make sure you have this spreadsheet and your Module 0 Lab Notebook handy as you go through the content on this page. Please note that we require you to use the provided spreadsheet/lab notebook. The shared spreadsheet will make it easier for us to troubleshoot if any issues come up and provides a historical record of your data collection. The spreadsheet/lab notebook assigned through Google classroom are the only documents you will have access to for the practicum at the end of the course. It is acceptable for lab partners to use one spreadsheet for collecting data. However, if you do so the partner whose spreadsheet was not used for data collection must 1) make a note in their spreadsheet stating that the data was originally collected in your lab partner's notebook and 2) ensure you have a copy of the complete data set pasted into your own Google classroom assigned spreadsheet before leaving lab. Discussion and collaboration is permitted and encouraged, but both partners are individually responsible for completing their own analysis for the checkpoints and deliverables and submitting their own work.**
+**Make sure you have your data spreadsheet and your Module 0 Lab Notebook handy as you go through the content on this page. Please note that we require you to use the provided spreadsheet/lab notebook. The shared spreadsheet will make it easier for us to troubleshoot if any issues come up and provides a historical record of your data collection. The spreadsheet/lab notebook assigned through Google classroom are the only documents you will have access to for the practicum at the end of the course. It is acceptable for lab partners to use one spreadsheet for collecting data. However, if you do so the partner whose spreadsheet was not used for data collection must 1) make a note in their spreadsheet stating that the data was originally collected in your lab partner's notebook and 2) ensure you have a copy of the complete data set pasted into your own Google classroom assigned spreadsheet before leaving lab. Discussion and collaboration is permitted and encouraged, but both partners are individually responsible for completing their own analysis for the checkpoints and deliverables and submitting their own work.**
 
-Next week we will talk more about carefully setting up and organizing a spreadsheet. For now please ask if you have questions but for now your main goal should be to organize your spreadsheet well enough that you and your partner can keep track of what you've done and would be able to come back several months later and still be able to understand, follow and work with the data.
+Next week we will talk more about carefully setting up and organizing a spreadsheet. For now, your main goal should be to organize your spreadsheet and notes well enough that you and your partner can keep track of what you've done and would be able to come back several months later and still be able to understand the procedure you followed and work with the data you recorded.  Don't hesitate to ask if you have questions.
 
 
-The experiment: You will roll a ball down a ramp. The ramp should be set to 5°. You need to measure the horizontal distance the ball lands from the end of the ramp, including an estimate of the uncertainty in the measurement.
+The experiment: You will roll a ball down a ramp and let it fall from the end of the ramp to the floor. The ramp should be set to 5° from the horizontal. You need to measure the horizontal distance between the end of the ramp and the ball's first landing point on the floor, including an estimate of the uncertainty in the measurement.
 
-The pressure-sensitivetape provided on your bench can be used to visualize where the ball landed. 
+The pressure-sensitivetape provided on your bench can be used to visualize where the ball lands. 
 
-Please follow the following instructions:
+Please follow these instructions:
 
 -------------------------------------------------------------------------
 
-Goal: measure, with uncertainty, the horizontal distance traveled by a ball rolling down an inclined plane placed on top of a lab bench.
+Goal: measure, with uncertainty, the horizontal distance traveled by a ball after rolling down an inclined plane placed on top of a lab bench and falling towards the floor.
 
 Steps:
-+ Set the incline of the “ramp” to 5° above the table 
-+ Move the lower end of the ramp to the edge of the table
-+ Use the blue masking tape to attach a length of pressure sensitive tape (roll of colored paper) to the floor where you anticipate the ball will land
-+ Place the ball 1 meter on the ramp from the lower end (measured along the length of the ramp) and release
-+ Repeat as often as necessary to obtain a value for the horizontal distance “d” traveled by the ball (measured from the end of the ramp) and your best estimate of the associated uncertainty in “d”
++ Set the incline of the “ramp” to 5° above the table. 
++ Move the lower end of the ramp to the edge of the table.
++ Use the blue masking tape to attach a length of pressure sensitive tape (roll of colored paper) to the floor where you anticipate the ball will land.
++ Place the ball 1 meter from the lower end of the ramp (measured along the length of the ramp) and release.
++ Repeat as often as necessary to obtain a value for the horizontal distance “d” traveled by the ball (measured from the end of the ramp) and your best estimate of the associated uncertainty in “d.”
 
-One of our goals in these first few weeks is to become comfortable with what it means to report a value with uncertainty. We've prepared a guide to help you through our expectations but do not expect you to read the full guide today. Please follow [this link, which will open in a new tab](uncertainty-introduction#random-uncertainty){:target="_blank"}. You do not need to read the complete guide, just until the link:
+<!--- One of our goals in these first few weeks is to become comfortable with what it means to report a value with uncertainty. We've prepared a guide to help you through our expectations but do not expect you to read the full guide today. Please follow [this link, which will open in a new tab](uncertainty-introduction#random-uncertainty){:target="_blank"}. You do not need to read the complete guide, just until the link:
 
-## Return to Module 0 and begin data collection
+## Return to Module 0 and begin data collection --->
 
 You should spend ~30 min on an initial estimate. Please submit your estimate and uncertainty on the following form: (only one lab partner should submit your team's result)
 
@@ -47,7 +47,7 @@ One of our goals in these first few weeks is to become comfortable with what it 
 
 [Excerpt - Introduction to Random Uncertainty](excerpt-uncertainty-introduction).
 
-Following the class discussion and further investigations please submit your final estimate here:
+Following the class discussion and further investigations guided by it, please submit your final estimate here:
 
 --------------------------------
 
