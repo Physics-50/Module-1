@@ -2,7 +2,7 @@
 
 Module 0 is a one-week introduction to careful experimentation and dealing with uncertainties.  It is not a full module and has only a short post-lab checkpoint to be turned in. Future modules will extend over multiple weeks, with pre-lab reading and mini-questions, post-lab checkpoints, and a final deliverable.
 
-For all experiments in this course, you will keep a data sheet (Google Sheet) and a lab notebook (Google Doc) that are individually assigned to you through Google Classroom.  Please note that in order for the Google classroom link below to work, you must first go to Google Classroom through a Chrome browser logged into your g.hmc.edu account and join the class with classroom code: **cztaii7**  - or use this [link](https://classroom.google.com/c/MzY5MzA2OTcxNzM4?cjc=cztaii7). After you've done this once, you will not have to log into Google classroom separately again; all links to documents we provide through Google classroom in this lab manual should work.
+For all experiments in this course, you will keep a data sheet (Google Sheet) and a lab notebook (Google Doc) that are individually assigned to you through Google Classroom.  To access your assigned documents, you must first go to Google Classroom through a Chrome browser logged into your g.hmc.edu account and join the class with classroom code: **cztaii7**  - or use this [link](https://classroom.google.com/c/MzY5MzA2OTcxNzM4?cjc=cztaii7). After you've done this once, you will not have to log into Google classroom separately again; all links to documents we provide through Google classroom in this lab manual should work.
 
 Please make sure to join Google classroom from your g.hmc.edu account. Students from other Claremont colleges taking the course should consult HMC's CIS support if you have any issues - they will issue you a g.hmc.edu account. **The course will not appear in your Google Classroom account until you join the course with the class code.**
 
@@ -13,13 +13,13 @@ Next week we will talk more about carefully setting up and organizing a spreadsh
 
 The experiment: You will roll a ball down a ramp and let it fall from the end of the ramp to the floor. The ramp should be set to 5° from the horizontal. You need to measure the horizontal distance between the end of the ramp and the ball's first landing point on the floor, including an estimate of the uncertainty in the measurement.
 
-The pressure-sensitivetape provided on your bench can be used to visualize where the ball lands. 
+The pressure-sensitive tape provided on your bench can be used to visualize where the ball lands. 
 
 Please follow these instructions:
 
 -------------------------------------------------------------------------
 
-Goal: measure, with uncertainty, the horizontal distance traveled by a ball after rolling down an inclined plane placed on top of a lab bench and falling towards the floor.
+Goal: measure, with uncertainty, the horizontal distance traveled by a ball falling to the floor after rolling down an inclined plane placed on top of a lab bench.
 
 Steps:
 + Set the incline of the “ramp” to 5° above the table. 
@@ -41,7 +41,7 @@ You should spend ~30 min on an initial estimate. Please submit your estimate and
 </iframe>
 
 --------------------------
-Once you have submitted your result please think about how you might obtain a more accurate estimate. Instructions for the rest of lab will be provided in class. 
+Once you have submitted your result please think about how you might obtain a more accurate estimate. You should not move on to the final estimate below until the class has discussed the initial estimate results and procedures for final estimates.
 
 One of our goals in these first few weeks is to become comfortable with what it means to report a value with uncertainty. We've prepared a guide to help you through our expectations. Here is an excerpt that we encourage you to look through:
 
