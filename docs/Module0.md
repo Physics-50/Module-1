@@ -34,10 +34,10 @@ Steps:
 
 ## Return to Module 0 and begin data collection --->
 
-You should spend ~30 min on an initial estimate. Please submit your estimate and uncertainty on the following form: (only one lab partner should submit your team's result)
+You should spend ~30 min trying to get a good estimate of the ditance "d" and its uncertainty. Please submit your estimate and uncertainty on the following form: (only one lab partner should submit your team's result)
 
 --------------------------
-#### Initial Estimate
+#### Estimate of distance ball lands from ramp with uncertainty (Part I)
 [*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSd3mydGdP_7kp1lxrU7AubdgjNYQ9VjfjR57ExSFNkHKXKyJA/viewform?usp=sf_link){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd3mydGdP_7kp1lxrU7AubdgjNYQ9VjfjR57ExSFNkHKXKyJA/viewform?usp=sf_link" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
