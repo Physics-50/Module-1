@@ -129,7 +129,7 @@ Even though this data was obtained by sampling the two theoretical distributions
 
 Let's repeat that same thought experiment, but now we will sample each distribution $$n=10$$ times (take 10 data points for each experimental technique):
 ![experiment with 10 data points](images/exper-n10.jpg)
-Now we can see that Technique A has less variability than Technique B because the left histogram has more observations close to the same value. We also see from the summary statistics in the graphs that the sample standard deviations are close to that of the underlying distributions ($$x_\mathrm{dev.} \approx \sigma$$ for both). And most importantly, the sample means are closer to the actual mean value, with the SEM providing an adequate approximation for the uncertainty in the sample mean. 
+Now we can see that Technique A has less variability than Technique B because the left histogram has more observations close to the same value. We also see from the summary statistics in the graphs that the sample standard deviations are close to that of the underlying distributions ($$x_\mathrm{dev} \approx \sigma$$ for both). And most importantly, the sample means are closer to the actual mean value, with the SEM providing an adequate approximation for the uncertainty in the sample mean. 
 
 We could continue this process of collecting more data points to try to reduce the random uncertainty. Here is the same two techniques but with $$n=100$$ data ponts:
 ![experiment with 100 data points](images/exper-n100.jpg)
