@@ -76,7 +76,7 @@ Based on this answer, try to come up with some hypotheses you could try to test.
 
 **For Module 1 we will all test the same hypothesis. The hypothesis we will test is:**
 
-*"The coefficient of static friction between two surfaces as measured by the critical angle at which an object slips is independent of its mass."*
+*"The coefficient of static friction between two surfaces as measured by the critical angle at which an object slips is independent of the mass of the sliding object."*
 
 ## Instrumentation
 
