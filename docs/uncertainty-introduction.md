@@ -164,15 +164,13 @@ For example, if you measure the length of an object with a meter stick that is 1
 
 ### Combining Uncertainties
 
-When you make a measurement you will have both random and resolution (sometimes multiple!) uncertainties. In order to obtain one actual uncertainty to quote in your value you can combine the sources by adding in quadrature. Adding in quadrature means to square each value for your uncertainty, add them all together, and take the square root of the sum:
-
-$$ \delta x_\mathrm{total} = \sqrt{\delta x_1^2 + \delta x_2^2 + \delta x_3^2 ...}$$
-
-Where $$\delta x_\mathrm{total}$$ is the total uncertainty in the measured value $$x$$ and $$\delta x_1$$,$$\delta x_2$$,$$\delta x_3$$,… are the various sources of uncertainty in the measurement of $$x$$ (e.g. random uncertainty, resolution uncertainty, etc).
+When you make a measurement you will have both random and resolution (sometimes multiple!) uncertainties. In order to obtain one actual uncertainty to quote in your value you can combine the sources by adding in quadrature. Adding in quadrature means to square each value for your uncertainty, add them all together, and take the square root of the sum,
+$$ \delta x_\mathrm{total} = \sqrt{\delta x_1^2 + \delta x_2^2 + \delta x_3^2 + \cdots}$$
+where $$\delta x_\mathrm{total}$$ is the total uncertainty in the measured value $$x$$ and $$\delta x_1$$,$$\delta x_2$$,$$\delta x_3$$,… are the various sources of uncertainty in the measurement of $$x$$ (e.g. random uncertainty, resolution uncertainty, etc).
 
 **When combining different sources of uncertainty make sure they have the same units**
 
-Remember: Systematic errors should be dealt with separately, by eliminating all you possibly can and estimating the size of remaining shifts, in addition to pinpointing the specific effect they would have on the final analysis.  (Would they make the value you measure too large? Would they make a linear graph look quadratic?  etc.)
+Remember: Systematic errors should be dealt with separately, by eliminating all you possibly can and estimating the size of remaining shifts, in addition to pinpointing the specific effect they would have on the final analysis.  (Would they make the value you measure too large? Would they make a linear graph look quadratic? etc.)
 
 ## Propagation of Uncertainties
 
@@ -191,7 +189,7 @@ Prof. Gerbode explains how to propagate uncertainties from a measured quantity t
 -----------
 
 Extra practice:
-If we now have a cone, with the same radius $$r=2.4 \pm0.3\textrm{cm}$$ and a height $$h=10.2\pm0.4\textrm{cm}$$, what is the volume of the cone? (Hint: $$V_\mathrm{cone}=\frac{1}{3}\pi r^2 h$$)
+If we now have a cone, with the same radius $$r=2.4 \pm0.3\,\textrm{cm}$$ and a height $$h=10.2\pm0.4\,\textrm{cm}$$, what is the volume of the cone? (Hint: $$V_\mathrm{cone}=\frac{1}{3}\pi r^2 h$$)
 
 <details>
 <summary markdown='span'> (try it first, then click to expand/collapse) Solution: 
@@ -202,12 +200,12 @@ The volume of the cone is \( V_\mathrm{cone}=\frac{1}{3} \pi r^2 h= 61.49376 \te
 $$ \delta V_\mathrm{cone} = \sqrt{({\delta r}\frac {\partial V_{cone}}{\partial r})^2 +({\delta h}\frac {\partial V_{cone}}{\partial h})^2 }$$
 
 $$ = \sqrt{({\delta r} * \frac{1}{3} 2\pi r h)^2+({\delta h} * \frac{1}{3} \pi r^2)^2}$$
-$$ =\sqrt{(15.37344 cm^3)^2+ (2.41152 cm^3)^2}= 15.56 \textrm{cm}^3 $$
+$$ =\sqrt{(15.37344\, cm^3)^2+ (2.41152\, cm^3)^2}= 15.56\, \textrm{cm}^3 $$
 
 Therefore \( V_\mathrm{cone}=(61 \pm 16) \textrm{cm}^3 \).
 
 
-Bonus: What measurement’s uncertainty was dominant in our uncertainty in the volume of the cone, \(r\) or \(h\)? 
+Bonus: Which measurement’s uncertainty was dominant in our uncertainty in the volume of the cone, \(r\) or \(h\)? 
 
 <details>
 <summary markdown='span'> (try it first, then click to expand/collapse) Solution: 
