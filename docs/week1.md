@@ -80,13 +80,13 @@ Based on this answer, try to come up with some hypotheses you could try to test.
 
 ## Instrumentation
 
-Now that we've decided what we hypothesis we are going to test, we need to figure out what equipment and experimental tools we are going to use. For this module, a ramp, container and different masses that can be placed in the container will be provided at your lab bench. 
+Now that we've decided what hypothesis we are going to test, we need to figure out what equipment and experimental tools we are going to use. For this module, a ramp, container, and different masses that can be placed in the container will be provided at your lab bench. 
 
 To measure the angle we will use your phone or a tablet as the tool. Please go to [phyphox.org](https://phyphox.org){:target="_blank"} (or to the app store on your device) and download the phyphox app. Try to do this before you come to class for the first day of lab. After downloading, find the "Inclination" tool and test that it works correctly with your phone.
 
 <img src="images/phyphox.png" alt="phyphox.org inclination tool" width="400"/>
 
-Make note of your equipment in your lab notebook (record keeping is important) and record any other notes you think might be helpful if someone else was trying to replicate your setup. Remember: for the praciticum you will only have access to your Google-classroom assigned lab notebook and data sheet.
+Make note of your equipment in your lab notebook (record keeping is important) and record any other notes you think might be helpful if someone else was trying to replicate your setup. Remember: for the praciticum you will only have access to your Google-classroom-assigned lab notebook and data sheet.
 
 ## Exploratory Measurements
 
