@@ -39,10 +39,10 @@ A measurement uncertainty is not meant to be an indication of “mistakes” tha
 There are many sources of uncertainty in your experiment, but not all originate in the same manner and therefore there are different methods of accounting for them.  When designing an experiment the aim is to make the uncertainty small enough to achieve the experiment’s goal — or often, to make the uncertainty as small as possible in order to observe as much detail as possible about the phenomenon.  However, always keep in mind that the uncertainty can never be reduced to zero, just made small and honestly estimated.
 
 ### Resolution Uncertainty
-Imagine you are attempting to measure the length of an object using the meter stick shown at the right. The length of the object is more than 80 cm but it is less than 90 cm but we are clearly limited by the resolution of our measuring device:
+Imagine you are attempting to measure the length of an object using the meter stick shown in the figure. The length of the object is more than 80 cm and it is less than 90 cm, but we are clearly limited by the resolution of our measuring device:
 ![meter stick zoomed out](images/meter-stick-1.png)
 
-We now get a better measuring device that has graduations down to the cm. We can now say that the length of the object is between 83 and 84 cm, although it appears to be closer to the 83 cm mark. Again, the accuracy of our measurement is limited by the markings on the meter stick:
+We now get a better measuring device that has graduations down to the centimeter. We can now say that the length of the object is between 83 and 84 cm, although it appears to be closer to the 83 cm mark. Again, the accuracy of our measurement is limited by the markings on the meter stick:
 ![meter stick zoomed in a litte](images/meter-stick-2.png)
 
 Finally, we obtain a measurement device that can measure much smaller intervals than our previous devices, surely we can now know the “exact” length of our object, right? As we see when we zoom in our measurement still could be improved by increasing the resolution of our measurement device!!
