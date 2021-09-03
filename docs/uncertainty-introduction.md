@@ -48,7 +48,7 @@ We now get a better measuring device that has graduations down to the centimeter
 Finally, we obtain a measurement device that can measure much smaller intervals than our previous devices, surely we can now know the “exact” length of our object, right? As we see when we zoom in our measurement still could be improved by increasing the resolution of our measurement device!!
 ![image of a meter stick zoomed in a lot](images/meter-stick-3.png)
 
-Apparently even with our super device there is a limit to the knowledge that the we can gain about the length of the object. All we can say is that the length of the object is between 83.4 and 83.5 cm. Even if we use smaller and smaller divisions on our meter stick our knowledge about the length of the object will never be perfect. This type of uncertainty is called the resolution uncertainty. A general rule of thumb is that the resolution is half of the smallest digit a device can measure, but it may be much greater than this if other known factors are limiting your uncertainty (perhaps you can’t get your ruler close enough to make an accurate measurement or can’t really tell where the object you are trying to measure begins or ends). Estimating uncertainties requires more than rules of thumb, it also requires judgement and common sense.
+Apparently even with our super device there is a limit to the knowledge that the we can gain about the length of the object. All we can say is that the length of the object is between 83.4 and 83.5 cm. Even if we use smaller and smaller divisions on our meter stick our knowledge about the length of the object will never be perfect. This type of uncertainty is called the **resolution uncertainty**. A general rule of thumb is that the resolution is half of the smallest digit a device can measure, but it may be much greater than this if other known factors are limiting your uncertainty (perhaps you can’t get your ruler close enough to make an accurate measurement or can’t really tell where the object you are trying to measure begins or ends). Estimating uncertainties requires more than rules of thumb, it also requires judgment and common sense.
 
 In the context of our online Ph50 course, you will use a ruler to measure distances in Module 3. In Module 2, you will measure the movement of an object in a video. In that module, your resolution uncertainty will come from the uncertainty in measuring the location of the object (in pixels) and the uncertainty in the time at which each frame of the video occurs (in seconds). 
 
@@ -56,7 +56,7 @@ For Module 1, you are using a digital readout of the angle of inclination from t
 
 <img src="images/phyphox-resolution.jpg" alt="resolution uncertainty from a digital readout" width=150 />
 
-Similar to the ruler, a good estimate of the resolution uncertainty is half of the last digit reported in the digital readout. In this example, we have measured $$\theta=1.59\,^\circ$$ with a resolution uncertainty in the angle of $$\delta_\mathrm{res.} \theta = 0.005 \,^\circ$$.
+Similar to the ruler, a good estimate of the resolution uncertainty is half of the last digit reported in the digital readout. In this example, we have measured $$\theta=1.59^\circ$$ with a resolution uncertainty in the angle of $$\delta_\mathrm{res} \theta = 0.005^\circ$$.
 
 
 [*Return to Module 1 Week 1*](week1#1-perform-a-single-measurement)
@@ -67,7 +67,7 @@ Similar to the ruler, a good estimate of the resolution uncertainty is half of t
 Week 2 related reading:
 
 ### Random Uncertainty
-If you attempt to repeat your measurement you most likely will observe some spread in your measured values (you do not get an identical measurement under “identical” conditions). There will be slight and uncontrollable differences from one trial to another. These uncontrollable differences generally arise from a huge variety of detailed causes. Maybe the air conditioning happens to blow a slight puff of air on your setup the first time. Maybe a speck of lint falls onto your setup. But, however these differences arise, they cause different results when a single procedure is repeated several times. The differences don’t trend in any particular direction, and their causes are subtle and hard to identify, let alone control, in the lab – so we call them random. These variations in data cause a spread in your data.
+If you attempt to repeat your measurement you most likely will observe some spread in your measured values (you do not get an identical measurement under “identical” conditions). There will be slight and uncontrollable differences from one trial to another. These uncontrollable differences generally arise from a huge variety of detailed causes. Maybe the air conditioning happens to blow a slight puff of air on your setup the first time. Maybe a speck of lint falls onto your setup. But, however these differences arise, they cause different results when a single procedure is repeated several times. The differences don’t trend in any particular direction, and their causes are subtle and hard to identify, let alone control, in the lab — so we call them random. These variations in data cause a spread in your data.
 
 
 To think through how we should treat these random uncertainties, let's look at an example thought experiment. Suppose we measure the length of an object using two different techniques/procedures, call them "Technique A" and "Technique B". Let's assume that Technique B somehow has more randomness in the measurement process (maybe the procedure for Technique B requires the experiments to occur in a dusty wind tunnel?). We can think of the experimental process as creating a theoretical probability density function with a mean $$\mu$$ and standard deviation $$\sigma$$. Each time we perform a single experimental measurement, we are sampling from these theoretical probability distributions, and suppose in our thought experiment they look like: 
@@ -92,7 +92,7 @@ $$x_\mathrm{mean} = \frac{x_1 + x_2 + ... + x_n}{n}$$
 #### Sample standard deviation
 The sample standard deviation is (approximately) the root-mean-squared deviation of the observed values from the sample mean:
 
-$$x_\mathrm{dev.} = \sqrt{\frac{ (x_1-x_\mathrm{mean})^2 +(x_2-x_\mathrm{mean})^2 + ... +(x_n-x_\mathrm{mean})^2}{n-1}}$$
+$$x_\mathrm{dev} = \sqrt{\frac{ (x_1-x_\mathrm{mean})^2 +(x_2-x_\mathrm{mean})^2 + ... +(x_n-x_\mathrm{mean})^2}{n-1}}$$
 
 Intuitively, the sample standard deviation represents a most likely range of values around the mean for where were would find our data. If we were taking one more data point, more than likely ($$\approx$$ 68% of the time if we are sampling from a Normal Distribution) we would expect to find that next data point within one sample standard deviation of the sample mean. 
 
@@ -101,7 +101,7 @@ Intuitively, the sample standard deviation represents a most likely range of val
 #### Standard error of the mean (SEM)
 The standard error of the mean represents the expected deviation of the calculated sample mean if many other samples of $$n$$ datapoints were taken. Intuitively, SEM reflects how confident we are that the sample mean is truly representative of the "actual" mean value of our distribution (what we called $$\mu$$ in our theoretical distributions; this actual mean value is also called the "population mean"). The standard error of the mean can be estimated from the sample standard deviation as:
 
-$$\mathrm{SEM} = \frac{x_\mathrm{dev.}}{\sqrt{N}}$$
+$$\mathrm{SEM} = \frac{x_\mathrm{dev}}{\sqrt{N}}$$
 
 *For more information about the SEM, check out paragraph 130-131 and associated footnotes [of this document](images/Essentials-of-Statistical-Methods.pdf){:target="_blank"}.*
 
