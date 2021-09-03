@@ -62,7 +62,7 @@ In your lab notebook, try the derivation yourself and document the result.
 
 ## Formulating a Hypothesis
 
-We can now try to think of a hypothesis we can test with an experiment. As a quick check, according to the theory, which of factors will affect a measurement of $$\theta_c$$?
+We can now try to think of a hypothesis we can test with an experiment. As a quick check, according to the theory, which factors will affect a measurement of $$\theta_c$$?
 
 #### Miniquestion: Critical Angle Factors
 [*Click here to open in a new tab*](https://forms.gle/oUrvxpsg5foNjnVH7){:target="_blank"}
