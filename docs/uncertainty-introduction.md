@@ -22,12 +22,12 @@ Instead, if the values are reported with their uncertainties as in (ii), the err
 
 If we had used a more sensitive experimental technique, that would give a smaller uncertainty as in (iii). This smaller experimental uncertainty lets us make a more powerful conclusion: *"The velocity of car A was measured to be faster than that of car B, with $$v_A = 23 \pm 2\,\mathrm{m/s}$$ and $$v_B = 18 \pm 2 \, \mathrm{m/s}$$.* By minimizing sources of uncertainty in our experiments and providing accurate estimates of how large the uncertainties are in our measurements, we are able to make strong conclusions about our experiments.
 
-That's our goal as experimental scientists: to make strong conclusions based on our data. To do this we need to try to minimize the uncertainty when we perform a measurement. We must be aware of how much variance there is in our data and how to quantify that variance. We want to be aware of what factors in our experiment are introducing the most significant uncertainty and determine if there is some way we can improve our experimental design within our laboratory constraints. During an experiment you will need to ask yourself what factors could influence the result of your measurement. Each of these factors can be thought of as working against our having perfect knowledge about a “measurand” (the quantity we want to measure) and adding to the overall uncertainty. A crucial aspect of experimentation is to identify the most important sources of uncertainty and to numerically estimate their effect on your measurement result.
+That's our goal as experimental scientists: to make strong conclusions based on our data. To do this we need to try to minimize the uncertainty when we perform a measurement. We must be aware of how much variance there is in the data and how to quantify that variance. We want to be aware of what factors in the experiment are introducing the most significant uncertainty and determine if there is some way we can improve the experimental design within our laboratory constraints. During an experiment you will need to ask yourself what factors could influence the result of your measurement. Each of these factors can be thought of as working against our having perfect knowledge about a “measurand” (the quantity we want to measure) and adding to the overall uncertainty in the result. A crucial aspect of experimentation is to identify the most important sources of uncertainty and to numerically estimate their effect on your measurement result.
 
 Common sources of uncertainty include:
 
-+ your judgement in reading analogue instruments;
-+ the sensitivity of your instruments (e.g. the digital scale, smallest interval on a meter stick, etc.);
++ your judgment in reading analog instruments;
++ the sensitivity of your instruments (e.g., the digital scale, smallest interval on a meter stick, etc.);
 + the rating or stated calibration of the instrument;
 + approximations and assumptions that you make while doing the experiment;
 + variations in repeated readings made under apparently identical conditions; and
@@ -37,8 +37,6 @@ A measurement uncertainty is not meant to be an indication of “mistakes” tha
 
 ## Sources of Uncertainty
 There are many sources of uncertainty in your experiment, but not all originate in the same manner and therefore there are different methods of accounting for them.  When designing an experiment the aim is to make the uncertainty small enough to achieve the experiment’s goal — or often, to make the uncertainty as small as possible in order to observe as much detail as possible about the phenomenon.  However, always keep in mind that the uncertainty can never be reduced to zero, just made small and honestly estimated.
-
-
 
 ### Resolution Uncertainty
 Imagine you are attempting to measure the length of an object using the meter stick shown at the right. The length of the object is more than 80 cm but it is less than 90 cm but we are clearly limited by the resolution of our measuring device:
