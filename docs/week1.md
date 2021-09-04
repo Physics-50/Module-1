@@ -112,9 +112,9 @@ Usually one of the first exploratory steps is to use your equipment to take a si
 
 + Place the block on the ramp and slowly raise the ramp while keeping an eye on the plane inclination measurement on the phyphox app. Record in the spreadsheet the value of the angle you observe just before slipping (in other words, perform a single measurement of $$\theta_c$$).
 
-    Record the resolution uncertainty for the critical angle $$\delta_\mathrm{res.} \theta_c$$ in your exploratory observations spreadsheet.
+    Record the resolution uncertainty for the critical angle $$\delta_\mathrm{res} \theta_c$$ in your exploratory observations spreadsheet.
 
-| $$\theta_c$$ (degrees) | $$\delta_\mathrm{res.} \theta_c $$ (degrees) |
+| $$\theta_c$$ (degrees) | $$\delta_\mathrm{res} \theta_c $$ (degrees) |
 |:-----------------------:|:---------------------------------------------:|
  | ...            |   ... |
 
@@ -140,18 +140,18 @@ Usually one of the first exploratory steps is to use your equipment to take a si
 
 After watching the video from Prof. Gerbode, let's return to your measurement of $$\mu_s$$ from $$\theta_c$$:
 
-+  Calculate the resolution uncertainty in measuring the coefficient of static friction $$\delta_\mathrm{res.} \mu_s$$ by propagating your uncertainty $$\delta_\mathrm{res.} \theta_c$$. Derive any formulas you use in your lab notebook.
++  Calculate the resolution uncertainty in measuring the coefficient of static friction $$\delta_\mathrm{res} \mu_s$$ by propagating your uncertainty $$\delta_\mathrm{res} \theta_c$$. Derive any formulas you use in your lab notebook.
 
-| $$\mu_s$$  | $$\delta_\mathrm{res.} \mu_s $$ |
+| $$\mu_s$$  | $$\delta_\mathrm{res} \mu_s $$ |
 |:-----------------------:|:---------------------------------------------:|
  | ...            |   ... |
 
 
-Comment on whether your measured value is reasonable (e.g. is $$\mu_s$$ within the limits of allowable values, i.e. between 0 and infinity?  With a quick google search, is it similar to $$\mu_s$$ for similar surfaces? Is your fractional resolution uncertainty reasonably small,  (fractional resolution uncertainty $$\equiv \frac{\delta_\mathrm{res.} \mu_s}{\mu_s} \ll 1$$)? In other words, confirm that the uncertainty in $$\mu_s$$ less than the value of $$\mu_s$$ itself?
+Comment on whether your measured value is reasonable (e.g. is $$\mu_s$$ within the limits of allowable values, i.e. between 0 and infinity?  With a quick google search, is it similar to $$\mu_s$$ for similar surfaces? Is your fractional resolution uncertainty reasonably small,  (fractional resolution uncertainty $$\equiv \frac{\delta_\mathrm{res} \mu_s}{\mu_s} \ll 1$$)? In other words, confirm that the uncertainty in $$\mu_s$$ less than the value of $$\mu_s$$ itself?
 
 *At this point, if your answer were to be unreasonable or you were unable to calculate the quantity you are interested in testing (in our case $$\mu_s$$), then it would be a good idea to carefully rethink your measurement. Doing this initial single measurement and check can save a lot of time, especially when the experimental setup gets more complicated as it will later in the course. If you're stuck, [post a question up on our Piazza site](https://piazza.com/class/kdyuyniyaz052s){:target="_blank"} and [come to Office Hours](https://sakai.claremont.edu/portal/site/CX_mtg_130832/page/8bb99f43-12a4-4f97-8e47-802814328a26){:target=_"blank"}*
 
-Let's double-check your procedure. Using the exact same procedure as you did to calculate your $$\mu_s$$  and  $$\delta_\mathrm{res.} \mu_s $$ above, complete the following miniquestion with a different measurement of $$\theta_c$$:
+Let's double-check your procedure. Using the exact same procedure as you did to calculate your $$\mu_s$$  and  $$\delta_\mathrm{res} \mu_s $$ above, complete the following miniquestion with a different measurement of $$\theta_c$$:
 
 #### Miniquestion: Calculating coefficient of static friction and resolution uncertainty
 [*Click here to open in a new tab*](https://forms.gle/mvteqnKeZNQXDytZ9){:target="_blank"}
