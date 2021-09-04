@@ -26,7 +26,7 @@ An important habit we would like you to develop as an experimentalist is to be p
 + Is your sample mean very different than what you measured in your exploratory analysis? 
     + If so, then try to troubleshoot what the differences might be (e.g. a calculation error, an uncontrolled variable), and then revise your approach
 
-+ Does your data look normally distributed* (like a Gaussian, bell-curve)?
++ Does your data look **normally distributed** (like a Gaussian, bell-curve)?
     + If not, then you should try to investigate uncontrolled variables or perhaps increase the number data points of your experimental design
     
     **Note: if you have taken only a few data points, you shouldn’t expect your data to look like it’s normally distributed, even if it was being sampled from a normal distribution. Make sure you take enough data before checking if it's normally distributed.*
