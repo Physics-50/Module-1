@@ -72,9 +72,9 @@ We can now try to think of a hypothesis we can test with an experiment. As a qui
 
 -----
 
-Based on this answer, try to come up with some hypotheses you could try to test. The theory makes specific predictions, and you can use those predictions to form the basis of a hypothesis. To encourage interaction with your classmates We encourage you to post some of your ideas and check out others [on the "Hypotheses" note on Piazza](https://piazza.com/class/kijtj4yqer66na){:target="_blank"}. There are no grades associated with Piazza, this suggestion is just to introduce you to the platform.
+Based on this answer, can you think of any hypotheses you could try to test? 
 
-**For Module 1 we will all test the same hypothesis. The hypothesis we will test is:**
+**While there are many different hypotheses you might consider, for Module 1 we will all test the same hypothesis. The hypothesis we will test is:**
 
 *"The coefficient of static friction between two surfaces as measured by the critical angle at which an object slips is independent of the mass of the sliding object."*
 
