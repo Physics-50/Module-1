@@ -12,7 +12,7 @@
 
 --------------
 
-We begin our investigation of measuring $$\mu_s$$ by doing an initial exploration. Our goal is to come up with a hypothesis to test and a plan for how we will do so (an experimental design). In the Exploratory Phase it can be especially important to take detailed notes. Organizing a digital lab notebook and data spreadsheet can be tricky, so for Week 1 we are providing a [template for you to follow along with that we've assigned from Google Classroom](https://classroom.google.com/u/0/w/MzY5MzA2OTcxNzM4/t/all){:target="_blank"}. 
+We begin our investigation to measure the coefficient of static friction, $$\mu_s$$, by doing an initial exploration. Our goal is to come up with a hypothesis to test and a plan for how we will do so (an experimental design). In the Exploratory Phase it can be especially important to take detailed notes. Organizing a digital lab notebook and data spreadsheet can be tricky, so for Week 1 we are providing a [template for you to follow along with that we've assigned from Google Classroom](https://classroom.google.com/u/0/w/MzY5MzA2OTcxNzM4/t/all){:target="_blank"}. 
 
 **Make sure you have this spreadsheet and your Module 1 Lab Notebook handy as you go through the content on this Week 1 page. Remember: you are required to use the provided spreadsheet/lab notebook.**
 
