@@ -24,7 +24,7 @@ Before diving into data collection and analysis we would like to set some expect
 Collaboration:
 We expect every student to perform the data analysis, miniquestions, checkpoints, and deliverables for themselves, but you are welcome to discuss your results and analysis with your lab partner and classmates.
 
-To make sure we all start on the same page please answer the following mini-questions (mini-questions will appear throughout this manual and are required to be completed before you arrive in lab each week. Please see the syllabus for more information regarding mini-questions) - mini-questions are intersperesed throughout the lab manual and need to be completed before the start of lab.
+To make sure we all start on the same page please answer the following mini-questions (mini-questions will appear throughout this manual and are required to be completed before you arrive in lab each week. Please see the syllabus for more information regarding mini-questions) - mini-questions are interspersed throughout the lab manual and need to be completed before the start of lab.
 
 --------------------
 
