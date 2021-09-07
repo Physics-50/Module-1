@@ -189,11 +189,9 @@ Reducing random uncertainty can include both improving our measurement technique
 
 ## Checkpoint 1
 
-**Please note that the first time you access the class Gradescope site you need to do so through Sakai (using the Gradescope link from the items on the left). Once you have done so once all Gradescope links in the manual will work going forward.**
-
 + [Submit Module 1 checkpoint 1 on Gradescope](https://www.gradescope.com/courses/282675/assignments/1392670){:target="_blank"}. 
 
-    - The Gradescope assignment includes a sample calculation to ensure you are calculating $$\mu_s$$ and propogating the uncertainty correctly.
+    - The Gradescope assignment includes a sample calculation to ensure you are calculating $$\mu_s$$ and propogating the uncertainty correctly. The sample calculation will provide real time feedback. This is to ensure you know how to do the calculation before analyzing your data. It is not an honor code violation to make changes after receiving the feedback before submission.
 
     - You will be asked to submit your measured critical angle, coefficient of friction, and propogated uncertainty. This data should come from data you collected after settling on a procedure to yield reproducible data and should include averaging 5 data points collected with the same mass in the container all measurements.
 
