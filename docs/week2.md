@@ -4,9 +4,9 @@ This week we are going to generate a data set to test our hypothesis. This will 
 
 [Background Reading for Week 2](#background-reading-and-miniquestions)
 
-[Review: Estimating Uncertainties](#review-of-uncertainty-estimation)
+[Reminder: Reporting Data with Significant Figures](#reminder-on-reporting-data-with-significant-figures)
 
-[Reporting Data with Significant Figures](#reporting-data-with-significant-figures)
+[Review: Estimating Uncertainties](#review-of-uncertainty-estimation)
 
 [Data Collection for Week 2](#data-collection)
 
@@ -76,7 +76,7 @@ As an experimentalist, you have to make the tough decision of when the experimen
 -----
 
 
-## Reminder: Reporting Data with Significant Figures
+## Reminder on Reporting Data with Significant Figures
 
 In week 1 (Module 0), we introduced you to the idea of significant figures. As a reminder: we only want to report digits that are significant — accurately reflect the precision of our experiment — in our results. Here are the rules we ask you to use in this class:
 
