@@ -218,6 +218,7 @@ Since the uncertainty in the volume of the cone due to the uncertainty in the ra
 </details>
 
 -----------
+The final part of this guide was covered in Module 0. However, it often takes a few readings to become familiar with the rules for Significant figures. We encourage you to look it over again and ask us if you have any questions. We will expect you to make use of these rules throughout the course.
 
 ## Significant Figures
 
@@ -235,10 +236,6 @@ This is where the term significant digits, or “sig figs” for short, comes in
 
     + in our example we began with 0.44030407 ± 0.00403726. We determined that the uncertainty should be 0.004, meaning the least significant digit of the uncertainty is in the 3rd decimal place. We need to round our measurement value to the same digit so the value we will report for our measurement is **0.440 ± 0.004**.
 
-#### Miniquestion: Reporting Significant Figures
-*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSf1OFObboakQdFkymAOxaCNowGB7LPWrEzHXvSNMqERC2eYFQ/viewform){:target="_blank"}*
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf1OFObboakQdFkymAOxaCNowGB7LPWrEzHXvSNMqERC2eYFQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0"> Loading…
-</iframe>
 
 ---------------------------
