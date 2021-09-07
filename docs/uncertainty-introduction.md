@@ -58,13 +58,11 @@ For Module 1, you are using a digital readout of the angle of inclination from t
 
 Similar to the ruler, a good estimate of the resolution uncertainty is half of the last digit reported in the digital readout. In this example, we have measured $$\theta=1.59^\circ$$ with a resolution uncertainty in the angle of $$\delta_\mathrm{res} \theta = 0.005^\circ$$.
 
-
+We will instruct you to return to read the rest of this guide later. For now:
 [*Return to Module 1 Week 1*](week1#1-perform-a-single-measurement)
 
 
 -------------------------------------------
-
-Week 2 related reading:
 
 ### Random Uncertainty
 If you attempt to repeat your measurement you most likely will observe some spread in your measured values (you do not get an identical measurement under “identical” conditions). There will be slight and uncontrollable differences from one trial to another. These uncontrollable differences generally arise from a huge variety of detailed causes. Maybe the air conditioning happens to blow a slight puff of air on your setup the first time. Maybe a speck of lint falls onto your setup. But, however these differences arise, they cause different results when a single procedure is repeated several times. The differences don’t trend in any particular direction, and their causes are subtle and hard to identify, let alone control, in the lab — so we call them random. These variations in conditions cause a spread in your data.
