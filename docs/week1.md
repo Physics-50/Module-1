@@ -17,7 +17,7 @@ We begin our investigation to measure the coefficient of static friction, $$\mu_
 **Make sure you have this spreadsheet and your Module 1 Lab Notebook handy as you go through the content on this Week 1 page. Remember: you are required to use the provided spreadsheet/lab notebook.**
 
 ## Preface
-If you have any questions outside of class, we encourage you to reach out to your classmates through the class Piazza site or come to office hours to talk to an instructor. [Sign up for the class Piazza site](hhttps://piazza.com/class/kq8xnnrv1426jn)
+If you have any questions outside of class, we encourage you to reach out to your classmates through the class Piazza site or come to office hours to talk to an instructor. [Sign up for the class Piazza site](https://piazza.com/hmc/fall2021/ph50)
 
 Before diving into data collection and analysis we would like to set some expectations. This course centers around the collection, analysis, and communication of experimental data and results. We expect all of these to be conducted with care and integrity.
 
@@ -149,7 +149,7 @@ After watching the video from Prof. Gerbode, let's return to your measurement of
 
 Comment on whether your measured value is reasonable (e.g. is $$\mu_s$$ within the limits of allowable values, i.e. between 0 and infinity?  With a quick google search, is it similar to $$\mu_s$$ for similar surfaces? Is your fractional resolution uncertainty reasonably small,  (fractional resolution uncertainty $$\equiv \frac{\delta_\mathrm{res} \mu_s}{\mu_s} \ll 1$$)? In other words, confirm that the uncertainty in $$\mu_s$$ less than the value of $$\mu_s$$ itself?
 
-*At this point, if your answer were to be unreasonable or you were unable to calculate the quantity you are interested in testing (in our case $$\mu_s$$), then it would be a good idea to carefully rethink your measurement. Doing this initial single measurement and check can save a lot of time, especially when the experimental setup gets more complicated as it will later in the course. If you're stuck, [post a question up on our Piazza site](https://piazza.com/class/kq8xnnrv1426jn){:target="_blank"} and [come to Office Hours](https://sakai.claremont.edu/portal/site/CX_mtg_130832/page/8bb99f43-12a4-4f97-8e47-802814328a26){:target=_"blank"}*
+*At this point, if your answer were to be unreasonable or you were unable to calculate the quantity you are interested in testing (in our case $$\mu_s$$), then it would be a good idea to carefully rethink your measurement. Doing this initial single measurement and check can save a lot of time, especially when the experimental setup gets more complicated as it will later in the course. If you're stuck, [post a question up on our Piazza site](https://piazza.com/hmc/fall2021/ph50){:target="_blank"} and [come to Office Hours](https://sakai.claremont.edu/portal/site/CX_mtg_130832/page/8bb99f43-12a4-4f97-8e47-802814328a26){:target=_"blank"}*
 
 Let's double-check your procedure. Using the exact same procedure as you did to calculate your $$\mu_s$$  and  $$\delta_\mathrm{res} \mu_s $$ above, complete the following miniquestion with a different measurement of $$\theta_c$$:
 
