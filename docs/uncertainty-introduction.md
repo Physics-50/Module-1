@@ -50,7 +50,7 @@ Finally, we obtain a measurement device that can measure much smaller intervals 
 
 Apparently even with our super device there is a limit to the knowledge that the we can gain about the length of the object. All we can say is that the length of the object is between 83.4 and 83.5 cm. Even if we use smaller and smaller divisions on our meter stick our knowledge about the length of the object will never be perfect. This type of uncertainty is called the **resolution uncertainty**. A general rule of thumb is that the resolution is half of the smallest digit a device can measure, but it may be much greater than this if other known factors are limiting your uncertainty (perhaps you can’t get your ruler close enough to make an accurate measurement or can’t really tell where the object you are trying to measure begins or ends). Estimating uncertainties requires more than rules of thumb, it also requires judgment and common sense.
 
-In the context of our online Ph50 course, you will use a ruler to measure distances in Module 3. In Module 2, you will measure the movement of an object in a video. In that module, your resolution uncertainty will come from the uncertainty in measuring the location of the object (in pixels) and the uncertainty in the time at which each frame of the video occurs (in seconds). 
+In the context of our online Ph50 course, you will use a ruler to measure distances in Module 3. In Module 2, you will measure the speed of sound based on images of levitating beads. In that module, your resolution uncertainty will come from the uncertainty in measuring the location of the object (in pixels). 
 
 For Module 1, you are using a digital readout of the angle of inclination from the phyphox app on your phone: 
 
