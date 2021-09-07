@@ -17,7 +17,7 @@ We begin our investigation to measure the coefficient of static friction, $$\mu_
 **Make sure you have this spreadsheet and your Module 1 Lab Notebook handy as you go through the content on this Week 1 page. Remember: you are required to use the provided spreadsheet/lab notebook.**
 
 ## Preface
-If you have any questions outside of class, we encourage you to reach out to your classmates through the class Piazza site or come to office hours to talk to an instructor. [Sign up for the class Piazza site](https://piazza.com/hmc/fall2021/ph50)
+If you have any questions outside of class, we encourage you to reach out to your classmates through the class Piazza site or come to office hours to talk to an instructor. [You can sign up for the class Piazza site here.](https://piazza.com/hmc/fall2021/ph50)
 
 Before diving into data collection and analysis we would like to set some expectations. This course centers around the collection, analysis, and communication of experimental data and results. We expect all of these to be conducted with care and integrity.
 
