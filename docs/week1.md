@@ -165,17 +165,6 @@ So far we've focused on the resolution uncertainty. But is that really a good es
 
 Read [this discussion about random uncertainty](uncertainty-introduction#random-uncertainty) 
 
-The uncertainty guide (linked above) ends with a review of the rules we will use in this class for reporting significant figures. This is a repeat of the rules introduced last week. Please answer the following mini-question to ensure you are becoming comfortable with these guidelines that we expect you to follow throughout the course.
-
-----------------
-#### Miniquestion: Reporting Significant Figures
-*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSf1OFObboakQdFkymAOxaCNowGB7LPWrEzHXvSNMqERC2eYFQ/viewform){:target="_blank"}*
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf1OFObboakQdFkymAOxaCNowGB7LPWrEzHXvSNMqERC2eYFQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0"> Loading…
-</iframe>
-
--------------------
-
 The goal of testing repeatability is to get a sense of the random error associated with the measurement. 
 
 Take a few measurements of $$\theta_c$$ under identical conditions (say 5). Make sure you "reset" your experimental setup each time: start the ramp from a horizontal position ($$\theta = 0$$), place the block onto the ramp, and then slowly start to raise the ramp. "Resetting" the experimental setup between trials helps to minimize systematic error, a major topic in Module II. 
