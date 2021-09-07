@@ -213,7 +213,7 @@ Next week you will make use of the Matlab software package to plot your data. If
 
 ## Checkpoint #2
 
-Please submit the following to [Checkpoint #3 on Gradescope](https://www.gradescope.com/courses/216639/assignments/906692){:target="_blank"}
+Please submit the following to Module 1, Checkpoint #2 on Gradescope
 
 + A screen-shot showing an organized spreadsheet used for data collection
 
