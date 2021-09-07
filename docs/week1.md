@@ -203,7 +203,7 @@ Reducing random uncertainty can include both improving our measurement technique
 
 We are providing a draft grading rubric. These deductions are intended primarily to ensure you are prepared for week 2 and to be successful in the module. We may occasionally include zero point deductions. Please don't assume that because a deduction is zero points it isn't important. It may be for an important error that we chose not to take off points for at an early stage in the course but are more likely to deduct points for next time. Since the deductions are intended to provide feedback to help you be successful on future checkpoints, if you don't understand our suggestions, please stop by office hours to talk to us.
 
-The checkpoint is graded out of 12 points.
+The checkpoint is graded out of 10.5 points.
 
 **Anticipated week 1 checkpoint deductions:**
 + Sample Calculations: Incorrect result for $$\mu_s$$ [-1 point]
