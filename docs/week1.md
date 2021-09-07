@@ -119,7 +119,7 @@ Usually one of the first exploratory steps is to use your equipment to take a si
  | ...            |   ... |
 
 
-+ Calculate $$\mu_s$$ from your single measurement of $$\theta_c$$ (using the relationship you derived in the [background reading](#background-reading)). 
++ Calculate $$\mu_s$$ from your single measurement of $$\theta_c$$ (using the relationship derived in the [background reading](#background-reading)). 
 
 *Friendly reminder: convert the angle from degrees to radians in your Google Sheet calculation. **You also need to convert your uncertainty in the angle from degrees to radians in the same manner**.*
 
