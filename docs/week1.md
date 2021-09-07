@@ -193,9 +193,9 @@ Reducing random uncertainty can include both improving our measurement technique
 
     - The Gradescope assignment includes a sample calculation to ensure you are calculating $$\mu_s$$ and propogating the uncertainty correctly. The sample calculation will provide real time feedback. This is to ensure you know how to do the calculation before analyzing your data. It is not an honor code violation to make changes after receiving the feedback before submission.
 
-    - You will be asked to submit your measured critical angle, coefficient of friction, and propogated uncertainty. This data should come from data you collected after settling on a procedure to yield reproducible data and should include averaging 5 data points collected with the same mass in the container all measurements.
+    - You will be asked to submit your measured critical angle, coefficient of friction, and propogated uncertainty. This data should come from data you collected after settling on a procedure to yield reproducible data and should include averaging 5 data points. All 5 data points should have been collected with the same mass in the container.
 
-    -you will also be asked to describe the procedure you have settled on to accurately determine the critical angle.
+    - You will also be asked to describe the procedure you have settled on to accurately determine the critical angle.
 
 + And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-1){:target="_blank"}
 
