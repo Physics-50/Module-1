@@ -56,7 +56,7 @@ You may find yourself in a situation where it isn't as clear what is acceptable.
 ## Background Reading
 
 Often the first step is to do some background reading and theoretical analysis. We are measuring the coefficient of static friction, a dimensionless number that depends on the two surfaces in contact. This video from Prof. Arlett on how $$\mu_s$$ and $$\theta_c$$ are related will provide some background and a quick refresher:
-[<img src="images/static-friction-video-preview.png" alt="refresher on how mu_s is related to theta_c" width="400"/>](https://drive.google.com/file/d/19qMGg5rJfkDCQVHRK2G1Nl4_CAMSgvHX/view?usp=sharing){:target="_blank"} 
+[<img src="images/static-friction-video-preview.png" alt="refresher on how mu_s is related to theta_c" width="400"/>](https://drive.google.com/file/d/1YJCo0SK2Mi3Z8hzRhgZ8WHyLzuaXgzMx/view?usp=sharing){:target="_blank"} 
 
 In your lab notebook, try the derivation yourself and document the result.
 
