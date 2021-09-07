@@ -78,7 +78,7 @@ As an experimentalist, you have to make the tough decision of when the experimen
 
 ## Reminder: Reporting Data with Significant Figures
 
-In week 1, we introduced you to the idea of significant figures. As a reminder: we only want to report digits that are significant — accurately reflect the precision of our experiment — in our results. Here are the rules we ask you to use in this class:
+In week 1 (Module 0), we introduced you to the idea of significant figures. As a reminder: we only want to report digits that are significant — accurately reflect the precision of our experiment — in our results. Here are the rules we ask you to use in this class:
 
 1. Round and keep only one digit in your uncertainty
 
