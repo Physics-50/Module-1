@@ -1,6 +1,12 @@
 
 # Week 3: Communicating written scientific results, physics-style
 
+
+
+<!--test 2 of commenting-->
+
+
+
 This week is focused on the analysis and presentation of your results. You are not expected to come to lab this week but are encouraged to talk to your instructor if you have questions.
 
 While talks, podcasts and videos are all wonderfully rich formats for sharing scientific results, in physics and many other scientific disciplines, the golden standard for communication is a published journal article, or “paper” for short. The physics article is typically composed of (1) a short abstract summarizing the main findings, (2) the main body of the paper, including figures, and (3) a bibliography to help contextualize the results within the broader field of research.
