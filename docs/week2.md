@@ -4,7 +4,7 @@ This week we are going to generate a data set to test our hypothesis. This will 
 
 [Background Reading for Week 2](#background-reading-and-miniquestions)
 
-[Review: Estimating Uncertainties](#Review-of-uncertainty-estimation)
+[Review: Estimating Uncertainties](#review-of-uncertainty-estimation)
 
 [Reporting Data with Significant Figures](#reporting-data-with-significant-figures)
 
