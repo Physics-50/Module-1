@@ -82,7 +82,7 @@ Based on this answer, can you think of any hypotheses you could try to test?
 
 Now that we've decided what hypothesis we are going to test, we need to figure out what equipment and experimental tools we are going to use. For this module, a ramp, container, and different masses that can be placed in the container will be provided at your lab bench. 
 
-To measure the angle we will use your phone or a tablet as the tool. Please go to [phyphox.org](https://phyphox.org){:target="_blank"} (or to the app store on your device) and download the phyphox app. Try to do this before you come to class for the first day of lab. After downloading, find the "Inclination" tool and test that it works correctly with your phone.
+To measure the angle you will use your phone and the **Phyphox** App. Please go to [phyphox.org](https://phyphox.org){:target="_blank"} (or to the app store on your device) and download the phyphox app. Try to do this before you come to class for the first day of lab. After downloading, find the "Inclination" tool and test that it works correctly with your phone.
 
 <img src="images/phyphox.png" alt="phyphox.org inclination tool" width="400"/>
 
