@@ -68,13 +68,13 @@ Something to consider when communicating your results is the number of significa
 
 This is where the term significant figures, or “sig figs” for short, comes into play. We only want to report digits that are significant — accurately reflect the precision of our experiment — in our results. We will now present the rule of thumb for determining significant digits:
 
-1. Round and keep only one digit in your uncertainty
+1. Step 1: Round and keep only one digit in your uncertainty.
 
     + in our example this would mean we report our uncertainty as $$\delta d = 0.4$$ cm
 
     **Exception**: if the most significant digit (i.e., the first nonzero digit) — in our example above, the digit in red 0.<span style="color:red">4</span>0372678 — is a 1 or 2, then report two digits in the uncertainty. For example: if your uncertainty is 0.0237304 then its most significant digit is a 2 so we will keep two digits, resulting in an uncertainty of 0.024 after rounding.
 
-2. Round your measured value so the placement of the least significant digit matches that of the rounded uncertainty. Wow, that sounds confusing so let’s see how this applies to our example above:
+2. Step 2: Once you have determined the number of sig figs in your uncertainty, now round your measured value so the placement of the least significant digit matches that of the rounded uncertainty. Wow, that sounds confusing so let’s see how this applies to our example above:
 
     + in our example we began with 14.44030407 ± 0.40372678 cm. We determined that the uncertainty should be 0.4 cm, meaning the least significant digit of the uncertainty is in the 1st decimal place. We need to round our measurement value to the same digit so the value we will report for our measurement is **14.4 ± 0.4 cm**.
 
