@@ -167,7 +167,7 @@ Read [this discussion about random uncertainty](uncertainty-introduction#random-
 
 The goal of testing repeatability is to get a sense of the random error associated with the measurement. 
 
-Take a few measurements of $$\theta_c$$ under identical conditions (say 5). Make sure you "reset" your experimental setup each time: start the ramp from a horizontal position ($$\theta = 0$$), place the block onto the ramp, and then slowly start to raise the ramp. "Resetting" the experimental setup between trials helps to randomize systematic error as discussed in Module 0.
+Take a few (maybe five) measurements of $$\theta_c$$ under identical conditions. Make sure you "reset" your experimental setup each time: start the ramp from a horizontal position ($$\theta = 0$$), place the block onto the ramp, and then slowly start to raise the ramp. "Resetting" the experimental setup between trials helps to randomize systematic error as discussed in Module 0.
 
 Trial #	| $$\theta_c$$ (degrees)	
 |:-------:|:-------------------------:|	
