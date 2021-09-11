@@ -142,13 +142,13 @@ Can you find each of these elements in the above example figure?
 
 Please upload your figure to [gradescope](https://www.gradescope.com/courses/216639/assignments/906819){:target="_blank"} according to the instructions provided there (note that you will have to upload it more than once). Make sure to include both the figure and caption.
 
-The tentative rubric that will be used to evaluate this deliverable is provided below. Please keep in mind that these rubric items are subject to change as we can never foresee all the issues that may arise. This is meant to give you a sense of how it will be graded.
+The deliverable will be graded out of 15 points. The tentative rubric that will be used to evaluate this deliverable is provided below. Please keep in mind that these rubric items are subject to change as we can never foresee all the issues that may arise. This is meant to give you a sense of how it will be graded.
 
 **Click on the below images to enlarge in a new tab:**
 [![Figure Mechanics Rubric](images/Mod1Deliverable_FigMechanicsRubric.png)](images/Mod1Deliverable_FigMechanicsRubric.png){:target="_blank"}
 [![Caption Mechanics rubric](images/Mod1Deliverable_CapMechanicsRubric.png)](images/Mod1Deliverable_CapMechanicsRubric.png){:target="_blank" }
 
-Your deliverable will also be graded for the quality of your data and the conclusions you drew [2 points].
+Your deliverable will also be graded for the quality of your data [4 points] and the conclusions you drew [3 points].
 
 Deductions will also be assessed for failing to submit the checkpoint on time as outlined in the course syllabus.
 
