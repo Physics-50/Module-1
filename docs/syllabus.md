@@ -54,10 +54,10 @@ In this course you will work on three modules that each will last several weeks.
 
 Deadlines for checkpoints will be as follows:
 
-+ Monday sections: due Fridays at 10pm
-+ Wednesday sections: due Sundays at 10pm
-+ Thursday sections: due Mondays at 10pm
-+ Friday sections: due Tuesdays at 10pm
++ Monday sections: due Fridays at 10 pm
++ Wednesday sections: due Sundays at 10 pm
++ Thursday sections: due Mondays at 10 pm
++ Friday sections: due Tuesdays at 10 pm
 
 Finally, at the end of each module you will submit a module deliverable via Gradescope. Deadlines for the deliverables will follow the same calendar.
 
@@ -70,10 +70,10 @@ Each week you will complete a weekly checkpoint and submit it via Gradescope. Ta
 
 Deadlines for checkpoints will be as follows:
 
-+ Monday sections: due Fridays at 10pm
-+ Wednesday sections: due Sundays at 10pm
-+ Thursday sections: due Mondays at 10pm
-+ Friday sections: due Tuesdays at 10pm
++ Monday sections: due Fridays at 10 pm
++ Wednesday sections: due Sundays at 10 pm
++ Thursday sections: due Mondays at 10 pm
++ Friday sections: due Tuesdays at 10 pm
 
 # Module deliverables
 The end-of-module deliverables focus on the critical skill of scientific communication. In physics, the process of writing often begins with creating a sequence of figures with captions. This visual outlining procedure lays the groundwork for all the details that eventually fill in the space in between the figures. The module deliverables are structured to guide you through this physics writing process. Detailed instructions for each deliverable will be provided in each module website (linked from Sakai), but briefly:
