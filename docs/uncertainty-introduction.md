@@ -177,16 +177,9 @@ Prof. Gerbode explains how to propagate uncertainties from a measured quantity t
 [![Click on the link to get to the video](images/uncertainty-propagation-video-preview.png)](https://drive.google.com/file/d/1ilJNsVSgB_asmDdfjQwoyRdhedsSjaWO/view?usp=sharing)
 
 
-
-#### Miniquestion: Uncertainty Propagation
-*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSdxJPMhqDtPMvSZN0lv1p0JURr3jssV2tglvVg8tRweqEczVw/viewform){:target="_blank"}*
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdxJPMhqDtPMvSZN0lv1p0JURr3jssV2tglvVg8tRweqEczVw/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
-</iframe>
-
-
 -----------
 
-Extra practice:
+## Extra practice
 If we now have a cone, with the same radius $$r=2.4 \pm0.3\,\textrm{cm}$$ and a height $$h=10.2\pm0.4\,\textrm{cm}$$, what is the volume of the cone? (Hint: $$V_\mathrm{cone}=\frac{1}{3}\pi r^2 h$$)
 
 <details>
@@ -217,6 +210,7 @@ Since the uncertainty in the volume of the cone due to the uncertainty in the ra
 
 </details>
 
+[Return to Module 1, Week 1](week1#propogation-of-your-experimental-uncertainty)
 -----------
 The final part of this guide was covered in Module 0. However, it often takes a few readings to become familiar with the rules for Significant figures. We encourage you to look it over again and ask us if you have any questions. We will expect you to make use of these rules throughout the course.
 
