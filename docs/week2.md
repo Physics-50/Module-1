@@ -127,6 +127,9 @@ To make sure you've understood these ideas, please complete the following mini-q
 With the background reading complete, you are now ready to start the data collection process. 
 
 ### Step 1: Set-up a Spreadsheet
+
+You will use the same Google sheets document as last week, but you will want to open a new tab/"sheet" (bottom left) and organize it for this week's data collection.
+
 Your spreadsheet should allow you to:
 + Record data.
 + Plot your data in real time.
