@@ -59,7 +59,7 @@ For Module 1, you are using a digital readout of the angle of inclination from t
 Similar to the ruler, a good estimate of the resolution uncertainty is half of the last digit reported in the digital readout. In this example, we have measured $$\theta=1.59^\circ$$ with a resolution uncertainty in the angle of $$\delta_\mathrm{res} \theta = 0.005^\circ$$.
 
 We will instruct you to return to read the rest of this guide later. For now:
-[*Return to Module 1 Week 1*](week1#background:-uncertainty-estimates)
+[*Return to Module 1 Week 1*](week1#estimating-uncertainty)
 
 
 -------------------------------------------
