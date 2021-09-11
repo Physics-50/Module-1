@@ -207,7 +207,7 @@ At this point, you need to consider if your results are conclusive. Review the s
 
 **Reasonable is subjective. We don't expect for the purposes of our Module 1 that you will take hundreds of data points. But if taking 5 more data points will result in a stronger conclusion, then we encourage you to do so! It is also important to recognize that statistical analysis is not valid for very small numbers of data points. As a rough guide we would not consider a statistical analysis relying on less than 5 data points to be valid and therefore recommend you collect no fewer than 5 data points for each mass.*
 
-When analyzing data keep in mind that the data point's error bars do not need to all overlap for the data to be in agreement. A rule of thumb is that **we should expect the data points to be about one error bar away from the line on average.** We will learn more about this in the coming weeks.
+When analyzing data keep in mind that the data point's error bars do not need to all overlap for the data to be in agreement. A rule of thumb is that **a data point that agrees with some value can fall anywhere within roughly one error bar of that value.** We will learn more about this in the coming weeks.
 
 Next week you will make use of the Matlab software package to plot your data. If you do not have Matlab installed on your device we encourage you to install it to be prepared for next week's assignment (HMC has a site license). If you have any issues please reach out to us. The CIS help desk can also be helpful with installation issues.
 
@@ -224,7 +224,7 @@ Please submit the following to Module 1, Checkpoint #2 on Gradescope
 + A single-sentence, preliminary conclusion that you can draw about the hypothesis based on your experimental data
 
 ## Grading Rubric
-The tentative rubric that will be used to evaluate this deliverable is provided below. Please keep in mind that these rubric items are subject to change as we can never foresee all the issues that may arise. This is meant to give you a sense of how it will be graded.
+The tentative rubric that will be used to evaluate this checkpoint is provided below. Please keep in mind that these rubric items are subject to change as we can never foresee all the issues that may arise. This is meant to give you a sense of how it will be graded.
 
 **Click on the below images to enlarge in a new tab:**
 [![Spreadsheet and Histograms Rubric](images/checkpoint3-spreadsheet-rubric.png)](images/checkpoint3-spreadsheet-rubric.png){:target="_blank"}
