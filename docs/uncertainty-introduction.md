@@ -157,7 +157,7 @@ Systematic error arises when your experimental procedure and/or apparatus someho
 
 For example, if you measure the length of an object with a meter stick that is 1.1 m rather than 1 m long (i.e. the spacing between mm marks is 10% too large) then all of your length measurements will be *smaller* than those measured with a calibrated meter stick (since the marks are too far apart, you'll count fewer of them than you should). Systematic errors are biases in the experimental process that need to be considered separately from resolution error and random uncertainty.  One good way to identify systematic error is to try several methods of collecting the same data.  If they should produce equal results (within resolution and random errors) but are consistently shifted from each other, then at least one method has a systematic error.  Another hint that you have a systematic error is to analyze your data for an expected shape or pattern.  If the basic pattern is what theory predicts but there is an offset, either the theory applies poorly to reality or you have a systematic error.  The best scenario is that you identify the source of systematic error and eliminate it from your process.  If that doesn’t happen, at least the size of systematic error can be estimated from careful checks like these.
 
-[Return to Week 2 - Explore Other Factors](week2#4-explore-other-factors)
+<!--[Return to Week 2 - Explore Other Factors](week2#4-explore-other-factors)-->
 
 
 ### Combining Uncertainties
