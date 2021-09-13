@@ -218,7 +218,7 @@ Next week you will make use of the Matlab software package to plot your data. If
 
 Make sure you have the following:
 
-+ a good picture of your experimental set-up. You will need this for your final deliverable. A good image should minimize unnecessary clutter, include everything of relevance to understanding your experimetnal set-up, and will need to include a scale bar. Therefore, it is important that you plan for this when taking your photo (i.e. there needs to be an item in your photo whose dimensions you know and can use to add the scalebar later). The image should also be in focus and be taken from an angle that showcases your experimental set-up.
++ a good picture of your experimental set-up. You will need this for your final deliverable. A good image should minimize unnecessary clutter, include everything of relevance to understanding your experimetnal set-up, and will need to include a scale bar. Therefore, it is important that you plan for this when taking your photo (i.e. there needs to be an item in your photo whose dimensions you know and can use to add the scalebar later). The image should also be in focus and be taken from an angle that showcases your experimental set-up. This picture will be included in your final deliverable so take the time to take a good picture.
 
 ## Checkpoint #2
 
