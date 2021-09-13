@@ -201,7 +201,12 @@ Reducing random uncertainty can include both improving our measurement technique
 
 
 -------------
+## What you need to leave lab with:
 
++ You should have a procedure for collecting data in which you have made an effort to improve the reproducibility of your measurements. This is an important first step to being able to test our hypothesis next week.
+
++ You should have a set of 5 data points -  all collected with the same mass in the container, using the procedure you settled on to improve reproducibility. This is the data you will use when completing the checkpoint.
+ 
 ## Checkpoint 1
 
 + [Submit Module 1 checkpoint 1 on Gradescope](https://www.gradescope.com/courses/282675/assignments/1392670){:target="_blank"}. 
