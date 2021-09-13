@@ -214,11 +214,19 @@ When analyzing data keep in mind that the data point's error bars do not need to
 
 Next week you will make use of the Matlab software package to plot your data. If you do not have Matlab installed on your device we encourage you to install it to be prepared for next week's assignment (HMC has a site license). If you have any issues please reach out to us. The CIS help desk can also be helpful with installation issues.
 
+## Before you leave lab today
+
+Make sure you have the following:
+
++ a good picture of your experimental set-up. You will need this for your final deliverable. A good image should minimize unnecessary clutter, include everything of relevance to understanding your experimetnal set-up, and will need to include a scale bar. Therefore, it is important that you plan for this when taking your photo (i.e. there needs to be an item in your photo whose dimensions you know and can use to add the scalebar later). The image should also be in focus and be taken from an angle that showcases your experimental set-up.
+
 ## Checkpoint #2
 
 Please submit the following to Module 1, Checkpoint #2 on Gradescope
 
 + A screen-shot showing an organized spreadsheet used for data collection
+
++ A picture of your experimental set-up. You do not need to include a scalebar this week, but you should have a plan for adding one next week (i.e. there needs to be an item in your picture whose dimensions you know).
 
 + A histogram for each mass tested showing the distribution of the number of data points collected as a function of the angle $$\theta_c$$. You should have collected data for five different masses, with 5 data points for each mass.
 
