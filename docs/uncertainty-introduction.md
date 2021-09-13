@@ -163,7 +163,7 @@ For example, if you measure the length of an object with a meter stick that is 1
 ### Combining Uncertainties
 
 When you make a measurement you will have both random and resolution (sometimes multiple!) uncertainties. In order to obtain one actual uncertainty to quote in your value you can combine the sources by adding in quadrature. Adding in quadrature means to square each value for your uncertainty, add them all together, and take the square root of the sum,
-$$ \delta x_\mathrm{total} = \sqrt{\delta x_1^2 + \delta x_2^2 + \delta x_3^2 + \cdots}$$
+$$ \delta x_\mathrm{total} = \sqrt{(\delta x_1)^2 + (\delta x_2)^2 + (\delta x_3)^2 + \cdots}$$
 where $$\delta x_\mathrm{total}$$ is the total uncertainty in the measured value $$x$$ and $$\delta x_1$$,$$\delta x_2$$,$$\delta x_3$$,… are the various sources of uncertainty in the measurement of $$x$$ (e.g. random uncertainty, resolution uncertainty, etc).
 
 **When combining different sources of uncertainty make sure they have the same units**
