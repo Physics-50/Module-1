@@ -148,7 +148,7 @@ Look back to the spreadsheet you used for your preliminary data collection last 
 These steps will guide you through this process:
 
 
-1. Begin by creating a worksheet. This can be a new sheet in your existing worksheet using the add sheet button in the bottom left or a new worksheet.
+1. Begin by creating a new sheet in your worksheet for this module using the add sheet button in the bottom left.
 2. Set up a table to determine the critical angle for the first mass.
 
     + Give the table a title.
