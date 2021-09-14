@@ -95,13 +95,22 @@ Here is an annotated example of a figure without a plot, taken from [this articl
 ## Guide to MATLAB plotting and figure assembly in Powerpoint
 
 
-**In Physics 50 you will use MATLAB** to plot your data. To help you get started, we have outlined the essential steps in the [MATLAB Plotting + Powerpoint Figure Assembly Guide](plotting-guide){:target="_blank"}. There's also some important information there about how to make your plots and figures easier to read.   
-
-<br>
+**In Physics 50 you will use MATLAB** to plot your data. To help you get started, we have outlined the essential steps in the [MATLAB Plotting Guide](plotting-guide){:target="_blank"}. 
 <br>
 
-[Click here to open the MATLAB Plotting + Powerpoint Figure Assembly Guide in a new tab](plotting-guide){:target="_blank"}.
+Please note that use of MATLAB for plotting your data is required, plots in Google sheets do not meet course expectations.
 
+## Finding the Mean Value and Random Error by Fitting a Horizontal Line
+
+At this point you should be thinking about how to analyze your data for consistency with your hypothesis and, if the results are consistent with the hypothesis, generate a mean value to report. At this point you should have multiple measured values for the coefficient of friction from measuerments with different mass. Measurements for different mass should each have their own random error $$\delta\mu_{s_1}, \delta\mu_{s_2}, ..., \delta\mu_{s_n}$$.  How should you combine these to get the best final value for coefficient of friction?  What is the correct random error for that final value? And how should you gauge whether the results are consistent with your hypothesis?
+
+Just averaging the different values is not the best method of combining the data, because some of the values are more certain than others.  If we are getting directions in a strange town, we naturally weight conflicting advice according to how certain each person seems about the directions they are giving us.  We need to do something similar -- but more quantitative -- with our several values for the coefficient of static friction.  
+
+One way to find the "best fit average" of those points, which we will make use of, is to find the best fit horizontal line to match the data when plotting coefficient of friection versus mass (see figure below). Looking at the horizontal fit to the plotted data will also help us to analyze whether our data agrees with the hypothesis. We will talk a lot more about curve fitting in Module 3 (if you want to see it now, here's the detailed [Curve Fitting Guide](https://physics-50.github.io/Module-3/curve-fitting){:target="_blank"}). For Module 1, all you need to do is download and run a MATLAB file that will fit a horizontal line to your data, as described [here](fitting-horizontal-line){:target="_blank"}.
+
+## Assembling your figure
+
+Once you've prepared your plots you will need to assemble them in PowerPoint. We've prepared a guide to help you with that as well. [Powerpoint Figure Assembly Guide](plotting-guide/assembling-the-figure-in-powerpoint){:target="_blank"} There's also some important information there about how to make your plots and figures easier to read.   
 <br>
 <br>
 ## Module 1 Deliverable
