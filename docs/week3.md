@@ -109,7 +109,7 @@ One way to find the "best fit average" of those points, which we will make use o
 
 ## Assembling your figure
 
-Once you've prepared your plots you will need to assemble them in PowerPoint. We've prepared a guide to help you with that as well. [Powerpoint Figure Assembly Guide](plotting-guide/assembling-the-figure-in-powerpoint){:target="_blank"} There's also some important information there about how to make your plots and figures easier to read.   
+Once you've prepared your plots you will need to assemble them in PowerPoint. We've prepared a guide to help you with that as well. [Powerpoint Figure Assembly Guide](plotting-guide#assembling-the-figure-in-powerpoint){:target="_blank"} There's also some important information there about how to make your plots and figures easier to read.   
 <br>
 <br>
 ## Module 1 Deliverable
@@ -148,7 +148,7 @@ The figure must also include a caption with the following:
  
 Can you find each of these elements in the above example figure?
 
-Please upload your figure to [gradescope](https://www.gradescope.com/courses/216639/assignments/906819){:target="_blank"} according to the instructions provided there (note that you will have to upload it more than once). Make sure to include both the figure and caption.
+Please upload your figure to Gradescope according to the instructions provided there (note that you will have to upload it more than once). Make sure to include both the figure and caption.
 
 The deliverable will be graded out of 15 points. The tentative rubric that will be used to evaluate this deliverable is provided below. Please keep in mind that these rubric items are subject to change as we can never foresee all the issues that may arise. This is meant to give you a sense of how it will be graded.
 
