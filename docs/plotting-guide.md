@@ -110,7 +110,7 @@ The script saves the result as a jpeg image "static-friction-plot-improved.jpg" 
 
 **Important: Now that you understand some ways to customize your plot in MATLAB, you can delete the code for the "Basic" version (lines 10-24). You will need to alter the remaining code for plotting your data. You will need to import your own data, and you might also need to tweak some of the improvements. If you can't see your data points, then check that your data points fall within the "xlim" and "ylim" you are using.**
 
-[Return to Module 1, Week 3](week3/guide-to-matlab-plotting-and-figure-assembly-in-Powerpoint)
+[Return to Module 1, Week 3](week3/plotting-your-data)
 
 ### Fitting a Horizontal Line - MATLAB Code
 
