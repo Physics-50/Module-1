@@ -94,11 +94,10 @@ Here is an annotated example of a figure without a plot, taken from [this articl
 
 ## Plotting your data
 
-
 **In Physics 50 you will use MATLAB** to plot your data. To help you get started, we have outlined the essential steps in the [MATLAB Plotting Guide](plotting-guide){:target="_blank"}. 
 <br>
 
-Please note that use of MATLAB for plotting your data is required, plots in Google sheets do not meet course expectations.
+**Please note that use of MATLAB for plotting your data is required, plots in Google sheets do not meet course expectations.**
 
 ## Finding the Mean Value and Random Error by Fitting a Horizontal Line
 
