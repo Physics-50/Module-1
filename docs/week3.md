@@ -134,6 +134,7 @@ Figure 1. Coefficient of static friction depends on the location of the tuna can
    + **axes**, with axis labels, units, and tick marks
    + **data points**, with consistent data point symbols
    + **error bars**, attached to the individual data points
+   + **a horizontal line that comes from a weighted best fit computed in MATLAB**
 
 
 The figure must also include a caption with the following:
@@ -145,6 +146,7 @@ The figure must also include a caption with the following:
 3. A description of panel (b), including
    + a **connection to data** sentence that directly connects your conclusion to the data shown in the plot
    + a definition of the **error bars**
+   + a description of what the **horizontal line** represents
  
 Can you find each of these elements in the above example figure?
 
@@ -160,4 +162,4 @@ Your deliverable will also be graded for the quality of your data [4 points] and
 
 Deductions will also be assessed for failing to submit the checkpoint on time as outlined in the course syllabus.
 
-Don't forget to double-check that you've completed the miniquestion for this week. You can find this week's mini-question [here](mini-questions#week-4){:target="_blank"}.
+Don't forget to double-check that you've completed the miniquestion for this week. You can find this week's mini-question [here](mini-questions#week-3){:target="_blank"}.
