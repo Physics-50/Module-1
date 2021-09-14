@@ -134,7 +134,7 @@ Figure 1. Coefficient of static friction depends on the location of the tuna can
    + **axes**, with axis labels, units, and tick marks
    + **data points**, with consistent data point symbols
    + **error bars**, attached to the individual data points
-   + **a horizontal line that comes from a weighted best fit computed in MATLAB**
+   + **a horizontal line** that comes from a weighted best fit computed in MATLAB
 
 
 The figure must also include a caption with the following:
