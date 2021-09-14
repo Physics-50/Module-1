@@ -220,6 +220,8 @@ Make sure you have the following:
 
 + a good picture of your experimental set-up. You will need this for your final deliverable. A good image should minimize unnecessary clutter, include everything of relevance to understanding your experimetnal set-up, and will need to include a scale bar. Therefore, it is important that you plan for this when taking your photo (i.e. there needs to be an item in your photo whose dimensions you know and can use to add the scalebar later). The image should also be in focus and be taken from an angle that showcases your experimental set-up. This picture will be included in your final deliverable so take the time to take a good picture.
 
++ A set of data for each of 5 different masses. Quality of data will be taken into consideration in grading your final deliverable.
+
 ## Checkpoint #2
 
 Please submit the following to Module 1, Checkpoint #2 on Gradescope
@@ -238,8 +240,9 @@ Please submit the following to Module 1, Checkpoint #2 on Gradescope
 The tentative rubric that will be used to evaluate this checkpoint is provided below. Please keep in mind that these rubric items are subject to change as we can never foresee all the issues that may arise. This is meant to give you a sense of how it will be graded.
 
 **Click on the below images to enlarge in a new tab:**
-[![Spreadsheet and Histograms Rubric](images/checkpoint3-spreadsheet-rubric.png)](images/checkpoint3-spreadsheet-rubric.png){:target="_blank"}
-[![Results Rubric](images/checkpoint3-results-rubric.png)](images/checkpoint3-results-rubric.png){:target="_blank"}
+[![Spreadsheet and Histograms Rubric](images/checkpoint2rubric1.png)](images/checkpoint2rubric1.png){:target="_blank"}
+[![Results Rubric](images/checkpoint2rubric2.png)](images/checkpoint2rubric2.png){:target="_blank"}
+[![Results Rubric](images/checkpoint2rubric3.png)](images/checkpoint2rubric3.png){:target="_blank"}
 
 Don't forget to double check that you've completed [all of this week's miniquestions at this link.](mini-questions#week-2){:target="_blank"}
 
