@@ -110,6 +110,8 @@ The script saves the result as a jpeg image "static-friction-plot-improved.jpg" 
 
 **Important: Now that you understand some ways to customize your plot in MATLAB, you can delete the code for the "Basic" version (lines 10-24). You will need to alter the remaining code for plotting your data. You will need to import your own data, and you might also need to tweak some of the improvements. If you can't see your data points, then check that your data points fall within the "xlim" and "ylim" you are using.**
 
+[Return to Module 1, Week 3](week3/guide-to-matlab-plotting-and-figure-assembly-in-Powerpoint)
+
 ## Finding the Mean Value and Random Error by Fitting a Horizontal Line
 
 At this point you should be thinking about how to analyze your data for consistency with your hypothesis and, if the results are consistent with the hypothesis, generate a mean value to report. At this point you should have multiple measured values for the coefficient of friction from measuerments with different mass. Measurements for different mass should each have their own random error $$\delta\mu_{s_1}, \delta\mu_{s_2}, ..., \delta\mu_{s_n}$$.  How should you combine these to get the best final value for coefficient of friction?  What is the correct random error for that final value? And how should you gauge whether the results are consistent with your hypothesis?
@@ -118,7 +120,7 @@ Just averaging the different values is not the best method of combining the data
 
 One way to find the "best fit average" of those points, which we will make use of, is to find the best fit horizontal line to match the data when plotting coefficient of friection versus mass (see figure below). Looking at the horizontal fit to the plotted data will also help us to analyze whether our data agrees with the hypothesis. We will talk a lot more about curve fitting in Module 3 (if you want to see it now, here's the detailed [Curve Fitting Guide](https://physics-50.github.io/Module-3/curve-fitting){:target="_blank"}). For Module 1, all you need to do is download and run a MATLAB file that will fit a horizontal line to your data, as described below.
 
-### MATLAB Code
+### Fitting a Horizontal Line - MATLAB Code
 
 To use the MATLAB code first make sure you have the "curve fitting toolbox" installed. In the MATLAB environment, go to "HOME"-->"Add-Ons"-->"Get Add-Ons":
 ![get add ons](images/get_add_ons.png)
