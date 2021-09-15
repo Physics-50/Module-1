@@ -122,8 +122,8 @@ For Module 1, your deliverable is a single figure, with a caption, that conveys 
 In your experiment, you explored the effect of mass on the coefficient of static friction, but to give you a sense of what we hope your figure will be like, let’s imagine for a moment that you were studying the effect of location on the inclined plane (eg. cutting board) on the coefficient of static friction. Here’s what a figure about that might look like:
 
 
-![figure example](images/SampleFigureModI_fivePointsPanelAandB.png)
-Figure 1. Coefficient of static friction depends on the location of the tuna can on the cutting board. (a) Experimental setup. The coefficient of static friction was determined by measuring the critical angle for two different starting locations of a tuna can on a cutting board. Scale bar: 5 cm. (b) The coefficient of static friction is not independent of position, since the values do not agree within their error bars (standard error of the mean).
+![figure example](images/FivePointsAndALinePanelAandB.png)
+Figure 1. Coefficient of static friction depends on the location of the tuna can on the cutting board. (a) Experimental setup. The coefficient of static friction was determined by measuring the critical angle for five different starting locations of a tuna can on a cutting board. Scale bar: 5 cm. (b) The coefficient of static friction is not independent of position, since the values do not agree with the best fit horizontal line, within their error bars (standard error of the mean).
 
 
 #### Your figure must include:
