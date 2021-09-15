@@ -150,7 +150,7 @@ For a scale bar, you will need to measure the length of a reference object (e.g.
 
 Insert text boxes to label the panels (a) and (b). 
 
-![importing two images into powerpoint](images/powerpoint1.jpg)
+![importing two images into powerpoint](images/powerpointScreenshotWithLine.png)
 
 
 When you're satisfied with how the figure looks, select all of the objects on the slide, right click and "Save As Picture". You now have a saved figure file (save as either .png or .jpg for Gradescope submission please).
