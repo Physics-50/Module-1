@@ -108,8 +108,8 @@ info_string = [];
 % They will get set in italics in LaTeX, thanks to the dollar signs.
 for i=1:length(parameter_names)
     info_string = [info_string, ...
-        "$"+parameter_names{i}+" = "+ ...
-        num_and_unc(parameter_values(i), parameter_uncertainty(i))+"$"];
+        "$"+parameter_names{i}+" = "+ num2str(parameter_values(i))...
+        + " \pm " + num2str(parameter_uncertainty(i))+"$"];
 end
 
 % optionally add reduced chi2 to string
@@ -127,7 +127,7 @@ fitting_info_string = join(info_string, newline);
 % To specify where to put the text, we can use an array of four values
 % [left, bottom, width, height]. If you need to adjust, feel free!
 
-location = [0.6 0.15 0.35 0.3]; % see above comment on how to adjust
+location = [0.5 0.15 0.45 0.3]; % see above comment on how to adjust
 
 annotation('textbox', location, 'interpreter', 'latex',...
     'String', fitting_info_string, 'LineStyle', 'none',...
@@ -140,44 +140,4 @@ annotation('textbox', location, 'interpreter', 'latex',...
 % commands are stored, rather than the pixels that result. 
 
 % exportgraphics(fig1, 'mylovelyplot.png', 'Resolution',300);
-
-%% -------------------------------------------------------------
-%  End of the script. What follows is a helper function to format 
-%  numbers and uncertainties in a way consistent with our ideas of
-%  significant figures.
-
-function [displaystring] = num_and_unc(value, unc)
-%num_and_unc formats a number and uncertainty
-%   If the leading digit of the uncertainty is a 1 or 2, provide
-%   2 digits; otherwise, only 1. If values are small, combine
-%   the value and uncertainty in parentheses
-%   and put the exponent after: (3 ± 1) \times 10^n
-
-    % First analyze the uncertainty to get the necessary digits
-    str_e = sprintf('%0.1e', unc);
-    [tokens] = regexp(str_e, '(\d)\.(\d)+e(.*)','tokens');
-    lead_digit = tokens{1}{1};    
-    exponent = str2num(tokens{1}{3});
-    if lead_digit == '1' || lead_digit == '2'
-        exponent = exponent - 1;
-        unc_str = sprintf('%.2g',unc);
-    else
-        unc_str = sprintf('%.1g',unc); % lead_digit
-    end
-    
-    % Now 'exponent' represents the last digit we should display
-    % How many digits from the value do we need?
-    num_digits = floor(log10(abs(value))) - exponent + 1;
-    format = "%." + num2str(num_digits) + "g";
-    val_str = sprintf(format, value); % format the value
-    
-    if contains(val_str, 'e') % we need to rearrange
-        parts = regexp(val_str,'(?<val>\d+)e(?<expo>.*)','names');
-        uncparts = regexp(unc_str,'(?<val>\d+)e','names');
-        displaystring = sprintf('(%s \\pm %s)\\times 10^{%d}',...
-            parts.val, uncparts.val, str2num(parts.expo));
-    else
-        displaystring = sprintf('%s \\pm %s', val_str, unc_str);
-    end
-end
 
