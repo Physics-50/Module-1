@@ -11,7 +11,7 @@ In this page, we are going to go through the steps of creating a plot in MATLAB,
 Suppose we had the summary data organized in our Google Sheet:
 ![Data in Google Sheets](images/summary-data.png)
 
-We want to make a plot of $$\mu_s$$ vs the distance from the bottom of the cutting board $$x$$ (with $$\mu_s$$ on the $$y$$ axis). We want to have error bars on the values of $$\mu_s$$ that represent the uncertainty in $$\mu_s$$. 
+We want to make a plot of $$\mu_s$$ vs the distance from the bottom of the cutting board $$x$$ (with $$\mu_s$$ on the $$y$$ axis). We want to have error bars on the values of $$\mu_s$$ that represent the uncertainty in $$\mu_s$$.
 
 First, we will look at creating a “basic” plot with error bars. Then we will make some aesthetic tweaks to make the plot easier to read.
 
@@ -29,13 +29,13 @@ Now that you have an idea of how to run a MATLAB script, download this [MATLAB s
 ![the two figure windows that pop up](images/fig-windows.png)](images/figure-windows.png){:target="_blank"}
 *Note: the font sizes in your plots may be different than the ones shown here.*
 
-Before we dig into the details of the MATLAB code, can you spot the differences between the two plots? 
+Before we dig into the details of the MATLAB code, can you spot the differences between the two plots?
 
 The right-hand figure requires more lines of code to produce, but most people find it easier to read and interpret. The right-hand figure was generated with the principles of “salience” and “simplicity” in mind:
 
 **“Salience”** means that an object stands out from other objects around it. When making a figure, we should aim to make the most relevant/important objects the ones with the most salience. In the case of the plot above, the right-hand plot has the data points with filled-in circles and thicker lines, which makes those data points stand out. Because the relative location of the two data points and the size of the error bars is the relevant information needed to make a conclusion, we want to make them stand out (give them salience). The font size of the axis labels was also increased on the right-hand plot which make the labels easier to read. Remember that we are going to create a two-panel figure for the Module 1 deliverable, so we need to make sure the fonts are still readable when we scale the plot down in size.
 
-**“Simplicity”** means eliminating irrelevant and visually distracting information. In the case of the plots above, the right hand plot has fewer tick labels than the left plot. Fewer tick labels makes the plot look cleaner and less cluttered. Notice the $$x$$ axis of the left-hand plot has tick marks at {0,5,10,15,20,25,30} cm but the right hand plot only has them at {0,10,20,30} cm. We don’t lose our ability to see the value of the data points with fewer tick marks. 
+**“Simplicity”** means eliminating irrelevant and visually distracting information. In the case of the plots above, the right hand plot has fewer tick labels than the left plot. Fewer tick labels makes the plot look cleaner and less cluttered. Notice the $$x$$ axis of the left-hand plot has tick marks at {0,5,10,15,20,25,30} cm but the right hand plot only has them at {0,10,20,30} cm. We don’t lose our ability to see the value of the data points with fewer tick marks.
 
 Salience and simplicity are further [explained here with another example in MATLAB (optional)](https://bacteriophysics.web.illinois.edu/wp/wp-content/uploads/2019/02/figure-guide-ls-2016.pdf#page=4){:target="_blank"}.
 
@@ -45,16 +45,17 @@ For our plotting guide here, let’s follow this plan:
 
 2. understand the “Improved” version of the plotting script (that generated the right-hand plot)
 
-### "Basic" Plotting in MATLAB with error bars
+### “Basic” Plotting in MATLAB with error bars
+
 Let’s dissect the plotting script you already downloaded [plot_script_for_figure.m](plot_script_for_figure.m){:target="_blank"}. The relevant lines of code are on lines 1–24.
 
 [*Click here to open image in new tab*
-![Script for basic error bar plot](images/basic-plotting-script.jpg)](images/basic-plotting-script.jpg){:target="_blank"}
+![Script for basic error bar plot](images/basic-plot-script.png)](images/basic-plot-script.png){:target="_blank"}
 
 Reminder: the “%” symbols are comments in MATLAB.
 
 #### Initializing the MATLAB Workspace [lines 1-3]
-If you're running a script multiple times, it's generally a good idea to reset things first. This includes automatically closing figures and clearing any variables from the workspace that might be previously defined. 
+If you're running a script multiple times, it's generally a good idea to reset things first. This includes automatically closing figures and clearing any variables from the workspace that might be previously defined.
 
 #### Import Data (manual entry) [lines 5-8]
 Next we need to import the data from our Google Sheet. Since we only have a couple of data points, it's fastest just to copy-paste them into our script manually. Another option if we had more data would be to download the Google Sheet as an Excel file or csv file, and then use the "Import Data" button in MATLAB. But let's keep things simple here and copy-paste the data manually.
@@ -68,7 +69,7 @@ The plotting_script_for_figure.m uses errorbar on line 12:
 ``` MATLAB
 errorbar(distances,mus,muerrors,'ko');  % Plot the data with errorbars
 ```
-where the 'ko' plots the data points as a black circle (k=black, o=circle). 
+where the 'ko' plots the data points as a black circle (k=black, o=circle).
 
 Other important pieces in the code are setting the axes labels (lines 18-19), setting the range of the plot to zoom in on the data (line 20), and saving the plot as a high-resolution jpeg image (line 22). This should save the file "static-friction-plot-basic.jpg":
 <img src="images/static-friction-plot-basic.jpg" alt="Basic plot with error bars" width=350 />
@@ -85,7 +86,7 @@ The code for the improved plot with error bars is on lines 25-43 of [plotting_sc
 To make the important parts stand out and the plot more readable, we add the following:
 
 + filling-in the data points by setting the 'MarkerFaceColor' to black, increasing the 'LineWidth' to 1 pt, and increasing the 'MarkerSize' to 7 pt (line 27)
-``` MATLAB 
+``` MATLAB
 errorbar(distances,mus,muerrors,'ko','MarkerFaceColor','k','LineWidth',1,'MarkerSize',7); % plot the data
 ```
 
@@ -123,7 +124,7 @@ and search for the "curve fitting toolbox":
 
 If it says "Installed" you are good to go. Otherwise, click on the Curve Fitting Toolbox page and install it.
 
-Now that you have the curve fitting toolbox, please download the file [curve_fitting_demo_Mod1Week3.m](curve_fitting_demo_Mod1Week3.m) and run the script. 
+Now that you have the curve fitting toolbox, please download the file [curve_fitting_demo_Mod1Week3.m](curve_fitting_demo_Mod1Week3.m) and run the script.
 
 Every time you run the script, you will get the following warning in the command window:
 ![warning](images/warning.png)
@@ -134,9 +135,9 @@ To use the script for your own data, simply replace the "import data" section of
 
 ![horizLineFigure](images/horizLineFit.png)
 
-You can now directly read off the best fit value of the coefficient of friction $$\mu_s$$, with uncertainty, from the quoted fitting parameter called $$b$$. You will learn in Module 3 how fitting parameters are determined, but for now you are free to just report the value and uncertainty, remembering to follow the [sig fig rules](https://physics-50.github.io/Module-1/week2#reporting-data-with-significant-figures) described earlier in this module. In this example, using the default fake data shown in the figure above, we would find that $$\mu_s = 0.605 \pm 0.017$$. 
+You can now directly read off the best fit value of the coefficient of friction $$\mu_s$$, with uncertainty, from the quoted fitting parameter called $$b$$. You will learn in Module 3 how fitting parameters are determined, but for now you are free to just report the value and uncertainty, remembering to follow the [sig fig rules](https://physics-50.github.io/Module-1/week2#reporting-data-with-significant-figures) described earlier in this module. In this example, using the default fake data shown in the figure above, we would find that $$\mu_s = 0.605 \pm 0.017$$.
 
-(If you are unsure how the significant figures were determined please follow the link to review the [sig fig rules](https://physics-50.github.io/Module-1/week2#reporting-data-with-significant-figures). Here the leading digit of the uncertainty is a 1 so two digits are kept: 0.017.  Since the uncertainty is quoted to the “thousandths” decimal place the viscosity should also be quoted to the “thousandths” decimal place, so it is quoted as 0.605.) 
+(If you are unsure how the significant figures were determined please follow the link to review the [sig fig rules](https://physics-50.github.io/Module-1/week2#reporting-data-with-significant-figures). Here the leading digit of the uncertainty is a 1 so two digits are kept: 0.017.  Since the uncertainty is quoted to the “thousandths” decimal place the viscosity should also be quoted to the “thousandths” decimal place, so it is quoted as 0.605.)
 
 NOTE: In the above example data, one data point's error bars do not overlap with the horizontal line. This is actually a good thing - a rule of thumb is that **we should expect the data points to be about one error bar away from the line on average**. We will learn more about this in Module 3.
 
@@ -144,11 +145,11 @@ NOTE: In the above example data, one data point's error bars do not overlap with
 To create your two-panel figure for the Module 1 deliverable, we recommend using Powerpoint to assemble the parts. If you don't have Powerpoint installed, you can [get it free from HMC CIS here](https://www.hmc.edu/cis/services/office-365-education-for-students/).
 
 
-Open a new Powerpoint presentation and insert both the images you have made (the plot you've created and a photo of your setup). 
+Open a new Powerpoint presentation and insert both the images you have made (the plot you've created and a photo of your setup).
 
-For a scale bar, you will need to measure the length of a reference object (e.g. in real life, the tuna can is 8.5 cm in diameter). Then you can Insert->Shapes->Line in Powerpoint and make a scale bar of an appropriate size. 
+For a scale bar, you will need to measure the length of a reference object (e.g. in real life, the tuna can is 8.5 cm in diameter). Then you can Insert->Shapes->Line in Powerpoint and make a scale bar of an appropriate size.
 
-Insert text boxes to label the panels (a) and (b). 
+Insert text boxes to label the panels (a) and (b).
 
 ![importing two images into powerpoint](images/powerpointScreenshotWithLine.png)
 
