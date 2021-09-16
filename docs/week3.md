@@ -105,11 +105,11 @@ At this point you should be thinking about how to analyze your data for consiste
 
 Just averaging the different values is not the best method of combining the data, because some of the values are more certain than others.  If we are getting directions in a strange town, we naturally weight conflicting advice according to how certain each person seems about the directions they are giving us.  We need to do something similar -- but more quantitative -- with our several values for the coefficient of static friction.  
 
-One way to find the "best fit average" of those points, which we will make use of, is to find the best fit horizontal line to match the data when plotting coefficient of friection versus mass (see figure below). Looking at the horizontal fit to the plotted data will also help us to analyze whether our data agrees with the hypothesis. We will talk a lot more about curve fitting in Module 3 (if you want to see it now, here's the detailed [Curve Fitting Guide](https://physics-50.github.io/Module-3/curve-fitting){:target="_blank"}). For Module 1, all you need to do is download and run a MATLAB file that will fit a horizontal line to your data, as described [here](fitting-horizontal-line){:target="_blank"}.
+One way to find the "best fit average" of those points, which we will make use of, is to find the best fit horizontal line to match the data when plotting coefficient of friection versus mass (see figure below). Looking at the horizontal fit to the plotted data will also help us to analyze whether our data agrees with the hypothesis. We will talk a lot more about curve fitting in Module 3 (if you want to see it now, here's the detailed [Curve Fitting Guide](https://physics-50.github.io/Module-3/curve-fitting){:target="_blank"}). For Module 1, all you need to do is download and run a MATLAB file that will fit a horizontal line to your data, as described [here](fit-horizontal-line){:target="_blank"}.
 
 ## Assembling your figure
 
-Once you've prepared your plots you will need to assemble them in PowerPoint. We've prepared a guide to help you with that as well. [Powerpoint Figure Assembly Guide](plotting-guide#assembling-the-figure-in-powerpoint){:target="_blank"} There's also some important information there about how to make your plots and figures easier to read.   
+Once you've prepared your plots you will need to assemble them in PowerPoint. We've prepared a guide to help you with that as well. [Powerpoint Figure Assembly Guide](plot-guide#assembling-the-figure-in-powerpoint){:target="_blank"} There's also some important information there about how to make your plots and figures easier to read.   
 <br>
 <br>
 ## Module 1 Deliverable
