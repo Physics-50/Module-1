@@ -150,11 +150,10 @@ To use the script for your own data, simply replace the “import data” sectio
 
 ![horizLineFigure](images/horizontalLineFit.png)
 
-You can now directly read off the best fit value of the coefficient of friction $$\mu_s$$, with uncertainty, from the quoted fitting parameter called $$b$$. You will learn in Module 3 how fitting parameters are determined, but for now you are free to just report the value and uncertainty, remembering to follow the [sig fig rules](https://physics-50.github.io/Module-1/week2#reporting-data-with-significant-figures) described earlier in this module. In this example, using the default fake data shown in the figure above, we would find that $$\mu_s = 0.605 \pm 0.017$$.
+You can now directly read off the best fit value of the coefficient of friction $$\mu_s$$, with uncertainty, from the quoted fitting parameter called $$b$$. You will learn in Module 3 how fitting parameters are determined, but for now you are free to just report the value and uncertainty, remembering to follow the [sig fig rules](https://physics-50.github.io/Module-1/week2#reporting-data-with-significant-figures) described earlier in this module. In this example, using the default fake data shown in the figure above, we would find that $$\mu_s = 0.545 \pm 0.006$$.
 
-(If you are unsure how the significant figures were determined please follow the link to review the [sig fig rules](https://physics-50.github.io/Module-1/week2#reporting-data-with-significant-figures). Here the leading digit of the uncertainty is a 1 so two digits are kept: 0.017.  Since the uncertainty is quoted to the “thousandths” decimal place the viscosity should also be quoted to the “thousandths” decimal place, so it is quoted as 0.605.)
-
-NOTE: In the above example data, one data point's error bars do not overlap with the horizontal line. This is actually a good thing - a rule of thumb is that **we should expect the data points to be about one error bar away from the line on average**. We will learn more about this in Module 3.
+(If you are unsure how the significant figures were determined please follow the link to review the [sig fig rules](https://physics-50.github.io/Module-1/week2#reporting-data-with-significant-figures).
+NOTE: In the above example data, one data point's error bars do not overlap with the horizontal line. This is actually a good thing — a rule of thumb is that **we should expect the data points to be about one error bar away from the line on average**. We will learn more about this in Module 3.
 
 ## Assembling the figure in Powerpoint
 To create your two-panel figure for the Module 1 deliverable, we recommend using Powerpoint to assemble the parts. If you don't have Powerpoint installed, you can [get it free from HMC CIS here](https://www.hmc.edu/cis/services/office-365-education-for-students/).
@@ -162,11 +161,11 @@ To create your two-panel figure for the Module 1 deliverable, we recommend using
 
 Open a new Powerpoint presentation and insert both the images you have made (the plot you've created and a photo of your setup).
 
-For a scale bar, you will need to measure the length of a reference object (e.g. in real life, the tuna can is 8.5 cm in diameter). Then you can Insert->Shapes->Line in Powerpoint and make a scale bar of an appropriate size.
+For a scale bar, you will need to measure the length of a reference object (e.g., in real life, the tuna can is 8.5 cm in diameter). Then you can Insert->Shapes->Line in Powerpoint and make a scale bar of an appropriate size.
 
 Insert text boxes to label the panels (a) and (b).
 
 ![importing two images into powerpoint](images/powerpointScreenshotWithLine.png)
 
-
-When you're satisfied with how the figure looks, select all of the objects on the slide, right click and "Save As Picture". You now have a saved figure file (save as either .png or .jpg for Gradescope submission please).
+Then insert a text box for the caption, as discussed <where?>.
+When you’re satisfied with how the figure looks, select all of the objects on the slide, right click and “Save As Picture”. You now have a saved figure file (save as either .png or .jpg for Gradescope submission please).
