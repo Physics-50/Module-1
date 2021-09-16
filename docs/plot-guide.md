@@ -47,7 +47,7 @@ For our plotting guide here, let’s follow this plan:
 
 ### “Basic” Plotting in MATLAB with error bars
 
-Let’s dissect the plotting script you already downloaded [plot_script_for_figure.m](plot_script_for_figure.m){:target="_blank"}. The relevant lines of code are on lines 1–24.
+Let’s dissect the plotting script you already downloaded [plot_script_for_figure.m](plot_script_for_figure.m){:target="_blank"}. The relevant lines of code are on lines 1–30.
 
 [*Click here to open image in new tab*
 ![Script for basic error bar plot](images/basic-plot-script.png)](images/basic-plot-script.png){:target="_blank"}
@@ -55,24 +55,27 @@ Let’s dissect the plotting script you already downloaded [plot_script_for_figu
 Reminder: the “%” symbols are comments in MATLAB.
 
 #### Initializing the MATLAB Workspace [lines 1-3]
-If you're running a script multiple times, it's generally a good idea to reset things first. This includes automatically closing figures and clearing any variables from the workspace that might be previously defined.
+If you’re running a script multiple times, it’s generally a good idea to reset things first. This includes automatically closing figures and clearing any variables from the workspace that might be previously defined.
 
-#### Import Data (manual entry) [lines 5-8]
-Next we need to import the data from our Google Sheet. Since we only have a couple of data points, it's fastest just to copy-paste them into our script manually. Another option if we had more data would be to download the Google Sheet as an Excel file or csv file, and then use the "Import Data" button in MATLAB. But let's keep things simple here and copy-paste the data manually.
+#### Set MATLAB to use LaTeX for text [lines 5–8]
+To produce a graph with uniform fonts for both text and mathematical symbols, we will use the LaTeX interpreter for all text. To set a symbol in math mode, you surround it with dollar signs. For example, Einstein’s famous equation would be typed $E = mc^2$.
 
-#### Plot the Data -- "basic" version [lines 10-24]
-Now that we have the data imported into MATLAB, we can plot it. We will use the "errorbar" function in MATLAB (don't forget that you can "Search Documentation" near the top-right of the MATLAB Development Environment for help on any function!):
+#### Import Data (manual entry) [lines 10-13]
+Next we need to import the data from our Google Sheet. Since we only have a couple of data points, it’s fastest just to copy-paste them into our script manually. Another option if we had more data would be to download the Google Sheet as an Excel file or comma-separated-values (csv) file, and then use the “Import Data” button in MATLAB. But let’s keep things simple here and copy-paste the data manually.
 
-"errorbar(X,Y,E) plots Y versus X with symmetric error bars 2*E(i) long. X, Y, E must be the same size. Each error bar is a distance of E(i) above and below the point defined by (X(i),Y(i))."
+#### Plot the Data -- “basic” version [lines 15-30]
+Now that we have the data imported into MATLAB, we can plot it. We will use the “errorbar” function in MATLAB (don’t forget that you can “Search Documentation” near the top-right of the MATLAB Development Environment for help on any function!):
 
-The plotting_script_for_figure.m uses errorbar on line 12:
+“errorbar(X,Y,E) plots Y versus X with symmetric error bars 2*E(i) long. X, Y, E must be the same size. Each error bar is a distance of E(i) above and below the point defined by (X(i),Y(i)).”
+
+The plotting_script_for_figure.m uses errorbar on line 17:
 ``` MATLAB
-errorbar(distances,mus,muerrors,'ko');  % Plot the data with errorbars
+errorbar(distances,mus,muerrors,'ko');
 ```
 where the 'ko' plots the data points as a black circle (k=black, o=circle).
 
-Other important pieces in the code are setting the axes labels (lines 18-19), setting the range of the plot to zoom in on the data (line 20), and saving the plot as a high-resolution jpeg image (line 22). This should save the file "static-friction-plot-basic.jpg":
-<img src="images/static-friction-plot-basic.jpg" alt="Basic plot with error bars" width=350 />
+Other important pieces in the code are setting the axes labels (lines 24-25), setting the range of the plot to zoom in on the data (line 26), and saving the plot as a high-resolution png image (line 28). This should save the file "static-friction-plot-basic.png":
+<img src="images/static-friction-plot-basic.png" alt="Basic plot with error bars" width=350 />
 
 
 
