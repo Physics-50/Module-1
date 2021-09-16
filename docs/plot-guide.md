@@ -81,35 +81,43 @@ Other important pieces in the code are setting the axes labels (lines 24-25), se
 
 ### Improved plot (easier to read)
 
-The code for the improved plot with error bars is on lines 25-43 of [plot_script_for_figure.m](plot_script_for_figure.m){:target="_blank"}.
+The code for the improved plot with error bars is on lines 32-61 of [plot_script_for_figure.m](plot_script_for_figure.m){:target="_blank"}.
 
 [*Click here to open image in new tab*
 ![Script for basic error bar plot](images/improved-plot-script.png)](images/improved-plot-script.png){:target="_blank"}
 
 To make the important parts stand out and the plot more readable, we add the following:
 
-+ filling-in the data points by setting the 'MarkerFaceColor' to black, increasing the 'LineWidth' to 1 pt, and increasing the 'MarkerSize' to 7 pt (line 27)
++ filling-in the data points by setting the 'MarkerFaceColor' to black, increasing the 'LineWidth' to 1 pt, and increasing the 'MarkerSize' to 7 pt (lines 34–35)
 ``` MATLAB
-errorbar(distances,mus,muerrors,'ko','MarkerFaceColor','k','LineWidth',1,'MarkerSize',7); % plot the data
+errorbar(distances,mus,muerrors,'ko','MarkerFaceColor',...
+    'k','LineWidth',1,'MarkerSize',7); % plot the data
+```
+MATLAB uses three dots at the end of a line to indicate that the statement continues on the next line.
+
++ increasing font size to 18 pt for tick labels, and reducing the number of tick marks (lines 44-50)
+``` MATLAB
+ax = gca; % get handle to the axes object using gca (get current axes)
+ax.FontSize = 18; % sets the default font size for axis and tick labels
+                  % this is how to set tick font size
+set(ax,'XTick',[0, 10, 20, 30]); % set the x-tick locations manually
+                              % (reduce number of ticks for "simplicity")
+set(ax,'YTick',[0.3, 0.4, 0.5]); % set the y-tick locations manually
+                              % (reduce number of ticks for "simplicity")
 ```
 
-+ increasing font size to 14 pt for tick labels, and reducing the number of tick marks (lines 36-39)
++ creating axis labels, and setting their font size to 18 pt (line 52-56)
 ``` MATLAB
-ax = gca; % gca means get current axes, so ax is a handle to the axes object
-ax.FontSize = 14; % sets the default font size for axis and tick labels - this is how to set tick font size
-set(ax,'XTick',[0, 10, 20, 30]); % set the x-tick locations manually (reduce number of ticks for "simplicity")
-set(ax,'YTick',[0.3, 0.4, 0.5]); % set the y-tick locations manually (reduce number of ticks for "simplicity")
+xlabel('$x$ (cm)','FontSize',18); % label x axis (with units), dollar signs
+                        % for math mode, increased FontSize for "salience"
+ylabel('$\mu_s$','FontSize',18); % label y axis, dollar signs for math
+                        % mode, backslash for Greek letters, increased
+                        % FontSize for "salience"
 ```
 
-+ creating axis labels, and setting their font size to 18 pt (line 41-42)
-``` MATLAB
-xlabel('distance from bottom of cutting board (cm)','FontSize',18); %label x axis (with units), increasing FontSize for "salience"
-ylabel('coefficient of static friction \mu_s','FontSize',18); % label y axis (backslash for Greek symbols), increasing FontSize for "salience"
-```
+The script saves the result as a png image "static-friction-plot-improved.png" (line 59):
 
-The script saves the result as a jpeg image "static-friction-plot-improved.jpg" (line 44):
-
-<img src="images/static-friction-plot-improved.jpg" alt="Improved plot with error bars" width=350 />
+<img src="images/static-friction-plot-improved.png" alt="Improved plot with error bars" width=350 />
 
 
 **Important: Now that you understand some ways to customize your plot in MATLAB, you can delete the code for the "Basic" version (lines 10-24). You will need to alter the remaining code for plotting your data. You will need to import your own data, and you might also need to tweak some of the improvements. If you can't see your data points, then check that your data points fall within the "xlim" and "ylim" you are using.**
