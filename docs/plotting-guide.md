@@ -2,6 +2,8 @@
 
 In this page, we are going to go through the steps of creating a plot in MATLAB, and then assembling that plot along with a photo of the experiment into a figure. We will use some data from an experiment that was studying the effect of location on the inclined plane (eg. cutting board) on the coefficient of static friction. For the purposes of this MATLAB guide, we will use example data that only features two data points, even though you will need to include 5 data points in your plot. Although this is different than the experiment you performed, the following steps are very similar to what you will need to do for your figure.
 
+Note that you will need to **use MATLAB R2021a**, the most recent release of MATLAB.
+
 [Creating a plot in MATLAB](#plotting-with-matlab)
 
 [Assembling the figure in Powerpoint](#assembling-the-figure-in-powerpoint)
