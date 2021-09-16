@@ -81,10 +81,10 @@ Other important pieces in the code are setting the axes labels (lines 24-25), se
 
 ### Improved plot (easier to read)
 
-The code for the improved plot with error bars is on lines 25-43 of [plotting_script_for_figure.m](plotting_script_for_figure.m){:target="_blank"}.
+The code for the improved plot with error bars is on lines 25-43 of [plot_script_for_figure.m](plot_script_for_figure.m){:target="_blank"}.
 
 [*Click here to open image in new tab*
-![Script for basic error bar plot](images/improved-plotting-script.png)](images/improved-plotting-script.png){:target="_blank"}
+![Script for basic error bar plot](images/improved-plot-script.png)](images/improved-plot-script.png){:target="_blank"}
 
 To make the important parts stand out and the plot more readable, we add the following:
 
