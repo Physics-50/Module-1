@@ -124,27 +124,31 @@ The script saves the result as a png image "static-friction-plot-improved.png" (
 
 [Return to Module 1, Week 3](week3#plotting-your-data)
 
+<!-- I think the following really belongs elsewhere, but I will edit in this file
+assuming that it can be moved later. -->
+
 ### Fitting a Horizontal Line - MATLAB Code
 
-To use the MATLAB code first make sure you have the "curve fitting toolbox" installed. In the MATLAB environment, go to "HOME"-->"Add-Ons"-->"Get Add-Ons":
+To use the MATLAB code first make sure you have the “curve fitting toolbox” and the “statistics and machine learning toolbox” installed. In the MATLAB environment, go to **HOME** ==> **Add-Ons** ==> **Get Add-Ons**:
 ![get add ons](images/get_add_ons.png)
 
-and search for the "curve fitting toolbox":
+and search for both the “curve fitting toolbox” and the “statistics and machine learning toolbox”:
 
 ![curve fitting toolbox](images/curve_fitting_toolbox.png)
 
-If it says "Installed" you are good to go. Otherwise, click on the Curve Fitting Toolbox page and install it.
+If both are “Installed” you are good to go. Otherwise, click to install either or both.
 
-Now that you have the curve fitting toolbox, please download the file [curve_fitting_demo_Mod1Week3.m](curve_fitting_demo_Mod1Week3.m) and run the script.
+----
+Now download the file [fitting_Mod1Week3.m](fitting_Mod1Week3.m) and run the script.
 
 Every time you run the script, you will get the following warning in the command window:
 ![warning](images/warning.png)
 
 This warning appears because we aren't providing an initial guess for the fitting parameter, and the function is picking an initial guess randomly. **You can safely ignore this warning.**
 
-To use the script for your own data, simply replace the "import data" section of the code (lines 8-10) with your own data pasted in. **Make sure to report added mass in g.** You shouldn't need to change anything else in the script if you are fitting a horizontal line to your data. The resulting figure should look like the figure below.
+To use the script for your own data, simply replace the “import data” section of the code (lines 8-10) with your own data pasted in. **Make sure to report added mass in g.** You shouldn’t need to change anything else in the script if you are fitting a horizontal line to your data. The resulting figure should look like the figure below.
 
-![horizLineFigure](images/horizLineFit.png)
+![horizLineFigure](images/horizontalLineFit.png)
 
 You can now directly read off the best fit value of the coefficient of friction $$\mu_s$$, with uncertainty, from the quoted fitting parameter called $$b$$. You will learn in Module 3 how fitting parameters are determined, but for now you are free to just report the value and uncertainty, remembering to follow the [sig fig rules](https://physics-50.github.io/Module-1/week2#reporting-data-with-significant-figures) described earlier in this module. In this example, using the default fake data shown in the figure above, we would find that $$\mu_s = 0.605 \pm 0.017$$.
 
