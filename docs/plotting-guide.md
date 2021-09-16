@@ -153,4 +153,4 @@ Insert text boxes to label the panels (a) and (b).
 ![importing two images into powerpoint](images/powerpointScreenshotWithLine.png)
 
 
-When you're satisfied with how the figure looks, select all of the objects on the slide, right click and "Save As Picture". You now have a saved figure file (save as either .png or .jpg for Gradescope submission please).
+When you're satisfied with how the figure looks, select all of the objects on the slide, right click and "Save As Picture" and save it as a png. You now have a saved figure file which will need to be accompanied by a caption before it is submitted to Gradescope.
