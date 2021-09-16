@@ -201,6 +201,7 @@ Make sure to record all relevant details such as what mass you are using. Always
 
 As you collect data, be on the lookout for problems like those mentioned in the [Real-time Data Visualization](#real-time-data-visualization) section above. The histogram and summary statistics of your critical angle will help you identify if you need to adjust your plan.
 
+Depending on how you record your data you may find it helpful to know that within the Phyphox app, if you select "Plane" and then Pick data you can pick off the value of data points without exporting the data. This will not be necessary if you are collecting data in real time but is helpful if, for example, you are quickly lowering the ramp when the container begins to slip and then going back to find the maximum angle. 
 
 ### Step 3: Reflect and Iterate
 
