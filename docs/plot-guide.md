@@ -25,9 +25,10 @@ And if you've never used a MATLAB “script” before, this 3-minute video gives
 
 Now that you have an idea of how to run a MATLAB script, download this [MATLAB script for our example data plotted with error bars](plot_script_for_figure.m){:target="_blank"}. Make sure you save the file into a meaningful directory (e.g. Ph50/Module1). If you open the script and run it in MATLAB, two figures should pop up (one might be behind the other) that are two versions of the same plot:
 
-Click here to open image in a new tab
 
-[![the two figure windows that pop up](images/fig-windows.png)](images/figure-windows.png){:target="_blank"}
+
+[*Click here to open image in new tab*
+![the two figure windows that pop up](images/fig-windows.png)](images/fig-windows.png){:target="_blank"}
 *Note: the font sizes in your plots may be different than the ones shown here.*
 
 Before we dig into the details of the MATLAB code, can you spot the differences between the two plots?
