@@ -168,5 +168,5 @@ Insert text boxes to label the panels (a) and (b).
 
 ![importing two images into powerpoint](images/powerpointScreenshotWithLine.png)
 
-Then insert a text box for the caption, as discussed <where?>.
+Then insert a text box for the caption. Advice for preparing a caption was provided [here](week3#a-figure-showing-a-plot).
 When you’re satisfied with how the figure looks, select all of the objects on the slide, right click and “Save As Picture”. You now have a saved figure file (save as either .png or .jpg for Gradescope submission please).
