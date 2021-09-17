@@ -3,3 +3,7 @@
 /docs/Gemfile
 /docs/Gemfile.lock
 .DS_Store
+/docs/#*#
+/docs/*.pandoc
+/docs/.#*
+docs/plot-guide.html
