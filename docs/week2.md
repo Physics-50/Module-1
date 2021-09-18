@@ -15,7 +15,7 @@ This week we are going to generate a data set to test our hypothesis. This will 
 At the end of this week you should have a complete data set for the measured critical angle for (at least) five different masses.
 Before you begin taking data, there are two principles that we would like to introduce: **“real-time data visualization”** and **“iterative experimental design”**. In taking experimental data, we don't want to just blindly follow the procedure laid out in the experimental design. We need to ensure the data we are taking is reasonable and that our conclusions are well-founded and impactful. One way to ensure the data is reasonable is to have some real-time visualization set up (“plotting as you go”). That way we can see our data as we are taking it, and adapt based on any new information.
 
-*Warning* When “plotting as we go” we don’t want to make a real-time decision that incorrectly shapes our conclusions. For example, suppose we had made a plan to take 10 data points based on our exploratory measurements. But in taking the first 3 data points we notice a small sample standard deviation and that if we just stop taking data now, we end up with a reasonable conclusion. If we stop our hypothesis testing based on whether or not the data gives us the answer we are looking for, then we might draw **incorrect** conclusions based on the spread of just a few data points [explained here](https://replicationindex.com/2015/01/24/questionable-research-practices-definition-detect-and-recommendations-for-better-practices/){:target="_blank"}. If this puzzles you, you might look back to the discussion of [random uncertainty](uncertainty-introduction#random-uncertainty){:target="_blank"}. Related concerns are also raised [here](https://www.explainxkcd.com/wiki/index.php/882:_Significant){:target="_blank"}. 
+*Warning* When “plotting as we go” we don’t want to make a real-time decision that incorrectly shapes our conclusions. For example, suppose we had made a plan to take 10 data points based on our exploratory measurements. But in taking the first 3 data points we notice a small sample standard deviation and that if we just stop taking data now, we end up with a reasonable conclusion. If we stop our hypothesis testing based on whether or not the data gives us the answer we are looking for, then we might draw **incorrect** conclusions based on the spread of just a few data points [explained here](https://replicationindex.com/2015/01/24/questionable-research-practices-definition-detect-and-recommendations-for-better-practices/){:target="_blank"}. If this puzzles you, you might look back to the discussion of [random uncertainty](uncertainty-introduction#random-uncertainty){:target="_blank"}. Related concerns are also raised [here](https://www.explainxkcd.com/wiki/index.php/882:_Significant){:target="_blank"}.
 
 To provide some separation between our experimental decisions and our hypothesis testing, we will iterate on our experimental design. It's okay to change your plan if it turned out to be a bad one. But we want to provide some justification for any changes we make to the initial plan. Here we will provide more details about the two principles we will employ this week, **“real-time data visualization”** and **“iterative experimental design”**. We encourage you to refer back to them as you undertake your detailed data collection.
 
@@ -23,12 +23,12 @@ To provide some separation between our experimental decisions and our hypothesis
 
 An important habit we would like you to develop as an experimentalist is to be plotting/visualizing your data as you take it. Even though you made a plan with your experimental design, there are many unexpected things that can happen. You should set up your data collection (in Google Sheets) so that recording each data point automatically updates a plot of your data and calculates statistical quantities (sample mean, sample standard deviation, and standard error of the mean). Here are some things to keep an eye out for as your taking your data:
 
-+ Is your sample mean very different than what you measured in your exploratory analysis? 
++ Is your sample mean very different than what you measured in your exploratory analysis?
     + If so, then try to troubleshoot what the differences might be (e.g. a calculation error, an uncontrolled variable), and then revise your approach if necessary
 
 + Does your data look **normally distributed** (like a Gaussian, bell-curve)?
     + If not, then you should try to investigate uncontrolled variables or perhaps increase the number data points of your experimental design
-    
+
     **Note: if you have taken only a few data points, you shouldn’t expect your data to look like it’s normally distributed, even if it was being sampled from a normal distribution. Make sure you take enough data before checking if it's normally distributed.**
 
 ### Making an Experimental Plan
@@ -43,7 +43,7 @@ An important habit we would like you to develop as an experimentalist is to be p
 
 -------------------
 
-+ How many data points would you need to take in order for any effect due to changing mass to be larger than your random uncertainty? 
++ How many data points would you need to take in order for any effect due to changing mass to be larger than your random uncertainty?
 
 
 #### Miniquestion: How Many Trials
@@ -62,9 +62,9 @@ If your real-time data visualization indicates something is going wrong, you sho
 
 Or maybe you’ve noticed some uncontrolled factor in your experiment and you need to start over. In that case, carefully note any data that was taken, but do not delete it! Even if you aren’t going to include data you've taken in your analysis, it’s important to keep a record of what happened. Here’s an example of how you might document such an event in your lab notebook: *“My experimental design called for 5 data points, but in my first 3 data points I noticed a larger standard deviation than I expected based on my exploratory measurements. I noticed that the mass(es) inside my container sometimes shifted before the container began to slip on the ramp. The first 3 trials were taken without carefully controlling that factor, and I will not include them in my analysis. In subsequent trials, I will make sure the mass in my container is pushed up against the ‘downhill’ side of the container before starting. I will take 5 new data points according to my experimental design.”*
 
-Often even if things go as planned and we finish taking data according to our experimental design, we can end up with an inconclusive or unclear result. Just because you complete your experimental design, doesn't mean you are done with your experiment! It's far easier to communicate your results when there is a clear conclusion. It's often worth the effort to revise your plan and take more data, which will save you time trying to communicate your results (which we will do in Week 3) and allow you to reach a stronger conclusion. (Quality of data will be one of the consdierations in grading your final deliverable.)
+Often even if things go as planned and we finish taking data according to our experimental design, we can end up with an inconclusive or unclear result. Just because you complete your experimental design, doesn't mean you are done with your experiment! It's far easier to communicate your results when there is a clear conclusion. It's often worth the effort to revise your plan and take more data, which will save you time trying to communicate your results (which we will do in Week 3) and allow you to reach a stronger conclusion. (Quality of data will be one of the considerations in grading your final deliverable.)
 
-As an experimentalist, you have to make the tough decision of when the experiment is complete. It takes years of experience to build up the knowledge and intuition to comfortably decide “when am I done?”. Even collaborators in the same research group can disagree on this point. To help get you started, let's look at a few examples in the following miniquestion. 
+As an experimentalist, you have to make the tough decision of when the experiment is complete. It takes years of experience to build up the knowledge and intuition to comfortably decide “when am I done?”. Even collaborators in the same research group can disagree on this point. To help get you started, let's look at a few examples in the following miniquestion.
 
 -------
 
@@ -124,7 +124,7 @@ To make sure you've understood these ideas, please complete the following mini-q
 
 ## Data Collection
 
-With the background reading complete, you are now ready to start the data collection process. 
+With the background reading complete, you are now ready to start the data collection process.
 
 ### Step 1: Set-up a Spreadsheet
 
@@ -138,7 +138,7 @@ Your spreadsheet should allow you to:
 ![spreadsheet example](images/plot-as-you-go.gif)
 
 
-Look back to the spreadsheet you used for your preliminary data collection last week. You will want to organize your data collection in a similar way. 
+Look back to the spreadsheet you used for your preliminary data collection last week. You will want to organize your data collection in a similar way.
 
 
 <details>
@@ -156,11 +156,11 @@ These steps will guide you through this process:
     + Title the column you will be using for data collection ($$\theta_c$$)
 
     + Use the borders feature to outline the table.
-    
+
         <img src="images/borders.JPG" alt="The border button will allow you to outline your table" width="125"/>
 
 
-3. Set up a graph to plot your data in real time. For this experiment you will want to plot a histogram of your measurements of the the critical angle $$\theta_c$$. Today we are setting up an informal plot to look at our data in real time. This is different from a more formal figure that you would use to share/communicate your results - creating formal figures is a more careful process, we will do that next week after we've collected and reflected on our data. Here we summarize how to create a histogram in sheets. You can find more helpful information at: [*Click here to open in a new tab*](https://support.google.com/docs/answer/9146867?hl=en){:target="_blank"}
+3. Set up a graph to plot your data in real time. For this experiment you will want to plot a histogram of your measurements of the the critical angle $$\theta_c$$. Today we are setting up an informal plot to look at our data in real time. This is different from a more formal figure that you would use to share/communicate your results --- creating formal figures is a more careful process, we will do that next week after we've collected and reflected on our data. Here we summarize how to create a histogram in sheets. You can find more helpful information at: [*Click here to open in a new tab*](https://support.google.com/docs/answer/9146867?hl=en){:target="_blank"}
 
     + You can add a chart by selecting "insert" and then "chart" from the drop down menus.
 
@@ -168,20 +168,20 @@ These steps will guide you through this process:
 
         <img src="images/Histogram.JPG" alt="The border button will allow you to outline your table" width="125"/>
 
-    + On the next line of the “Chart Editor” set data range to be the cells in which you plan to insert your data (you may have to go back and edit this later if you collect more data than expected)
+    + On the next line of the “Chart Editor” set data range to be the cells in which you plan to insert your data (you may have to go back and edit this later if you collect more data than expected).
 
     + Press the x in the top right to exit the chart editor.
 
     + Click on your chart and move it to a convenient spot in your worksheet. You will want to customize the chart further once you begin collecting data.
 
-5. Now add a row to calculate the average value for the critical angle, $$\theta_c$$ and standard error. This will be analogous to what you did last week just with more data, go ahead and look back to last week's worksheet to set-up the calculations.
+5. Now add a row to calculate the average value for the critical angle, $$\theta_c$$, and standard error. This will be analogous to what you did last week just with more data, go ahead and look back to last week’s worksheet to set-up the calculations.
 
 6. Add another row to use the same calculations you did last week to calculate the coefficient of static friction, $$\mu_s$$, for your new data set.
 
 7. Now you need to set up your worksheet to collect data for the second mass. There are two ways you might go about this. One is to add a second column to the right of your first column, duplicating the equations for your calculations. You should then create a second histogram to monitor the data from the second mass in real time. Alternatively, you can duplicate the sheet. At the bottom left are tabs that allow you to have multiple sheets in your worksheet. If you click on the downward arrow next to your sheet name a menu will appear. Click on “duplicate” and you will now have a second identical sheet ready for data from your second mass. You can rename your sheets from the same menu.
  <img src="images/Duplicating_sheet_in_sheets.png" alt="The duplicate menu item will allow you to duplicate your worksheet, easily creating a second worksheet already set-up for the second mass" width="125"/>
 
-Once you have collected a few data points you will want to go back to the chart editor and select customize. Next week we will focus on polishing our plot for communicating our results but even for your own records you want to make a few adjustments while collecting data. 
+Once you have collected a few data points you will want to go back to the chart editor and select customize. Next week we will focus on polishing our plot for communicating our results but even for your own records you want to make a few adjustments while collecting data.
 
 + Use the Chart and axis title dropdown to add a chart title
 
@@ -201,7 +201,7 @@ Make sure to record all relevant details such as what mass you are using. Always
 
 As you collect data, be on the lookout for problems like those mentioned in the [Real-time Data Visualization](#real-time-data-visualization) section above. The histogram and summary statistics of your critical angle will help you identify if you need to adjust your plan.
 
-Depending on how you record your data you may find it helpful to know that within the Phyphox app, if you select "Plane" and then Pick data you can pick off the value of data points without exporting the data. This will not be necessary if you are collecting data in real time but is helpful if, for example, you are quickly lowering the ramp when the container begins to slip and then going back to find the maximum angle. 
+Depending on how you record your data you may find it helpful to know that within the Phyphox app, if you select "Plane" and then Pick data you can pick off the value of data points without exporting the data. This will not be necessary if you are collecting data in real time but is helpful if, for example, you are quickly lowering the ramp when the container begins to slip and then going back to find the maximum angle.
 
 ### Step 3: Reflect and Iterate
 
@@ -219,7 +219,7 @@ Next week you will make use of the Matlab software package to plot your data. If
 
 Make sure you have the following:
 
-+ a good picture of your experimental set-up. You will need this for your final deliverable. A good image should minimize unnecessary clutter, include everything of relevance to understanding your experimetnal set-up, and will need to include a scale bar. Therefore, it is important that you plan for this when taking your photo (i.e. there needs to be an item in your photo whose dimensions you know and can use to add the scalebar later). The image should also be in focus and be taken from an angle that showcases your experimental set-up. This picture will be included in your final deliverable so take the time to take a good picture.
++ a good picture of your experimental set-up. You will need this for your final deliverable. A good image should minimize unnecessary clutter, include everything of relevance to understanding your experimental set-up, and will need to include a scale bar. Therefore, it is important that you plan for this when taking your photo (i.e. there needs to be an item in your photo whose dimensions you know and can use to add the scale bar later). The image should also be in focus and be taken from an angle that showcases your experimental set-up. This picture will be included in your final deliverable so take the time to take a good picture.
 
 + A set of data for each of 5 different masses. Quality of data will be taken into consideration in grading your final deliverable.
 
@@ -229,7 +229,7 @@ Please submit the following to Module 1, Checkpoint #2 on Gradescope
 
 + A screen-shot showing an organized spreadsheet used for data collection
 
-+ A picture of your experimental set-up. You do not need to include a scalebar this week, but you should have a plan for adding one next week (i.e. there needs to be an item in your picture whose dimensions you know).
++ A picture of your experimental set-up. You do not need to include a scale bar this week, but you should have a plan for adding one next week (i.e. there needs to be an item in your picture whose dimensions you know).
 
 + A histogram for each mass tested showing the distribution of the number of data points collected as a function of the angle $$\theta_c$$. You should have collected data for five different masses, with 5 data points for each mass.
 
@@ -246,5 +246,3 @@ The tentative rubric that will be used to evaluate this checkpoint is provided b
 [![Results Rubric](images/checkpoint2rubric3.png)](images/checkpoint2rubric3.png){:target="_blank"}
 
 Don't forget to double check that you've completed [all of this week's miniquestions at this link.](mini-questions#week-2){:target="_blank"}
-
-
