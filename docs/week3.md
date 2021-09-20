@@ -172,4 +172,6 @@ Your deliverable will also be graded for the quality of your data [4 points] and
 
 Deductions will also be assessed for failing to submit the checkpoint on time as outlined in the course syllabus.
 
+**As a reminder: Please prepare your assignment in a separate document, enter all entries in a single sitting without using the "save" button and then make use of the "submit" button to submit your work. You may not resubmit your work once it has been submitted (and saving in Gradescope is equivalent to submitting).**
+
 Don't forget to double-check that you've completed the miniquestion for this week. You can find this week's mini-question [here](mini-questions#week-3){:target="_blank"}.
