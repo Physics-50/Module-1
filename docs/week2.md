@@ -225,7 +225,9 @@ Make sure you have the following:
 
 ## Checkpoint #2
 
-Please submit the following to Module 1, Checkpoint #2 on Gradescope
+Please submit the following to Module 1, Checkpoint #2 on Gradescope. 
+
+**As a reminder: Please prepare your assignment in a separate document, enter all entries in a single sitting without using the "save" button and then make use of the "submit" button to submit your work. You may not resubmit your work once it has been submitted (and saving in Gradescope is equivalent to submitting).**
 
 + A screen-shot showing an organized spreadsheet used for data collection
 
