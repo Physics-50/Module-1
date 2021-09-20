@@ -87,7 +87,10 @@ Here is an annotated example of a figure without a plot, taken from [this articl
 
 
 ---------------------------
+## Before you begin
 
+Before plotting your data you will want to address any major concerns that may have been raised with your analysis on the checkpoint. In particular, make sure you are estimating your uncertainty correctly. The uncertainty you will be using to represent the uncertainty in your data points for each mass measured will, in general come from combining in quadrature the resolution uncertainty you estimated for your apparaturs with the random uncertainty, represented by the SEM. Frequently one source of uncertainty will dominate. For this experiment we anticipate that in all cases your uncertainty will have been dominated by random uncertainty. Make sure you have also propagated this uncertainty in angle to yield an uncertainty in the coefficient of static friction. This should have been done last week, but if you had any issues this would be a good time to check in with an instructor.
+ 
 ## Plotting your data
 
 **In Physics 50 you will use MATLAB** to plot your data. To help you get started, we have outlined the essential steps in the [MATLAB Plotting Guide](plot-guide){:target="_blank"}.
