@@ -113,14 +113,10 @@ for i=1:length(parameter_names)
 end
 
 % optionally add reduced chi2 to string
-%fitting_info_string = [fitting_info_string, "reduced $\chi_{\nu}^2 = "+ ...
+% info_string = [info_string, "reduced $\chi_{\nu}^2 = "+ ...
 %    sprintf("%.2g $", reduced_chi2)];
 
 fitting_info_string = join(info_string, newline);
-
-% display legend on plot; put it in the best location
-%leg = legend({"Data",join(fitting_info_string,newline)},"Location","Best");
-%set(leg, 'Box', 'off');
 
 % There is no need for a legend, since we only have a single data
 % series. However, we would like to display the fitting information
