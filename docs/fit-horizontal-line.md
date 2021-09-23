@@ -16,7 +16,7 @@ Every time you run the script, you will get the following warning in the command
 
 This warning appears because we aren't providing an initial guess for the fitting parameter, and the function is picking an initial guess randomly. **You may safely ignore this warning.**
 
-To use the script for your own data, simply replace the “import data” section of the code (lines 8–10) with your own data pasted in. **Make sure to report added mass in grams.** You shouldn’t need to change anything else in the script if you are fitting a horizontal line to your data. The resulting figure should look like the figure below.
+To use the script for your own data, simply replace the “import data” section of the code (lines 8–10) with your own data pasted in. **Make sure to report added mass in grams.** You will also probably need to adjust the placement of ticks and labels on the two axes (lines 63--65). You shouldn’t need to change anything else in the script if you are fitting a horizontal line to your data. The resulting figure should look like the figure below.
 
 ![horizLineFigure](images/horizontalLineFit.png)
 
