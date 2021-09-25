@@ -162,6 +162,8 @@ Can you find each of these elements in the above example figure?
 
 Please upload your figure to Gradescope according to the instructions provided there (note that you will have to upload it more than once). Make sure to include both the figure and caption.
 
+**You should follow the deadlines for your section as outlined in the syllabus. These are the same deadlines as when you normally would have a checkpoint due (i.e. the Module 1 deliverable is due 1 week after the deadline for checkpoint 2 for your section).**
+
 The deliverable will be graded out of 15 points. The tentative rubric that will be used to evaluate this deliverable is provided below. Please keep in mind that these rubric items are subject to change as we can never foresee all the issues that may arise. This is meant to give you a sense of how it will be graded.
 
 **Click on the below images to enlarge in a new tab:**
