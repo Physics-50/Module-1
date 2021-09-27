@@ -96,6 +96,8 @@ All modules must be satisfactorily completed to pass this course.
 
 Grades on the checkpoints and deliverables will be renormalized before averaging so that within their respective category all 3 deliverables are equally weighted and similarly for checkpoints.
 
+Please note that in this course, in order to provide quick feedback, most grades will be published and released on Gradescope as the work is being graded. However, we do at times need to go back and make adjustments to ensure consistency and therefore do not consider grades final until ~2 weeks after they are released.
+
 # Absence from class
 Please do not attend class if you are ill or subject to quarantine due to possible COVID-19 exposure. Please do reach out to your instructor as soon as you know (or expect) you will be unable to attend class and we will work with you to make alternate arrangements including no-penalty extensions. Apart from absences due to illness (including quarantining due to possible COVID-19 exposure with or without illness) attendance at all class meetings is expected/required.
 
