@@ -17,7 +17,7 @@ One of the main goals of this course is for you to "think like an experimental p
 ### Learning Objectives
 
 
-~~reinforce concepts you are learning in Ph51~~ ([why not?](https://physicstoday.scitation.org/doi/10.1063/PT.3.3816){:target="_blank"})
+<span class="strike">Reinforce concepts you are learning in Ph51</span> ([why not?](https://physicstoday.scitation.org/doi/10.1063/PT.3.3816){:target="_blank"})
 
 1. Create an experimental design based on exploratory observations 
 
