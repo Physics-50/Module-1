@@ -151,7 +151,7 @@ Remember: Systematic errors should be dealt with separately, by eliminating all 
 
 You can get some additional practice propogating uncertainty [here](uncertainty-introduction#extra-practice)
 
-## Propogation of Your Experimental Uncertainty
+## Propagation of Your Experimental Uncertainty
 
 After watching the video from Prof. Gerbode, let's return to your measurement of $$\mu_s$$ from $$\theta_c$$:
 
@@ -192,15 +192,16 @@ Trial #	| $$\theta_c$$ (degrees)
 4	|		
 
 
-Using the information provided in the [discussion on random undertainty](uncertainty-introduction#random-uncertainty), calculate the standard error of the mean for your data.
+Using the information provided in the [discussion on random uncertainty](uncertainty-introduction#random-uncertainty), calculate the standard error of the mean for your data.
 
 + How does the standard error in your data compare to the resolution uncertainty? 
     + Based on this, what should we focus on: improving our instrumentation (reducing resolution uncertainty) or reducing our random uncertainty?
     
-Reducing random uncertainty can include both improving our measurement technique to reduce the spread in our data and  taking many repeated trials. It is often helpful to do both. This is also your chance to take some initiative. The approach you use to measure the angle at which the container begins to slip will significantly affect the reproducibility. Materials will be provided at the back of the lab to allow you to raise the ramp in different ways. You should give some consideration to how to reliably determine the critical angle - trying to press a button on your phone as the container is starting to move while holding the ramp is unlikely to yield reproducible results. Use the remaining time to explore techniques that might help you to get more reproducibile results. If you aren't sure where to start talk to your instructor. Some ideas to consider - you may find equipment at the back of the lab that allows you to raise the ramp in a more controlable way (e.g. you will find equipment that you could use to construct a pulley system), you may also find it helpful to know that Phyphox will record the data for later extraction. If you know the critical angle was the highest angle reached you don't need to press any buttons on the phone during the experiment. Designing/setting up the experiment in a way that will allow you to get reproducible results is a critical part of the experimental process and of this course. 
+Reducing random uncertainty can include both improving our measurement technique to reduce the spread in our data and  taking many repeated trials. It is often helpful to do both. This is also your chance to take some initiative. The approach you use to measure the angle at which the container begins to slip will significantly affect the reproducibility. Materials will be provided at the back of the lab to allow you to raise the ramp in different ways. You should give some consideration to how to reliably determine the critical angle - trying to press a button on your phone as the container is starting to move while holding the ramp is unlikely to yield reproducible results. Use the remaining time to explore techniques that might help you to get more reproducible results. If you aren't sure where to start talk to your instructor. Some ideas to consider - you may find equipment at the back of the lab that allows you to raise the ramp in a more controllable way (e.g. you will find equipment that you could use to construct a pulley system), you may also find it helpful to know that Phyphox will record the data for later extraction. If you know the critical angle was the highest angle reached you don't need to press any buttons on the phone during the experiment. Designing/setting up the experiment in a way that will allow you to get reproducible results is a critical part of the experimental process and of this course. 
 
 
 -------------
+
 ## What you need to leave lab with:
 
 + You should have a procedure for collecting data in which you have made an effort to improve the reproducibility of your measurements. This is an important first step to being able to test our hypothesis next week.
@@ -211,9 +212,9 @@ Reducing random uncertainty can include both improving our measurement technique
 
 + [Submit Module 1 checkpoint 1 on Gradescope](https://www.gradescope.com/courses/282675/assignments/1392670){:target="_blank"}. 
 
-    - The Gradescope assignment includes a sample calculation to ensure you are calculating $$\mu_s$$ and propogating the uncertainty correctly. The sample calculation will provide real time feedback. This is to ensure you know how to do the calculation before analyzing your data. It is not an honor code violation to make changes after receiving the feedback before submission.
+    - The Gradescope assignment includes a sample calculation to ensure you are calculating $$\mu_s$$ and propagating the uncertainty correctly. The sample calculation will provide real time feedback. This is to ensure you know how to do the calculation before analyzing your data. It is not an honor code violation to make changes after receiving the feedback before submission.
 
-    - You will be asked to submit your measured critical angle, coefficient of friction, and propogated uncertainty. This data should come from data you collected after settling on a procedure to yield reproducible data and should include averaging 5 data points. All 5 data points should have been collected with the same mass in the container.
+    - You will be asked to submit your measured critical angle, coefficient of friction, and propagated uncertainty. This data should come from data you collected after settling on a procedure to yield reproducible data and should include averaging 5 data points. All 5 data points should have been collected with the same mass in the container.
 
     - You will also be asked to describe the procedure you have settled on to accurately determine the critical angle.
 
@@ -233,7 +234,7 @@ The checkpoint is graded out of 10.5 points.
 + Reported uncertainty in the critical angle departs substantially from expectations [-1 point]
 + Link to shared Google classroom spreadsheet not provided [-1 point]
 + $$\mu_s$$ calculated incorrectly [-1.5 points]
-+ Propogated uncertainty departs substantially from expectations and/or calculated incorrectly [-1.5 point]
++ Propagated uncertainty departs substantially from expectations and/or calculated incorrectly [-1.5 point]
 + Varying deductions if your procedure does not adequately lay out a method to generate reproducible measurements of the critical angle [up to 3 points]
 + Deductions for not following the conventions for significant figures laid out in the lab manual last week [up to 2 points]
 + Deductions for failing to submit the checkpoint on time as outlined in the syllabus

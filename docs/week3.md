@@ -7,7 +7,7 @@ This week is focused on the analysis and presentation of your results. You are n
 
 While talks, podcasts and videos are all wonderfully rich formats for sharing scientific results, in physics and many other scientific disciplines, the golden standard for communication is a published journal article, or “paper” for short. The physics article is typically composed of (1) a short abstract summarizing the main findings, (2) the main body of the paper, including figures, and (3) a bibliography to help contextualize the results within the broader field of research.
 
-But what if you just don’t have the time to read all those parts of each article you need to check out? The neat trick for quickly scanning physics papers also works as a fantastic method for writing your own paper: focus on the figures. A good rule of thumb is that if you “read” every figure+caption, you should get the gist of the main conclusions of the paper, as well as a sense of how those results were determined. In fact, the sequence of figures+captions acts a lot like an outline you may have produced in Writ 001, in that it conveys the main result (thesis) by showing evidence in support of a sequence of subclaims. The evidence is usually shown directly in the figure, using either a plot with data points or an image of the system studied. The analysis of that evidence is ideally concisely summarized in the figure captions.
+But what if you just don’t have the time to read all those parts of each article you need to check out? The neat trick for quickly scanning physics papers also works as a fantastic method for writing your own paper: focus on the figures. A good rule of thumb is that if you “read” every figure+caption, you should get the gist of the main conclusions of the paper, as well as a sense of how those results were determined. In fact, the sequence of figures+captions acts a lot like an outline you may have produced in Writ 001, in that it conveys the main result (thesis) by showing evidence in support of a sequence of sub-claims. The evidence is usually shown directly in the figure, using either a plot with data points or an image of the system studied. The analysis of that evidence is ideally concisely summarized in the figure captions.
 
 In Physics 50, you will ultimately get to experience what it’s like to create a sequence of figures with captions that would provide the backbone to a physics paper. The first step in that process is to learn how to create a single figure with a caption.
 
@@ -79,6 +79,7 @@ Here is an annotated example of a figure without a plot, taken from [this articl
 
 
 --------------
+
 #### Miniquestion: What's wrong with this figure?
 [*Click here to open in a new tab*](https://forms.gle/aswmYqFn2AMm3wtj9){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScU8X-RWA1R2DQKBAcs0yfU2IIa0xasrnsNsdA-l-F00ngkJw/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
@@ -87,6 +88,7 @@ Here is an annotated example of a figure without a plot, taken from [this articl
 
 
 ---------------------------
+
 ## Before you begin
 
 Before plotting your data you will want to address any major concerns that may have been raised with your analysis on the checkpoint. In particular, make sure you are estimating your uncertainty correctly. The uncertainty you will be using to represent the uncertainty in your data points for each mass measured will, in general come from combining in quadrature the resolution uncertainty you estimated for your apparatus with the random uncertainty, represented by the SEM. Frequently one source of uncertainty will dominate. For this experiment we anticipate that in all cases your uncertainty will have been dominated by random uncertainty. Make sure you have also propagated this uncertainty in angle to yield an uncertainty in the coefficient of static friction. This should have been done last week, but if you had any issues this would be a good time to check in with an instructor.
