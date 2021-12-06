@@ -1,1 +1,1 @@
-The Physics 50 lab manual will remain offline for the rest of the semester.
+The Physics 50 lab manual will remain offline for the remainder of the semester.
