@@ -1,5 +1,5 @@
 **Click on the below images to enlarge in a new tab:**
-[![Schedule](images/Ph50_schedule_fall2021.png)](images/Ph50_schedule_fall2021.png){:target="_blank"}
+[![Schedule](images/calendar-sp22.png)](images/calendar-sp22.png){:target="_blank"}
 
 
   
@@ -7,14 +7,8 @@
 
 Instructors: <br>
 J. Arlett (jarlett@hmc.edu)<br>
-E. Connolly (connolly@hmc.edu)<br>
-S. Gerbode (gerbode@hmc.edu)<br>
+T. Donnelly (donnelly@g.hmc.edu)<br>
 T. Lynn (lynn@g.hmc.edu)<br>
-P. Saeta (saeta@hmc.edu)<br>
-
-Graders:<br>
-
-
 
 # Physics 50 Syllabus
 
@@ -50,11 +44,10 @@ By the end of this course you will be able to collect, analyze, and interpret re
 
 
 # Course Structure
-In this course you will work on three modules that each will last several weeks. (There is also a 1 week experiment without a deliverable, referred to as module 0, the first week of class). In each week of each module, you will start by reading the online manual (linked on Sakai) and completing the associated embedded miniquestions, due by the start of your lab period (there are no mini-questions the first week of class) Each week you will submit a checkpoint via Gradescope, due four days later. 
+In this course you will work on three modules that each will last several weeks. (There is also a 1 week experiment without a deliverable, referred to as module 1.5, in between modules 1 and 2. In each week of each module, you will start by reading the online manual (linked on Sakai) and completing the associated embedded miniquestions, due by the start of your lab period. Each week you will submit a checkpoint via Gradescope, due four days later. 
 
 Deadlines for checkpoints will be as follows:
 
-+ Monday sections: due Fridays at 10 pm
 + Wednesday sections: due Sundays at 10 pm
 + Thursday sections: due Mondays at 10 pm
 + Friday sections: due Tuesdays at 10 pm
@@ -68,20 +61,13 @@ Each week you will start by going to the module website (linked from Sakai). The
 # Weekly checkpoints:
 Each week you will complete a weekly checkpoint and submit it via Gradescope. Take any deductions on checkpoints seriously even if they are small. By the end of the module we expect that any issues will be addressed in your final deliverable. Come to office hours to discuss your checkpoint feedback, we are here to help!
 
-Deadlines for checkpoints will be as follows:
-
-+ Monday sections: due Fridays at 10 pm
-+ Wednesday sections: due Sundays at 10 pm
-+ Thursday sections: due Mondays at 10 pm
-+ Friday sections: due Tuesdays at 10 pm
-
 # Module deliverables
 The end-of-module deliverables focus on the critical skill of scientific communication. In physics, the process of writing often begins with creating a sequence of figures with captions. This visual outlining procedure lays the groundwork for all the details that eventually fill in the space in between the figures. The module deliverables are structured to guide you through this physics writing process. Detailed instructions for each deliverable will be provided in each module website (linked from Sakai), but briefly:
 
-+ For Module I, you will create a multi-panel figure with a caption that summarizes the result of your experiment. 
-+ For Modules II and III, you will create a sequence of 2 multi-panel figures that, along with captions, effectively tell the story of your experiment: what you did, and what your results mean. 
++ For Modules 1 and 2, you will create a multi-panel figure with a caption that summarizes the result of your experiment. 
++ For Module 3, you will create a sequence of 2 multi-panel figures that, along with captions, effectively tell the story of your experiment: what you did, and what your results mean. 
 
-There is no deliverable for module 0.
+There is no deliverable for module 1.5.
 
 # Grading
 The course grade will be calculated based upon your performance on the mini-questions, checkpoints, deliverables and in-lab practicum.
@@ -113,7 +99,7 @@ Mini-questions are intended to help you prepare for your time in lab and are due
 + Up to 48 hours past the deadline: 15%
 + Up to 72 hours past the deadline: 20%
 
- You may have two extensions of up to 24 hours without penalty over the course of the semester, provided you let us know in advance by e-mailing jarlett@hmc.edu that you would like the assignment to count for one of these extensions. The extensions may be used for checkpoints or deliverables (but not mini-questions). If you are experiencing extenuating circumstances please don't hesitate to reach out. 
+ You may have two extensions of up to 24 hours without penalty over the course of the semester, provided you let us know in advance by e-mailing jarlett@hmc.edu that you would like the assignment to count for one of these extensions. The extensions may be used for checkpoints or deliverables (but not mini-questions). If you are experiencing extenuating circumstances please don't hesitate to reach out to your instructor. 
 
 # Online Resources
 The course website is available on Sakai, where you will find links to each Module of the course in the side menu of the Physics 50 page. Also linked from that page are Gradescope and Piazza. You will submit the Module checkpoints and deliverables through Gradescope. To create another way for students to communicate with each other we have created [this Piazza site](https://piazza.com/class/kq8xnnrv1426jn){:target="_blank"}. In Piazza you can ask questions to the class; we encourage you to use this forum to ask your classmates course-related questions and to answer each others questions. There are no grades associated with participation on Piazza, it is for your own benefit as a means to collaborate with each other. Office hours are posted on the "Office Hours" link on the side menu of Sakai. Please note that you must be logged into your g.hmc.edu account through a Google Chrome browser to access this information. **Students should feel welcome to attend any professor’s office hours.**
@@ -122,7 +108,7 @@ We will also be using Google apps including Docs, Sheets, and Colaboratory. Ther
 
 # Lab Books and Data Sheets
 ## Lab Books
-In this course we will not be using traditional lab books. Instead you will be assigned a Google Doc and Google Spreadsheet at the beginning of each module to keep your lab record. What we will stress in this course is not a particular structure or format for your lab book, but rather the usefulness of the record. **Please note that even though they are not graded, you are required to use the provided Google Doc and Google Spreadsheet to document your work and data collected in the lab. Deductions will apply if they are not used. In addition, the Google doc and Google spreadsheet issued to you through this course are the only material you will have access to during the practicum.**
+In this course we will not be using traditional lab books. Instead you will be assigned a Google Doc and Google Spreadsheet at the beginning of each module to keep your lab record. The Google doc and Google sheets notebooks are intended to be used in parallel. In broad terms we encourage you to use the Google docs notebook to keep detailed notes and images of your experimental set-up. We encourage you to make use of the Google doc notWhat we will stress in this course is not a particular structure or format for your lab book, but rather the usefulness of the record. **Please note that even though they are not graded, you are required to use the provided Google Doc and Google Spreadsheet to document your work and data collected in the lab. Deductions will apply if they are not used. In addition, the Google doc and Google spreadsheet issued to you through this course are the only material you will have access to during the practicum.**
 
 What information will I need to replicate this experiment in 6 months or 6 years? Would a sketch or photo of the setup be helpful? How exactly did I take that particular data point? What did or did not work in my experimental procedure and what did I learn from it? What are my units? What does this variable mean? etc.
 
