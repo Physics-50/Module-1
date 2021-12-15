@@ -204,6 +204,8 @@ When doing your analysis, to avoid an accumulation of rounding errors it is very
 
 Please read through this [guide](significant-figures) for reporting final results with appropriate significant figures. You should refer back to these guidelines and follow them throughout this course. For future reference you will find a link to this and other helpful guides on the "helpful guidance" tab on Sakai.
 
+These guidelines apply to final reported results. In this class this will be specifically when you type in a final result in Gradescope or in a figure caption. Please do not round your results at any time within your spreadsheets (although it is okay to adjust the settings in your spreadsheet to display fewer digits if you wish to do so, talk to your instructor if you would like to do this and are unsure how to do so.) 
+
 ## What you need to leave lab with:
 
 + You should have a procedure for collecting data in which you have made an effort to improve the reproducibility of your measurements. This is an important first step to being able to test our hypothesis next week.
