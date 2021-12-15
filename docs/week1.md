@@ -229,6 +229,16 @@ Part 1 is a sample calculation to ensure you are calculating $$\mu_s$$ and propa
 
 And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-1){:target="_blank"}
 
+## Checkpoint Deadline
+
+Deadlines for weekly checkpoints and deliverables will be as follows:
+
++ Wednesday sections: due Sundays at 10 pm
++ Thursday sections: due Mondays at 10 pm
++ Friday sections: due Tuesdays at 10 pm
+
+Please note that since all sections use the same Gradescope portal the deadlines listed on Gradescope are not accurate for all sections and cannot be relied upon.
+
 ## Sample Rubric for Grading of Checkpoint 1
 
 We are providing a draft grading rubric (we will only do this for Module 1, after that we hope you will have a clear idea of our expectations). These deductions are intended primarily to ensure you are prepared for week 2 and to be successful in the module. We may occasionally include small deductions. Please don't assume that because a deduction is small it isn't important. It may be for an important error that we chose not to take off points for at an early stage in the course but are more likely to deduct points for next time. Since the deductions are intended to provide feedback to help you be successful on future checkpoints, if you don't understand our suggestions, please stop by office hours to talk to us.
