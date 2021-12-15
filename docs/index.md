@@ -55,7 +55,7 @@ Module 1 is three weeks long. Each of the first two weeks, you will have a check
 
 
 ## Background Reading
-The background reading is provided here for quick reference but is also linked directly at the points in the lab manual where we believe you will find it the most useful.
+The background reading is provided here for quick reference but is also linked directly at the points in the lab manual where we believe you will find it the most useful. Guides such as the introduction to uncertainties which will be useful throughout the course can also be found under "Helpful guidance" on Sakai.
 
 + [The Relationship between the Critical Angle for Slipping $$\theta_c$$ and the Coefficient of Static Friction $$\mu_s$$](https://drive.google.com/file/d/19qMGg5rJfkDCQVHRK2G1Nl4_CAMSgvHX/view?usp=sharing){:target="_blank"}
 
