@@ -129,6 +129,8 @@ Usually one of the first exploratory steps is to use your equipment to take a si
 
 *Friendly reminder: convert the angle from degrees to radians in your Google Sheet calculation. 
 
+Comment on whether your measured value is reasonable (e.g. is $$\mu_s$$ within the limits of allowable values, i.e. between 0 and infinity?  With a quick google search, is it similar to $$\mu_s$$ for similar surfaces? 
+
 ## Introduction to Experimental Uncertainty
 
 The "Uncertainty Introduction" has information we are going to need in Ph50 about treating sources of experimental uncertainty. For this week please read the [overview on uncertainties](uncertainty-introduction-overview-only){:target="_blank"}.  This is an excerpt from a more extended guide that we will return to in later sections. 
@@ -170,26 +172,21 @@ Reducing random uncertainty can include both improving our measurement technique
 
 ------------------------------
 
-You can get some additional practice propogating uncertainty [here](uncertainty-introduction#extra-practice)
+You can get some additional practice propagating uncertainty [here](uncertainty-introduction#extra-practice)
 
 ## Propagation of Your Experimental Uncertainty
 
 After watching the video from Prof. Gerbode, let's return to your measurement of $$\mu_s$$ from $$\theta_c$$:
 
-+  Calculate the resolution uncertainty in measuring the coefficient of static friction $$\delta_\mathrm{res} \mu_s$$ by propagating your uncertainty $$\delta_\mathrm{res} \theta_c$$. Derive any formulas you use in your lab notebook.
++  Calculate the uncertainty in your measurement of the coefficient of static friction $$\delta_\mu_s$$ by propagating your uncertainty $$\delta_\theta_c$$ (where $$\delta_\theta_c$$ is the SEM of your measured values). Derive any formulas you use in your lab notebook. Your calculation of $$\delta_\mu_s$$ should appear in your Google Sheets notebook. Remember that we expect your calculations to be done within Google sheets, i.e. in order to receive full credit for your work you should use built in functions in Google Sheets to do the math and not a calculator.
 
-| $$\mu_s$$  | $$\delta_\mathrm{res} \mu_s $$ |
-|:-----------------------:|:---------------------------------------------:|
- | ...            |   ... |
+ Is your fractional uncertainty reasonable,  (fractional resolution uncertainty $$\equiv \frac{\delta_\mu_s}{\mu_s} \ll 1$$)? In other words, confirm that the uncertainty in $$\mu_s$$ less than the value of $$\mu_s$$ itself?
 
+At this point, if your answer were to be unreasonable or you were unable to calculate the quantity you are interested in testing (in our case $$\mu_s$$), then it would be a good idea to carefully rethink your measurement. Doing this initial single measurement and check can save a lot of time, especially when the experimental setup gets more complicated as it will later in the course. One of the goals of this course is that you take the time to think about careful experimental procedure. You will be graded on your quality of data as part of your deliverable at the end of each module. If you feel there may be issues with your results but are  unsure how to improve your procedure, speak to your instructor.
 
-Comment on whether your measured value is reasonable (e.g. is $$\mu_s$$ within the limits of allowable values, i.e. between 0 and infinity?  With a quick google search, is it similar to $$\mu_s$$ for similar surfaces? Is your fractional resolution uncertainty reasonably small,  (fractional resolution uncertainty $$\equiv \frac{\delta_\mathrm{res} \mu_s}{\mu_s} \ll 1$$)? In other words, confirm that the uncertainty in $$\mu_s$$ less than the value of $$\mu_s$$ itself?
+Let's double-check your calculation. Using the exact same method that you set up to calculate your $$\mu_s$$  and  $$\delta_\mathrm{res} \mu_s $$ above, complete the following miniquestion with an example measurement of $$\theta_c$$:
 
-At this point, if your answer were to be unreasonable or you were unable to calculate the quantity you are interested in testing (in our case $$\mu_s$$), then it would be a good idea to carefully rethink your measurement. Doing this initial single measurement and check can save a lot of time, especially when the experimental setup gets more complicated as it will later in the course. If you're unsure, speak to your instructor.
-
-Let's double-check your procedure. Using the exact same method that you set up to calculate your $$\mu_s$$  and  $$\delta_\mathrm{res} \mu_s $$ above, complete the following miniquestion with an example measurement of $$\theta_c$$:
-
-#### Miniquestion: Calculating coefficient of static friction and resolution uncertainty
+#### Miniquestion: Calculating coefficient of static friction and uncertainty
 [*Click here to open in a new tab*](https://forms.gle/mvteqnKeZNQXDytZ9){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKSGfERWII08uU0DZio3Wtcul85SiBFLkbG44IAQgMJg4hMg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
