@@ -142,6 +142,8 @@ You will collect data with a partner in the lab. We expect students to perform t
 # Gradescope Submissions
 **In order to provide timely feedback, and considering that different sections have work due on different days. We will frequently return work before all students have submitted their work. To make this work with the constraints of using a shared Gradescope portal for all sections, we cannot accept resubmissions in this course. Please prepare your assignment in a separate document. When you are ready to submit your work, enter all entries into Gradescope in a single sitting without using the "save" button and then make use of the "submit" button to submit your work. You may not resubmit your work once it has been submitted (and saving in Gradescope is equivalent to submitting). Your instructor will go over this policy on the first day of class. If you have questions please ask.**
 
+Some checkpoints are submitted in two parts for which part 1 is a practice calculation for which the above policy doesn't apply. When this occurs it will be clearly indicated. When a checkpoint is in two parts, the total points for the two parts will be combined to give the checkpoint grade.
+ 
 # The Writing Center
 The Writing Center provides a welcoming virtual space for writers to get feedback on their composition projects, whether written, spoken or visual pieces. Writing Center Consultants are prepared to assist students in any discipline with any stage of the writing process, from developing an idea to polishing a final draft. Even the most accomplished writers benefit from seeking feedback at the Writing Center. You may schedule an online appointment through their website, https://www.hmc.edu/learning-programs/writing-center/
 
