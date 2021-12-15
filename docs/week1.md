@@ -55,7 +55,7 @@ You are trying to time how fast your little brother can run. Initially you do th
 You may find yourself in a situation where it isn't as clear what is acceptable. When in doubt please ask. 
 
 ## Course Syllabus
-Please take a moment to review the course syllabus and then answer the following question:
+Please take a moment to review the course [syllabus](syllabus) and then answer the following question:
 
 
 --------
