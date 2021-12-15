@@ -247,8 +247,6 @@ Please note that since all sections use the same Gradescope portal the deadlines
 
 We are providing a draft grading rubric (we will only do this for Module 1, after that we hope you will have a clear idea of our expectations). These deductions are intended primarily to ensure you are prepared for week 2 and to be successful in the module. We may occasionally include small deductions. Please don't assume that because a deduction is small it isn't important. It may be for an important error that we chose not to take off points for at an early stage in the course but are more likely to deduct points for next time. Since the deductions are intended to provide feedback to help you be successful on future checkpoints, if you don't understand our suggestions, please stop by office hours to talk to us.
 
-The checkpoint is graded out of 10.5 points.
-
 **Anticipated week 1 checkpoint deductions:**
 + Sample Calculations: Incorrect result for $$\mu_s$$ [-1 point]
 + Sample Calculation: Incorrect result for the propagated resolution uncertainty [-1 point]
