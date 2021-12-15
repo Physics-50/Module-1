@@ -11,6 +11,8 @@
 5. [Exploratory Measurements](#exploratory-measurements) 
 6. [Introduction to Experimental Uncertainty](#introduction-to-experimental-uncertainty)
 7. [Reproducibility](#reproducibility)
+8. [Significant Figures when Reporting Results](#significant-figures-when-reporting-results)
+9. [Checkpoint 1](#checkpoint-1)
 
 --------------
 
@@ -196,6 +198,8 @@ Let's double-check your calculation. Using the exact same method that you set up
 
 -------------
 
+## Significant Figures when Reporting Results
+
 ## What you need to leave lab with:
 
 + You should have a procedure for collecting data in which you have made an effort to improve the reproducibility of your measurements. This is an important first step to being able to test our hypothesis next week.
@@ -204,17 +208,26 @@ Let's double-check your calculation. Using the exact same method that you set up
  
 ## Checkpoint 1
 
-+ Weekly checkpoints are submitted on Gradescope. 
+Weekly checkpoints are submitted on Gradescope. This week's checkpoint is submitted in two parts. 
 
-**In order to provide timely feedback, and considering that different sections have work due on different days. We will frequently return work before all students have submitted their work. To make this work with the constraints of using a shared Gradescope portal for all sections, we cannot accept resubmissions in this course. Please prepare your assignment in a separate document. When you are ready to submit your work, enter all entries into Gradescope in a single sitting without using the "save" button and then make use of the "submit" button to submit your work. You may not resubmit your work once it has been submitted (and saving in Gradescope is equivalent to submitting). Your instructor will go over this policy on the first day of class. If you have questions please ask.**
+**Part 1: Practice calculation**
 
-    - The Gradescope assignment includes a sample calculation to ensure you are calculating $$\mu_s$$ and propagating the uncertainty correctly. The sample calculation will provide real time feedback. This is to ensure you know how to do the calculation before analyzing your data. It is not an honor code violation to make changes after receiving the feedback before submission.
+*You may resubmit Module 2, checkpoint 1, Part 1 as many times as you like until you get the correct answer (it is auto-graded and will give you an immediate response). For this part **only** it is also okay to "save" your responses to the individual questions.*
 
-    - You will be asked to submit your measured critical angle, coefficient of friction, and propagated uncertainty. This data should come from data you collected after settling on a procedure to yield reproducible data and should include averaging 5 data points. All 5 data points should have been collected with the same mass in the container.
+ You should do part 1 before part 2. **You may find it helpful to attempt part 1 before your time in lab.**
 
-    - You will also be asked to describe the procedure you have settled on to accurately determine the critical angle.
+Part 1 is a sample calculation to ensure you are calculating $$\mu_s$$ and propagating the uncertainty correctly. The sample calculation will provide real time feedback. This is to ensure you know how to do the calculation before analyzing your data. It is not an honor code violation to make changes after receiving the feedback before submission.
 
-+ And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-1){:target="_blank"}
+**Part 2: Post-lab analysis**
+
+**In order to provide timely feedback, and considering that different sections have work due on different days. We will frequently return work before all students have submitted their work. To make this work with the constraints of using a shared Gradescope portal for all sections, we cannot accept resubmissions in this course (except when specifically indicated such as part 1 above). Please prepare your assignment in a separate document. When you are ready to submit your work, enter all entries into Gradescope in a single sitting without using the "save" button and then make use of the "submit" button to submit your work. You may not resubmit your work once it has been submitted (and saving in Gradescope is equivalent to submitting). Your instructor will go over this policy on the first day of class. If you have questions please ask.**
+
+
++ You will be asked to submit your measured critical angle, coefficient of friction, and propagated uncertainty. This data should come from data you collected after settling on a procedure to yield reproducible data and should include averaging 5 data points. All 5 data points should have been collected with the same mass in the container.
+
++ You will also be asked to describe the procedure you have settled on to accurately determine the critical angle.
+
+And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-1){:target="_blank"}
 
 ## Sample Rubric for Grading of Checkpoint 1
 
