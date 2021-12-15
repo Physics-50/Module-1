@@ -108,10 +108,10 @@ The course website is available on Sakai, where you will find links to each Modu
 We will also be using Google apps including Docs, Sheets, and Colaboratory. There will be several templates assigned at various times throughout the course via Google Classroom. Google Classroom enables us to create copies of documents for every student. You will need to login to Google Classroom when prompted from the Module instructions, but you do not need to actively monitor Google Classroom for new assignments. Sakai is our primary point of contact with you, not Google Classroom.
 
 # Lab Books and Data Sheets
-## Lab Books
-In this course we will not be using traditional lab books. Instead you will be assigned a Google Doc and Google Spreadsheet at the beginning of each module to keep your lab record. The Google doc and Google sheets notebooks are intended to be used in parallel. In broad terms we encourage you to use the Google docs notebook to keep detailed notes and images of your experimental set-up and the Google sheets for data collection and analysis, with sufficient organization and description that a student not enrolled in Physics 50 would be able to understand your data and analysis. We describe our expectations for the Google Doc and Google sheets notebooks separately:
 
-Google Doc Notebook:
+In this course we will not be using traditional lab books. Instead you will be assigned a Google Doc and Google Spreadsheet at the beginning of each module to keep your lab record. The Google Doc and Google Sheets notebooks are intended to be used in parallel. In broad terms we encourage you to use the Google docs notebook to keep detailed notes and images of your experimental set-up and the Google sheets for data collection and analysis, with sufficient organization and description that a student not enrolled in Physics 50 would be able to understand your data and analysis. We describe our expectations for the Google Doc and Google sheets notebooks separately:
+
+## Google Doc Notebook:
 What we will stress in this course is not a particular structure or format for your lab book, but rather the usefulness of the record. **The Google Docs notebooks are not graded. Nevertheless, you are required to use the provided Google Doc to document your work and data collected in the lab. The Google doc and Google spreadsheet issued to you through this course are the only material you will have access to during the practicum.**
 
 What information will I need to replicate this experiment in 6 months or 6 years? Would a sketch or photo of the setup be helpful? How exactly did I take that particular data point? What did or did not work in my experimental procedure and what did I learn from it? What are my units? What does this variable mean? etc.
