@@ -20,6 +20,7 @@ T. Lynn (lynn@g.hmc.edu)<br>
 + [Online Resources](#online-resources)
 + [Lab Books and Data Sheets](#lab-books-and-data-sheets)
 + [Collaboration](#collaboration)
++ [Gradescope Submissions](gradescope-submissions)
 + [Writing Center](#the-writing-center)
 + [Accomodations, Wellness, Belonging, Title IX](#Accomodations)
 
