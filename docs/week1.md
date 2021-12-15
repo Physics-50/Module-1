@@ -135,13 +135,11 @@ The "Uncertainty Introduction" has information we are going to need in Ph50 abou
 
 ## Reproducibility
 
-So far we've focused on the resolution uncertainty. But is that really a good estimate of the uncertainty of your measurement? 
-
 Read [this discussion about random uncertainty](uncertainty-introduction#random-uncertainty) 
 
 The goal of testing repeatability is to get a sense of the random error associated with the measurement. 
 
-Take a few (maybe five) measurements of $$\theta_c$$ under identical conditions. Make sure you "reset" your experimental setup each time: start the ramp from a horizontal position ($$\theta = 0$$), place the block onto the ramp, and then slowly start to raise the ramp. "Resetting" the experimental setup between trials helps to randomize systematic error as discussed in Module 0.
+Take a few (maybe five) measurements of $$\theta_c$$ under identical conditions. Make sure you "reset" your experimental setup each time: start the ramp from a horizontal position ($$\theta = 0$$), place the block onto the ramp, and then slowly start to raise the ramp. "Resetting" the experimental setup between trials helps to randomize systematic error.
 
 Trial #	| $$\theta_c$$ (degrees)	
 |:-------:|:-------------------------:|	
@@ -151,10 +149,7 @@ Trial #	| $$\theta_c$$ (degrees)
 4	|		
 
 
-Using the information provided in the [discussion on random uncertainty](uncertainty-introduction#random-uncertainty), calculate the standard error of the mean for your data.
-
-+ How does the standard error in your data compare to the resolution uncertainty? 
-    + Based on this, what should we focus on: improving our instrumentation (reducing resolution uncertainty) or reducing our random uncertainty?
+Using the information provided in the [discussion on random uncertainty](uncertainty-introduction#random-uncertainty), calculate the standard error of the mean [SEM] for your data.
     
 Reducing random uncertainty can include both improving our measurement technique to reduce the spread in our data and  taking many repeated trials. It is often helpful to do both. This is also your chance to take some initiative. The approach you use to measure the angle at which the container begins to slip will significantly affect the reproducibility. Materials will be provided at the back of the lab to allow you to raise the ramp in different ways. You should give some consideration to how to reliably determine the critical angle - trying to press a button on your phone as the container is starting to move while holding the ramp is unlikely to yield reproducible results. Use the remaining time to explore techniques that might help you to get more reproducible results. If you aren't sure where to start talk to your instructor. Some ideas to consider - you may find equipment at the back of the lab that allows you to raise the ramp in a more controllable way (e.g. you will find equipment that you could use to construct a pulley system), you may also find it helpful to know that Phyphox will record the data for later extraction. If you know the critical angle was the highest angle reached you don't need to press any buttons on the phone during the experiment. Designing/setting up the experiment in a way that will allow you to get reproducible results is a critical part of the experimental process and of this course. 
 
