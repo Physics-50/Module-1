@@ -50,7 +50,7 @@ Module 1 is three weeks long. Each of the first two weeks, you will have a check
 3. [Week 2 - Hypothesis Testing Phase](week2)
     - Checkpoint: rough plots and a conclusion based on your experimental measurements
 4. [Week 3 - Scientific Communication Phase](week3)
-    - Deliverable: a figure with a caption that communicates your results
+    - Deliverable: a figure with a caption that communicates the most salient details of your experiment as well as your results
 
 
 
