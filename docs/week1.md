@@ -210,7 +210,9 @@ Reducing random uncertainty can include both improving our measurement technique
  
 ## Checkpoint 1
 
-+ [Submit Module 1 checkpoint 1 on Gradescope](https://www.gradescope.com/courses/282675/assignments/1392670){:target="_blank"}. 
++ Weekly checkpoints are submitted on Gradescope. 
+
+**In order to provide timely feedback, and considering that different sections have work due on different days. We will frequently return work before all students have submitted their work. To make this work with the constraints of using a shared Gradescope portal for all sections, we cannot accept resubmissions in this course. Please prepare your assignment in a separate document. When you are ready to submit your work, enter all entries into Gradescope in a single sitting without using the "save" button and then make use of the "submit" button to submit your work. You may not resubmit your work once it has been submitted (and saving in Gradescope is equivalent to submitting). Your instructor will go over this policy on the first day of class. If you have questions please ask.**
 
     - The Gradescope assignment includes a sample calculation to ensure you are calculating $$\mu_s$$ and propagating the uncertainty correctly. The sample calculation will provide real time feedback. This is to ensure you know how to do the calculation before analyzing your data. It is not an honor code violation to make changes after receiving the feedback before submission.
 
