@@ -22,7 +22,7 @@ T. Lynn (lynn@g.hmc.edu)<br>
 + [Collaboration](#collaboration)
 + [Gradescope Submissions](gradescope-submissions)
 + [Writing Center](#the-writing-center)
-+ [Accomodations, Wellness, Belonging, Title IX](#Accomodations)
++ [Accomodations, Wellness, Belonging, Title IX](#accommodations)
 
 
 
