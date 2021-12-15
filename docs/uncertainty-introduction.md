@@ -146,7 +146,7 @@ If you recorded an identical value every time, then you would still have the unc
 
 </details>
 
-
+If you are reading this in module 1, week 1 this is as far as you need to read this week:
 [Return to Week 1 - Reproducibility](week1#reproducibility)
 
 -----------------------
