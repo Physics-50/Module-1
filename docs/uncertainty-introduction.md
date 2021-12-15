@@ -94,7 +94,7 @@ $$x_\mathrm{dev} = \sqrt{\frac{ (x_1-x_\mathrm{mean})^2 +(x_2-x_\mathrm{mean})^2
 
 Intuitively, the sample standard deviation represents a most likely range of values around the mean for where were would find our data. If we were taking one more data point, more than likely ($$\approx$$ 68% of the time if we are sampling from a *normal distribution*) we would expect to find that next data point within one sample standard deviation of the sample mean. 
 
-*Tip: Google Sheets can calculate the standard deviation of your data for you by using the function STDEV().  You can read more on this [here](https://support.google.com/docs/answer/3094054?hl=en){:target="_blank"}. In MATLAB, you can use the [std function](https://www.mathworks.com/help/matlab/ref/std.html).*
+*Tip: Google Sheets can calculate the standard deviation of your data for you by using the function STDEV().  You can read more on this [here](https://support.google.com/docs/answer/3094054?hl=en){:target="_blank"}. 
 
 #### Standard error of the mean (SEM)
 The standard error of the mean represents the expected deviation of the calculated sample mean if many other samples of $$n$$ datapoints were taken. Intuitively, SEM reflects how confident we are that the sample mean is truly representative of the "actual" mean value of our distribution (what we called $$\mu$$ in our theoretical distributions; this actual mean value is also called the "population mean"). The standard error of the mean can be estimated from the sample standard deviation as:
