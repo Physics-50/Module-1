@@ -3,8 +3,8 @@
 These guides will be introduced when first needed in the course. They are here so that you can easily find them and refer back to them in later modules.
 
 + [Syllabus with course calendar](syllabus)
-+ [Reporting Results with Significant Figures]
-+ [Introduction to Uncertainties](uncertainty-introduction.md)
++ [Reporting Results with Significant Figures](significant-figures)
++ [Introduction to Uncertainties](uncertainty-introduction)
 + Helpful video on how to propagate uncertainties: 
 
 [![Click on the link to get to the video](images/uncertainty-propagation-video-preview.png)](https://drive.google.com/file/d/1ilJNsVSgB_asmDdfjQwoyRdhedsSjaWO/view?usp=sharing){:target="_blank"}
