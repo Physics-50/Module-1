@@ -200,6 +200,10 @@ Let's double-check your calculation. Using the exact same method that you set up
 
 ## Significant Figures when Reporting Results
 
+When doing your analysis, to avoid an accumulation of rounding errors it is very important not to round your results until you reach a final result. However when you do reach a final result, it is important and helpful to round your result appropriately in accordance with your estimated uncertainty. 
+
+Please read through this [guide](significant-figures) for reporting final results with appropriate significant figures. You should refer back to these guidelines and follow them throughout this course. For future reference you will find a link to this and other helpful guides on the "helpful guidance" tab on Sakai.
+
 ## What you need to leave lab with:
 
 + You should have a procedure for collecting data in which you have made an effort to improve the reproducibility of your measurements. This is an important first step to being able to test our hypothesis next week.
