@@ -9,7 +9,8 @@
 3. [Formulating a Hypothesis](#formulating-a-hypothesis)
 4. [Instrumentation](#instrumentation)
 5. [Exploratory Measurements](#exploratory-measurements) 
-6. [Reproducibility](#reproducibility)
+6. [Introduction to Experimental Uncertainty](#introduction-to-experimental-uncertainty)
+7. [Reproducibility](#reproducibility)
 
 --------------
 
@@ -118,10 +119,6 @@ For your exploratory measurements in Module 1, we would like you to do the follo
 
 The steps below guide you through these three items, and provide links to important concepts (so please follow along carefully). Make sure you are recording your exploratory observations as you go so that you have a record of them (reminder: we have set up [a spreadsheet for you on Google Classroom](https://classroom.google.com/c/MjUxNTgyMzY1MDM5/a/MjUxNTgyMzY1MDQ5/details){:target="_blank"}, use the "Exploratory Observations" tab to record your data in this section).
 
-## Estimating Uncertainty
-
-The "Uncertainty Introduction" has information we are going to need in Ph50 about treating sources of experimental uncertainty. For this week please read the [overview on uncertainties](uncertainty-introduction#overview){:target="_blank"}.  This is a more extended guide that we will return to in later weeks. If from which we took the excerpt provided last week.
-
 #### In lab: Perform a Single Measurement
 
 Usually one of the first exploratory steps is to use your equipment to take a single measurement. We want to make sure that our measurement (in this case, $$\theta_c$$) will lead to a reasonable value of the calculated quantity we are trying to obtain ($$\mu_s$$). We also want to get a sense of the resolution of our measurement device and how that will affect the uncertainty measured in the calculated quantity. 
@@ -131,6 +128,10 @@ Usually one of the first exploratory steps is to use your equipment to take a si
 + Calculate $$\mu_s$$ from your single measurement of $$\theta_c$$ (using the relationship derived in the [background reading](#background-reading)). 
 
 *Friendly reminder: convert the angle from degrees to radians in your Google Sheet calculation. 
+
+## Introduction to Experimental Uncertainty
+
+The "Uncertainty Introduction" has information we are going to need in Ph50 about treating sources of experimental uncertainty. For this week please read the [overview on uncertainties](uncertainty-introduction-overview-only){:target="_blank"}.  This is an excerpt from a more extended guide that we will return to in later sections. 
 
 ## Reproducibility
 
