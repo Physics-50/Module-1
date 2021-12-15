@@ -180,7 +180,7 @@ You can get some additional practice propagating uncertainty [here](uncertainty-
 
 After watching the video from Prof. Gerbode, let's return to your measurement of $$\mu_s$$ from $$\theta_c$$:
 
-+  Calculate the uncertainty in your measurement of the coefficient of static friction $$\delta_\mu_s$$ by propagating your uncertainty $$\delta_\theta_c$$ (where $$\delta_\theta_c$$ is the SEM of your measured values). Derive any formulas you use in your lab notebook. Your calculation of $$\delta_\mu_s$$ should appear in your Google Sheets notebook. Remember that we expect your calculations to be done within Google sheets, i.e. in order to receive full credit for your work you should use built in functions in Google Sheets to do the math and not a calculator.
++  Calculate the uncertainty in your measurement of the coefficient of static friction $$\delta_{\mu_s}$$ by propagating your uncertainty $$\delta_{\theta_c}$$ (where $$\delta_{\theta_c}$$ is the SEM of your measured values). Derive any formulas you use in your lab notebook. Your calculation of $$\delta_{\mu_s}$$ should appear in your Google Sheets notebook. Remember that we expect your calculations to be done within Google sheets, i.e. in order to receive full credit for your work you should use built in functions in Google Sheets to do the math and not a calculator.
 
  Is your fractional uncertainty reasonable,  (fractional resolution uncertainty $$\equiv \frac{\delta_\mu_s}{\mu_s} \ll 1$$)? In other words, confirm that the uncertainty in $$\mu_s$$ less than the value of $$\mu_s$$ itself?
 
