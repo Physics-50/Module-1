@@ -55,6 +55,8 @@ Deadlines for checkpoints will be as follows:
 
 Finally, at the end of each module you will submit a module deliverable via Gradescope. Deadlines for the deliverables will follow the same calendar.
 
+**Please take note of the above deadlines for your section - since all sections have different deadlines but use the same Gradescope portal, the deadlines listed on Gradescope are not accurate and cannot be relied on.**
+
 
 # Reading and miniquestions
 Each week you will start by going to the module website (linked from Sakai). There you will find detailed procedures and lab instructions, with miniquestions embedded throughout the text. These miniquestions are intended to help you quickly confirm your understanding of what you are reading and should be completed as you are reading. **Each week you are expected to read through the material for the week and complete the embedded mini-questions before the start of lab in order to be prepared to use your time efficiently in class.** After submission of a miniquestion, if your answer is incorrect you will be prompted to resubmit your answer. In order to receive credit for your resubmission, you must explain why your new answer is correct. When resubmitting, remember that your goal is not to describe what you did wrong but rather to explain and clarify the correct answer.
