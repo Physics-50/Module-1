@@ -4,7 +4,7 @@
 
 --------------
 1. [Preface](#preface)
-2. [course syllabus](#course-syllabus)
+2. [Course Syllabus](#course-syllabus)
 2. [Background Reading](#background-reading)
 3. [Formulating a Hypothesis](#formulating-a-hypothesis)
 4. [Instrumentation](#instrumentation)
