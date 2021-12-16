@@ -121,7 +121,7 @@ For your exploratory measurements in Module 1, we would like you to do the follo
 
 + Check other factors that might affect your measurement and its reproducibility (this is where you get to play!)
 
-The steps below guide you through these three items, and provide links to important concepts (so please follow along carefully). Make sure you are recording your exploratory observations as you go so that you have a record of them (reminder: we have set up [a spreadsheet for you on Google Classroom](https://classroom.google.com/u/0/w/NDQ2NjQ4MzA5Njky/tc/NDQ2NjQ4MzA5NzEx){:target="_blank"}, use the "Exploratory Observations" tab to record your data in this section).
+The steps below guide you through these three items, and provide links to important concepts (so please follow along carefully). Make sure you are recording your exploratory observations as you go so that you have a record of them (reminder: we have set up [a spreadsheet for you on Google Classroom](https://classroom.google.com/u/0/w/NDQ2NjQ4MzA5Njky/tc/NDQ2NjQ4MzA5NzEx){:target="_blank"}, use the "Week 1: Exploratory Observations" tab to record your data in this section. Please make use of the organization of the template already set-up for you to record your data.
 
 #### In lab: Perform a Single Measurement
 
