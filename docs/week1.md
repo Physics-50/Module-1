@@ -182,6 +182,17 @@ You can get some additional practice propagating uncertainty [here](uncertainty-
 
 After watching the video from Prof. Gerbode, let's return to your measurement of $$\mu_s$$ from $$\theta_c$$:
 
+First, complete this mini-question to ensure you are doing the calculation correctly:
+
+-------------
+#### Miniquestion: Calculating coefficient of static friction and uncertainty
+[*Click here to open in a new tab*](https://forms.gle/mvteqnKeZNQXDytZ9){:target="_blank"}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKSGfERWII08uU0DZio3Wtcul85SiBFLkbG44IAQgMJg4hMg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+-------------
+
 +  Calculate the uncertainty in your measurement of the coefficient of static friction $$\delta \mu_s$$ by propagating your uncertainty $$\delta{\theta_c}$$ (where $$\delta {\theta_c}$$ is the SEM of your measured values). Derive any formulas you use in your lab notebook. Your calculation of $$\delta {\mu_s}$$ should appear in your Google Sheets notebook (please follow the organization of our template and enter formulas in the indicated regions). Remember that we expect your calculations to be done within Google sheets, i.e. in order to receive full credit for your work you should use built in functions in Google Sheets to do the math and not a calculator.
 
  Is your fractional uncertainty reasonable,  (fractional resolution uncertainty $$\equiv \frac{\delta{\mu_s}}{\mu_s} \ll 1$$)? In other words, confirm that the uncertainty in $$\mu_s$$ less than the value of $$\mu_s$$ itself?
@@ -190,15 +201,6 @@ At this point, if your answer were to be unreasonable or you were unable to calc
 
 Let's double-check your calculation. Using the exact same method that you set up to calculate your $$\mu_s$$  and  $$\delta_\mathrm{res} \mu_s $$ above, complete the following miniquestion with an example measurement of $$\theta_c$$:
 
-#### Miniquestion: Calculating coefficient of static friction and uncertainty
-[*Click here to open in a new tab*](https://forms.gle/mvteqnKeZNQXDytZ9){:target="_blank"}
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKSGfERWII08uU0DZio3Wtcul85SiBFLkbG44IAQgMJg4hMg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
-</iframe>
-
-
-
--------------
 
 ## Significant Figures when Reporting Results
 
