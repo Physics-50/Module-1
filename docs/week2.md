@@ -10,7 +10,7 @@ This week we are going to generate a data set to test our hypothesis. This will 
 
 [Data Collection for Week 2](#data-collection)
 
-## Background Reading and Miniquestions
+## Background Reading and Mini-questions
 
 At the end of this week you should have a complete data set for the measured critical angle for (at least) five different masses.
 Before you begin taking data, there are two principles that we would like to introduce: **“real-time data visualization”** and **“iterative experimental design”**. In taking experimental data, we don't want to just blindly follow the procedure laid out in the experimental design. We need to ensure the data we are taking is reasonable and that our conclusions are well-founded and impactful. One way to ensure the data is reasonable is to have some real-time visualization set up (“plotting as you go”). That way we can see our data as we are taking it, and adapt based on any new information.
@@ -35,7 +35,7 @@ An important habit we would like you to develop as an experimentalist is to be p
 
 ---------------------------------
 
-#### Miniquestion: Making an experimental plan
+#### Mini-question: Making an experimental plan
 [*Click here to open in a new tab*](https://forms.gle/tb17PdvLxG1Q8aY78){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeDfsXQ_oZD63gIQcvD2Owi-4uvYaC0O2wBbnInH6jlJzF2pA/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
@@ -46,7 +46,7 @@ An important habit we would like you to develop as an experimentalist is to be p
 *A factor to consider when making an experimental plan:* How many data points would you need to take in order for any effect due to changing mass to be larger than your random uncertainty?
 
 
-#### Miniquestion: How Many Trials
+#### Mini-question: How Many Trials
 *[Click here to open in a new tab](https://forms.gle/Zc7GbHhS1ySxQbnFA){:target="_blank"}*
 
 
@@ -68,7 +68,7 @@ As an experimentalist, you have to make the tough decision of when the experimen
 
 -------
 
-#### Miniquestion: Iterative Experimental Design
+#### Mini-question: Iterative Experimental Design
 [*Click here to open in a new tab*](https://forms.gle/sC1e3oDHZkgPxwAX9){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeyFal_30OZSOz6SSoOeJ_ZyLkEv8VSClnloKLNQLbwGuMDBw/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
@@ -90,7 +90,7 @@ In week 1 (Module 0), we introduced you to the idea of significant figures. As a
 
     + Suppose we began with 0.44030407 ± 0.01203726. We determined that the uncertainty should be 0.012, meaning the least significant digit of the uncertainty is in the 3rd decimal place. We need to round our measurement value to the same digit so the value we will report for our measurement is **0.440 ± 0.012**.
 
-#### Miniquestion: Reporting Significant Figures
+#### Mini-question: Reporting Significant Figures
 *[Click here to open in a new tab](https://forms.gle/9FnE5SnK7z5i9QNWA){:target="_blank"}*
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScXf6FeCt2rfBGMoQ7bln9a56mMxyHwQ0e8aYBs9vjnH9Yd6A/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0"> Loading…
@@ -108,7 +108,7 @@ To make sure you've understood these ideas, please complete the following mini-q
 ---------------
 
 
-#### Miniquestion: Combining Random and Resolution Uncertainty
+#### Mini-question: Combining Random and Resolution Uncertainty
 [*Click here to open in a new tab*](https://forms.gle/KMCCqJZxdkchbBvdA){:target="_blank"}
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc7wj6OMBqqybagJhwZb0-Mkk8UnW2WOf5G7v474S0ryLvJOw/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
