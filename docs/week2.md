@@ -109,7 +109,7 @@ With the background reading complete, you are now ready to start the data collec
 
 ### Step 1: Set-up a Spreadsheet
 
-You will use the same Google sheets document as last week, but you will want to open a new tab/“sheet” (bottom left) and organize it for this week’s data collection.
+You will use the same Google sheets document as last week, but should make use of the second tab "Week 2: Data Collection" (click on the appropriate tab at the bottom left of the worksheet)
 
 Your spreadsheet should allow you to:
 + Record data.
@@ -118,9 +118,7 @@ Your spreadsheet should allow you to:
 
 ![spreadsheet example](images/plot-as-you-go.gif)
 
-
-Look back to the spreadsheet you used for your preliminary data collection last week. You will want to organize your data collection in a similar way.
-
+We have provided some general advice on preparing and organizing a spreadsheet [here](Spreadsheet). However, we have also done some of the work setting up the spreadsheet for you.
 
 <details>
 <summary markdown='span'>Click here for detailed steps to guide you through the process of setting up your spreadsheet
