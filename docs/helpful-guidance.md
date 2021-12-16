@@ -8,5 +8,5 @@ These guides will be introduced when first needed in the course. They are here s
 + Helpful video on how to propagate uncertainties: 
 
 [![Click on the link to get to the video](images/uncertainty-propagation-video-preview.png)](https://drive.google.com/file/d/1ilJNsVSgB_asmDdfjQwoyRdhedsSjaWO/view?usp=sharing){:target="_blank"}
-
++ [Setting up a Spreadsheet](Spreadsheet)
 + [Plotting your Data]
