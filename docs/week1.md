@@ -224,7 +224,7 @@ Weekly checkpoints are submitted on Gradescope. This week's checkpoint is submit
 
  You should do part 1 before part 2. **You may find it helpful to attempt part 1 before your time in lab.**
 
-Part 1 is a sample calculation to ensure you are calculating $$\mu_s$$ and propagating the uncertainty correctly. The sample calculation will provide real time feedback. This is to ensure you know how to do the calculation before analyzing your data. It is not an honor code violation to make changes after receiving the feedback before submission.
+Part 1 is a sample calculation to ensure you are calculating $$\mu_s$$ and propagating the uncertainty correctly. The sample calculation will provide real time feedback. This is to ensure you know how to do the calculation before analyzing your data. For this part (only) it is not an honor code violation to make changes after receiving the feedback and then resubmit.
 
 **Part 2: Post-lab analysis**
 
