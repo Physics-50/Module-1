@@ -245,19 +245,12 @@ Deadlines for weekly checkpoints and deliverables will be as follows:
 
 Please note that since all sections use the same Gradescope portal the deadlines listed on Gradescope are not accurate for all sections and cannot be relied upon.
 
-## Sample Rubric for Grading of Checkpoint 1
-
-We are providing a draft grading rubric (we will only do this for Module 1, after that we hope you will have a clear idea of our expectations). These deductions are intended primarily to ensure you are prepared for week 2 and to be successful in the module. We may occasionally include small deductions. Please don't assume that because a deduction is small it isn't important. It may be for an important error that we chose not to take off points for at an early stage in the course but are more likely to deduct points for next time. Since the deductions are intended to provide feedback to help you be successful on future checkpoints, if you don't understand our suggestions, please stop by office hours to talk to us.
-
-**Anticipated week 1 checkpoint deductions:**
-+ Sample Calculations: Incorrect result for $$\mu_s$$ [-1 point]
-+ Sample Calculation: Incorrect result for the propagated resolution uncertainty [-1 point]
-+ Sample Calculation: Incorrect result for the propagated uncertainty including random error [-1 point]
-+ Reported critical angle departs substantially from expectations [-2 points]
-+ Reported uncertainty in the critical angle departs substantially from expectations [-1 point]
-+ Link to shared Google classroom spreadsheet not provided [-1 point]
-+ $$\mu_s$$ calculated incorrectly [-1.5 points]
-+ Propagated uncertainty departs substantially from expectations and/or calculated incorrectly [-1.5 point]
-+ Varying deductions if your procedure does not adequately lay out a method to generate reproducible measurements of the critical angle [up to 3 points]
-+ Deductions for not following the conventions for significant figures laid out in the lab manual last week [up to 2 points]
-+ Deductions for failing to submit the checkpoint on time as outlined in the syllabus
+**When grading the checkpoint we will look for the following:**
++ Were all calculations completed correctly?
++ Does your data look reasonable for the experiment?
++ Did you round too early (remember to only round your data when sharing the final result not during intermediate calculations)
++ Did you make appropriate use of significant figures when reporting your final result?
++ Did you provide a link to your own spreadsheet, assigned through Google classroom?
++ Is your spreadsheet organized with appropriate annotations if any issues arose during data collection?
++ Does your procedure adequately lay out a method to generate reproducible measurements of the critical angle 
++ Deductions for failing to submit the checkpoint on time will be applied as outlined in the syllabus
