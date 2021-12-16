@@ -32,7 +32,7 @@ To make sure we all start on the same page please answer the following mini-ques
 
 --------------------
 
-#### Miniquestion: Acceptable forms of collaboration
+#### Mini-question: Acceptable forms of collaboration
 *[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSc1cnV36goAOx-2CoKGTioDpyajLhYshON1zceV19wu0WG5wQ/viewform){:target="_blank"}*
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc1cnV36goAOx-2CoKGTioDpyajLhYshON1zceV19wu0WG5wQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
@@ -49,7 +49,7 @@ You are trying to time how fast your little brother can run. Initially you do th
 
 --------
 
-#### Miniquestion: Handling data
+#### Mini-question: Handling data
 *[Click here to open in a new tab](https://forms.gle/vuCCDuDNYRaWeC7e6){:target="_blank"}*
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeAKMIHuPP0wX4WZKX78GnCsjuOFV63meAfYjctYu1r6kWlMg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
@@ -65,7 +65,7 @@ Please take a moment to review the course [syllabus](syllabus) and then answer t
 
 --------
 
-#### Miniquestion: Gradescope Submissions
+#### Mini-question: Gradescope Submissions
 *[Click here to open in a new tab](https://forms.gle/9nFbE4uS5GR11hyp7){:target="_blank"}*
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdNDFetAdF9cWajrXCG1hsYfC3zsDBpWW-Q9VRCGyCRvSIibw/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
@@ -85,7 +85,7 @@ In your lab notebook, try the derivation yourself and document the result.
 
 We can now try to think of a hypothesis we can test with an experiment. As a quick check, according to the theory, which factors will affect a measurement of $$\theta_c$$?
 
-#### Miniquestion: Critical Angle Factors
+#### Mini-question: Critical Angle Factors
 [*Click here to open in a new tab*](https://forms.gle/oUrvxpsg5foNjnVH7){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfFH6ZBvZzAlN_LNJQqnmFCPN97KyLGW44mU-AsTd_XSAxcTw/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
@@ -168,7 +168,7 @@ Reducing random uncertainty can include both improving our measurement technique
 
 --------
 
-#### Miniquestion: Uncertainty Propagation
+#### Mini-question: Uncertainty Propagation
 *[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSdGBpAsDmSC8Ndwu0ksH5ViBPUN4lclLMx04Tl8R2vVia4pQw/viewform?){:target="_blank"}*
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdGBpAsDmSC8Ndwu0ksH5ViBPUN4lclLMx04Tl8R2vVia4pQw/viewform?embedded=true" width="640" height="303" frameborder="0" marginheight="0" marginwidth="0">Loading…
@@ -185,7 +185,7 @@ After watching the video from Prof. Gerbode, let's return to your measurement of
 First, complete this mini-question to ensure you are doing the calculation correctly:
 
 -------------
-#### Miniquestion: Calculating coefficient of static friction and uncertainty
+#### Mini-question: Calculating coefficient of static friction and uncertainty
 [*Click here to open in a new tab*](https://forms.gle/mvteqnKeZNQXDytZ9){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKSGfERWII08uU0DZio3Wtcul85SiBFLkbG44IAQgMJg4hMg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
