@@ -52,7 +52,7 @@ On this page you will find all of the mini-questions for Module 1. Although each
 
 ------------
 
-#### Miniquestion: 5. Calculating coefficient of static friction and resolution uncertainty
+#### Miniquestion: 5. Calculating coefficient of static friction and its uncertainty
 [*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSdKSGfERWII08uU0DZio3Wtcul85SiBFLkbG44IAQgMJg4hMg/viewform?usp=sf_link){:target="_blank"}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKSGfERWII08uU0DZio3Wtcul85SiBFLkbG44IAQgMJg4hMg/viewform?embedded=true" width="640" height="600" frameborder="1" marginheight="10" marginwidth="0">Loading…
