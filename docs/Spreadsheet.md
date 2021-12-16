@@ -1,4 +1,4 @@
-### Step 1: Set-up a Spreadsheet
+### Seting up a Spreadsheet
 
 Here are some general guidelines for setting up a spreadsheet. We use the week 2 spreadsheet for Module 1 as an example. Note that we've done some of these steps for you in the template we have provided.
 
@@ -7,10 +7,16 @@ Your spreadsheet should allow you to:
 + Plot your data in real time.
 + Analyze your data. In this case your goal is to determine the co-efficient of static friction for each mass.
 
+
+## Key Considerations in Organizing a Spreadsheet
+
++ You should set up formulas that make use of your data, called by its cell location. For example if you want to convert the data in cell A2 from mm to m, then in a new cell (say B2) you can enter A2*1000. Now if you want to do the same for cell A3, then you can copy the contents of cell B2 to cell B3. The formula will automatically adjust to "A3*1000".
+
++ If there is a number that you will need to use for all cells, do not enter it as a column of identical numbers. Instead enter it as a single cell at the top of your spreadsheet. Use of the $ sign will ensure the cell location is not updated when copying formulas. For example if you want to multiply both cell A2 and cell A3 by the contents of cell B1 and enter the result in C2 and C3, you would want to enter "A2*$B$1" into cell C2, then copy the contents of C2 to C3 and it will update to "A3*$B$1".
+
 ![spreadsheet example](images/plot-as-you-go.gif)
 
 
-Look back to the spreadsheet you used for your preliminary data collection last week. You will want to organize your data collection in a similar way.
 
 
 <details>
