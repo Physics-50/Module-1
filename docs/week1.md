@@ -199,8 +199,6 @@ First, complete this mini-question to ensure you are doing the calculation corre
 
 At this point, if your answer were to be unreasonable or you were unable to calculate the quantity you are interested in testing (in our case $$\mu_s$$), then it would be a good idea to carefully rethink your measurement. Doing this initial single measurement and check can save a lot of time, especially when the experimental setup gets more complicated as it will later in the course. One of the goals of this course is that you take the time to think about careful experimental procedure. You will be graded on your quality of data as part of your deliverable at the end of each module. If you feel there may be issues with your results but are  unsure how to improve your procedure, speak to your instructor.
 
-Let's double-check your calculation. Using the exact same method that you set up to calculate your $$\mu_s$$  and  $$\delta_\mathrm{res} \mu_s $$ above, complete the following miniquestion with an example measurement of $$\theta_c$$:
-
 
 ## Significant Figures when Reporting Results
 
