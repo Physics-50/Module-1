@@ -1,8 +1,7 @@
 # Module 1
 
-[Syllabus](syllabus)
-
-[Weekly Plan](#weekly-plan)
++ [Syllabus](syllabus)
++ [Helpful Guidance](helpful-guidance)
 + [Week 1 - Exploratory Phase](week1)
 + [Week 2 - Hypothesis Testing Phase](week2)
 + [Week 3 - Scientific Communication Phase](week3)
