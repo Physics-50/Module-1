@@ -43,7 +43,7 @@ An important habit we would like you to develop as an experimentalist is to be p
 
 -------------------
 
-+ How many data points would you need to take in order for any effect due to changing mass to be larger than your random uncertainty?
+*A factor to consider when making an experimental plan:* How many data points would you need to take in order for any effect due to changing mass to be larger than your random uncertainty?
 
 
 #### Miniquestion: How Many Trials
