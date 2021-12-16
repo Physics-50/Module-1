@@ -202,7 +202,7 @@ At this point, if your answer were to be unreasonable or you were unable to calc
 
 ## Significant Figures when Reporting Results
 
-When doing your analysis, to avoid an accumulation of rounding errors it is very important not to round your results until you reach a final result. However when you do reach a final result, it is important and helpful to round your result appropriately in accordance with your estimated uncertainty. 
+When doing your analysis, to avoid an accumulation of rounding errors it is very important not to round your results until you reach a final result. However when you do reach a final result, it is important and helpful to round your result appropriately, taking into consideration your uncertainty. Since the uncertainty is a measure of your confidence in your result it makes sense to use it to gauge which digits are *significant*.
 
 Please read through this [guide](significant-figures) for reporting final results with appropriate significant figures. You should refer back to these guidelines and follow them throughout this course. For future reference you will find a link to this and other helpful guides on the "helpful guidance" tab on Sakai.
 
