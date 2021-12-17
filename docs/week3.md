@@ -65,7 +65,7 @@ In the figure itself
 
 + **Title sentence:** This short sentence (with a subject and a verb!) explains the point of what is shown in the figure. It tells the reader what your data mean and ideally this clearly connects to the main result (thesis) of the paper.
 
-+ **Connection to data** The caption must make a direct connection between what is shown in the figure and the claim made in the title sentence.
++ **Connection to data** The caption must make a direct connection between what is shown in the figure and the claim made in the title sentence. Where appropriate there should also be a connection between panels of the figure. For example in the figure you will prepare for this module, the description of your image of the experimental set-up (panel a) should include sufficient detail of the experimental procedure for the reader to understand how the data presented in the plot in panel B was obtained.
 
 + **(optional) Panel title:** If the figure has multiple panels, each panel gets its own brief title. This is almost always a phrase, without a verb.
 
