@@ -28,19 +28,21 @@ The fundamental elements that a figure with a plot needs to be effective are:
 
 *In the figure caption*
 
-+ **Title sentence:** This short sentence (with a verb!) explains the point of what is shown in the figure. It tells the reader what your data mean and ideally this clearly connects to the main result (thesis) of the paper.
++ **Title sentence:** This short sentence (with a subject and a verb!) explains the point of what is shown in the figure. It tells the reader what your data mean and ideally this clearly connects to the main result (thesis) of the paper.
+
++ **Salient details of the experiment:** It is not enough to just tell the reader about your results, we also need to know how the data was collected? What does the reader need to know about your experiment to understand the data?
 
 + **Connection to data:** The caption must make a direct connection between what is shown in the plot and the claim made in the title sentence.
 
 + **(optional) Panel title:** If the figure has multiple panels (or an inset plot within the main plot), each panel or plot gets its own brief title. This is almost always a phrase, without a verb. For a panel with a plot, it is usually a statement of axis labels (see next bullet point).
 
-+ **(optional) Statement of axis labels:** If any axes are labeled using mathematical symbols, those symbols must be defined using words in the caption.
++ **(optional) Statement of axis labels:** If any axes are labeled using mathematical symbols, those symbols must be defined using words in the caption. 
 
 + **(optional) Definition of data point symbols:** If there is more than one data set shown in the plot, each data point symbol must be defined. Typically this is done in the caption, not in a legend.
 
-+ **Definition of error bars:** The caption must define what the error bars represent (for example, they might represent [the standard error of the mean](uncertainty-introduction#random-uncertainty), or SEM).
++ **Definition of error bars:** The caption must define what the error bars represent (for example, they might represent [the standard error of the mean](uncertainty-introduction#random-uncertainty), or SEM). When describing error bars as the SEM it is helpful to include the number of trials.
 
-+ **(optional) Definition of additional markings:** If there are any additional symbols or marks in the figure that are not data points, those symbols must be defined in the caption, not in a legend.
++ **(optional) Definition of additional markings:** If there are any additional symbols or marks in the figure that are not data points, those symbols must be defined in the caption, not in a legend. An example would be in the case of an annotation of your experimental apparatus (this will come up in module 2).
 
 Here is an annotated example of a figure with a plot, taken from [this article](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.018002){:target="_blank"} in the journal Physical Review Letters. Note that the figure also contains some experimental images that help to convey the main point of the figure, but for the purposes of this lesson, we will just focus on the last panel of the figure, which contains a plot.
 
