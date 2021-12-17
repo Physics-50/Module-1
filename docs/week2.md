@@ -2,7 +2,7 @@
 
 This week we are going to generate a data set to test our hypothesis. This will include more detailed data collection for analysis than the exploratory measurement from Week 1.
 
-[Background Reading for Week 2](#background-reading-and-miniquestions)
+[Background Reading for Week 2](#background-reading)
 
 [Reminder: Reporting Data with Significant Figures](#reminder-on-reporting-data-with-significant-figures)
 
@@ -10,7 +10,7 @@ This week we are going to generate a data set to test our hypothesis. This will 
 
 [Data Collection for Week 2](#data-collection)
 
-## Background Reading and Mini-questions
+## Background Reading
 
 At the end of this week you should have a complete data set for the measured critical angle for (at least) five different masses.
 Before you begin taking data, there are two principles that we would like to introduce: **“real-time data visualization”** and **“iterative experimental design”**. In taking experimental data, we don't want to just blindly follow the procedure laid out in the experimental design. We need to ensure the data we are taking is reasonable and that our conclusions are well-founded and impactful. One way to ensure the data is reasonable is to have some real-time visualization set up (“plotting as you go”). That way we can see our data as we are taking it, and adapt based on any new information.
