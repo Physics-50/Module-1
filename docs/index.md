@@ -25,16 +25,16 @@ One of the main goals of this course is for you to "think like an experimental p
 
 3. Communicate experimental results with a well-designed figure
 
-These three learning objectives are tied to what we view as distinct phases in how we approach the experimental process, and we will use these three phases to frame Module 1:
+These three learning objectives are tied to three phases in our approach to the experimental process, and we will use these three phases to frame Module 1:
 
 1. Exploratory Phase
-    - this open-ended phase often involves doing some background reading, getting familiar with a measurement technique, trying to take some preliminary data, and coming up with a hypothesis plus a plan for how you will test it
+    - This open-ended phase often involves doing some background reading, getting familiar with a measurement technique, trying to take some preliminary data, and coming up with a hypothesis plus a plan for how you will test it
 
 2. Hypothesis Testing Phase
-    - in this phase you follow the experimental plan you developed in the "Exploratory Phase" to test a hypothesis. Data analysis, including a detailed analysis of uncertainties (statistical measures of your confidence in your results), is an important part of hypothesis testing. Do your results follow a trend predicted by the hypothesis, to within your experimental uncertainty?  Does your raw or analyzed data show other patterns or features that suggest a piece of physics or an procedural problem that could be important in interpreting your final result?
+    - In this phase you follow the experimental plan you developed in the "Exploratory Phase" to test a hypothesis. Data analysis, including a detailed analysis of uncertainties (statistical measures of your confidence in your results), is an important part of hypothesis testing. Do your results follow a trend predicted by the hypothesis, to within your experimental uncertainty?  Does your raw or analyzed data show other patterns or features that suggest a piece of physics or an procedural problem that could be important in interpreting your final result?
 
 3. Communication Phase
-    - after hypothesis testing, you now get to think carefully about how you will communicate your results: What is the best way to visualize your data? What are the deeper conclusions that you can draw from your data? What follow-up experiment would come next? This phase often ends with a scientific paper or presentation. In this course we will focus on communicating results through figures with captions.
+    - After hypothesis testing, you think carefully about how you will communicate your results: What is the best way to visualize your data? What are the deeper conclusions that you can draw from your data? What follow-up experiment would come next? This phase often ends with a scientific paper or presentation. In this course we will focus on communicating results through figures with captions.
 
 Although we are going to treat these phases as a stepwise linear progression, they aren't always like that. Things often don't go as planned when hypothesis testing and you might end up back in the exploratory phase. Or you might want to think during the exploratory phase of how you will eventually communicate your work: thinking of the possible conclusions that would result from your experiment can help you decide if a hypothesis is worth testing. These phases are meant to be helpful guideposts for Module 1, and not a set of "rules" for how experimental work always unfolds.
 
