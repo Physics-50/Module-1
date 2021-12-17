@@ -172,6 +172,7 @@ Your work will be graded based on:
 + organization of your spreadsheet
 + correct calculation of expected results - the calculations must be performed within the provided spreadsheet
 + a clear image of the experimental set-up (without unnecessary distractions)
++ image of the experimental set-up includes everything of significance to understanding the experiment: phone, container, weights used, any apparatus used to aid in the controlled raising of the ramp and recording of data,...
 + histograms show good quality data with a reasonable distribution
 + axis are appropriately labelled and include correct units
 + results are not rounded prior to the final result
