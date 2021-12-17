@@ -63,7 +63,7 @@ In the figure itself
 
 *In the figure caption*
 
-+ **Title sentence:** This short sentence (with a verb!) explains the point of what is shown in the figure. It tells the reader what your data mean and ideally this clearly connects to the main result (thesis) of the paper.
++ **Title sentence:** This short sentence (with a subject and a verb!) explains the point of what is shown in the figure. It tells the reader what your data mean and ideally this clearly connects to the main result (thesis) of the paper.
 
 + **Connection to data** The caption must make a direct connection between what is shown in the figure and the claim made in the title sentence.
 
