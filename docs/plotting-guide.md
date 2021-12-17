@@ -10,5 +10,5 @@ To plot your data you first need to generate a .CSV file containing only your da
 
 Go to the third tab "Week 3: Data for Plotting".
 
-1. You should re-name the column headings in row one to match your data. These will form the axes labels for your plot. You may surround algebraic variables and Greek letters with dollar signs; e.g., $\theta$ (°) or $L$ (cm) or $T^2$ (s$^2$) or $L_{\rm string}$ (cm).
+1. You should re-name the column headings in row one to match your data. These will form the axes labels for your plot. You may surround algebraic variables and Greek letters with dollar signs; e.g., $\theta$ (°) or $L$ (cm) or $T^2$ (s$^2$) or $L_{\rm string}$ (cm), where \rm allows you to use roman text within a mathetmatical formula.
 
