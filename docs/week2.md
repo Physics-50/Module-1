@@ -167,11 +167,15 @@ Please submit the following to Module 1, Checkpoint #2 on Gradescope.
 + A single-sentence, preliminary conclusion that you can draw about the hypothesis based on your experimental data
 
 ## Grading Rubric
-The tentative rubric that will be used to evaluate this checkpoint is provided below. Please keep in mind that these rubric items are subject to change as we can never foresee all the issues that may arise. This is meant to give you a sense of how it will be graded.
+Your work will be graded based on:
 
-**Click on the below images to enlarge in a new tab:**
-[![Spreadsheet and Histograms Rubric](images/checkpoint2rubric1.png)](images/checkpoint2rubric1.png){:target="_blank"}
-[![Results Rubric](images/checkpoint2rubric2.png)](images/checkpoint2rubric2.png){:target="_blank"}
-[![Results Rubric](images/checkpoint2rubric3.png)](images/checkpoint2rubric3.png){:target="_blank"}
++ organization of your spreadsheet
++ correct calculation of expected results - the calculations must be performed within the provided spreadsheet
++ a clear image of the experimental set-up (without unnecessary distractions)
++ histograms show good quality data with a reasonable distribution
++ axis are appropriately labelled and include correct units
++ results are not rounded prior to the final result
++ final result is presented with appropriate significant figures
+
 
 Don't forget to double check that you've completed [all of this week's miniquestions at this link.](mini-questions#week-2){:target="_blank"}
