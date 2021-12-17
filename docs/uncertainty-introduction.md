@@ -212,24 +212,3 @@ Since the uncertainty in the volume of the cone due to the uncertainty in the ra
 
 [Return to Module 1, Week 1](week1#propogation-of-your-experimental-uncertainty)
 -----------
-The final part of this guide was covered in Module 0. However, it often takes a few readings to become familiar with the rules for Significant figures. We encourage you to look it over again and ask us if you have any questions. We will expect you to make use of these rules throughout the course.
-
-## Significant Figures
-
-Imagine you have just calculated the coefficient of static friction and its uncertainty. The value you obtain from Google Sheets is 0.44030407 ± 0.00403726. So you should communicate this value when you write up your experimental results, right? Hold on:  do you really know the value of $$\mu$$ to the 8th decimal place? Our uncertainty of $$\delta \mu_s = $$0.00<span style="color:red">4</span>03726 tells us that we are unsure of the 3rd decimal place, so we are definitely not sure about the value in the 8th decimal place of $$\mu_s = $$0.4403040<span style="color:red">7</span>! This digit is insignificant;you don’t truly have that kind of precision in this experiment and cannot quote results that would imply otherwise.
-
-This is where the term significant digits, or “sig figs” for short, comes into play. We only want to report digits that are significant — accurately reflect the precision of our experiment — in our results. We will now present the rule of thumb for determining significant digits:
-
-1. Round and keep only one digit in your uncertainty
-
-    + in our example this would mean we report our uncertainty as $$\delta \mu_s = 0.004$$
-
-    **Exception**: if the most significant digit — in our example above, the digit in red 0.00<span style="color:red">4</span>03726 — is a 1 or 2, then report two digits in the uncertainty. For example: if your uncertainty is 0.0237304 then its most significant digit is a 2 so we will keep two digits, resulting in an uncertainty of 0.024 after rounding.
-
-2. Round your measured value so the placement of the least significant digit matches that of the rounded uncertainty. Wow, that sounds confusing so let’s see how this applies to our example above:
-
-    + in our example we began with 0.44030407 ± 0.00403726. We determined that the uncertainty should be 0.004, meaning the least significant digit of the uncertainty is in the 3rd decimal place. We need to round our measurement value to the same digit so the value we will report for our measurement is **0.440 ± 0.004**.
-
-
-
----------------------------
