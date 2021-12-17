@@ -166,7 +166,7 @@ Please submit the following to Module 1, Checkpoint #2 on Gradescope.
 
 + A single-sentence, preliminary conclusion that you can draw about the hypothesis based on your experimental data
 
-## Grading Rubric
+## Grading Considerations:
 Your work will be graded based on:
 
 + organization of your spreadsheet
