@@ -92,14 +92,17 @@ Here is an annotated example of a figure without a plot, taken from [this articl
 
 ## Before you begin
 
-Before plotting your data you will want to address any major concerns that may have been raised with your analysis on the checkpoint. In particular, make sure you are estimating your uncertainty correctly. The uncertainty you will be using to represent the uncertainty in your data points for each mass measured will, in general come from combining in quadrature the resolution uncertainty you estimated for your apparatus with the random uncertainty, represented by the SEM. Frequently one source of uncertainty will dominate. For this experiment we anticipate that in all cases your uncertainty will have been dominated by random uncertainty. Make sure you have also propagated this uncertainty in angle to yield an uncertainty in the coefficient of static friction. This should have been done last week, but if you had any issues this would be a good time to check in with an instructor.
+Before plotting your data you will want to address any major concerns that may have been raised with your analysis on the checkpoint. In particular, make sure you are estimating your uncertainty correctly. For this experiment we anticipate that in all cases your uncertainty will have been dominated by random uncertainty. Make sure you have also propagated this uncertainty in angle to yield an uncertainty in the coefficient of static friction. This should have been done last week, but if you had any issues this would be a good time to check in with an instructor.
+
+If issues were raised with your histograms you should also talk to an instructor. You may need to collect additional data (and include it in your analysis) to reach a satisfactory conclusion.
  
 ## Plotting your data
 
-**In Physics 50 you will use MATLAB** to plot your data. To help you get started, we have outlined the essential steps in the [MATLAB Plotting Guide](plot-guide){:target="_blank"}.
-<br>
+In Physics 50 you will make use of a script provided on the HMC physics departement website to plot your data:
 
-**Please note that use of MATLAB for plotting your data is required, plots in Google sheets do not meet course expectations.**
+[Go here to plot physics 50 data](https://physics.hmc.edu/fitter/)
+
+**Please note that use of the provided plotting script for plotting your data is required, plots in Google sheets do not meet course expectations.**
 
 ## Finding the Mean Value and Random Error by Fitting a Horizontal Line
 
@@ -107,7 +110,9 @@ At this point you should be thinking about how to analyze your data for consiste
 
 Just averaging the different values is not the best method of combining the data, because some of the values are more certain than others.  If we are getting directions in a strange town, we naturally weight conflicting advice according to how certain each person seems about the directions they are giving us.  We need to do something similar --- but more quantitative --- with our several values for the coefficient of static friction.  
 
-One way to find the "best fit average" of those points, which we will make use of, is to find the best fit horizontal line to match the data when plotting coefficient of friction versus mass (see figure below). Looking at the horizontal fit to the plotted data will also help us to analyze whether our data agrees with the hypothesis. We will talk a lot more about curve fitting in Module 3 (if you want to see it now, here's the detailed [Curve Fitting Guide](https://physics-50.github.io/Module-3/curve-fitting){:target="_blank"}). For Module 1, all you need to do is download and run a MATLAB file that will fit a horizontal line to your data, as described [here](fit-horizontal-line){:target="_blank"}.
+One way to find the "best fit average" of those points, which we will make use of, is to find the best fit horizontal line to match the data when plotting coefficient of friction versus mass (see figure below). Looking at the horizontal fit to the plotted data will also help us to analyze whether our data agrees with the hypothesis. For Module 1, all you need to do is [go to this link] and fit a horizontal line to your data.
+
+, as described [here](fit-horizontal-line){:target="_blank"}.
 
 ## Assembling your figure
 
