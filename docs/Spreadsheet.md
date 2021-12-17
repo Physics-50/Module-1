@@ -14,7 +14,6 @@ Your spreadsheet should allow you to:
 
 + If there is a number that you will need to use for all cells, do not enter it as a column of identical numbers. Instead enter it as a single cell at the top of your spreadsheet. Use of the $ sign will ensure the cell location is not updated when copying formulas. For example if you want to multiply both cell A2 and cell A3 by the contents of cell B1 and enter the result in C2 and C3, you would want to enter "A2*$B$1" into cell C2, then copy the contents of C2 to C3 and it will update to "A3*$B$1".
 
-![spreadsheet example](images/plot-as-you-go.gif)
 
 
 
@@ -66,3 +65,8 @@ Once you have collected a few data points you will want to go back to the chart 
 + Within the same dropdown menu, if you click on chart title you can change the dropdown to “Horizontal axis title”. Go ahead and label your axis.
 
 + The histogram dropdown will allow you to change the bucket size (by default it will be on auto which you may or may not find satisfactory depending on your data)
+
+
+A spreadsheet that is set-up well will update in real-time as you enter new data such as is shown with the histograms in the brief demonstration below:
+
+![spreadsheet example](images/plot-as-you-go.gif)
