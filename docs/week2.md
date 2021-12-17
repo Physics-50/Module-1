@@ -122,7 +122,11 @@ Please take a look at our [Spreadsheet preparation guide](Spreadsheet) for instr
 
 ### Step 2: Collect and analyze data
 
-Make sure to record all relevant details such as what mass you are using. You should take note of both the initial mass of the container (there is a scale at the back of the room) and the added mass for each trial. Always include units when recording data. When switching back and forth between the masses to randomize your experiment, then be very careful about where in your spreadsheet you are recording your data.  
+Make sure to record all relevant details such as what mass you are using. You should take note of both the initial mass of the container (there is a scale at the back of the room) and the added mass for each trial. Always include units when recording data. 
+
+It is not a good idea to collect all of your data for the lightest mass, then to do the same thing for the next lightest, continuing on through to the heaviest mass. Take a moment to think about why this might be problematic. If unsure this would be a good time to talk to your instructor.
+
+So what should you do? It is a good idea to randomize the order in which you collect your data. When switching back and forth between the masses to randomize your experiment be very careful about where in your spreadsheet you are recording your data.  
 
 As you collect data, be on the lookout for problems like those mentioned in the [Real-time Data Visualization](#real-time-data-visualization) section above. The histogram and summary statistics of your critical angle will help you identify if you need to adjust your plan.
 
