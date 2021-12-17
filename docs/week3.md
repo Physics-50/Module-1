@@ -112,7 +112,9 @@ Just averaging the different values is not the best method of combining the data
 
 One way to find the "best fit average" of those points, which we will make use of, is to find the best fit horizontal line to match the data when plotting coefficient of friction versus mass (see figure below). Looking at the horizontal fit to the plotted data will also help us to analyze whether our data agrees with the hypothesis. For Module 1, all you need to do is [go to this link] and fit a horizontal line to your data.
 
-, as described [here](fit-horizontal-line){:target="_blank"}.
+Some instructions for making use of the plotting script and interpreting your results are provided here:
+
+[Physics 50 Plotting Guide](plotting-guide)
 
 ## Assembling your figure
 
