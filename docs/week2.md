@@ -142,13 +142,11 @@ At this point, you need to consider if your results are conclusive. Review the s
 
 When analyzing data keep in mind that the data point's error bars do not need to all overlap for the data to be in agreement. A rule of thumb is that **a data point that agrees with some value can fall anywhere within roughly one error bar of that value.** We will learn more about this in the coming weeks.
 
-Next week you will make use of the Matlab software package to plot your data. If you do not have Matlab installed on your device we encourage you to install it to be prepared for next week's assignment (HMC has a site license). If you have any issues please reach out to us. The CIS help desk can also be helpful with installation issues.
-
 ## Before you leave lab today
 
 Make sure you have the following:
 
-+ a good picture of your experimental set-up. You will need this for your final deliverable. A good image should minimize unnecessary clutter, include everything of relevance to understanding your experimental set-up, and will need to include a scale bar. Therefore, it is important that you plan for this when taking your photo (i.e. there needs to be an item in your photo whose dimensions you know and can use to add the scale bar later). The image should also be in focus and be taken from an angle that showcases your experimental set-up. This picture will be included in your final deliverable so take the time to take a good picture.
++ a good picture of your experimental set-up. You will need this for your final deliverable. A good image should minimize unnecessary clutter, include everything of relevance to understanding your experimental set-up, and will need to include a scale bar. Therefore, it is important that you plan for this when taking your photo (i.e. there needs to be an item in your photo whose dimensions you know and can use to add the scale bar later). The image should also be in focus and be taken from an angle that showcases your experimental set-up but does not lead to distortion (make sure your scale bar is an accurate representation). This picture will be included in your final deliverable so take the time to take a good picture.
 
 + A set of data for each of 5 different masses. Quality of data will be taken into consideration in grading your final deliverable.
 
@@ -158,11 +156,11 @@ Please submit the following to Module 1, Checkpoint #2 on Gradescope.
 
 **As a reminder: Please prepare your assignment in a separate document, enter all entries in a single sitting without using the "save" button and then make use of the "submit" button to submit your work. You may not resubmit your work once it has been submitted (and saving in Gradescope is equivalent to submitting).**
 
-+ A screen-shot showing an organized spreadsheet used for data collection
++ A Link to an organized spreadsheet with your data and analysis.
 
 + A picture of your experimental set-up. You do not need to include a scale bar this week, but you should have a plan for adding one next week (i.e. there needs to be an item in your picture whose dimensions you know).
 
-+ A histogram for each mass tested showing the distribution of the number of data points collected as a function of the angle $$\theta_c$$. You should have collected data for five different masses, with 5 data points for each mass.
++ A histogram for each mass tested showing the distribution of the number of data points collected as a function of the angle $$\theta_c$$. You should have collected data for five different masses, with a minimum of 5 data points for each mass. Note that 5 data points is a minimum, you may need to collect more data to have reasonable histograms. If so make sure you include all of the data you have collected in your histograms (or clearly indicate in your spreadsheet why some data was excluded)
 
 + The value you obtained for the coefficient of static friction, $$\mu_s$$, for 3 of the 5 masses (smallest, middle, and largest), including the estimated uncertainty. Please make sure to use significant figures appropriately. If unsure please reread the section on significant figures, come to office hours to discuss, and/or consult your classmates through Piazza.
 
