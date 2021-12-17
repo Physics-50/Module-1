@@ -6,8 +6,6 @@ This week we are going to generate a data set to test our hypothesis. This will 
 
 [Reminder: Reporting Data with Significant Figures](#reminder-on-reporting-data-with-significant-figures)
 
-[Review: Estimating Uncertainties](#review-of-uncertainty-estimation)
-
 [Data Collection for Week 2](#data-collection)
 
 ## Background Reading
@@ -124,7 +122,7 @@ Please take a look at our [Spreadsheet preparation guide](Spreadsheet) for instr
 
 ### Step 2: Collect and analyze data
 
-Make sure to record all relevant details such as what mass you are using. Always include units when recording data. When switching back and forth between the masses to randomize your experiment, then be very careful about where in your spreadsheet you are recording your data.  
+Make sure to record all relevant details such as what mass you are using. You should take note of both the initial mass of the container (there is a scale at the back of the room) and the added mass for each trial. Always include units when recording data. When switching back and forth between the masses to randomize your experiment, then be very careful about where in your spreadsheet you are recording your data.  
 
 As you collect data, be on the lookout for problems like those mentioned in the [Real-time Data Visualization](#real-time-data-visualization) section above. The histogram and summary statistics of your critical angle will help you identify if you need to adjust your plan.
 
