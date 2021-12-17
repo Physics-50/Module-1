@@ -47,7 +47,7 @@ Module 1 is three weeks long. Each of the first two weeks, you will turn in a ch
 1. [Week 1 - Exploratory Phase](week1)
     - Checkpoint: single, preliminary measurement of $$\mu_s$$ with random uncertainty plus an experimental design for hypothesis testing. As part of the exploratory phase you will determine a way to reproducibly measure the critical angle.
 3. [Week 2 - Hypothesis Testing Phase](week2)
-    - Checkpoint: rough plots and a conclusion based on your experimental measurements
+    - Checkpoint: rough plots (histograms showing raw data) and a conclusion based on your experimental measurements
 4. [Week 3 - Scientific Communication Phase](week3)
     - Deliverable: a figure with a caption that communicates the most salient details of your experiment as well as your results
 
