@@ -14,7 +14,7 @@ Now that you've performed the fit, the next question is how to interpret the res
 
 #### 1. Uncertainties in the fitted slope and intercept
 
-The [provided fitting script](https://physics.hmc.edu/fitter/), is a weighted curve-fitting script that can fit either a horizontal line, a line in which the slope is determined by the fit parameters, or a quadratic fit, depending on the settings. The script also provides an estimate of the uncertainty for each of the fit parameters. The uncertainty in the slope and intercept are determined from the error bars and from how scattered the data are about the fit line. 
+The [provided fitting script](https://physics.hmc.edu/fitter/), is a weighted curve-fitting script that can fit either a horizontal line, a line in which the slope is determined by the fit parameters, or a quadratic fit, depending on the settings. The script also provides an estimate of the uncertainty for each of the fit parameters. The uncertainty in the fit parameters are are determined from the error bars and from how scattered the data are about the fit line (or curve in the case of the quadratic fit). 
 
 
 #### 2. Using reduced chi-squared, $$\chi_\nu^2$$, to determine how good your fit is
@@ -24,7 +24,7 @@ Also reported below the plot is the "reduced chi-squared", $$\chi_\nu^2$$, which
 \chi_\nu^2 = \frac{\chi^2}{\text{num data points -- num fitting parameters}}
 \end{equation}
 
-In the example data above, we had 11 data points and two fitting parameters ($$m$$ and $$b$$). Roughly speaking, the reduced $$\chi^2$$ value tells us on average how many error bars away each data point is from the fitted line. So the value $$\chi_\nu^2 = 0.91$$ in the example means that *on average* each data point is just within its error bar of the fitted line. Looking at the data and fit above, although there are a couple of data points that are farther away from the line than their error bars, on average they fall within their error bar of the fitted line.
+Roughly speaking, the reduced $$\chi^2$$ value tells us on average how many error bars away each data point is from the fitted line. So for example,  $$\chi_\nu^2 = 0.91$$ would mean that *on average* each data point is just within its error bar of the fitted line. This is roughly the result we expect.
 
 **The value of $$\chi_\nu^2$$ is important because it can tell us how good our fit is (or sometimes, how well we estimated the error bars).** If the error bars are an accurate representation of the uncertainty in the data, we would expect *on average* each data point to be approximately one error bar away from the line: $$\chi_\nu^2 \approx 1$$. In the example above, the value of $$\chi_\nu^2 = 0.91$$ supports the idea that our linear fit is a good model of the data.
 
