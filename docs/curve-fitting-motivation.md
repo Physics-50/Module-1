@@ -13,7 +13,7 @@ Spreadsheet software has a built-in features to fit data, and it would be wonder
 3. Google Sheets and Excel do not give us a relevant measurement of how good the fit is
 
 
-#### 1. Unweighted vs. Weighted Fit
+#### Unweighted vs. Weighted Fit
 
 Suppose we are fitting a set of $$n$$ data points $$\{(x_1,y_1), (x_2,y_2), \ldots, (x_n,y_n)\}$$ to a straight line $$y(x) = mx + b$$. The "trendline" function in Excel will perform an unweighted least squares fit by finding the values of $$m$$ and $$b$$ that minimize the distance between the data and fit line. In mathematical language (if that's something you're into),  we are finding $$m$$ and $$b$$ that satisfy
 \begin{equation}\label{eq:unweighted}
