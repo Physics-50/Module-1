@@ -6,11 +6,11 @@ The process of fitting a theoretical function to data is an important skill for 
 
 **Why can't I just use the "trendline" feature in Excel or Google Sheets?**
 
-Spreadsheet software has a built-in features to fit data, and it would be wonderful if we could use those. But the built-in fitting for Excel (or Google Sheets) falls short in a few important ways:
+Spreadsheet software has a built-in features to fit data, and it would be wonderful if we could use those. But the built-in fitting for Google Sheets (or Excel) falls short in a few important ways:
 
-1. Excel treats all data points equally (i.e. an "unweighted" fit)
-2. Excel doesn't give us an uncertainty in the slope and intercept
-3. Excel doesn't give us a relevant measurement of how good the fit is
+1. Google Sheets and Excel treat all data points equally (i.e. an "unweighted" fit)
+2. Google Sheets and Excel do not give us an uncertainty in the slope and intercept
+3. Google Sheets and Excel do not give us a relevant measurement of how good the fit is
 
 
 #### 1. Unweighted vs. Weighted Fit
