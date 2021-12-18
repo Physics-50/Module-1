@@ -9,5 +9,6 @@ These guides will be introduced when first needed in the course. They are here s
 
 [![Click on the link to get to the video](images/uncertainty-propagation-video-preview.png)](https://drive.google.com/file/d/1ilJNsVSgB_asmDdfjQwoyRdhedsSjaWO/view?usp=sharing){:target="_blank"}
 + [Setting up a Spreadsheet](Spreadsheet)
-+ [Plotting your Data](plotting-guide)
++ [Guide to Plotting your Data](plotting-guide)
++ [Go Here to Plot your Data](https://physics.hmc.edu/fitter/)
 + [Interpreting your Plot](interpreting-plots)
