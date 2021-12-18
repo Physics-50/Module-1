@@ -14,7 +14,7 @@ Now that you've performed the fit, the next question is how to interpret the res
 
 #### 1. Uncertainties in the fitted slope and intercept
 
-The [provided fitting script](https://physics.hmc.edu/fitter/), we are giving you a weighted curve-fitting script that can fit either a horizontal line, a line in which the slope is determined by the fit parameters, or a quadratic fit, depending on the settings. The script also provides an estimate of the uncertainty for each of the fit parameters. The uncertainty in the slope and intercept are determined from the error bars and from how scattered the data are about the fit line. 
+The [provided fitting script](https://physics.hmc.edu/fitter/), is a weighted curve-fitting script that can fit either a horizontal line, a line in which the slope is determined by the fit parameters, or a quadratic fit, depending on the settings. The script also provides an estimate of the uncertainty for each of the fit parameters. The uncertainty in the slope and intercept are determined from the error bars and from how scattered the data are about the fit line. 
 
 
 #### 2. Using reduced chi-squared, $$\chi_\nu^2$$, to determine how good your fit is
