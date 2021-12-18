@@ -98,12 +98,19 @@ If issues were raised with your histograms you should also talk to an instructor
  
 ## Plotting your data
 
-In Physics 50 you will make use of a script provided on the HMC physics departement website to plot your data:
+The process of fitting a theoretical function to data is an important skill for all experimental scientists to master, and in Physics 50 we are laying a foundation for this skill. 
+
+Please follow the link to a: [Linear Fitting Introduction](curve-fitting-motivation). This introduction is meant to provide the bare minimum information that you will need to understand the use of curve fitting in Physics 50. Curve fitting may be something you will return to in your upper division courses.
+
+In Physics 50 you will make use of a script provided here to plot your data:
 
 [Go here to plot physics 50 data](https://physics.hmc.edu/fitter/)
 
 **Please note that use of the provided plotting script for plotting your data is required, plots in Google sheets do not meet course expectations.**
 
+[A step-by-step guide to using the curve fitting tool is provided here](plotting-guide).
+
+Once you've plotted your data, please review the [information provided here for interpreting your results](interpreting-plots).
 ## Finding the Mean Value and Random Error by Fitting a Horizontal Line
 
 At this point you should be thinking about how to analyze your data for consistency with your hypothesis and, if the results are consistent with the hypothesis, generate a mean value to report. At this point you should have multiple measured values for the coefficient of friction from measurements with different mass. Measurements for different mass should each have their own random error $$\delta\mu_{s_1}, \delta\mu_{s_2}, ..., \delta\mu_{s_n}$$.  How should you combine these to get the best final value for coefficient of friction?  What is the correct random error for that final value? And how should you gauge whether the results are consistent with your hypothesis?
