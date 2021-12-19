@@ -1,6 +1,6 @@
 ## Plotting your data
 
-In Physics 50 you will make use of a script provided on the HMC physics departement website to plot your data:
+In Physics 50 you will make use of a script provided here to plot your data:
 
 [Go here to plot physics 50 data](https://physics.hmc.edu/fitter/)
 
