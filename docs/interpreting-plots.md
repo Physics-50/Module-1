@@ -52,31 +52,3 @@ This large value of $$\chi_\nu^2$$ tells us that:
 
 The first and third options are both plausible, so we would have to think carefully about how to proceed. If we are sure about our data and reasonably confident in our uncertainty estimate, maybe we need to re-think the theoretical model we are using!
 
-### MATLAB Code
-
-To use the MATLAB code first make sure you have the "curve fitting toolbox" and the "statistics and machine learning toolbox" installed. In the MATLAB environment, go to "HOME"-->"Add-Ons"-->"Get Add-Ons":
-
-![get add ons](images/get_add_ons.png)
-
-and search for the "curve fitting toolbox":
-
-![curve fitting toolbox](images/curve_fitting_toolbox.png)
-
-If it says "Installed" you are good to go. Otherwise, click on the Curve Fitting Toolbox page and install it. Now do the same for the "Statistics and Machine Learning Toolbox".
-
-Now download this file for [weighted curve fitting of data with uncertainties](curve_fitting.m) and run the script. 
-
-Every time you run the scripts, you will get the following warning in the command window:
-![warning](images/warning.png)
-
-This warning appears because we aren't providing the fit function with an initial guess of the slope and intercept. The function is picking an initial guess randomly. The initial guess might affect the fitting if you have many fitting parameters, but because we only have 2 fitting parameters $$(m,b)$$, **you can safely ignore this warning.**
-
-To use the script for your own data, replace the "import data" section of the code (lines 8--10) with your own data pasted in. You should also customize the plot appearance (lines 15--25) and change the axis labels (lines 38--40). Everything else should not need modification in the script if you are fitting a straight line to your data.
-
-#### Optional 
-
-In the future (i.e., not needed in Ph50), if you'd like to fit a different function to your data, you can change line 52 of the code to a different function. You could, for example, fit to a quadratic by replacing line 52 with:
-
-``` MATLAB
-fit_func = @(a,b,c,x) a*x.^2 + b*x + c;  
-```
