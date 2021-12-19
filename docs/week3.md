@@ -96,6 +96,15 @@ Before plotting your data you will want to address any major concerns that may h
 
 If issues were raised with your histograms you should also talk to an instructor. You may need to collect additional data (and include it in your analysis) to reach a satisfactory conclusion.
  
+## Finding the Mean Value and Random Error by Fitting a Horizontal Line
+
+At this point you should be thinking about how to analyze your data for consistency with your hypothesis and, if the results are consistent with the hypothesis, generate a mean value to report. You should have multiple measured values for the coefficient of friction from measurements with different mass. Measurements for different mass should each have their own random error $$\delta\mu_{s_1}, \delta\mu_{s_2}, ..., \delta\mu_{s_n}$$.  How should you combine these to get the best final value for coefficient of friction?  What is the correct random error for that final value? And how should you gauge whether the results are consistent with your hypothesis?
+
+Just averaging the different values is not the best method of combining the data, because some of the values are more certain than others.  If we are getting directions in a strange town, we naturally weight conflicting advice according to how certain each person seems about the directions they are giving us.  We need to do something similar --- but more quantitative --- with our several values for the coefficient of static friction.  
+
+One way to find the "best fit average" of those points, which we will make use of, is to find the best fit horizontal line to match the data when plotting coefficient of friction versus mass (see figure below). Looking at the horizontal fit to the plotted data will also help us to analyze whether our data agrees with the hypothesis. For Module 1, all you need to do is [go to this link] and fit a horizontal line to your data.
+
+
 ## Plotting your data
 
 The process of fitting a theoretical function to data is an important skill for all experimental scientists to master, and in Physics 50 we are laying a foundation for this skill. 
@@ -111,14 +120,7 @@ In Physics 50 you will make use of a script provided here to plot your data:
 [A step-by-step guide to using the curve fitting tool is provided here](plotting-guide).
 
 Once you've plotted your data, please review the [information provided here for interpreting your results](interpreting-plots).
-## Finding the Mean Value and Random Error by Fitting a Horizontal Line
-
-At this point you should be thinking about how to analyze your data for consistency with your hypothesis and, if the results are consistent with the hypothesis, generate a mean value to report. You should have multiple measured values for the coefficient of friction from measurements with different mass. Measurements for different mass should each have their own random error $$\delta\mu_{s_1}, \delta\mu_{s_2}, ..., \delta\mu_{s_n}$$.  How should you combine these to get the best final value for coefficient of friction?  What is the correct random error for that final value? And how should you gauge whether the results are consistent with your hypothesis?
-
-Just averaging the different values is not the best method of combining the data, because some of the values are more certain than others.  If we are getting directions in a strange town, we naturally weight conflicting advice according to how certain each person seems about the directions they are giving us.  We need to do something similar --- but more quantitative --- with our several values for the coefficient of static friction.  
-
-One way to find the "best fit average" of those points, which we will make use of, is to find the best fit horizontal line to match the data when plotting coefficient of friction versus mass (see figure below). Looking at the horizontal fit to the plotted data will also help us to analyze whether our data agrees with the hypothesis. For Module 1, all you need to do is [go to this link] and fit a horizontal line to your data.
-
+---
 Some instructions for making use of the plotting script and interpreting your results are provided here:
 
 [Physics 50 Plotting Guide](plotting-guide)
