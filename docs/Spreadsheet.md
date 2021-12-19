@@ -43,7 +43,7 @@ These steps will guide you through this process:
 
     + A new “Chart Editor” menu will appear on the RHS of the screen. Use the drop down menu under chart type to select “histogram," as shown below.
 
-        <img src="images/Histogram.JPG" alt="The histogram chart is in the Other category; hover over a chart image to see its name." width="125"/>
+        <img src="images/Histogram.JPG" alt="Histograms are in the Other category and you can hover over a chart image to see its name" width="125"/>
 
     + On the next line of the “Chart Editor” set data range to be the cells in which you plan to insert your data (you may have to go back and edit this later if you collect more data than expected).
 
@@ -57,7 +57,7 @@ These steps will guide you through this process:
 
 7. Now you need to set up your worksheet to collect data for the second mass. You will want to do this in the column to the right of your first column, duplicating the equations for your calculations. You should then create a second histogram to monitor the data from the second mass in real time.
 
-Once you have collected a few data points you will want to go back to the chart editor and select ``customize.'' Next week we will focus on polishing our plot for communicating our results but even for your own records you want to make a few adjustments while collecting data.
+Once you have collected a few data points you will want to go back to the chart editor and select “customize." Next week we will focus on polishing our plot for communicating our results but even for your own records you want to make a few adjustments while collecting data.
 
 + Use the Chart and axis title dropdown to add a chart title.  Especially with multiple charts, an informative title can make it easy to see which data set is visualized in which plot!
 
