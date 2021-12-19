@@ -35,9 +35,10 @@ In this example, each data point is much closer than 1 error bar to the fitted l
 
 + perhaps we have too many free parameters in the fitting function, allowing the function to hit all the data points. However, we only have 2 parameters here ($$m$$ and $$b$$), so that's not the issue;
 + perhaps it was just a random coincidence that the values lined up, but we have many data points lining up, so that's probably not it either; 
-+ we overestimated the error bars.
++ we overestimated the error bars;
++ our data has correlated systemtic error between trials.
 
-The third option seems most likely in this case. So **if our data looked like this, we should double-check the calculation of uncertainties.**
+The last two options seem the most likely for the above plot. So **if our data looked like this, we should double-check the calculation of uncertainties and give some thought to possible sources of correlated systematic error in the experiment.**
 
 Finally, let's take a look at an example where the data points are typically much further than 1 error bar away from the fitted line:
 ![underfit example](images/errors-too-small.png)
