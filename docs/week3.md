@@ -120,10 +120,6 @@ In Physics 50 you will make use of a script provided here to plot your data:
 [A step-by-step guide to using the curve fitting tool is provided here](plotting-guide).
 
 Once you've plotted your data, please review the [information provided here for interpreting your results](interpreting-plots).
----
-Some instructions for making use of the plotting script and interpreting your results are provided here:
-
-[Physics 50 Plotting Guide](plotting-guide)
 
 ## Assembling your figure
 
