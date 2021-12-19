@@ -123,7 +123,7 @@ Once you've plotted your data, please review the [information provided here for 
 
 ## Assembling your figure
 
-Once you've prepared your plots you will need to assemble them in PowerPoint. We've prepared a guide to help you with that as well. [Powerpoint Figure Assembly Guide](plot-guide#assembling-the-figure-in-powerpoint){:target="_blank"} There's also some important information there about how to make your plots and figures easier to read.   
+Once you've prepared your plots you will need to assemble them in PowerPoint. We've prepared a guide to help you with that as well. [Powerpoint Figure Assembly Guide](powerpoint-figure-assembly){:target="_blank"} There's also some important information there about how to make your plots and figures easier to read.   
 <br>
 
 ## Formatting tips
