@@ -24,6 +24,8 @@ Steps:
 
 You should spend ~30 min trying to get a good estimate of the distance "d" and its uncertainty. Please submit your estimate and uncertainty on the following form: (only one lab partner should submit your team's result)
 
+**The Following is not a Mini-question and should be completed in lab, not before coming to lab. Also, we request that only one student from your lab partner pair answer this question (with a response you agree on).**
+
 --------------------------
 #### Estimate of distance ball lands from ramp with uncertainty (Part I)
 [*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSd3mydGdP_7kp1lxrU7AubdgjNYQ9VjfjR57ExSFNkHKXKyJA/viewform?usp=sf_link){:target="_blank"}
@@ -34,6 +36,8 @@ You should spend ~30 min trying to get a good estimate of the distance "d" and i
 Once you have submitted your result please think about how you might obtain a more accurate estimate. You should not move on to the final estimate below until the class has discussed the initial estimate results and procedures for final estimates.
 
 Following the class discussion and further investigations guided by it, please submit your final estimate here:
+
+**The Following is not a Mini-question and should be completed in lab, not before coming to lab. Also, we request that only one student from your lab partner pair answer this question (with a response you agree on).**
 
 --------------------------------
 
