@@ -187,6 +187,8 @@ The figure must also include a caption with the following:
 
 Can you find each of these elements in the above example figure?
 
+Please note that in this course, because you are only submitting a figure with a caption without an accompanying write-up, we expect a figure caption that is more detailed than you might see in a typical paper. In this course, your figure caption needs to stand alone and explain pertinent details of the experiment on a level that would enable a fellow student who has not taken physics 50 to understand key details of your experiment and conclusions. The length should be on the order of a "paragraph". i.e. more than a couple of sentences but not anything approaching a full page!
+
 Please upload your figure to Gradescope according to the instructions provided there (note that you will have to upload it more than once). Make sure to include both the figure and caption.
 
 **You should follow the deadlines for your section as outlined in the syllabus. These are the same deadlines as when you normally would have a checkpoint due (i.e. the Module 1 deliverable is due 1 week after the deadline for checkpoint 2 for your section).**
