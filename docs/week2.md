@@ -105,7 +105,7 @@ In week 1 we introduced you to the idea of significant figures. As a reminder: w
 
 With the background reading complete, you are now ready to start the data collection process.
 
-### Step 1: Set-up a Spreadsheet
+### Step 1: Set Up a Spreadsheet
 
 You will use the same Google sheets document as last week, but should make use of the second tab "Week 2: Data Collection" (click on the appropriate tab at the bottom left of the worksheet).
 
@@ -138,7 +138,7 @@ At this point, you need to consider if your results are conclusive. Do they allo
 
 **“Reasonable” is subjective. We don't expect for the purposes of our Module 1 that you will take hundreds of data points. But if taking 5 more data points will result in a stronger conclusion, then we encourage you to do so! It is also important to recognize that statistical analysis is not valid for very small numbers of data points. As a rough guide we would not consider a statistical analysis relying on less than 5 data points to be valid and therefore recommend you collect no fewer than 5 data points for each mass.*
 
-When analyzing data keep in mind that the data points' error bars do not need to all overlap for the data to be in agreement. A rule of thumb is that **a data point that agrees with some value wll fall within one error bar of that value roughly two-thirds of the time.** We will learn more about this in the coming weeks.
+When analyzing data keep in mind that the data points' error bars do not need to all overlap for the data to be in agreement. A rule of thumb is that **a data point that agrees with some value has a roughly two-thirds chance of falling within one error bar of that value.** We will learn more about this in the coming weeks.
 
 ## Before you leave lab today
 
