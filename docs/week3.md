@@ -149,6 +149,17 @@ If your results do not support the hypothesis there are two possibilities. They 
 
 Let's practice with a mini-question:
 
+--------------
+
+#### Mini-question: Conclusive or Inconclusive?
+[*Click here to open in a new tab*](https://forms.gle/HuPkPLzMvhdmDgws9){:target="_blank"}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKAlC4pJs-5HUGtI43hDDvWdsc2GGYW4juqz3infjcnj5EhA/viewform?embedded=true" width="640" height="1567" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+
+
+---------------------------
+
 
 #### Your figure must include:
 1. Panel (a) featuring a photo of your experimental setup with
