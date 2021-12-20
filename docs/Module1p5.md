@@ -4,11 +4,6 @@ Module 1.5 is a one-week introduction to careful experimentation and dealing wit
 
 **You have been issued a new Google Sheet and Google Doc through Google Classroom for Module 1.5. Make sure you have both the Google Sheet and the Google Doc (your Module 1.5 lab notebook) handy as you go through the content on this Week 1 page. Remember: you are required to use the provided spreadsheet/lab notebook.**
 
-[Google classroom notebook and spreadsheet for Module 0 (click here to open in a new tab)](https://classroom.google.com/u/0/w/MzY5MzA2OTcxNzM4/tc/MzgwNzE0NTI5NzQ1){:target="_blank"}. 
-
-Next week we will talk more about carefully setting up and organizing a spreadsheet. For now, your main goal should be to organize your spreadsheet and notes well enough that you and your partner can keep track of what you've done and would be able to come back several months later and still be able to understand the procedure you followed and work with the data you recorded.  Don't hesitate to ask if you have questions.
-
-
 The experiment: You will roll a ball down a ramp and let it fall from the end of the ramp to the floor. The ramp should be set to 5° from the horizontal. You need to measure the horizontal distance between the end of the ramp and the ball's first landing point on the floor, including an estimate of the uncertainty in the measurement.
 
 The pressure-sensitive tape provided on your bench can be used to visualize where the ball lands. 
@@ -26,9 +21,6 @@ Steps:
 + Place the ball 1 meter from the lower end of the ramp (measured along the length of the ramp) and release.
 + Repeat as often as necessary to obtain a value for the horizontal distance “d” traveled by the ball (measured from the end of the ramp) and your best estimate of the associated uncertainty in “d.”
 
-<!--- One of our goals in these first few weeks is to become comfortable with what it means to report a value with uncertainty. We've prepared a guide to help you through our expectations but do not expect you to read the full guide today. Please follow [this link, which will open in a new tab](uncertainty-introduction#random-uncertainty){:target="_blank"}. You do not need to read the complete guide, just until the link:
-
-## Return to Module 0 and begin data collection --->
 
 You should spend ~30 min trying to get a good estimate of the ditance "d" and its uncertainty. Please submit your estimate and uncertainty on the following form: (only one lab partner should submit your team's result)
 
