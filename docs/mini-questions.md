@@ -108,7 +108,7 @@ On this page you will find all of the mini-questions for Module 1. Although each
 
 #### Mini-question: Conclusive or Inconclusive?
 [*Click here to open in a new tab*](https://forms.gle/HuPkPLzMvhdmDgws9){:target="_blank"}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKAlC4pJs-5HUGtI43hDDvWdsc2GGYW4juqz3infjcnj5EhA/viewform?embedded=true" width="640" height="1567" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKAlC4pJs-5HUGtI43hDDvWdsc2GGYW4juqz3infjcnj5EhA/viewform?embedded=true" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 
