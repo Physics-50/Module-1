@@ -138,8 +138,8 @@ For Module 1, your deliverable is a single figure, with a caption, that conveys 
 In your experiment, you explored the effect of mass on the coefficient of static friction, but to give you a sense of what we hope your figure will be like, let’s imagine for a moment that you were studying the effect of location on the inclined plane (e.g., cutting board) on the coefficient of static friction. Here’s what a figure about that might look like:
 
 
-![figure example](images/m1-deliverable-example.png)
-Figure 1. Coefficient of static friction depends on the location of the tuna can on the cutting board. (a) Experimental setup. The coefficient of static friction was determined by measuring the critical angle for five different starting locations of a tuna can on a cutting board. Precise control over ramp angle was achieved with a balanced pulley system, enabling the ramp to be raised more slowly. Scale bar: 30 cm. (b) The coefficient of static friction is not independent of position, since the values do not agree with the best fit horizontal line, within their error bars (standard error of the mean from 5 trials). One possible explanation for the dependence is potential non-uniformity in the surface roughness of the cutting board used for this experiment. Further studies should be performed to investigate this.
+![figure example](images/example-figure-Dec19-2021.png)
+Figure 1. Coefficient of static friction, $$\mu_{\rm s}$$ depends on the location of the tuna can on the cutting board. (a) Experimental setup. The coefficient of static friction was determined by measuring the critical angle for five different starting locations of a tuna can on a cutting board. Precise control over ramp angle was achieved with a balanced pulley system, enabling the ramp to be raised more slowly. Scale bar: 30 cm. (b) The coefficient of static friction is not independent of position, since the values do not agree with the best fit horizontal line, within their error bars (standard error of the mean from 5 trials). This is also evident from the $$\chi_{\nu}^2$$ value of 15.8. One possible explanation for the dependence of $$\mu_{\rm s}$$ on position is potential non-uniformity in the surface roughness of the cutting board used for this experiment. Further studies should be performed to investigate this.
 
 ## Drawing Conclusions
 
@@ -160,6 +160,7 @@ Let's practice with a mini-question:
 
 ---------------------------
 
+## Expectations for your Deliverable
 
 #### Your figure must include:
 1. Panel (a) featuring a photo of your experimental setup with
@@ -169,11 +170,11 @@ Let's practice with a mini-question:
    + **axes**, with axis labels, units, and tick marks
    + **data points**, with consistent data point symbols
    + **error bars**, attached to the individual data points
-   + **a horizontal line** that comes from a weighted best fit computed in MATLAB
+   + **a horizontal line** that comes from a weighted best fit computed in using the [provided fitting script](https://physics.hmc.edu/fitter/).
 
 
 The figure must also include a caption with the following:
-1. A **title sentence** (with a verb) that briefly states what to conclude from the figure
+1. A **title sentence** (with a subject and a verb) that briefly states what to conclude from the figure
 
 2. A description of panel (a), including
    + a brief **explanation of the experiment**
@@ -182,6 +183,7 @@ The figure must also include a caption with the following:
    + a **connection to data** sentence that directly connects your conclusion to the data shown in the plot
    + a definition of the **error bars**
    + a description of what the **horizontal line** represents
+   + your conclusion should mention the reduced $$\chi^2$$ value for the fit and its significance
 
 Can you find each of these elements in the above example figure?
 
