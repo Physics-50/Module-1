@@ -138,8 +138,16 @@ For Module 1, your deliverable is a single figure, with a caption, that conveys 
 In your experiment, you explored the effect of mass on the coefficient of static friction, but to give you a sense of what we hope your figure will be like, let’s imagine for a moment that you were studying the effect of location on the inclined plane (e.g., cutting board) on the coefficient of static friction. Here’s what a figure about that might look like:
 
 
-![figure example](images/FivePointsAndALinePanelAandB.png)
-Figure 1. Coefficient of static friction depends on the location of the tuna can on the cutting board. (a) Experimental setup. The coefficient of static friction was determined by measuring the critical angle for five different starting locations of a tuna can on a cutting board. Scale bar: 5 cm. (b) The coefficient of static friction is not independent of position, since the values do not agree with the best fit horizontal line, within their error bars (standard error of the mean).
+![figure example](images/m1-deliverable-example.png)
+Figure 1. Coefficient of static friction depends on the location of the tuna can on the cutting board. (a) Experimental setup. The coefficient of static friction was determined by measuring the critical angle for five different starting locations of a tuna can on a cutting board. Precise control over ramp angle was achieved with a balanced pulley system, enabling the ramp to be raised more slowly. Scale bar: 30 cm. (b) The coefficient of static friction is not independent of position, since the values do not agree with the best fit horizontal line, within their error bars (standard error of the mean from 5 trials). One possible explanation for the dependence is potential non-uniformity in the surface roughness of the cutting board used for this experiment. Further studies should be performed to investigate this.
+
+## Drawing Conclusions
+
+If your results support your hypothesis then drawing conclusions should be relatively straight forward. But what if they don't? 
+
+If your results do not support the hypothesis there are two possibilities. They might negate the hypothesis or they might be inconclusive. Distinguishing between these two possibilities can be subtle and require some judgement that may depend on the experiment itself. 
+
+Let's practice with a mini-question:
 
 
 #### Your figure must include:
