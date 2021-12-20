@@ -1,6 +1,6 @@
 # Module 1.5
 
-Module 1.5 is a one-week introduction to careful experimentation and dealing with uncertainties arising from systematic error.  It is not a full module and has only a short post-lab checkpoint to be turned in. 
+Module 1.5 is a one-week introduction to careful experimentation and dealing with uncertainties arising from systematic error.  It is not a full module and has only a short post-lab checkpoint to be turned in. There are no mini-questions for Module 1.5.
 
 **You have been issued a new Google Sheet and Google Doc through Google Classroom for Module 1.5. Make sure you have both the Google Sheet and the Google Doc (your Module 1.5 lab notebook) handy as you go through the content on this Week 1 page. Remember: you are required to use the provided spreadsheet/lab notebook.**
 
