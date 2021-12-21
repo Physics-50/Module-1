@@ -2,7 +2,7 @@
 
 Module 1.5 is a one-week introduction to careful experimentation and dealing with uncertainties arising from systematic error.  It is not a full module and has only a short post-lab checkpoint to be turned in. There are no mini-questions for Module 1.5.
 
-**You have been issued a new Google Sheet and Google Doc through Google Classroom for Module 1.5. Make sure you have both the Google Sheet and the Google Doc (your Module 1.5 lab notebook) handy as you go through the content on this Week 1 page. Remember: you are required to use the provided spreadsheet/lab notebook.**
+**You have been issued a new Google Sheet and Google Doc through Google Classroom for Module 1.5. Make sure you have both the Google Sheet and the Google Doc (your Module 1.5 lab notebook) handy as you go through the content on this Module 1.5 page. Remember: you are required to use the provided spreadsheet/lab notebook.**
 
 The experiment: You will roll a ball down a ramp and let it fall from the end of the ramp to the floor. The ramp should be set to 5° from the horizontal. You need to measure the horizontal distance between the end of the ramp and the ball's first landing point on the floor, including an estimate of the uncertainty in the measurement.
 
@@ -22,7 +22,7 @@ Steps:
 + Repeat as often as necessary to obtain a value for the horizontal distance “d” traveled by the ball (measured from the end of the ramp) and your best estimate of the associated uncertainty in “d.”
 
 
-You should spend ~30 min trying to get a good estimate of the distance "d" and its uncertainty. Please submit your estimate and uncertainty on the following form: (only one lab partner should submit your team's result)
+You should spend less than 30 minutes trying to get a good estimate of the distance "d" and its uncertainty. Please submit your estimate and uncertainty on the following form: (only one lab partner should submit your team's result)
 
 **The Following is not a Mini-question and should be completed in lab, not before coming to lab. Also, we request that only one student from your lab partner pair answer this question (with a response you agree on).**
 
@@ -33,7 +33,7 @@ You should spend ~30 min trying to get a good estimate of the distance "d" and i
 </iframe>
 
 --------------------------
-Once you have submitted your result please think about how you might obtain a more accurate estimate. You should not move on to the final estimate below until the class has discussed the initial estimate results and procedures for final estimates.
+Once you have submitted your result, you should not move on to the final estimate below until the class has discussed the initial estimate results and procedures for final estimates.
 
 Following the class discussion and further investigations guided by it, please submit your final estimate here:
 
@@ -51,8 +51,8 @@ Following the class discussion and further investigations guided by it, please s
 
 Your checkpoint for this week (submitted on Gradescope) will include the following:
 
-+ Your best estimate, with uncertainty, for the distance the ball landed from the ramp, based on your own results
-+ Your best estimate of the distance and uncertainty from the class results
++ Your best estimate, with uncertainty, for the distance the ball landed from the ramp, based on your own second-round results
++ The best estimate of the distance and uncertainty from the results of the class as a whole
 + Answers to the following questions:
     - What were the primary sources of uncertainty that you found it essential to control to obtain accurate results in this experiment (explain)? 
     - Do your results and those of the class as a whole appear reasonable? What basis are you using to reach this conclusion? Please limit your response to 2-3 sentences.
