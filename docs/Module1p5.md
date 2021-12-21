@@ -15,7 +15,7 @@ Please follow these instructions:
 Goal: measure, with uncertainty, the horizontal distance traveled by a ball falling to the floor after rolling down an inclined plane placed on top of a lab bench.
 
 Steps:
-+ Set the incline of the “ramp” to 5° above the table. 
++ Set the incline of the “ramp” to 5° above the table. Please do this without making use of the Phyphox App.
 + Move the lower end of the ramp to the edge of the table.
 + Use the blue masking tape to attach a length of pressure sensitive tape (roll of colored paper) to the floor where you anticipate the ball will land.
 + Place the ball 1 meter from the lower end of the ramp (measured along the length of the ramp) and release.
