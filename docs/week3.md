@@ -6,9 +6,9 @@ This week is focused on the analysis and presentation of your results. You do no
 
 While talks, podcasts and videos are all wonderfully rich formats for sharing scientific results, in physics and many other scientific disciplines, the golden standard for communication is a published journal article, or “paper” for short. The physics article is typically composed of (1) a short abstract summarizing the main findings, (2) the main body of the paper, including figures, and (3) a bibliography to help contextualize the results within the broader field of research.
 
-But what if you just don’t have the time to read all those parts of each article you need to check out? The neat trick for quickly scanning physics papers also works as a fantastic method for writing your own paper: focus on the figures. A good rule of thumb is that if you “read” every figure+caption, you should get the gist of the main conclusions of the paper, as well as a sense of how those results were determined. In fact, the sequence of figures+captions acts a lot like an outline you may have produced in Writ 001, in that it conveys the main result (thesis) by showing evidence in support of a sequence of sub-claims. The evidence is usually shown directly in the figure, using either a plot with data points or an image of the system studied. The analysis of that evidence is ideally concisely summarized in the figure captions.
+But what if you just don’t have the time to read all those parts of each article you need to check out? The neat trick for quickly scanning physics papers also works as a fantastic method for writing your own paper: focus on the figures. A good rule of thumb is that if you read every figure+caption, you should get the gist of the main conclusions of the paper, as well as a sense of how those results were determined. In fact, the sequence of figures+captions acts a lot like an outline you may have produced in Writ 001, in that it conveys the main result (thesis) by showing evidence in support of a sequence of sub-claims. The evidence is usually shown directly in the figure, using either a plot with data points or an image of the system studied. The analysis of that evidence is ideally concisely summarized in the figure captions.
 
-In Physics 50, you will ultimately get to experience what it’s like to create a sequence of figures with captions that would provide the backbone to a physics paper. The first step in that process is to learn how to create a single figure with a caption.
+In Physics 50, you will learn to create a sequence of figures with captions that would provide the backbone of a physics paper. The first step in that process is to learn how to create a single figure with a caption.
 
 ## A figure showing a plot
 
@@ -18,19 +18,19 @@ The fundamental elements that a figure with a plot needs to be effective are:
 
 *In the figure itself*
 
-+ **Axes**, with axis labels, units, and tick marks in a font that is as big as the text in the caption and surrounding paragraphs. It is okay to label an axis using a mathematical symbol for a variable, as long as the symbol is defined with words in the caption.
++ **Axes**, with axis labels, units, and tick marks in a font that is as big as the text in the caption and surrounding paragraphs. It is fine to label an axis using a mathematical symbol for a variable, as long as the symbol is defined with words in the caption.
 
-+ **Data points**, with consistent data point symbols. If there is more than one data set in the plot, each data set should have its own symbol shape and color. These are typically described in the caption, not using a legend.
++ **Data points**, with consistent data point symbols. If there is more than one data set in the plot, each data set should have its own symbol shape and color. These are typically described in the caption, not using a legend on the plot itself.
 
-+ **Error bars**, attached to the individual data points and should match the color of the data point symbols.
++ **Error bars**, attached to the individual data points and matching the color of the data point symbols.
 
 + **(optional) Additional markings:** If there are any additional symbols or marks in the figure that are not data points, they must be clearly separated from and visually distinct (in e.g., shape, color) from the data point symbols.
 
 *In the figure caption*
 
-+ **Title sentence:** This short sentence (with a subject and a verb!) explains the point of what is shown in the figure. It tells the reader what your data mean and ideally this clearly connects to the main result (thesis) of the paper.
++ **Title sentence:** This short sentence (with a subject and a verb!) explains the point of what is shown in the figure. It tells the reader what your data mean and ideally directly presents or supports the main result (thesis) of the paper.
 
-+ **Salient details of the experiment:** It is not enough to just tell the reader about your results, we also need to know how the data was collected? What does the reader need to know about your experiment to understand the data?
++ **Salient details of the experiment:** It is not enough to just tell the reader about your results; we also need to know how the data was collected. What does the reader need to know about your experiment to understand the data?  Typically this means summarizing the experimental procedure and/or analysis methods used to produce the data shown in the figure.  Some of these salient details are mentioned in the bullet points below.
 
 + **Connection to data:** The caption must make a direct connection between what is shown in the plot and the claim made in the title sentence.
 
@@ -38,11 +38,11 @@ The fundamental elements that a figure with a plot needs to be effective are:
 
 + **(optional) Statement of axis labels:** If any axes are labeled using mathematical symbols, those symbols must be defined using words in the caption. 
 
-+ **(optional) Definition of data point symbols:** If there is more than one data set shown in the plot, each data point symbol must be defined. Typically this is done in the caption, not in a legend.
++ **(optional) Definition of data point symbols:** If there is more than one data set shown in the plot, each data point symbol must be defined. Typically this is done in the caption, not in a legend on the plot itself.
 
 + **Definition of error bars:** The caption must define what the error bars represent (for example, they might represent [the standard error of the mean](uncertainty-introduction#random-uncertainty), or SEM). When describing error bars as the SEM it is helpful to include the number of trials.
 
-+ **(optional) Definition of additional markings:** If there are any additional symbols or marks in the figure that are not data points, those symbols must be defined in the caption, not in a legend. An example would be in the case of an annotation of your experimental apparatus (this will come up in module 2).
++ **(optional) Definition of additional markings:** If there are any additional symbols or marks in the figure that are not data points, those symbols must be defined in the caption, not in a legend. An example would be annotations on a photo or diagram of your experimental apparatus (this will come up in module 2).
 
 Here is an annotated example of a figure with a plot, taken from [this article](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.018002){:target="_blank"} in the journal Physical Review Letters. Note that the figure also contains some experimental images that help to convey the main point of the figure, but for the purposes of this lesson, we will just focus on the last panel of the figure, which contains a plot.
 
@@ -57,15 +57,15 @@ You will recognize many of the same elements as for a figure with a plot, and so
 
 In the figure itself
 
-+ **Scale bar:** Any experimental images (e.g., from a microscope) should be accompanied by a scale bar, which provides a sense of the size of the system studied. Usually a scale bar is a plain, thick horizontal line segment in black or white. The length of the scale bar is either written directly above or below the bar, or it is provided in the caption.
++ **Scale bar:** Any experimental images (e.g., from a microscope) should be accompanied by a scale bar, which provides a sense of the size of the system studied. Usually a scale bar is a plain, thick horizontal line segment in black or white. The length of the scale bar is either written directly above or below the bar, or it is provided in the caption.  If a ruler is clearly shown (with legible markings) in the image itself, it provides a scale bar and an additional one is not necessary.
 
 + **(optional) Additional markings:** If there are any additional symbols or marks in the figure that are not data points, they must be visually distinct (in e.g., shape, color) from the images shown in the figure.
 
 *In the figure caption*
 
-+ **Title sentence:** This short sentence (with a subject and a verb!) explains the point of what is shown in the figure. It tells the reader what your data mean and ideally this clearly connects to the main result (thesis) of the paper.
++ **Title sentence:** This short sentence (with a subject and a verb!) explains the point of what is shown in the figure. It tells the reader what your data mean and ideally directly presents or supports the main result (thesis) of the paper.
 
-+ **Connection to data** The caption must make a direct connection between what is shown in the figure and the claim made in the title sentence. Where appropriate there should also be a connection between panels of the figure. For example in the figure you will prepare for this module, the description of your image of the experimental set-up (panel a) should include sufficient detail of the experimental procedure for the reader to understand how the data presented in the plot in panel B was obtained.
++ **Connection to data** The caption must make a direct connection between what is shown in the figure and the claim made in the title sentence. Where appropriate there should also be a connection between panels of the figure. For example in the figure you will prepare for this module, the description of your image of the experimental setup (panel a) should include sufficient detail of the experimental procedure for the reader to understand how the data presented in the plot in panel B was obtained.
 
 + **(optional) Panel title:** If the figure has multiple panels, each panel gets its own brief title. This is almost always a phrase, without a verb.
 
@@ -92,13 +92,13 @@ Here is an annotated example of a figure without a plot, taken from [this articl
 
 ## Before you begin
 
-Before plotting your data you will want to address any major concerns that may have been raised with your analysis on the checkpoint. In particular, make sure you are estimating your uncertainty correctly. For this experiment we anticipate that in all cases your uncertainty will have been dominated by random uncertainty. Make sure you have also propagated this uncertainty in angle to yield an uncertainty in the coefficient of static friction. This should have been done last week, but if you had any issues this would be a good time to check in with an instructor.
+Before plotting your data you will want to address any major concerns that may have been raised with your analysis on the checkpoint. In particular, make sure you are estimating your uncertainty correctly. For this experiment we anticipate that in all cases your uncertainty will have been dominated by random uncertainty (the SEM of repeated trials). Make sure you have propagated this uncertainty in angle to yield an uncertainty in the coefficient of static friction. This should have been done last week, but if you had any issues this would be a good time to check in with an instructor.
 
 If issues were raised with your histograms you should also talk to an instructor. You may need to collect additional data (and include it in your analysis) to reach a satisfactory conclusion.
  
 ## Finding the Mean Value and Random Error by Fitting a Horizontal Line
 
-At this point you should be thinking about how to analyze your data for consistency with your hypothesis and, if the results are consistent with the hypothesis, generate a mean value to report. You should have multiple measured values for the coefficient of friction from measurements with different mass. Measurements for different mass should each have their own random error $$\delta\mu_{s_1}, \delta\mu_{s_2}, ..., \delta\mu_{s_n}$$.  How should you combine these to get the best final value for coefficient of friction?  What is the correct random error for that final value? And how should you gauge whether the results are consistent with your hypothesis?
+At this point you should be thinking about how to analyze your data for consistency with your hypothesis and, if the results are consistent with the hypothesis, generate an overall best value of $$\mu_s$$ to report. You should have multiple measured values for the coefficient of friction from measurements with different mass. Measurements for different mass should each have their own random error $$\delta\mu_{s_1}, \delta\mu_{s_2}, ..., \delta\mu_{s_n}$$.  How should you combine these to get the best final value for coefficient of friction?  What is the correct uncertainty for that final value? And how should you gauge whether the results are consistent with your hypothesis?
 
 Just averaging the different values is not the best method of combining the data, because some of the values are more certain than others.  If we are getting directions in a strange town, we naturally weight conflicting advice according to how certain each person seems about the directions they are giving us.  We need to do something similar --- but more quantitative --- with our several values for the coefficient of static friction.  
 
@@ -115,7 +115,7 @@ In Physics 50 you will make use of a script provided here to plot your data:
 
 [Go here to plot physics 50 data](https://physics.hmc.edu/fitter/)
 
-**Please note that use of the provided plotting script for plotting your data is required, plots in Google sheets do not meet course expectations.**
+**Please note that use of the provided plotting script for plotting your data is required; plots in Google sheets do not generate best-fit lines that account for uncertainties of individual data points, and so do not meet course expectations.**
 
 [A step-by-step guide to using the curve fitting tool is provided here](plotting-guide).
 
@@ -135,17 +135,17 @@ What do I need to make for Module 1?
 For Module 1, your deliverable is a single figure, with a caption, that conveys what you learned from your experimentation. Remember: **Experimental science is not about getting the "right" or expected answer.** You are trying to make a careful conclusion that is supported by the data you collected. If your data doesn't support the hypothesis, you should draw a cautious and properly qualified conclusion based on your data.
 
 
-In your experiment, you explored the effect of mass on the coefficient of static friction, but to give you a sense of what we hope your figure will be like, let’s imagine for a moment that you were studying the effect of location on the inclined plane (e.g., cutting board) on the coefficient of static friction. Here’s what a figure about that might look like:
+In your experiment, you explored the effect of mass on the coefficient of static friction, but to give you a sense of what we hope your figure will be like, let’s imagine for a moment that you were studying whether different locations on the inclined plane lead to different coefficients of static friction. Here’s what a figure about that might look like:
 
 
 ![figure example](images/example-figure-Dec19-2021.png)
-Figure 1. Coefficient of static friction, $$\mu_{\rm s}$$ depends on the location of the mass on the board. (a) Experimental setup. The coefficient of static friction was determined by measuring the critical angle for five different starting locations of a mass in a petri dish on a board made of pine wood. Precise control over ramp angle was achieved with a balanced pulley system, enabling the ramp to be raised more slowly. Scale bar: 30 cm. (b) The coefficient of static friction is not independent of position, since the values do not agree with the best fit horizontal line, within their error bars (standard error of the mean from 5 trials). This is also evident from the $$\chi_{\nu}^2$$ value of 15.8. One possible explanation for the dependence of $$\mu_{\rm s}$$ on position is potential non-uniformity in the surface roughness of the cutting board used for this experiment. 
+Figure 1. Coefficient of static friction, $$\mu_{\rm s}$$ depends on the location of the mass on the board. (a) Experimental setup. The coefficient of static friction was determined by measuring the critical angle for five different starting locations of a mass in a petri dish on a board made of pine wood. Precise control over ramp angle was achieved with a balanced pulley system, enabling the ramp to be raised more slowly. Scale bar: 30 cm. (b) The coefficient of static friction is not independent of position, since the values do not agree with the best fit horizontal line, within their error bars (standard error of the mean from 5 trials). This is also evident from the $$\chi_{\nu}^2$$ value of 15.8. One possible explanation for the dependence of $$\mu_{\rm s}$$ on position is potential non-uniformity in the surface roughness of the board used for this experiment. 
 
 ## Drawing Conclusions
 
-If your results support your hypothesis then drawing conclusions should be relatively straight forward. But what if they don't? 
+If your results support your hypothesis then drawing conclusions should be relatively straightforward. But what if they don't? 
 
-If your results do not support the hypothesis there are two possibilities. They might negate the hypothesis or they might be inconclusive. Distinguishing between these two possibilities can be subtle and require some judgement that may depend on the experiment itself. 
+If your results do not support the hypothesis there are two possibilities: they might negate the hypothesis or they might be inconclusive. Distinguishing between these two possibilities can be subtle and require some judgement that may depend on the experiment itself. 
 
 Let's practice with a mini-question:
 
@@ -177,7 +177,7 @@ The figure must also include a caption with the following:
 1. A **title sentence** (with a subject and a verb) that briefly states what to conclude from the figure
 
 2. A description of panel (a), including
-   + a brief **explanation of the experiment**
+   + a brief **explanation of the experiment**, understandable to someone who has not taken Physics 50
    + a definition of the **scale bar**
 3. A description of panel (b), including
    + a **connection to data** sentence that directly connects your conclusion to the data shown in the plot
@@ -187,9 +187,9 @@ The figure must also include a caption with the following:
 
 Can you find each of these elements in the above example figure?
 
-Please note that in this course, because you are only submitting a figure with a caption without an accompanying write-up, we expect a figure caption that is more detailed than you might see in a typical paper. In this course, your figure caption needs to stand alone and explain pertinent details of the experiment on a level that would enable a fellow student who has not taken physics 50 to understand key details of your experiment and conclusions. The length should be on the order of a "paragraph". i.e. more than a couple of sentences but not anything approaching a full page!
+Please note that in this course, because you are only submitting a figure with a caption without an accompanying write-up, we expect a figure caption that is more detailed than you might see in a typical paper. In this course, your figure caption needs to stand alone and explain pertinent details of the experiment on a level that would enable a fellow student who has not taken Physics 50 to understand key details of your experiment and conclusions. The length should be on the order of a paragraph: more than a couple of sentences but not anything approaching a full page!
 
-Please upload your figure to Gradescope according to the instructions provided there (note that you will have to upload it more than once). Make sure to include both the figure and caption.
+Please upload your figure to Gradescope according to the instructions provided there (note that you will have to upload it more than once). Make sure to include both the figure and caption in the same image file.
 
 **You should follow the deadlines for your section as outlined in the syllabus. These are the same deadlines as when you normally would have a checkpoint due (i.e. the Module 1 deliverable is due 1 week after the deadline for checkpoint 2 for your section).**
 
