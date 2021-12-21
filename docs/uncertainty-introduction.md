@@ -38,6 +38,9 @@ A measurement uncertainty is not meant to be an indication of “mistakes” tha
 ## Sources of Uncertainty
 There are many sources of uncertainty in your experiment, but not all originate in the same manner and therefore there are different methods of accounting for them.  When designing an experiment the aim is to make the uncertainty small enough to achieve the experiment’s goal — or often, to make the uncertainty as small as possible in order to observe as much detail as possible about the phenomenon.  However, always keep in mind that the uncertainty can never be reduced to zero, just made small and honestly estimated.
 
+We will instruct you to return to read the rest of this guide later. For now:
+[*Return to Module 1 Week 1*](week1#estimating-uncertainty)
+
 ### Resolution Uncertainty
 Imagine you are attempting to measure the length of an object using the meter stick shown in the figure. The length of the object is more than 80 cm and it is less than 90 cm, but we are clearly limited by the resolution of our measuring device:
 ![meter stick zoomed out](images/meter-stick-1.png)
@@ -48,18 +51,9 @@ We now get a better measuring device that has graduations down to the centimeter
 Finally, we obtain a measurement device that can measure much smaller intervals than our previous devices, surely we can now know the “exact” length of our object, right? As we see when we zoom in our measurement still could be improved by increasing the resolution of our measurement device!!
 ![image of a meter stick zoomed in a lot](images/meter-stick-3.png)
 
-Apparently even with our super device there is a limit to the knowledge that the we can gain about the length of the object. All we can say is that the length of the object is between 83.4 and 83.5 cm. Even if we use smaller and smaller divisions on our meter stick our knowledge about the length of the object will never be perfect. This type of uncertainty is called the **resolution uncertainty**. A general rule of thumb is that the resolution is half of the smallest digit a device can measure, but it may be much greater than this if other known factors are limiting your uncertainty (perhaps you can’t get your ruler close enough to make an accurate measurement or can’t really tell where the object you are trying to measure begins or ends). Estimating uncertainties requires more than rules of thumb, it also requires judgment and common sense.
+Apparently even with our super device there is a limit to the knowledge that the we can gain about the length of the object. All we can say is that the length of the object is between 83.4 and 83.5 cm. Even if we use smaller and smaller divisions on our meter stick our knowledge about the length of the object will never be perfect. This type of uncertainty is called the **resolution uncertainty**. A general rule of thumb is that the resolution is half of the smallest digit a device can measure. But it may be much greater than this if other known factors are limiting your uncertainty (perhaps you can’t get your ruler close enough to make an accurate measurement or can’t really tell where the object you are trying to measure begins or ends). It may also be less than this in cases where you are able to interpolate while making the measurement. (For example if you were to perform measurements using a meter stick with no markings with appropriate interpolation you should be able to estimate your measurements with better accuracy than 0.5m). Estimating uncertainties requires more than rules of thumb, it also requires judgment and common sense.
 
-In the context of our online Ph50 course, you will use a ruler to measure distances in Module 3. In Module 2, you will measure the speed of sound based on images of levitating beads. In that module, your resolution uncertainty will come from the uncertainty in measuring the location of the object (in pixels). 
-
-For Module 1, you are using a digital readout of the angle of inclination from the phyphox app on your phone: 
-
-<img src="images/phyphox-resolution.jpg" alt="resolution uncertainty from a digital readout" width=150 />
-
-Similar to the ruler, a good estimate of the resolution uncertainty is half of the last digit reported in the digital readout. In this example, we have measured $$\theta=1.59^\circ$$ with a resolution uncertainty in the angle of $$\delta_\mathrm{res} \theta = 0.005^\circ$$.
-
-We will instruct you to return to read the rest of this guide later. For now:
-[*Return to Module 1 Week 1*](week1#estimating-uncertainty)
+In the context of our online Ph50 course, you will use a ruler to measure distances in Module 2 and will need to consider the resolution uncertainty of the measurement. In Module 3, you will measure the speed of sound based on images of levitating beads. In that module, your resolution uncertainty will come from the uncertainty in measuring the location of the object (in pixels). 
 
 
 -------------------------------------------
