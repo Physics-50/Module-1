@@ -73,7 +73,7 @@ In the figure itself
 
 + **(optional) Definition of additional markings:** If there are any additional symbols or marks in the figure that are not data points, those symbols must be defined in the caption, not in a legend.
 
-Here is an annotated example of a figure without a plot, taken from [this article](https://www.nature.com/articles/nphys3632) in the journal *Nature Physics*. Again, this figure consists of many individual panels, some of which are obscured below to allow room for the annotations. To see the full figure in proper context, we encourage you to follow the link above to take a look at the original article.
+Here is an annotated example of a figure without a plot, taken from [this article](https://www.nature.com/articles/nphys3632){:target="_blank"} in the journal *Nature Physics*. Again, this figure consists of many individual panels, some of which are obscured below to allow room for the annotations. To see the full figure in proper context, we encourage you to follow the link above to take a look at the original article.
 
 [*Click on the image to enlarge in a new tab:*
 ![annotated figure without a plot](images/annotated-figure-no-plot.png)](images/annotated-figure-no-plot.png){:target="_blank"}
@@ -109,17 +109,17 @@ One way to find the "best fit average" of those points, which we will make use o
 
 The process of fitting a theoretical function to data is an important skill for all experimental scientists to master, and in Physics 50 we are laying a foundation for this skill. 
 
-Please follow the link to a: [Linear Fitting Introduction](curve-fitting-motivation). This introduction is meant to provide the bare minimum information that you will need to understand the use of curve fitting in Physics 50. Curve fitting may be something you will return to in your upper division courses.
+Please follow the link to a: [Linear Fitting Introduction](curve-fitting-motivation){:target="_blank"}. This introduction is meant to provide the bare minimum information that you will need to understand the use of curve fitting in Physics 50. Curve fitting may be something you will return to in your upper division courses.
 
 In Physics 50 you will make use of a script provided here to plot your data:
 
-[Go here to plot physics 50 data](https://physics.hmc.edu/fitter/)
+[Go here to plot physics 50 data](https://physics.hmc.edu/fitter/){:target="_blank"}
 
 **Please note that use of the provided plotting script for plotting your data is required; plots in Google sheets do not generate best-fit lines that account for uncertainties of individual data points, and so do not meet course expectations.**
 
-[A step-by-step guide to using the curve fitting tool is provided here](plotting-guide).
+[A step-by-step guide to using the curve fitting tool is provided here](plotting-guide){:target="_blank"}.
 
-Once you've plotted your data, please review the [information provided here for interpreting your results](interpreting-plots).
+Once you've plotted your data, please review the [information provided here for interpreting your results](interpreting-plots){:target="_blank"}.
 
 ## Assembling your figure
 
