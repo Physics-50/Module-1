@@ -96,7 +96,7 @@ Before plotting your data you will want to address any major concerns that may h
 
 If issues were raised with your histograms you should also talk to an instructor. You may need to collect additional data (and include it in your analysis) to reach a satisfactory conclusion.
  
-## Finding the Mean Value and Random Error by Fitting a Horizontal Line
+## Finding the Best-Fit $$\mu_s$$ Value and Uncertainty by Fitting a Horizontal Line
 
 At this point you should be thinking about how to analyze your data for consistency with your hypothesis and, if the results are consistent with the hypothesis, generate an overall best value of $$\mu_s$$ to report. You should have multiple measured values for the coefficient of friction from measurements with different mass. Measurements for different mass should each have their own random error $$\delta\mu_{s_1}, \delta\mu_{s_2}, ..., \delta\mu_{s_n}$$.  How should you combine these to get the best final value for coefficient of friction?  What is the correct uncertainty for that final value? And how should you gauge whether the results are consistent with your hypothesis?
 
