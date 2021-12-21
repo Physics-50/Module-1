@@ -16,7 +16,7 @@ Go to the tab in your spreadsheet that you will use to prepare your data for plo
 
 3. You should now go to the "File" menu and select "Dowload". From within the download tab select "Comma Separated Values (.csv)" and save the file to your computer.
 
-4. Now go to the [Physics 50 Fitting Page](https://physics.hmc.edu/fitter/). Under **Data** choose the .csv file you just saved. Under **Kind** select the type of fit you would like to perform. In module 1 this will be a "constant" fit, i.e. a horizontal line. Click "Run the Fit".
+4. Now go to the [Physics 50 Fitting Page](https://physics.hmc.edu/fitter/). Under **Data** choose the .csv file you just saved. Under **Kind** select the type of fit you would like to perform. In module 1 this will be a "constant" fit, i.e. a horizontal line. Go to "kind" and select "constant". Click "Run the Fit".
 
 5. The main plot should show the data points, error bars, fit function, fit information, and properly labeled axes.  The small upper plot shows "residuals," or the difference of each data point from the fit line or curve (along with the error bar of each data point).  A plot of residuals like this can be very useful when the variation of data away from the fit function is too small to see on the main plot.
 
