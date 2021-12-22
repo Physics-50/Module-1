@@ -194,10 +194,10 @@ Please upload your figure to Gradescope according to the instructions provided t
 **You should follow the deadlines for your section as outlined in the syllabus. These are the same deadlines as when you normally would have a checkpoint due (i.e. the Module 1 deliverable is due 1 week after the deadline for checkpoint 2 for your section).**
 
 
-Your deliverable will be graded for the quality of your data [4 points] and your caption which must include both the most salient details of the experimental procedure and an appropriate conclusion [4 points]. You will also be graded for figure mechanics, including appropriately labelled axes on your plot and an image of your experimental set-up that effectively showcases essential details of the experiment [2 points].
+Your deliverable will be graded for the quality of your data [4 points] and your caption which must include both the most salient details of the experimental procedure (graded as part of caption mechanics, 2 points) and an appropriate conclusion [2 points]. You will also be graded for figure mechanics, including appropriately labelled axes on your plot and an image of your experimental set-up that effectively showcases essential details of the experiment [2 points].
 
 Deductions will also be assessed for failing to submit the checkpoint on time as outlined in the course syllabus.
 
 **As a reminder: Please prepare your assignment in a separate document, enter all entries in a single sitting without using the "save" button and then make use of the "submit" button to submit your work. You may not resubmit your work once it has been submitted (and saving in Gradescope is equivalent to submitting).**
 
-Don't forget to double-check that you've completed the miniquestion for this week. You can find this week's mini-question [here](mini-questions#week-3){:target="_blank"}.
+Don't forget to double-check that you've completed the mini-questions for this week. You can find this week's mini-questions [here](mini-questions#week-3){:target="_blank"}.
