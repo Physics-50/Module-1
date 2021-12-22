@@ -102,7 +102,7 @@ At this point you should be thinking about how to analyze your data for consiste
 
 Just averaging the different values is not the best method of combining the data, because some of the values are more certain than others.  If we are getting directions in a strange town, we naturally weight conflicting advice according to how certain each person seems about the directions they are giving us.  We need to do something similar --- but more quantitative --- with our several values for the coefficient of static friction.  
 
-One way to find the "best fit average" of those points, which we will make use of, is to find the best fit horizontal line to match the data when plotting coefficient of friction versus mass (see figure below). Looking at the horizontal fit to the plotted data will also help us to analyze whether our data agrees with the hypothesis. For Module 1, all you need to do is [go to this link] and fit a horizontal line to your data.
+One way to find the "best fit average" of those points, which we will make use of, is to find the best fit horizontal line to match the data when plotting coefficient of friction versus mass (see figure below). Looking at the horizontal fit to the plotted data will also help us to analyze whether our data agrees with the hypothesis. For Module 1, all you need to do is [go to this link](https://physics.hmc.edu/fitter/) and fit a horizontal line to your data.
 
 
 ## Plotting your data
