@@ -4,6 +4,8 @@ Module 1.5 is a one-week introduction to careful experimentation and dealing wit
 
 **You have been issued a new Google Sheet and Google Doc through Google Classroom for Module 1.5. Make sure you have both the Google Sheet and the Google Doc (your Module 1.5 lab notebook) handy as you go through the content on this Module 1.5 page. Remember: you are required to use the provided spreadsheet/lab notebook.**
 
+You should set-up your own spreadsheet for this week's experiment. Please use the templates of Module 1 as a guide to set-up an organized spreadsheet.
+
 The experiment: You will roll a ball down a ramp and let it fall from the end of the ramp to the floor. The ramp should be set to 5° from the horizontal. You need to measure the horizontal distance between the end of the ramp and the ball's first landing point on the floor, including an estimate of the uncertainty in the measurement.
 
 The pressure-sensitive tape provided on your bench can be used to visualize where the ball lands. 
@@ -19,6 +21,7 @@ Steps:
 + Move the lower end of the ramp to the edge of the table.
 + Use the blue masking tape to attach a length of pressure sensitive tape (roll of colored paper) to the floor where you anticipate the ball will land.
 + Place the ball 1 meter from the lower end of the ramp (measured along the length of the ramp) and release.
++ Measure the horizontal distance of the point of impact of the ball on the tape from the end of the ramp.
 + Repeat as often as necessary to obtain a value for the horizontal distance “d” traveled by the ball (measured from the end of the ramp) and your best estimate of the associated uncertainty in “d.”
 
 
