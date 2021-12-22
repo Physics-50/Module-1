@@ -53,7 +53,11 @@ Deadlines for checkpoints will be as follows:
 + Thursday sections: due Mondays at 10 pm
 + Friday sections: due Tuesdays at 10 pm
 
-Finally, at the end of each module you will submit a module deliverable via Gradescope. Deadlines for the deliverables will follow the same calendar.
+Finally, at the end of each module you will submit a module deliverable via Gradescope. Deadlines for the deliverables will follow the same calendar, with one exception. The deadlines for the module 2 deliverable will be:
+
++ Wednesday sections: Module 2 deliverable due Tuesday, March 22 at 10pm
++ Thursday sections: Module 2 deliverable due Wednesday, March 23 at 10pm
++ Friday sections: Module 2 deliverable due Thursday, March 24 at 10pm
 
 **Please take note of the above deadlines for your section - since all sections have different deadlines but use the same Gradescope portal, the deadlines listed on Gradescope are not accurate and cannot be relied on.**
 
