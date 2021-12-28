@@ -67,7 +67,7 @@ Following the class discussion and further investigations guided by it, please s
 
 
 
-Your instructor will share the class results from this 
+Your instructor will share the class results from this second estimate with you as a "view only" Google Sheet. Please copy the results shared by your instructor into a new sheet within your Google Sheet (there is a second sheet in your assigned Google Sheets notebook titled "class data" that you should use for this). [Now use the Physics 50 Fitting Script](https://physics.hmc.edu/fitter/) to fit a horizontal line to the class data. Remember to do this you will need to generate a .csv file from the data with appropriate headers. The column headers will become the axes labels. You can find a [reminder of how to do this here](https://physics-50.github.io/Module-1/plotting-guide).
 
 # Checkpoint for Module 1.5
 
