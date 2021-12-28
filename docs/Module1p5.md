@@ -29,27 +29,46 @@ You should spend less than 30 minutes trying to get a good estimate of the dista
 
 **The Following is not a Mini-question and should be completed in lab, not before coming to lab. Also, we request that only one student from your lab partner pair answer this question (with a response you agree on).**
 
+
+
+
 --------------------------
 #### Estimate of distance ball lands from ramp with uncertainty (Part I)
 [*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSd3mydGdP_7kp1lxrU7AubdgjNYQ9VjfjR57ExSFNkHKXKyJA/viewform?usp=sf_link){:target="_blank"}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd3mydGdP_7kp1lxrU7AubdgjNYQ9VjfjR57ExSFNkHKXKyJA/viewform?usp=sf_link" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd3mydGdP_7kp1lxrU7AubdgjNYQ9VjfjR57ExSFNkHKXKyJA/viewform?usp=sf_link" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 --------------------------
+
+
+
+
 Once you have submitted your result, you should not move on to the final estimate below until the class has discussed the initial estimate results and procedures for final estimates.
 
-Following the class discussion and further investigations guided by it, please submit your final estimate here:
+Following the class discussion and further investigations guided by it, please submit a new estimate here:
 
 **The Following is not a Mini-question and should be completed in lab, not before coming to lab. Also, we request that only one student from your lab partner pair answer this question (with a response you agree on).**
 
+
+
+
 --------------------------------
 
-#### Final Estimate
+
+
+#### Second Estimate
 [*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLScvaAjEFgmLha8VIqN0pLOAK4n2BmM6thdftFbnvRVEXRms7w/viewform?usp=sf_link){:target="_blank"}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScvaAjEFgmLha8VIqN0pLOAK4n2BmM6thdftFbnvRVEXRms7w/viewform?usp=sf_link" width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScvaAjEFgmLha8VIqN0pLOAK4n2BmM6thdftFbnvRVEXRms7w/viewform?usp=sf_link" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
+
+
 ----------------------------------------------------------------
+
+
+
+Your instructor will share the class results from this 
+
 # Checkpoint for Module 1.5
 
 Your checkpoint for this week (submitted on Gradescope) will include the following:
