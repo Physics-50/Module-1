@@ -74,6 +74,7 @@ Your instructor will share the class results from this second estimate with you 
 Your checkpoint for this week (submitted on Gradescope) will include the following:
 
 + Your best estimate, with uncertainty, for the distance the ball landed from the ramp, based on your own second-round results
++ Your plot of the class results
 + The best estimate of the distance and uncertainty from the results of the class as a whole
 + Answers to the following questions:
     - What were the primary sources of uncertainty that you found it essential to control to obtain accurate results in this experiment (explain)? 
