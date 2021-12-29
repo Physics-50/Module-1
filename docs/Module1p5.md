@@ -67,7 +67,7 @@ Following the class discussion and further investigations guided by it, please s
 
 
 
-Your instructor will share the class results from this second estimate with you as a "view only" Google Sheet. Please copy the results shared by your instructor into a new sheet within your Google Sheet (there is a second sheet in your assigned Google Sheets notebook titled "class data" that you should use for this). [Now use the Physics 50 Fitting Script](https://physics.hmc.edu/fitter/) to fit a horizontal line to the class data. Remember to do this you will need to generate a .csv file from the data with appropriate headers. The column headers will become the axes labels. You can find a [reminder of how to do this here](https://physics-50.github.io/Module-1/plotting-guide).
+Your instructor will share the class results from this second round of measurements with you as a "view only" Google Sheet. Please copy the results shared by your instructor into a new sheet within your Google Sheet (there is a second sheet in your assigned Google Sheets notebook titled "class data" that you should use for this). [Now use the Physics 50 Fitting Script](https://physics.hmc.edu/fitter/) to fit a horizontal line to the class data. Remember to do this you will need to generate a .csv file from the data with appropriate headers. The column headers will become the axes labels. You can find a [reminder of how to do this here](https://physics-50.github.io/Module-1/plotting-guide). You should make use of the information provided from the fit, including the best fit line with uncertainty and reduced $$\chi^2$$ value in completing the checkpoint, including determining your estimate of the distance, its uncertainty and drawing conclusions on the reasonableness of your results and those of the class as a whole.
 
 # Checkpoint for Module 1.5
 
@@ -78,4 +78,7 @@ Your checkpoint for this week (submitted on Gradescope) will include the followi
 + The best estimate of the distance and uncertainty from the results of the class as a whole
 + Answers to the following questions:
     - What were the primary sources of uncertainty that you found it essential to control to obtain accurate results in this experiment (explain)? 
-    - Do your results and those of the class as a whole appear reasonable? What basis are you using to reach this conclusion? Please limit your response to 2-3 sentences.
+    - Do your results and those of the class as a whole appear reasonable? What basis are you using to reach this conclusion? Please limit your response to 2-4 sentences.
+
+
+**Your checkpoint should focus entirely on data from the second round of measurements.**
