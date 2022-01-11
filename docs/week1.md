@@ -169,7 +169,7 @@ Reducing random uncertainty can include both improving our measurement technique
 ## Propagating Uncertainties
 + Learn how to propagate uncertainties from this video of Prof. Gerbode explaining how to propagate uncertainty in $$\theta_c$$ to uncertainty in $$\mu_s$$ and answer the mini-question below
 
-[![Click on the link to get to the video](images/uncertainty-propagation-video-preview.png)](https://drive.google.com/file/d/1ilJNsVSgB_asmDdfjQwoyRdhedsSjaWO/view?usp=sharing){:target="_blank"}
+[![Click on the link to get to the video](images/cover-Gerbode-uncertainty-video.png)](https://drive.google.com/file/d/1GLGA8MInF-s2Uuap1_ahaoWuxXGqzwCe/view?usp=sharing){:target="_blank"}
 
 
 --------
