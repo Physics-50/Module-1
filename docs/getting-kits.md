@@ -16,5 +16,5 @@ What you need if you aren't able to make it to campus and need to find your own 
 
 + tape (to attach your phone to the ramp)
 
-The other supplies (string and binder clip) are optional they were included in case you find them helpful for increasing your control as you raise the ramp but are not necessary.
+The other supplies (string and binder clip) are optional. They were included in case you find them helpful for increasing your control as you raise the ramp but are not necessary.
 
