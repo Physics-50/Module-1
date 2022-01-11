@@ -16,6 +16,8 @@
 
 --------------
 
+Before you begin working on this module you will need to collect a kit with supplies for module 1. These kits will be available from the Jacobs-Keck courtyard on Tuesday, January 18 from 9:30am-5:00pm. [If you are unable to collect a kit on this date please follow this link](getting-kits).
+
 For all experiments in this course, you will keep a data sheet (Google Sheet) and a lab notebook (Google Doc) that are individually assigned to you through Google Classroom.  Before you can access your assigned documents, you must first go to Google Classroom through a Chrome browser logged into your g.hmc.edu account and join the class with classroom code: **tn6uwnu
 **  - or use this [link](https://classroom.google.com/u/0/w/NDQ2NjQ4MzA5Njky/t/all). After you've done this once, you will not have to log into Google classroom separately again; all links to documents we provide through Google classroom in this lab manual should work.  Once you've signed up for Google classroom you will also receive links to your assigned spreadsheet and lab notebook via e-mail, or you can access them through Google classroom under classwork - Module 0.
 
@@ -107,7 +109,7 @@ Based on this answer, can you think of any hypotheses you could try to test?
 
 ## Instrumentation
 
-Now that we've decided what hypothesis we are going to test, we need to figure out what equipment and experimental tools we are going to use. For this module, a ramp, container, and different masses that can be placed in the container will be provided at your lab bench. 
+Now that we've decided what hypothesis we are going to test, we need to figure out what equipment and experimental tools we are going to use. For this module, a ramp, container, and different masses that can be placed in the container were provided to you in the kit you should have collected for module 1.
 
 To measure the angle you will use your phone and the **Phyphox** App. Please go to [phyphox.org](https://phyphox.org){:target="_blank"} (or to the app store on your device) and download the phyphox app. Try to do this before you come to class for the first day of lab. After downloading, find the "Inclination" tool and test that it works correctly with your phone.
 
