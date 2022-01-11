@@ -11,6 +11,9 @@ This week we are going to generate a data set to test our hypothesis. This will 
 ## Background Reading
 
 At the end of this week you should have a complete data set for the measured critical angle for (at least) five different masses.
+
+You should use the kit provided in week 1. Note that by using different combinations of the provided bags of bolts you can achieve the requested five masses. Take note of the labelled mass on each bag and do not open the bags.
+
 Before you begin taking data, there are two principles that we would like to introduce: **real-time data visualization** and **iterative experimental design**. In taking experimental data, we don't want to just blindly follow the procedure laid out in the experimental design. We need to ensure the data we are taking is reasonable and that our conclusions are well-founded and impactful. One way to ensure the data is reasonable is to have some real-time visualization set up (“plotting as you go”). That way we can see our data as we are taking it, and adapt based on any new information.
 
 *Warning:* when “plotting as we go” we don’t want to make a real-time decision that incorrectly shapes our conclusions. For example, suppose we had made a plan to take 10 data points based on our exploratory measurements. But in taking the first 3 data points we notice they are all close to the value we expected, and if we just stop taking data now, we end up with a reasonable conclusion. If we stop our hypothesis testing based on whether or not the data gives us the answer we are looking for, then we might draw **incorrect** conclusions based on the spread of just a few data points as [explained here](https://replicationindex.com/2015/01/24/questionable-research-practices-definition-detect-and-recommendations-for-better-practices/){:target="_blank"}. If this puzzles you, you might look back to the discussion of [random uncertainty](uncertainty-introduction#random-uncertainty){:target="_blank"}. Related concerns are also raised [here](https://www.explainxkcd.com/wiki/index.php/882:_Significant){:target="_blank"}.
@@ -122,7 +125,7 @@ Please take a look at our [Spreadsheet preparation guide](Spreadsheet) for instr
 
 ### Step 2: Collect and analyze data
 
-Make sure to record all relevant details such as what mass you are using. You should take note of both the initial mass of the container (there is a scale at the back of the room) and the added mass for each trial. Always include units when recording data. 
+Make sure to record all relevant details such as what mass you are using. You should take note of both the initial mass of the container and the added mass for each trial. Always include units when recording data. For the provided kits the relevant mass is recorded on each item. If you are not on campus and are making use of your own supplies and do not have access to a scale label your columns of data in an identifying way (e.g. the number of a particular item). If using your own supplies, if convenient and you wish to do so you can bring them to the lab in week 3 when we expect to resume in person labs to weigh them, but in the case where you needed to provide your own supplies it is also acceptable not to weigh your supplies and to use an alternative label when plotting your data (such as the number of a particular item added to the container)
 
 It is not a good idea to collect all of your data for the lightest mass, then to do the same thing for the next lightest, continuing on through to the heaviest mass. Take a moment to think about why this might be problematic. If you're unsure, this would be a good time to talk to an instructor.
 
