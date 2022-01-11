@@ -135,7 +135,9 @@ The steps below guide you through these three items, and provide links to import
 
 Usually one of the first exploratory steps is to use your equipment to take a single measurement. We want to make sure that our measurement (in this case, $$\theta_c$$) will lead to a reasonable value of the calculated quantity we are trying to obtain ($$\mu_s$$). We also want to get a sense of what potential difficulties arise as we follow our planned experimental procedure for the first time.
 
-+ Place the block on the ramp and slowly raise the ramp while keeping an eye on the plane inclination measurement on the phyphox app. You can choose how much mass to place in the block for this first measurement, but to get a representative initial value it is helpful to avoid extremes, i.e. add some mass to the container but don't overload it. Record in the spreadsheet the value of the angle you observe just before slipping (in other words, perform a single measurement of $$\theta_c$$).
++ You can choose how much mass to place in the block for this first measurement, but to get a representative initial value it is helpful to avoid extremes, i.e. add some mass to the container but don't overload it. 
+
++ Place the container with the mass you have chosen to start with on the ramp and slowly raise the ramp while keeping an eye on the plane inclination measurement on the phyphox app. Record in the spreadsheet the value of the angle you observe just before slipping (in other words, perform a single measurement of $$\theta_c$$).
 
 + Calculate $$\mu_s$$ from your single measurement of $$\theta_c$$ (using the relationship derived in the [background reading](#background-reading)). 
 
