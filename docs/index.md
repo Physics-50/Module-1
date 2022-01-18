@@ -1,5 +1,7 @@
 # Module 1
 
+This page provides an overview of the Module 1 content. You should use the links below to find the relevant instructions specific to each week.
+
 + [Syllabus](syllabus)
 + [Helpful Guidance](helpful-guidance)
 + [Week 1 - Exploratory Phase](week1)
