@@ -93,7 +93,7 @@ Intuitively, the sample standard deviation represents a most likely range of val
 #### Standard error of the mean (SEM)
 The standard error of the mean represents the expected deviation of the calculated sample mean if many other samples of $$n$$ datapoints were taken. Intuitively, SEM reflects how confident we are that the sample mean is truly representative of the "actual" mean value of our distribution (what we called $$\mu$$ in our theoretical distributions; this actual mean value is also called the "population mean"). The standard error of the mean can be estimated from the sample standard deviation as:
 
-$$\mathrm{SEM} = \frac{x_\mathrm{dev}}{\sqrt{N}}$$
+$$\mathrm{SEM} = \frac{x_\mathrm{dev}}{\sqrt{n}}$$
 
 *For more information about the SEM, check out paragraph 130-131 and associated footnotes [of this document](images/Essentials-of-Statistical-Methods.pdf){:target="_blank"}.*
 
