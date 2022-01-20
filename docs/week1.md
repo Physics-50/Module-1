@@ -225,7 +225,7 @@ Significant figure guidelines apply to final reported results. In this class thi
 
 + You should have a procedure for collecting data in which you have made an effort to improve the reproducibility of your measurements. This is an important first step to being able to test our hypothesis next week.
 
-+ You should have a set of 5 data points -  all collected with the same mass in the container, using the procedure you settled on to improve reproducibility. This is the data you will use when completing the checkpoint.
++ You should have a set of 5 data points -  all collected with the same mass in the container, using the procedure you settled on to improve reproducibility. Most likely you will have collected additional data points earlier while settling on the procedure but in the end after settling on a procedure that gives good reproducibility, make sure to collect 5 data points with the same procedure. This is the data you will use when completing the checkpoint.
  
 ## Checkpoint 1
 
