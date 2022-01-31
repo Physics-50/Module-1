@@ -180,10 +180,9 @@ The figure must also include a caption with the following:
    + a brief **explanation of the experiment**, understandable to someone who has not taken Physics 50
    + a definition of the **scale bar**
 3. A description of panel (b), including
-   + a **connection to data** sentence that directly connects your conclusion to the data shown in the plot
    + a definition of the **error bars**
    + a description of what the **horizontal line** represents
-   + your conclusion should mention the reduced $$\chi^2$$ value for the fit and its significance
+   + a **connection to data** sentence that directly connects your conclusion to the data shown in the plot: your conclusion should mention the reduced $$\chi^2$$ value for the fit and its significance
 
 Can you find each of these elements in the above example figure?
 
