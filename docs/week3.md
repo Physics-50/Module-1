@@ -188,14 +188,15 @@ Can you find each of these elements in the above example figure?
 
 Please note that in this course, because you are only submitting a figure with a caption without an accompanying write-up, we expect a figure caption that is more detailed than you might see in a typical paper. In this course, your figure caption needs to stand alone and explain pertinent details of the experiment on a level that would enable a fellow student who has not taken Physics 50 to understand key details of your experiment and conclusions. The length should be on the order of a paragraph: more than a couple of sentences but not anything approaching a full page!
 
-Please upload your figure to Gradescope according to the instructions provided there (note that you will have to upload it more than once). Make sure to include both the figure and caption in the same image file.
+Please upload your figure to Gradescope according to the instructions provided there (note that you will have to upload it more than once, you should upload the same figure with caption each time). Make sure to include both the figure and caption in the same image file.
 
 **You should follow the deadlines for your section as outlined in the syllabus. These are the same deadlines as when you normally would have a checkpoint due (i.e. the Module 1 deliverable is due 1 week after the deadline for checkpoint 2 for your section).**
 
 
-Your deliverable will be graded for the quality of your data [4 points] and your caption which must include both the most salient details of the experimental procedure (graded as part of caption mechanics, 2 points) and an appropriate conclusion [2 points]. You will also be graded for figure mechanics, including appropriately labelled axes on your plot and an image of your experimental set-up that effectively showcases essential details of the experiment [2 points].
+Your deliverable will be graded for the quality of your data [4 points] and your caption which must include both the most salient details of the experimental procedure and an appropriate conclusion [caption: 4 points]. You will also be graded for figure mechanics, including appropriately labelled axes on your plot and an image of your experimental set-up that effectively showcases essential details of the experiment [2 points].
 
 Deductions will also be assessed for failing to submit the checkpoint on time as outlined in the course syllabus.
+
 
 **As a reminder: Please prepare your assignment in a separate document, enter all entries in a single sitting without using the "save" button and then make use of the "submit" button to submit your work. You may not resubmit your work once it has been submitted (and saving in Gradescope is equivalent to submitting).**
 
