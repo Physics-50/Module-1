@@ -111,7 +111,7 @@ The process of fitting a theoretical function to data is an important skill for 
 
 Please follow the link to a: [Linear Fitting Introduction](curve-fitting-motivation){:target="_blank"}. This introduction is meant to provide the bare minimum information that you will need to understand the use of curve fitting in Physics 50. Curve fitting may be something you will return to in your upper division courses.
 
-**Please take note that you will need to make a correction to the pre-filled formulas in your spreadsheet. Go to the "week3: data for plotting" tab and look at the data in column C (it will be a copy of the data in column B which is incorrect). To plot your data correctly that column needs to contain the uncertainties in y. On your previous spreadsheet that data is contained in row 24 (unless you've modified the spreadsheet). You will need to modify the entries to link correctly. For example cell C2 should now read: ='Week 2: Data Collection'!$B$23
+**Please take note that you will need to make a correction to the pre-filled formulas in your spreadsheet. Go to the "week3: data for plotting" tab and look at the data in column C (it will be a copy of the data in column B which is incorrect). To plot your data correctly that column needs to contain the uncertainties in y. On your previous spreadsheet that data is contained in row 24 (unless you've modified the spreadsheet). You will need to modify the entries to link correctly. For example cell C2 should now read: ='Week 2: Data Collection'!$B$23**
 
 In Physics 50 you will make use of a script provided here to plot your data:
 
