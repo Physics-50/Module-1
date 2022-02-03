@@ -53,3 +53,5 @@ This large value of $$\chi_\nu^2$$ tells us that:
 
 The first and third options are both plausible, so we would have to think carefully about how to proceed. If we are sure about our data and reasonably confident in our uncertainty estimate, maybe we need to re-think the theoretical model we are using!
 
+Your plot will also include the p-value for the fit. This represents the probability of obtaining a reduced $$\chi^2$$ value equal to or greater than the one you obtained under the premise of your hypothesis. 
+
