@@ -12,7 +12,7 @@ Go to the tab in your spreadsheet that you will use to prepare your data for plo
 
 1. You should rename the column headings in Row 1 to match your data. These will form the axis labels for your plot. You may surround algebraic variables and Greek letters with dollar signs; e.g., $\theta$ (°) or $L$ (cm) or $T^2$ (s$^2$) or $L_{\rm string}$ (cm), where \rm "removes" math mode and lets you include normally-formatted text within a mathematical formula.
 
-2. If you followed the template for the "Week 2: Data Collection" tab of the spreadsheet then your entries will already be prefilled into the spreadsheet. Note the formatting that allows an entry to be copied from a previous sheet. Specifically: **='Week 2: Data Collection'!$B$23** will copy the entry from cell B23 into the new cell. Check to make sure that the entries are indeed the values you wish to export.
+2. If you followed the template for the "Week 2: Data Collection" tab of the spreadsheet then your entries will already be prefilled into the spreadsheet. Note the formatting that allows an entry to be copied from a previous sheet. Specifically: **='Week 2: Data Collection'!$B$23** will copy the entry from cell B23 into the new cell. Check to make sure that the entries are indeed the values you wish to export. (In week 3 of module 1 you will need to change the entries in the uncertainty column - make sure to pay attention to the note regarding this in the week 3 instructions)
 
 3. You should now go to the "File" menu and select "Dowload". From within the download tab select "Comma Separated Values (.csv)" and save the file to your computer.
 
