@@ -14,15 +14,13 @@ D. Tamayo (dtamayo@hmc.edu)<br>
 # Physics 50 Syllabus
 
 + [Preamble](#preamble)
-+ [Reading and Miniquestions](#reading-and-miniquestions)
-+ [Weekly Checkpoints](#weekly-checkpoints)
-+ [Module Deliverables](#module-deliverables)
++ [Course Structure and Due Dates](#course-structure-and-due-dates)
 + [Grading](#grading)
 + [Late Policy](#late-policy)
 + [Online Resources](#online-resources)
 + [Lab Books and Data Sheets](#lab-books-and-data-sheets)
 + [Collaboration](#collaboration)
-+ [Gradescope Submissions](#gradescope-submissions)
+<!-- + [Gradescope Submissions](#gradescope-submissions) -->
 + [Writing Center](#the-writing-center)
 + [Accomodations, Wellness, Belonging, Title IX](#accommodations)
 
