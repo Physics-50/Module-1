@@ -1,5 +1,5 @@
 **Click on the image below to enlarge in a new tab:**
-[![Schedule](images/fa22 schedule.pdf)](images/fa22 schedule.pdf){:target="_blank"}
+[![Schedule](images/fa22schedule.pdf)](images/fa22schedule.pdf){:target="_blank"}
 
 
   
