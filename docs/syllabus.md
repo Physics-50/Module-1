@@ -16,8 +16,9 @@ D. Tamayo (dtamayo@hmc.edu)<br>
 + [Preamble](#preamble)
 + [Course Structure and Due Dates](#course-structure-and-due-dates)
 + [Grading](#grading)
++ [Absence from Class](#absence-from-class)
 + [Late Policy](#late-policy)
-+ [Online Resources](#online-resources)
+<!-- + [Online Resources](#online-resources) -->
 + [Lab Books and Data Sheets](#lab-books-and-data-sheets)
 + [Collaboration](#collaboration)
 <!-- + [Gradescope Submissions](#gradescope-submissions) -->
@@ -77,7 +78,7 @@ All modules must be satisfactorily completed (lab weeks attended or made up, and
 
 <!-- Please note that in this course, in order to provide quick feedback, most grades will be published and released on Gradescope as the work is being graded. However, we do at times need to go back and make adjustments to ensure consistency and therefore do not consider grades final until ~2 weeks after they are released. -->
 
-# Absence from class
+# Absence from Class
 Please do not attend class if you are ill or subject to quarantine due to possible COVID-19 exposure. However, attendance at all class meetings is required except in case of illness, school-related travel, or family or personal emergency.  Any missed lab days must be made up.  Please do reach out to your instructor as soon as you know (or expect) you will be unable to attend a class, and we will work with you to make alternate arrangements including no-penalty extensions. 
 
 # Late Policy
@@ -96,19 +97,19 @@ Mini-questions are intended to help you prepare for your time in lab and are due
 
  If you are experiencing extenuating circumstances please don't hesitate to reach out to your instructor to seek accommodation beyond the structures listed above. 
 
-# Online Resources
+<!-- # Online Resources
 The course website is available on Sakai, where you will find links to each module of the course in the side menu of the Physics 50 page. Also linked from that page are Gradescope and Piazza. You will submit the module checkpoints (and reports??) through Gradescope. To offer another way for students to communicate with each other we have created [this Piazza site](https://piazza.com/hmc/spring2022/ph50){:target="_blank"}. In Piazza you can ask questions to the class; we encourage you to use this forum to ask your classmates course-related questions and to answer each other's questions. There are no grades associated with participation on Piazza; it is for your own benefit as a means to collaborate with each other. Office hours are posted on the "Office Hours" link on the side menu of Sakai. Please note that you must be logged into your g.hmc.edu account through a Google Chrome browser to access this information. **Students should feel welcome to attend any professor’s office hours.**
 
-We will also be using Google apps including Docs and Sheets. Several templates and blank documents will assigned throughout the course via Google Classroom, which enables us to create copies of documents for every student. You will need to log in to Google Classroom when prompted from the Module instructions, but you do not need to actively monitor Google Classroom for new assignments. Sakai is our primary point of contact with you, not Google Classroom.
+We will also be using Google apps including Docs and Sheets. Several templates and blank documents will assigned throughout the course via Google Classroom, which enables us to create copies of documents for every student. You will need to log in to Google Classroom when prompted from the Module instructions, but you do not need to actively monitor Google Classroom for new assignments. Sakai is our primary point of contact with you, not Google Classroom. -->
 
 # Lab Books and Data Sheets
 
-In this course we will not be using traditional lab books. Instead you will be assigned a Google Doc and Google Spreadsheet at the beginning of each module to keep your lab record. The Google Doc and Google Sheets notebooks are intended to be used in parallel. In broad terms we encourage you to use the Google docs notebook to keep detailed notes and images of your experimental set-up and the Google sheets for data collection and analysis, with sufficient organization and description that a student not enrolled in Physics 50 would be able to understand your data and analysis. We describe our expectations for the Google Doc and Google sheets notebooks separately:
+In this course we will not be using traditional lab books. Instead you will be assigned a Google Doc and Google Spreadsheet at the beginning of each module to keep your lab record. These documents will be assigned through Google Classroom, which enables us to create copies of documents for every student and automatically share those documents with instructors.  You will meed to log in to Google Classroom when prompted from the Module instructions to access these documents, which will then be accessible in your Google Drive.  **The Google Docs and Sheets are not explicitly graded. Nevertheless, you are required to use them to document your work and data collected in the lab. The Google docs and Google spreadsheets issued to you through this course are accessible to your instructor, and should provide a clear and complete record of your in-lab and analysis work if your instructor seeks additional detail after reading a report.**
+
+The Google Doc and Google Sheets notebooks are intended to be used in parallel. In broad terms we encourage you to use the Google docs notebook to keep detailed notes and images of your experimental set-up and the Google sheets for data collection and analysis, with sufficient organization and description that a student not enrolled in Physics 50 would be able to understand your data and analysis. We describe our expectations in more detail below.
 
 ## Google Doc Notebook:
-What we will stress in this course is not a particular structure or format for your lab book, but rather the usefulness of the record. The hallmark of a good lab book is how useful it is to you and others at a later point in time. **The Google Docs notebooks are not graded. Nevertheless, you are required to use the provided Google Doc to document your work and data collected in the lab. The Google docs and Google spreadsheets issued to you through this course are accessible to your instructor, and should provide a clear and complete record of your in-lab and analysis work if your instructor seeks additional detail after reading a report.**
-
-Ask yourself these questions when faced with a blank lab notebook page:  What information will I need to replicate this experiment in 6 months or 6 years? Would a sketch or photo of the setup be helpful? How exactly did I take that particular data point? Was there something strange about it?  What did or did not work in my experimental procedure and what did I learn from it? What are my units? What does this variable mean? etc.
+What we will stress in this course is not a particular structure or format for your lab book, but rather the usefulness of the record. The hallmark of a good lab book is how useful it is to you and others at a later point in time.  Ask yourself these questions when faced with a blank lab notebook page:  What information will I need to replicate this experiment in 6 months or 6 years? Would a sketch or photo of the setup be helpful? How exactly did I take that particular data point? Was there something strange about it?  What did or did not work in my experimental procedure and what did I learn from it? What are my units? What does this variable mean? etc.
 
 Some tips: 
 
