@@ -15,12 +15,12 @@ D. Tamayo (dtamayo@hmc.edu)<br>
 
 + [Preamble](#preamble)
 + [Course Structure and Due Dates](#course-structure-and-due-dates)
++ [Lab Books and Data Sheets](#lab-books-and-data-sheets)
++ [Collaboration](#collaboration)
 + [Grading](#grading)
 + [Absence from Class](#absence-from-class)
 + [Late Policy](#late-policy)
 <!-- + [Online Resources](#online-resources) -->
-+ [Lab Books and Data Sheets](#lab-books-and-data-sheets)
-+ [Collaboration](#collaboration)
 <!-- + [Gradescope Submissions](#gradescope-submissions) -->
 + [Writing Center](#the-writing-center)
 + [Accomodations, Wellness, Belonging, Title IX](#accommodations)
@@ -63,6 +63,44 @@ After Modules 1-3 you will submit short written reports.  These reports should b
 
 Rough drafts of the first two reports should be prepared for peer review during the "lesson" meetings following the end of these modules.  For the final module (the tech report), you and your partner will jointly give an oral presentation (see schedule) instead of submitting individual written reports.
 
+# Lab Books and Data Sheets
+
+In this course we will not be using traditional lab books. Instead you will be assigned a Google Doc and Google Spreadsheet at the beginning of each module to keep your lab record. These documents will be assigned through Google Classroom, which enables us to create copies of documents for every student and automatically share those documents with instructors.  You will meed to log in to Google Classroom when prompted from the Module instructions to access these documents, which will then be accessible in your Google Drive.  **The Google Docs and Sheets are not explicitly graded. Nevertheless, you are required to use them to document your work and data collected in the lab. The Google docs and Google spreadsheets issued to you through this course are accessible to your instructor, and should provide a clear and complete record of your in-lab and analysis work if your instructor seeks additional detail after reading a report.**
+
+The Google Doc and Google Sheets notebooks are intended to be used in parallel. In broad terms we encourage you to use the Google docs notebook to keep detailed notes and images of your experimental set-up and the Google sheets for data collection and analysis, with sufficient organization and description that a student not enrolled in Physics 50 would be able to understand your data and analysis. We describe our expectations in more detail below.
+
+## Google Doc Notebook:
+What we will stress in this course is not a particular structure or format for your lab book, but rather the usefulness of the record. The hallmark of a good lab book is how useful it is to you and others at a later point in time.  Ask yourself these questions when faced with a blank lab notebook page:  What information will I need to replicate this experiment in 6 months or 6 years? Would a sketch or photo of the setup be helpful? How exactly did I take that particular data point? Was there something strange about it?  What did or did not work in my experimental procedure and what did I learn from it? What are my units? What does this variable mean? etc.
+
+Some tips: 
+
++ Don’t rewrite history. 
+    + If you realize you made a procedural mistake, resist the temptation to omit what was incorrect. Your lab notebook needs to be a complete record of what actually happened; that means the bad as well as the good.
+    + Suggestions: use the comment feature, make a note in a different color (note the date if different), or highlight your mistake and refer yourself to further down the document where you’ve written up the correction. Find the method that works for you, but be sure your record is complete.
+    + This applies to both your Google doc and Google sheets documents
++ Include handwritten work.
+    + There is rarely a lab that does not require a sketch or calculation. Do not use “scratch paper” without including it in your lab record. 
+    + Google Docs has an app that allows you to insert a photo directly into your document from your phone. You can also use a camera to take a photo of your notes and upload them to your computer.
++ Include photos of your apparatus.
+    + A picture truly is worth a thousand words when you are trying to remember how to set up your apparatus, or how to take a particular measurement.
+    + It can be particularly powerful to upload a photo and then annotate it with a few well-placed arrows, words, etc.
++ Link to your various electronic files (Google Sheets, etc) in the body of your document in the context of describing how you took that particular data. 
+    + You can simply copy the URL of the item you wish to link to and paste it into your document.
+
+## Data Sheets
+We expect you to make use of formulae in Google Sheets to make your intermediate calculations. This helps avoid mistakes and makes it easier to fix any mistakes later. It is also how we understand and evaluate some of your work if questions arise when we read your reports.  You are required to use your spreadsheet not just to record data but also to do the analysis using formulas in Sheets (not your calculator). If entries are entered without making use of Google sheets to do the calculations you may not receive full credit for your work. Your data sheet, coupled with the history feature of Google Sheets, also serves as a time record of your work in the lab. Recording data elsewhere and then later pasting it into Google sheets is not acceptable. However, it is acceptable to collect data in one lab partner's sheet and then copy it to the other partner's sheet. If doing this, you should include a note to the effect "this data was originally collect in **Name of Lab Partner**'s laboratory notebook and is reproduced here". 
+
+# Collaboration
+You will collect data with a partner in the lab. We expect individual students to complete the miniquestions, data analysis, checkpoints, and reports for themselves. If you would like to discuss with your lab partner or another classmate while doing analysis in parallel, we encourage that type of collaboration! It may not save you much time, but often working through material together gives a better learning experience. **Just remember that each of you needs to do your own analysis. It is not acceptable to turn in your lab partner's writing or products of their analysis such as a plot they prepared.**
+
+<!-- Module 1 will be completed in remote format. For this module you are welcome to work on your own or with one partner.  If you choose to work with a lab partner, your lab partner for this module must be currently enrolled in Physics 50 but does not need to be in your section. If you work with a lab partner please indicate who you worked with within your Google Sheets data sheet. -->
+
+<!-- # Gradescope Submissions
+**In order to provide timely feedback, and considering that different sections have work due on different days, we will frequently return work before all students have submitted their assignments. To make this possible with the constraint of using a shared Gradescope portal for all sections, we cannot accept resubmissions in this course. Please prepare your assignment in a separate document. When you are ready to submit your work, enter all entries into Gradescope in a single sitting without using the "save" button and then make use of the "submit" button to submit your work. You may not resubmit your work once it has been submitted (and saving in Gradescope is equivalent to submitting). Your instructor will go over this policy on the first day of class. If you have questions please ask.**
+
+Some checkpoints are submitted in two parts for which part 1 is a practice calculation for which the above policy doesn't apply. When this occurs it will be clearly indicated. When a checkpoint is in two parts, the total points for the two parts will be combined to give the checkpoint grade. -->
+ 
+
 # Grading
 The course grade will be calculated based upon your performance on the mini-questions, checkpoints, reports, and in-lab conduct.
 
@@ -102,43 +140,7 @@ The course website is available on Sakai, where you will find links to each modu
 
 We will also be using Google apps including Docs and Sheets. Several templates and blank documents will assigned throughout the course via Google Classroom, which enables us to create copies of documents for every student. You will need to log in to Google Classroom when prompted from the Module instructions, but you do not need to actively monitor Google Classroom for new assignments. Sakai is our primary point of contact with you, not Google Classroom. -->
 
-# Lab Books and Data Sheets
 
-In this course we will not be using traditional lab books. Instead you will be assigned a Google Doc and Google Spreadsheet at the beginning of each module to keep your lab record. These documents will be assigned through Google Classroom, which enables us to create copies of documents for every student and automatically share those documents with instructors.  You will meed to log in to Google Classroom when prompted from the Module instructions to access these documents, which will then be accessible in your Google Drive.  **The Google Docs and Sheets are not explicitly graded. Nevertheless, you are required to use them to document your work and data collected in the lab. The Google docs and Google spreadsheets issued to you through this course are accessible to your instructor, and should provide a clear and complete record of your in-lab and analysis work if your instructor seeks additional detail after reading a report.**
-
-The Google Doc and Google Sheets notebooks are intended to be used in parallel. In broad terms we encourage you to use the Google docs notebook to keep detailed notes and images of your experimental set-up and the Google sheets for data collection and analysis, with sufficient organization and description that a student not enrolled in Physics 50 would be able to understand your data and analysis. We describe our expectations in more detail below.
-
-## Google Doc Notebook:
-What we will stress in this course is not a particular structure or format for your lab book, but rather the usefulness of the record. The hallmark of a good lab book is how useful it is to you and others at a later point in time.  Ask yourself these questions when faced with a blank lab notebook page:  What information will I need to replicate this experiment in 6 months or 6 years? Would a sketch or photo of the setup be helpful? How exactly did I take that particular data point? Was there something strange about it?  What did or did not work in my experimental procedure and what did I learn from it? What are my units? What does this variable mean? etc.
-
-Some tips: 
-
-+ Don’t rewrite history. 
-    + If you realize you made a procedural mistake, resist the temptation to omit what was incorrect. Your lab notebook needs to be a complete record of what actually happened; that means the bad as well as the good.
-    + Suggestions: use the comment feature, make a note in a different color (note the date if different), or highlight your mistake and refer yourself to further down the document where you’ve written up the correction. Find the method that works for you, but be sure your record is complete.
-    + This applies to both your Google doc and Google sheets documents
-+ Include handwritten work.
-    + There is rarely a lab that does not require a sketch or calculation. Do not use “scratch paper” without including it in your lab record. 
-    + Google Docs has an app that allows you to insert a photo directly into your document from your phone. You can also use a camera to take a photo of your notes and upload them to your computer.
-+ Include photos of your apparatus.
-    + A picture truly is worth a thousand words when you are trying to remember how to set up your apparatus, or how to take a particular measurement.
-    + It can be particularly powerful to upload a photo and then annotate it with a few well-placed arrows, words, etc.
-+ Link to your various electronic files (Google Sheets, etc) in the body of your document in the context of describing how you took that particular data. 
-    + You can simply copy the URL of the item you wish to link to and paste it into your document.
-
-## Data Sheets
-We expect you to make use of formulae in Google Sheets to make your intermediate calculations. This helps avoid mistakes and makes it easier to fix any mistakes later. It is also how we understand and evaluate some of your work if questions arise when we read your reports.  You are required to use your spreadsheet not just to record data but also to do the analysis using formulas in Sheets (not your calculator). If entries are entered without making use of Google sheets to do the calculations you may not receive full credit for your work. Your data sheet, coupled with the history feature of Google Sheets, also serves as a time record of your work in the lab. Recording data elsewhere and then later pasting it into Google sheets is not acceptable. However, it is acceptable to collect data in one lab partner's sheet and then copy it to the other partner's sheet. If doing this, you should include a note to the effect "this data was originally collect in **Name of Lab Partner**'s laboratory notebook and is reproduced here". 
-
-# Collaboration
-You will collect data with a partner in the lab. We expect individual students to complete the miniquestions, data analysis, checkpoints, and reports for themselves. If you would like to discuss with your lab partner or another classmate while doing analysis in parallel, we encourage that type of collaboration! It may not save you much time, but often working through material together gives a better learning experience. **Just remember that each of you needs to do your own analysis. It is not acceptable to turn in your lab partner's writing or products of their analysis such as a plot they prepared.**
-
-<!-- Module 1 will be completed in remote format. For this module you are welcome to work on your own or with one partner.  If you choose to work with a lab partner, your lab partner for this module must be currently enrolled in Physics 50 but does not need to be in your section. If you work with a lab partner please indicate who you worked with within your Google Sheets data sheet. -->
-
-<!-- # Gradescope Submissions
-**In order to provide timely feedback, and considering that different sections have work due on different days, we will frequently return work before all students have submitted their assignments. To make this possible with the constraint of using a shared Gradescope portal for all sections, we cannot accept resubmissions in this course. Please prepare your assignment in a separate document. When you are ready to submit your work, enter all entries into Gradescope in a single sitting without using the "save" button and then make use of the "submit" button to submit your work. You may not resubmit your work once it has been submitted (and saving in Gradescope is equivalent to submitting). Your instructor will go over this policy on the first day of class. If you have questions please ask.**
-
-Some checkpoints are submitted in two parts for which part 1 is a practice calculation for which the above policy doesn't apply. When this occurs it will be clearly indicated. When a checkpoint is in two parts, the total points for the two parts will be combined to give the checkpoint grade. -->
- 
 # The Writing Center
 The Writing Center provides a welcoming space for writers to get feedback on their composition projects, whether written, spoken or visual pieces. Writing Center Consultants are prepared to assist students in any discipline with any stage of the writing process, from developing an idea to polishing a final draft. Even the most accomplished writers benefit from seeking feedback at the Writing Center. You may schedule an appointment through their website, https://www.hmc.edu/learning-programs/writing-center/
 
