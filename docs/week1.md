@@ -148,7 +148,7 @@ Make note of your equipment in your lab notebook (record keeping is important) a
 -->
 ## Exploratory Measurements
 
-The goal of this week is to be able to successfully levitate small styrofoam beads using the power of sound, and to use the positions of levitated beads to determine the speed of sound, $$V_{sound}$$.  At the end of this week, you should be able to use your results to predict that anyone doing careful measurements using this apparatus will in turn obtain a result for $$V_{sound}$$ within a certain range of values.  You will express this range by quoting your experimentally determined $$V_{sound} \pm \deltaV_{sound}$$.
+The goal of this week is to be able to successfully levitate small styrofoam beads using the power of sound, and to use the positions of levitated beads to determine the speed of sound, $$V_{sound}$$.  At the end of this week, you should be able to use your results to predict that anyone doing careful measurements using this apparatus will in turn obtain a result for $$V_{sound}$$ within a certain range of values.  You will express this range by quoting your experimentally determined $$V_{sound} \pm \delta V_{sound}$$.
 
 Before embarking on a careful -- and probably time-consuming -- series of repeated measurements, you should always do some explorations to find out whether your basic approach is sound and what factors within your control are relevant to ensuring high-quality results.  There is no point in carefully controlling something that changes your result by 1\%, while ignoring a systematic error that shifts all your results by 20\%!
 
