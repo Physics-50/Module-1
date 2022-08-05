@@ -1,36 +1,99 @@
-# Week 2: Generating Data to Test a Hypothesis
+# Week 2: Final Careful Measurements and Analysis
 
-This week we are going to generate a data set to test our hypothesis. This will include more detailed data collection for analysis than the exploratory measurement from Week 1.
+**The instructions in this week's lab manual do not need to be read in advance. The embedded mini-question should be completed in lab this week rather than in advance. You will only receive credit for the mini-question if is completed during the lab period. Instead of pre-lab reading we would like you to reflect on any discrepancies between your results from last week and the expected value and possible explanations for the discrepancy.**
 
-[Background Reading for Week 2](#background-reading)
+[Experimental Iteration](#experimental-iteration)
 
-[Reminder: Reporting Data with Significant Figures](#reminder-on-reporting-data-with-significant-figures)
+[##Why Am I Getting Too Large a Value for the Speed of Sound?](#why-am-i-getting-too-large-a-value-for-the-speed-of-sound?)
 
-[Data Collection for Week 2](#data-collection)
+[Goals for This Week](#goals-for-this-week)
 
-## Background Reading
+[Things to Turn In](#things-to-turn-in)
 
-At the end of this week you should have a complete data set for the measured critical angle for (at least) five different masses.
 
-You should use the kit provided in week 1. Note that by using different combinations of the provided bags of bolts you can achieve the requested five masses. Take note of the labelled mass on each bag and do not open the bags.
+## Experimental Iteration
 
-Before you begin taking data, there are two principles that we would like to introduce: **real-time data visualization** and **iterative experimental design**. In taking experimental data, we don't want to just blindly follow the procedure laid out in the experimental design. We need to ensure the data we are taking is reasonable and that our conclusions are well-founded and impactful. One way to ensure the data is reasonable is to have some real-time visualization set up (“plotting as you go”). That way we can see our data as we are taking it, and adapt based on any new information.
+We noticed that many of your results showed significant discrepancies between the measured speed of sound and the expected result. Please take a moment to reflect on those results. As a scientist, you must often track down the source of seemingly contradictory results:
 
-*Warning:* when “plotting as we go” we don’t want to make a real-time decision that incorrectly shapes our conclusions. For example, suppose we had made a plan to take 10 data points based on our exploratory measurements. But in taking the first 3 data points we notice they are all close to the value we expected, and if we just stop taking data now, we end up with a reasonable conclusion. If we stop our hypothesis testing based on whether or not the data gives us the answer we are looking for, then we might draw **incorrect** conclusions based on the spread of just a few data points as [explained here](https://replicationindex.com/2015/01/24/questionable-research-practices-definition-detect-and-recommendations-for-better-practices/){:target="_blank"}. If this puzzles you, you might look back to the discussion of [random uncertainty](uncertainty-introduction#random-uncertainty){:target="_blank"}. Related concerns are also raised [here](https://www.explainxkcd.com/wiki/index.php/882:_Significant){:target="_blank"}.
+- Based on your exploratory observations, can the sources of uncertainty you've looked at so far account for the discrepancy?
 
-It *is* okay to change your plan if it turned out to be a bad one, but changes should be justified by something more than whether we like the initial data or not. Here we will provide more details about the two principles that can guide procedural changes and make sure they are justified: **real-time data visualization** and **iterative experimental design**. We encourage you to refer back to them as you undertake your detailed data collection.
+- Was the experiment flawed, or does the theory need to be modified?
 
-### Real-time Data Visualization
+When doing experiments this week please set up the experiment *using only your notes from last week* (not the lab manual). If you need to refer back to the lab manual, it is a sign that your notes are insufficiently comprehensive. *Take the time to prepare more detailed notes.*
 
-An important habit we would like you to develop as an experimentalist is to plot/visualize your data as you take it. Even though you made a plan with your experimental design, there are many unexpected things that can happen. You should set up your data collection (in Google Sheets) so that entering each data point automatically updates a plot of your data and calculates statistical quantities (sample mean, sample standard deviation, and standard error of the mean). Here are some things to keep an eye out for as you take your data:
+Once you are confident that you have made a reasonable effort to explore the likely sources of systematic error in this experiment, please proceed to the following mini-question. You should not spend more than ~30 min before answering this mini-question, in order to ensure you have time to complete this week's experiments.
 
-+ Is your sample mean very different from what you measured in your exploratory analysis?
-    + If so, then try to troubleshoot what the differences might be (e.g. a calculation error, an uncontrolled variable), and then revise your approach if necessary.
+**If you are reading the lab manual before coming to lab please stop reading here!!!**
 
-+ Does your data look roughly **normally distributed** (like a Gaussian bell-shaped curve)?
-    + If not, then you should try to investigate uncontrolled variables or perhaps increase the number data points of your experimental design.
+----------------------
 
-    **Note: if you have taken only a few data points, you shouldn’t expect your data to look like it’s normally distributed, even if it was being sampled from a normal distribution. Make sure you take enough data before worrying about whether it's normally distributed.**
+#### Miniquestion 1: What next?
+**You will only receive credit for this mini-question if you complete it in lab - do not complete it before coming to class.**
+
+*[Click here to open in a new tab](https://forms.gle/3Asc2orUQn6B69Wt9){:target="_blank"}*
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdAfHaBHhobEU1VLJS9pzMm2SirXpQ_-7St16Cd7y0Zy22foA/viewform?embedded=true" width="640" height="699" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
+
+<br><br>
+
+------------------------------
+
+**Please do not read further until after completing the preceding mini-question (in lab)**
+
+.
+.
+.
+.
+
+
+
+
+
+
+
+## Why Am I Getting Too Large a Value for the Speed of Sound?
+
+You have surveyed a range of potential systematic errors and hopefully determined which ones appeared to be the most significant. After such a careful investigation it must have been satisfying to get a result that agreed with the expected value to within experimental error...... unless of course that is not what you got. 
+
+Throughout this course we have we have asked you to pay careful attention to uncertainties. Here are some sample results reported by students last semester:
+
+| Speed of Sound          | Uncertainty  | 
+| ----------------------- | ------------ | 
+| 360.5 m/s               | 1.2 m/s      | 
+| 369.1 m/s               | 1.1 m/s      |
+| 359.1 m/s               | 1.7 m/s      |
+
+If you have appropriately controlled for systematic errors and accounted for random errors, your results should differ from the true value by approximately their uncertainty. That is not the case for the sample data above.  
+
+But perhaps you still feel the above results are "close enough" to the expected value (343 m/s at $$20^{o}$$C). The above results differ from the expected value for the speed of sound by amounts on the order 10x their uncertainty! To get a sense of how unlikely that is, for a normal distribution a $$5 \sigma$$ event, (i.e. 5 standard deviations from the mean) has a probability of 1 in $$\approx$$3.5 million, a $$6 \sigma$$ event has a probability of 1 in $$\approx$$0.5 billion. Clearly we should give some more thought to explaining the discrepancy between these results and the expected value.
+
+When experimental results don't agree with the expected value it is a good idea to:
+1. Check to make sure you trust your experimental results. Were you careful to minimize potential sources of systematic error?  Do other groups in your section see results consistent with yours, or could they point you toward a mistake you are making?
+2. Check to make sure you trust the "expected value." For example, 343 m/s is the accepted value of the speed of sound under a specific set of conditions. Do those match the conditions in the lab? 343 m/s is the appropriate speed at $$20^{o}$$C. While the speed of sound depends on temperature, our laboratory conditions were close enough to $$20^{\circ}$$ C that we aren't going to be able to explain the discrepancy with temperature. You might also consider pressure, but the dependence of the speed of sound on pressure is extremely weak.
+3. When all else fails it can be a good idea to check if you are confident in your theory. 
+
+The theory we have relied upon assumes plane waves of sound (waves of frequency $$\nu$$ traveling at speed $$V$$ with planar wavefronts distance $$\lambda$$ apart). Wouldn't it be nice if we could _see_ the sound waves to assess if this is a reasonable assumption?  It turns out we can, and we have!  You used sugar last week to visualize the shape of the standing waves.  If you don't have a record of this, quickly repeat the exercise now and record your observations.
+
+Take a look at the pattern of the sound waves using sugar - you should see significant deviations from plane wave behavior. The curved wavefronts you see can be mathematically modeled by integrating up a distribution of plane waves propagating in slightly different directions.  By analyzing the math in detail, we can find that the effective wavelength of a focused wave like the one in our amplifier is distorted away from that of a plane wave!  Rather than the wavelength $$\lambda$$ that appears in the simple plane-wave relationship $$\lambda\nu=v$$, what we have measured in our focused standing wave is a slightly different _effective wavelength_ $$\lambda_{\rm eff}$$. 
+
+You will not be responsible for the details of the more complete theory but are encouraged to [read a summary here](gouy).  The **bottom line** is this:
+
+You can account for the 3D structure of the standing waves by applying the following correction to get the actual wavelength ($$\lambda$$) from  your measured value, $$\lambda_{\rm eff}$$:
+
+\begin{equation}
+  \lambda = \frac{\lambda_{\rm eff}}{1+\frac{1}{\pi n}}
+\end{equation}
+
+For our acoustic levitators, the instructors have determined that $$n=4.5 \pm 0.25$$. ([see previously mentioned supplemental materials](gouy)). 
+
+Please make use of this correction to estimate the speed of sound. Do you get a more reasonable result?
+
+
+
+## Goals for This Week
+
+At the end of this week you should 
 
 ### Making an Experimental Plan
 
@@ -54,18 +117,7 @@ An important habit we would like you to develop as an experimentalist is to plot
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe7JH6ImWbMSDfMZkXMq2pYSVCpLyeMy4QVmInBqcK7j2yNqw/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
-Before delving deeply into data collection it is helpful to take a step back and consider whether your experimental plan is practical. In this case, will you be able to complete the data collection in the time that should be allocated to a 1-unit class or is your plan unrealistic?  Remember our goal is to make the strongest conclusion we can, which involves minimizing the experimental uncertainty. But more trials will take more time to perform, and there are diminishing returns to taking more data points. There is no right answer for balancing these two, but if your calculations suggest you need 10,000 data points to achieve your desired resolution your time might be better spent redesigning the experiment. While there is no magic number, for the purpose of this course, balancing realistic expectations on your time, we will generally be satisfied with 5 data points. Anything less than this becomes very suspect in terms of statistical analysis, but we do want to respect realistic limits on your time and encourage you to be mindful of this as well. This means that for this experiment we expect you to look at 5 different masses and to begin by collecting 5 data points for each mass. This “rule of thumb” will set our expectations throughout the course. However, a rule of thumb is just a guide and there may be times when you find you need to collect additional data to obtain a complete data set. This week in particular, you should begin with 5 data points for each mass, but if it looks like your histograms could benefit from additional data points for each mass you should collect additional data and include it in your analysis.
 
-
-### Iterative Experimental Design
-
-If your real-time data visualization indicates something is going wrong, you should iterate on your experimental design. Sometimes this is just as simple as taking more repeated trials and making a note in your lab notebook of the revised plan. For example, *“The first 5 trials had a sample standard deviation larger than what was observed in the exploratory measurement. Instead of 5 trials, from now on I will take 10.”*
-
-Or maybe you’ve noticed some uncontrolled factor in your experiment and you need to start over. In that case, carefully note any data that was taken, but do not delete it! Even if you exclude faulty data from your final analysis, it’s important to keep a record of what happened. Here’s an example of how you might document such an event in your lab notebook: *“My experimental design called for 5 data points, but in my first 3 data points I noticed a larger standard deviation than I expected based on my exploratory measurements. I noticed that the mass(es) inside my container sometimes shifted before the container began to slip on the ramp. The first 3 trials were taken without carefully controlling that factor, and I will not include them in my analysis. In subsequent trials, I will make sure the mass in my container is already resting against the ‘downhill’ side of the container before starting. I will take 5 new data points according to my experimental design.”*
-
-Often even if things go as planned and we finish taking data according to our experimental design, we can end up with an inconclusive or unclear result. Just because you complete your data collection according to the planned experimental design doesn't mean you are done with your experiment! It's far easier to communicate your results when there is a clear conclusion. It's often worth the effort to revise your plan and take more data, which will save you time trying to communicate your results (which we will do in Week 3) and allow you to reach a stronger conclusion. (Quality of data will be one of the considerations in grading your final deliverable.)
-
-As an experimentalist, you have to make the tough decision of when the experiment is complete. It takes years of experience to build up the knowledge and intuition to comfortably decide “when am I done?”. Even collaborators in the same research group can disagree on this point. To help get you started, let's look at a few examples in the following mini-question.
 
 -------
 
@@ -77,81 +129,12 @@ As an experimentalist, you have to make the tough decision of when the experimen
 -----
 
 
-## Reminder on Reporting Data with Significant Figures
 
-In week 1 we introduced you to the idea of significant figures. As a reminder: we don't want to round intermediate results in a calculation (in this experiment, values of $$\theta_c$$), but in presenting final results (in this case, $$\mu_s$$ values) we only want to report digits that are significant — that accurately reflect the precision of what we learned from the experiment. Here are the rules we ask you to use in this class:
+## Things to Turn In
 
-1. Round and keep only one digit in your uncertainty
-
-    + For example we might report an uncertainty of $$\delta \mu_s = 0.006$$
-
-    **Exception**: if the first non-zero digit — is a 1 or 2, then report two digits in the uncertainty. For example: if your uncertainty is 0.0237304 then its first non-zero digit is a 2 so we will keep two digits, resulting in an uncertainty of 0.024 after rounding.
-
-2. Round your measured value so the place value of the least significant digit matches that of the rounded uncertainty. Wow, that sounds confusing so let’s see how this applies to our example above:
-
-    + Suppose we began with 0.44030407 ± 0.01203726. We determined that the uncertainty should be 0.012, meaning the least significant digit of the uncertainty is in the 3rd decimal place. We need to round our measurement value to the same digit so the value we will report for our measurement is **0.440 ± 0.012**.
-
-#### Mini-question: Reporting Significant Figures
-*[Click here to open in a new tab](https://forms.gle/9FnE5SnK7z5i9QNWA){:target="_blank"}*
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScXf6FeCt2rfBGMoQ7bln9a56mMxyHwQ0e8aYBs9vjnH9Yd6A/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0"> Loading…
-</iframe>
-
----------------------------
-
-
-## Week 2 - Generating Data to Test a Hypothesis
-
-
-
-## Data Collection
-
-With the background reading complete, you are now ready to start the data collection process.
-
-### Step 1: Set Up a Spreadsheet
-
-You will use the same Google sheets document as last week, but should make use of the second tab "Week 2: Data Collection" (click on the appropriate tab at the bottom left of the worksheet).
-
-Your spreadsheet should allow you to:
-+ Record data.
-+ Plot your data in real time.
-+ Analyze your data. In this case your goal is to determine the coefficient of static friction for each mass.
-
-Please take a look at our [Spreadsheet preparation guide](Spreadsheet) for instructions on preparing your spreadsheet.
-
-
-----------------------------------
-
-
-### Step 2: Collect and analyze data
-
-Make sure to record all relevant details such as what mass you are using. You should take note of both the initial mass of the container and the added mass for each trial. Always include units when recording data. For the provided kits the relevant mass is recorded on each item. If you are not on campus and are making use of your own supplies and do not have access to a scale label your columns of data in an identifying way (e.g. the number of a particular item). If using your own supplies, if convenient and you wish to do so you can bring them to the lab in week 3 when we expect to resume in person labs to weigh them, but in the case where you needed to provide your own supplies it is also acceptable not to weigh your supplies and to use an alternative label when plotting your data (such as the number of a particular item added to the container)
-
-It is not a good idea to collect all of your data for the lightest mass, then to do the same thing for the next lightest, continuing on through to the heaviest mass. Take a moment to think about why this might be problematic. If you're unsure, this would be a good time to talk to an instructor.
-
-So what should you do? It is a good idea to randomize the order in which you collect your data. When switching back and forth between the masses to randomize your experiment, be very careful about where in your spreadsheet you are recording your data.  
-
-As you collect data, be on the lookout for problems like those mentioned in the [Real-time Data Visualization](#real-time-data-visualization) section above. The histogram and summary statistics of your critical angle will help you identify if you need to adjust your plan.
-
-### Step 3: Reflect and Iterate
-
-It is important to take a moment to reflect on your results. Are there any anomalies in your data? (This is often a reason to collect more data.) Are your final results and uncertainties reasonable? How do your results compare with your hypothesis?
-
-At this point, you need to consider if your results are conclusive. Do they allow you to say something meaningful about your original hypothesis?  Review the section [Iterative Experimental Design](#iterative-experimental-design) above. If your results are inconclusive, then can you think of some reasonable* steps that you can take to improve your measurement? If so, then come up with a revised experimental plan and try it!
-
-**“Reasonable” is subjective. We don't expect for the purposes of our Module 1 that you will take hundreds of data points. But if taking 5 more data points will result in a stronger conclusion, then we encourage you to do so! It is also important to recognize that statistical analysis is not valid for very small numbers of data points. As a rough guide we would not consider a statistical analysis relying on less than 5 data points to be valid and therefore recommend you collect no fewer than 5 data points for each mass.*
-
-When analyzing data keep in mind that the data points' error bars do not need to all overlap for the data to be in agreement. A rule of thumb is that **a data point that agrees with some value has a roughly two-thirds chance of falling within one error bar of that value.** We will learn more about this in the coming weeks.
-
-## Before you leave lab today
-
-Make sure you have the following:
-
-+ a good picture of your experimental setup. You will need this for your final deliverable. A good image should minimize unnecessary clutter, include everything of relevance to understanding your experimental setup, and include a scale bar. Therefore, it is important that you plan for this when taking your photo (i.e., there needs to be an item in your photo whose dimensions you know and can use to add the scale bar later). The image should also be in focus and be taken from an angle that showcases your experimental setup but does not lead to distortion (make sure your scale bar is an accurate representation). This picture will be included in your final deliverable, so take the time to take a good picture.
-
-+ A set of data for each of 5 different masses. Quality of data will be taken into consideration in grading your final deliverable.
-
-## Checkpoint #2
++ Rough drafts due in 1 week for peer review
++ make sure you have photos of your apparatus (not just photos you analyzed, but ones that show the arrangement of all the pieces)
++ in week 1 make sure they write down the levitator #.
 
 Please submit the following to Module 1, Checkpoint #2 on Gradescope. 
 
