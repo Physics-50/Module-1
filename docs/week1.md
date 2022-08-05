@@ -224,7 +224,7 @@ Once you have loaded beads into two or more adjacent nodes of the standing wave,
 
 Make sure you are taking notes on your exploratory observations as you go so that you have a record of them (reminder: we have set up [a spreadsheet for you on Google Classroom](https://classroom.google.com/c/NDk3MzIzMTc5MDg1?cjc=uuhmwg5){:target="_blank"}; use the "Week 1: Exploratory Observations" tab to record your data in this section. The template already set up could be a good place for you to record data, or you could modify it to fit your process.)
 
-After settling on a method that you trust to give you reproducible (precise) and ubiased (accurate) results, take at least five separate measurements using that method.  Use 
+After settling on a method that you trust to give you reproducible (precise) and unbiased (accurate) results, take at least five separate measurements to find the wavelength of your sound waves using that method.  Use the mean and S.E.M. of your wavelength results to find a value and uncertainty for $$V_{sound}$$.  Your instructor may ask each group to share these results with the class.
 
 
 <!-- ## Introduction to Experimental Uncertainty
