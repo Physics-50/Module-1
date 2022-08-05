@@ -4,7 +4,7 @@
 
 [Experimental Iteration](#experimental-iteration)
 
-[Why Am I Getting Too Large a Value for the Speed of Sound?](#why-am-i-getting-too-large-a-value-for-the-speed-of-sound)
+[Resolving the Puzzle](#resolving-the-puzzle)
 
 [Goals for This Week](#goals-for-this-week)
 
@@ -52,7 +52,7 @@ Once you are confident that you have made a reasonable effort to explore the lik
 
 
 
-## Why Am I Getting Too Large a Value for the Speed of Sound?
+## Resolving the Puzzle
 
 You have surveyed a range of potential systematic errors and hopefully determined which ones appeared to be the most significant. After such a careful investigation it must have been satisfying to get a result that agreed with the expected value to within experimental error...... unless of course that is not what you got. 
 
