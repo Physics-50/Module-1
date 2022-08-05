@@ -4,15 +4,16 @@ This page provides an overview of the Module 1 content. You should use the links
 
 + [Week 1 - Exploration and First Careful Measurement](week1)
 + [Week 2 - Final Careful Measurements and Analysis](week2)
-+ [Mini-questions](mini-questions)
++ [Mini-questions](mini-questions):  all the Module 1 mini-questions in one location
 
 
 ## Module 1 Overview 
 
-One of the main goals of this course is for you to "think like an experimental physicist." Instead of merely reinforcing specific concepts from other physics courses you've taken, we will focus on the experimental process. 
+In this module you will measure the speed of sound by exciting a sound wave of a known frequency and measuring its wavelength.  Specifically, you will excite a standing wave of sound in an acoustic levitator, and trap styrofoam beads in the pressure nodes of the standing wave.  Week 1 reading reviews the vocabulary and theory!
+
+One of the main goals of this course is for you to "think like an experimental physicist." Instead of merely reinforcing specific concepts from other physics courses you've taken, modules will focus on the experimental process.  
 
 ### Learning Objectives
-
 
 <span class="strike">Reinforce concepts you learned in Ph24 and/or Ph51</span> ([why not?](https://physicstoday.scitation.org/doi/10.1063/PT.3.3816){:target="_blank"})
 
@@ -23,14 +24,3 @@ One of the main goals of this course is for you to "think like an experimental p
 3. Record and communicate experimental results.
 
 
-## Weekly Plan
-
-To get started, we will begin with a simple experiment that meets the learning objectives above: measuring the speed of sound by exciting a sound wave of a known frequency and measuring its wavelength. Module 1 is two weeks long:  
-
-1. [Week 1 - Exploration and First Careful Measurement](week1)
-2. [Week 2 - Final Careful Measurements and Analysis](week2)
-
-
-## Other Information
-
-For all of the mini-questions for Module 1 in one convenient location: [Module 1 Mini-Questions](mini-questions)
