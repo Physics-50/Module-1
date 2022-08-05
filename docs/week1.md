@@ -4,8 +4,7 @@
 
 --------------
 1. [Preface](#preface)
-2. [Course Syllabus](#course-syllabus)
-2. [Background Reading](#background-reading)
+2. [Background](#background)
 3. [Formulating a Hypothesis](#formulating-a-hypothesis)
 4. [Instrumentation](#instrumentation)
 5. [Exploratory Measurements](#exploratory-measurements) 
@@ -16,19 +15,19 @@
 
 --------------
 
-Before you begin working on this module you will need to collect a kit with supplies for module 1. These kits will be available from the Jacobs-Keck courtyard on Tuesday, January 18 from 9:30am-5:00pm. [If you are unable to collect a kit on this date please follow this link](getting-kits).
+<!-- Before you begin working on this module you will need to collect a kit with supplies for module 1. These kits will be available from the Jacobs-Keck courtyard on Tuesday, January 18 from 9:30am-5:00pm. [If you are unable to collect a kit on this date please follow this link](getting-kits). -->
 
-For all experiments in this course, you will keep a data sheet (Google Sheet) and a lab notebook (Google Doc) that are individually assigned to you through Google Classroom.  Before you can access your assigned documents, you must first go to Google Classroom through a Chrome browser logged into your g.hmc.edu account and join the class with classroom code: **tn6uwnu** - or use this [link](https://classroom.google.com/c/NDQ2NjQ4MzA5Njky?cjc=tn6uwnu){:target="_blank"}. After you've done this once, you will not have to log into Google classroom separately again; all links to documents we provide through Google classroom in this lab manual should work.  Once you've signed up for Google classroom you will also receive links to your assigned spreadsheet and lab notebook via e-mail, or you can access them through Google classroom under classwork.
+For all experiments in this course, you will keep a data sheet (Google Sheet) and a lab notebook (Google Doc) that are individually assigned to you through Google Classroom.  Before you can access your assigned documents, you must first go to Google Classroom through a Chrome browser logged into your g.hmc.edu account and join the class with classroom code: **uuhmwg5** - or use this [link](https://classroom.google.com/c/NDk3MzIzMTc5MDg1?cjc=uuhmwg5){:target="_blank"}. After you've done this once, you will not have to log into Google classroom separately again; all links to documents we provide through Google classroom in this lab manual should work.  Once you've signed up for Google classroom you will also receive links to your assigned spreadsheet and lab notebook via e-mail, or you can access them through Google classroom under classwork.
 
 Please make sure to join Google classroom from your g.hmc.edu account. Students from other Claremont colleges taking the course should consult HMC's CIS support if you have any issues - they will issue you a g.hmc.edu account. **The course will not appear in your Google Classroom account until you join the course with the class code.**
 
-We begin our investigation to measure the coefficient of static friction, $$\mu_s$$, by doing an initial exploration. Our goal is to come up with a hypothesis to test and a plan for how we will do so (an experimental design). In the Exploratory Phase it can be especially important to take detailed notes. Organizing a digital lab notebook and data spreadsheet can be tricky, so for Week 1 we are providing a [template Google Sheet and Google Doc you should use, assigned from Google Classroom](https://classroom.google.com/c/NDQ2NjQ4MzA5Njky?cjc=tn6uwnu){:target="_blank"}. 
+Throughout an experiment -- but especially in the exploratory phase, when unsure what factors influence your measurement -- it can be especially important to take detailed notes. Organizing a digital lab notebook and data spreadsheet can be tricky, so for Week 1 we are providing a [template Google Sheet and Google Doc you should use, assigned from Google Classroom](https://classroom.google.com/c/NDQ2NjQ4MzA5Njky?cjc=tn6uwnu){:target="_blank"}. 
 
-**Make sure you have your data spreadsheet and your Module 1 Lab Notebook handy as you go through the content on this page. Please note that we require you to use the provided spreadsheet/lab notebook. The shared spreadsheet will make it easier for us to troubleshoot if any issues come up and provides a historical record of your data collection. The spreadsheet/lab notebook assigned through Google classroom are the only documents you will have access to for the practicum at the end of the course. It is acceptable for lab partners to use one spreadsheet for collecting data. However, if you do so the partner whose spreadsheet was not used for data collection must 1) make a note in their spreadsheet stating that the data was originally collected in your lab partner's notebook and 2) ensure you have a copy of the complete data set pasted into your own Google classroom assigned spreadsheet (once in person labs resume, make sure to do this before leaving lab). Discussion and collaboration is permitted and encouraged, but both partners are individually responsible for completing their own analysis for the checkpoints and deliverables and submitting their own work.**
+**Make sure you have your data spreadsheet and your Module 1 Lab Notebook handy as you go through the content on this page. Please note that we require you to use the provided spreadsheet/lab notebook. The shared spreadsheet will make it easier for us to troubleshoot if any issues come up, and provides a historical record of your data collection. It is acceptable for lab partners to use one spreadsheet for collecting data. However, the partner whose spreadsheet was not used for data collection must 1) make a note in their spreadsheet stating that the data was originally collected in your lab partner's notebook and 2) ensure you have a copy of the complete data set pasted into your own Google classroom assigned spreadsheet before the end of each lab session. Discussion and collaboration is encouraged, but both partners are individually responsible for completing their own analysis and submitting their own work.**
 
 
 ## Preface
-If you have any questions outside of class, we encourage you to reach out to your classmates through the class Piazza site or come to office hours to talk to an instructor. [You can sign up for the class Piazza site here.](https://piazza.com/hmc/spring2022/ph50)
+<!-- If you have any questions outside of class, we encourage you to reach out to your classmates through the class Piazza site or come to office hours to talk to an instructor. [You can sign up for the class Piazza site here.](https://piazza.com/hmc/spring2022/ph50) -->
 
 Before diving into data collection and analysis we would like to set some expectations. This course centers around the collection, analysis, and communication of experimental data and results. We expect all of these to be conducted with care and integrity.
 
@@ -66,7 +65,7 @@ You are trying to time how fast your little brother can run. Initially you do th
 
 You may find yourself in a situation where it isn't as clear what is acceptable. When in doubt please ask. 
 
-## Course Syllabus
+<!-- ## Course Syllabus
 Please take a moment to review the course [syllabus](syllabus) and then answer the following question:
 
 
@@ -80,15 +79,46 @@ Please take a moment to review the course [syllabus](syllabus) and then answer t
 ------------------------------
 
 
+-->
+## Background
 
-## Background Reading
+In this module, you will be working with a rather cool little piece of equipment: the acoustic levitator!  This device uses the power of sound waves to levitate small objects, and has applications in [*various kinds*](https://www.popsci.com/science/sound-levitation-spinning-particles/){:target="_blank"} [*of research*](https://www.nature.com/articles/srep13596){:target="_blank"} [*and technology development*](https://www.science.org/doi/10.1126/sciadv.abn7614){:target="_blank"}.  In this module, we will be levitating small styrofoam beads and using them to measure the speed of sound.  A quick review of wave phenomena and vocabulary will be useful before you get started in the lab.
+<!--Often the first step is to do some background reading and theoretical analysis. We are measuring the coefficient of static friction, a dimensionless number that depends on the two surfaces in contact. This video from Prof. Arlett on how $$\mu_s$$ and $$\theta_c$$ are related will provide some background and a quick refresher:
+[<img src="images/static-friction-video-preview.png" alt="refresher on how mu_s is related to theta_c" width="400"/>](https://drive.google.com/file/d/1YJCo0SK2Mi3Z8hzRhgZ8WHyLzuaXgzMx/view?usp=sharing){:target="_blank"}
 
-Often the first step is to do some background reading and theoretical analysis. We are measuring the coefficient of static friction, a dimensionless number that depends on the two surfaces in contact. This video from Prof. Arlett on how $$\mu_s$$ and $$\theta_c$$ are related will provide some background and a quick refresher:
-[<img src="images/static-friction-video-preview.png" alt="refresher on how mu_s is related to theta_c" width="400"/>](https://drive.google.com/file/d/1YJCo0SK2Mi3Z8hzRhgZ8WHyLzuaXgzMx/view?usp=sharing){:target="_blank"} 
+In your lab notebook, try the derivation yourself and document the result. -->
 
-In your lab notebook, try the derivation yourself and document the result.
+Waves are rather ubiquitous in everyday life, whether they are ocean waves crashing on a beach or fans doing "the wave" around a sports stadium.  As you learned in Physics 24, a wave is a disturbance that travels through a medium.  In a wave traveling in the $$+x$$ direction at speed $$V$$, the disturbance $$y$$ away from equilibrium obeys $$y(x,t) = f(x-Vt)$$, for an arbitrary function $$f$$.  We often study sinusoidal waves, in which $$y=A\sin{(kx-\omega t)} = A\sin{[2\pi(\frac{x}{\lambda}-\nu t)]$$.  Here $$A$$ is the amplitude of the wave, $$\nu$$ is the frequency, $$\omega = 2\pi\nu$$ is the angular frequency, and $$\lambda$$ is the wavelength.  Try not to confuse $$\nu$$  (the Greek letter "nu") with $$V$$!
 
-## Formulating a Hypothesis
+Comparing the expressions for a general wave and a sinusoidal wave above, you can derive the relationship $$V = \lambda\nu$$ for the speed of a wave in terms of is wavelength and frequency.  (Try this derivation yourself and document it in your lab notebook.)  This equation will be central to your data analysis in this module, since you will excite a standing wave of sound at a known frequency, measure the wavelength, and infer the speed of sound.
+
+The easiest waves to visualize are transverse waves, in which the disturbance of the medium is perpendicular to the direction in which the wave travels.  Fans at a stadium make a transverse wave, since they individually move up and down while the wave itself  -- the pattern of disturbance -- travels sideways around the arena.  Sound waves, however, are longitudinal waves:  the individual air molecules oscillate parallel to the direction in which the wave is propagating.  To better understand the distinction, take a look at the following animations:
+
+<img class="wp-image-1517" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/08/transverse-longitudinal-waves2.gif" alt="" width="529" height="320" />
+
+Above are animations of transverse (left) and longitudinal (right) travelling waves. Sound waves are longitudinal and look like the right-hand picture. To convince yourself that the individual particles are actually oscillating, follow the motion of one of the red dots on the right.  Animation credit D. Russell.
+
+You can play with another type of longitudinal wave in the Physics 50 lab; get a tall person to excite a longintudinal wave in one of the slinkies hanging from the ceiling.
+
+If waves of the same frequency travel through a medium in opposite directions, they sum to form a disturbance pattern that does not appear to move, but only to oscillate in time.  This is called a standing wave. The mathematical details can be summed up as follows:  $$y_1(x,t) = A\sin{(kx-\omega t)}$$ travels in the $$+x$$ direction, $$y_2(x,t) = A\sin{(kx+\omega t)}$$ travels in the $$-x$$ direction, and their sum $$y_{tot} = y_1 + y_2 = 2A\sin{(kx)}\cos{(\omega t)}$$ via the magic of trig identities.  The same phenomenon is illustrated by the figure below:
+
+<img class="size-full wp-image-1493" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/08/standing-waves.gif" alt="" width="288" height="288" />
+
+Above is a  standing wave formed by counter-propagating sine waves. The blue standing wave is the sum of the upper two traveling waves. Animation courtesy of D. Russell.
+
+While the animation above is a great illustration of how traveling waves sum to make a standing wave, the transverse waves shown don't give a great visual impression of a standing wave of sound.  The figure below gives a clearer sense of how individual air molecules move in a standing wave of sound:
+
+<img class="wp-image-1520" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/08/standing-displacement-antinode-vert-cropped-4.gif" alt="" width="600" height="416" />
+
+The above animation shows a standing wave of sound in air. In the left animation we see the air particles being driven up and down, creating regions of high and low pressure. The middle animation shows the displacement from equilibrium of individual particles as a function of position (and how it changes over time). The right animation represents the deviation from equilibrium pressure as a function of position. Note this pressure wave is oscillating about the equilibrium pressure, not zero pressure. Notice the motion of the <span style="color: #ff0000;">red particles</span> for various locations and how the displacement and pressure animations relate to that motion.
+
+A standing wave has locations where the displacement from equilibrium is zero at all times.  These are called nodes.  Locations where the displacement from equilibrium varies most over time are called antinodes.  In the animation above, the bottom red dot is located at a displacement node, which is a pressure antinode.  The top red dot is located at a displacement antinode, which is a pressure node.
+
+You have probably studied resonant standing waves, in which the component traveling waves are caused by a single incoming wave reflecting off boundaries at ends of a string or pipe.  In that case the properties of the violin string or organ pipe determine that only certain wavelengths (and therefore frequencies) of sound will produce lasting sound.  By contrast, our acoustic levitator employs non-resonant standing waves; the two traveling waves come from two sets of speakers pointed in opposite directions and continually pushing air back and forth to produce sound.  The allowed frequencies are limited only by the electromechanical response of the speaker system.
+
+Finally, how do our standing waves of sound trap and levitate solid particles?  Certainly air can push or pull solid objects -- just think of dust in a vacuuum cleaner or a beach umbrella in the wind.  The forces in the acoustic levitator are more complicated, since the pressure and air movement in any given spot is oscillating back and forth many times a second.  You might imagine that solid objects would simply be tugged back and forth in time with the wave instead of being stably trapped.  However, because the standing waves oscillate much too fast for macro-sized objects to follow the cycles of push and pull, the objects instead end up experiencing an effective force propotional to the time average of the square of the pressure.  You can read up on the theory of this acoustic radiation pressure (see Gorkov, 1961 and Marzo et al., 2017), but you do not need to understand the details in this lab.  You should simply know that beads end up trapped stably at pressure nodes of the standing wave.
+
+<!-- ## Formulating a Hypothesis
 
 We can now try to think of a hypothesis we can test with an experiment. As a quick check, according to the theory, which factors will affect a measurement of $$\theta_c$$?
 
@@ -104,9 +134,9 @@ Based on this answer, can you think of any hypotheses you could try to test?
 
 **While there are many different hypotheses you might consider, for Module 1 we will all test the same hypothesis. The hypothesis we will test is:**
 
-*"The coefficient of static friction between two surfaces as measured by the critical angle at which an object slips is independent of the mass of the sliding object."*
+*"The coefficient of static friction between two surfaces as measured by the critical angle at which an object slips is independent of the mass of the sliding object."* -->
 
-## Instrumentation
+<!-- ## Instrumentation
 
 Now that we've decided what hypothesis we are going to test, we need to figure out what equipment and experimental tools we are going to use. For this module, a ramp, container, and different masses (bags of bolts) that can be placed in the container were provided to you in the kit you should have collected for module 1. Each of the bags of bolts and the container have been labelled with their mass. Please do not open the bags of bolts!
 
@@ -115,18 +145,20 @@ To measure the angle you will use your phone and the **Phyphox** App. Please go 
 <img src="images/phyphox.png" alt="phyphox.org inclination tool" width="400"/>
 
 Make note of your equipment in your lab notebook (record keeping is important) and record any other notes you think might be helpful if someone else were trying to replicate your setup. Remember: for the praciticum you will only have access to your Google-classroom-assigned lab notebook and data sheet.
-
+-->
 ## Exploratory Measurements
 
-The exploratory measurements can be a fun part of the experimental process. You get to play around with your setup and make some observations! You can really let your curiosity and creativity guide you in this part of the experimental process. 
+The goal of this week is to be able to successfully levitate small styrofoam beads using the power of sound, and to use the positions of levitated beads to determine the speed of sound, $$V_{sound}$$.  At the end of this week, you should be able to use your results to predict that anyone doing careful measurements using this apparatus will in turn obtain a result for $$V_{sound}$$ within a certain range of values.  You will express this range by quoting your experimentally determined $$V_{sound} \pm \deltaV_{sound}$$.
 
-For your exploratory measurements in Module 1, we would like you to do the following:
+Before embarking on a careful -- and probably time-consuming -- series of repeated measurements, you should always do some explorations to find out whether your basic approach is sound and what factors within your control are relevant to ensuring high-quality results.  There is no point in carefully controlling something that changes your result by 1\%, while ignoring a systematic error that shifts all your results by 20\%!
 
-+ Perform and analyze a single measurement (yes, one trial) to check that you are getting a reasonable answer
++ Perform and analyze a single measurement (yes, one trial) reasonably but quickly, to check that you have a sound basic approach.  (For instance, your speed of sound should not be a few centimeters per second, or greater than the speed of light.  Since others have measured the speed of sound before you, perhaps you can look up the accepted value and ensure that you are within a factor of two.)
 
-+ Get an understanding of the repeatability of your measurement 
++ Get an understanding of the repeatability of your measurement.  What options do you have for measuring bead spacing?  For photographing your beads? 
 
 + Check other factors that might affect your measurement and its reproducibility (this is where you get to play!)
+
++Stopped here on August 4, 2022.  Need to reorder instructions and shorten (see Svetlana's ordering)
 
 The steps below guide you through these three items, and provide links to important concepts (so please follow along carefully). Make sure you are recording your exploratory observations as you go so that you have a record of them (reminder: we have set up [a spreadsheet for you on Google Classroom](https://classroom.google.com/u/0/w/NDQ2NjQ4MzA5Njky/tc/NDQ2NjQ4MzA5NzEx){:target="_blank"}; use the "Week 1: Exploratory Observations" tab to record your data in this section. Please make use of the organization of the template already set up for you to record your data.)
 
