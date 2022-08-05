@@ -1,4 +1,4 @@
- Week 1: Exploratory Phase
+ Week 1: Exploration and First Careful Measurement
 
 <!-- <img src="images/exploratory-phase.png" alt="Exploratory Phase" width="400"/> -->
 
@@ -80,12 +80,13 @@ Please take a moment to review the course [syllabus](syllabus) and then answer t
 ## Background
 
 In this module, you will be working with a rather cool little piece of equipment: the acoustic levitator!  This device uses the power of sound waves to levitate small objects, and has applications in [*various kinds*](https://www.popsci.com/science/sound-levitation-spinning-particles/){:target="_blank"} [*of research*](https://www.nature.com/articles/srep13596){:target="_blank"} [*and technology development*](https://www.science.org/doi/10.1126/sciadv.abn7614){:target="_blank"}.  In this module, we will be levitating small styrofoam beads and using them to measure the speed of sound.  A quick review of wave phenomena and vocabulary will be useful before you get started in the lab.
+
 <!--Often the first step is to do some background reading and theoretical analysis. We are measuring the coefficient of static friction, a dimensionless number that depends on the two surfaces in contact. This video from Prof. Arlett on how $$\mu_s$$ and $$\theta_c$$ are related will provide some background and a quick refresher:
 [<img src="images/static-friction-video-preview.png" alt="refresher on how mu_s is related to theta_c" width="400"/>](https://drive.google.com/file/d/1YJCo0SK2Mi3Z8hzRhgZ8WHyLzuaXgzMx/view?usp=sharing){:target="_blank"}
 
 In your lab notebook, try the derivation yourself and document the result. -->
 
-Waves are rather ubiquitous in everyday life, whether they are ocean waves crashing on a beach or fans doing "the wave" around a sports stadium.  As you learned in Physics 24, a wave is a disturbance that travels through a medium.  In a wave traveling in the $$+x$$ direction at speed $$V$$, the disturbance $$y$$ away from equilibrium obeys $$y(x,t) = f(x-Vt)$$, for an arbitrary function $$f$$.  We often study sinusoidal waves, in which $$y=A\sin{(kx-\omega t)} = A\sin{\[2\pi(\frac{x}{\lambda}-\nu t)\]}$$.  Here **$$A$$ is the amplitude** of the wave, **$$\nu$$ is the frequency**, **$$\omega = 2\pi\nu$$ is the angular frequency**, and **$$\lambda$$ is the wavelength**.  Try not to confuse $$\nu$$  (the Greek letter "nu") with $$V$$!
+Waves are rather ubiquitous in everyday life, whether they are ocean waves crashing on a beach or fans doing "the wave" around a sports stadium.  As you learned in Physics 24, a wave is a disturbance that travels through a medium.  In a wave traveling in the $$+x$$ direction at speed $$V$$, the disturbance $$y$$ away from equilibrium obeys $$y(x,t) = f(x-Vt)$$, for an arbitrary function $$f$$.  We often study sinusoidal waves, in which $$y=A\sin{(kx-\omega t)} = A\sin{[2\pi(\frac{x}{\lambda}-\nu t)]}$$.  Here **$$A$$ is the amplitude** of the wave, **$$\nu$$ is the frequency**, **$$\omega = 2\pi\nu$$ is the angular frequency**, and **$$\lambda$$ is the wavelength**.  Try not to confuse $$\nu$$  (the Greek letter "nu") with $$V$$!
 
 Comparing the expressions for a general wave and a sinusoidal wave above, you can derive the relationship $$V = \lambda\nu$$ for the speed of a wave in terms of is wavelength and frequency.  (Try this derivation yourself and document it in your lab notebook.)  This equation will be central to your data analysis in this module, since you will excite a standing wave of sound at a known frequency, measure the wavelength, and infer the speed of sound.
 
@@ -211,11 +212,11 @@ Place a few beads on a lens wipe or dryer sheet and move them around between the
 
 ## Collecting Data
 
-Once you have loaded beads into two or more adjacent nodes of the standing wave, you are ready to measure bead spacing to find the wavelength and speed of your sound waves.  Before embarking on a careful -- and probably time-consuming -- series of repeated measurements, you should always do some explorations to troubleshoot your basic approach and find out what factors within your control are relevant to ensuring high-quality results.  There is no point in carefully controlling something that changes your result by 1\%, while ignoring a systematic error that shifts all your results by 20\% or even a factor of two!
+Once you have loaded beads into two or more adjacent nodes of the standing wave, you are ready to measure bead spacing to find the wavelength and speed of your sound waves.  Before embarking on a careful -- and probably time-consuming -- series of repeated measurements, you should always do some explorations to troubleshoot your basic approach and find out what factors within your control are relevant to ensuring high-quality results.  There is no point in carefully controlling something that changes your result by 1%, while ignoring a systematic error that shifts all your results by 20% or even a factor of two!
 
 + Perform and analyze a single measurement (yes, one trial) reasonably but quickly, to check that your basic approach is working.  (For instance, your speed of sound should not be a few centimeters per second, or greater than the speed of light.  Since others have measured the speed of sound before you, perhaps you can look up the accepted value and ensure that you are within a factor of two.)
 
-+ Get an understanding of the repeatability and precision of your measurement.  What options do you have for measuring bead spacing?  Hint:  you have a ruler and [calipers](calipers), but you also have the ability to take a picture of the levitated beads with the ruler as a scale bar.  How do your choices influence the precision you can achieve?
++ Get an understanding of the repeatability and precision of your measurement.  What options do you have for measuring bead spacing?  Hint:  you have a ruler and [calipers](calipers){:target="_blank"}, but you also have the ability to take a picture of the levitated beads with the ruler as a scale bar.  How do your choices influence the precision you can achieve?
 
 + Check other factors that might affect your measurement and its reproducibility. (Creativity is encouraged!)
 
@@ -265,7 +266,7 @@ Reducing random uncertainty can include both improving our measurement technique
 
 ------------------------------ -->
 
-You can get some additional practice propagating uncertainty [here](uncertainty-introduction#extra-practice)
+<!-- You can get some additional practice propagating uncertainty [here](uncertainty-introduction#extra-practice) -->
 
 <!-- ## Propagation of Your Experimental Uncertainty
 
