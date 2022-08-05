@@ -4,7 +4,7 @@
 
 [Experimental Iteration](#experimental-iteration)
 
-[##Why Am I Getting Too Large a Value for the Speed of Sound?](#why-am-i-getting-too-large-a-value-for-the-speed-of-sound?)
+[Why Am I Getting Too Large a Value for the Speed of Sound?](#why-am-i-getting-too-large-a-value-for-the-speed-of-sound?)
 
 [Goals for This Week](#goals-for-this-week)
 
