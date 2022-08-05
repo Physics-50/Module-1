@@ -5,13 +5,13 @@
 --------------
 1. [Preface](#preface)
 2. [Background](#background)
-3. [Formulating a Hypothesis](#formulating-a-hypothesis)
+3. [Goals for This Week](#goals-for-this-week)
 4. [Instrumentation](#instrumentation)
-5. [Exploratory Measurements](#exploratory-measurements) 
-6. [Introduction to Experimental Uncertainty](#introduction-to-experimental-uncertainty)
+5. [Collecting Data](#collecting-data) 
+<!-- 6. [Introduction to Experimental Uncertainty](#introduction-to-experimental-uncertainty)
 7. [Reproducibility](#reproducibility)
-8. [Significant Figures when Reporting Results](#significant-figures-when-reporting-results)
-9. [Checkpoint 1](#checkpoint-1)
+8. [Significant Figures when Reporting Results](#significant-figures-when-reporting-results) -->
+6. [Things to Turn In](#things-to-turn-in)
 
 --------------
 
@@ -155,7 +155,7 @@ To measure the angle you will use your phone and the **Phyphox** App. Please go 
 
 Make note of your equipment in your lab notebook (record keeping is important) and record any other notes you think might be helpful if someone else were trying to replicate your setup. Remember: for the praciticum you will only have access to your Google-classroom-assigned lab notebook and data sheet.
 -->
-## This Week's Goal
+## Goals for This Week
 
 The goal of this week is to be able to successfully levitate small styrofoam beads in a standing wave of sound, and to use the positions of levitated beads to determine the speed of sound, $$V_{sound}$$.  At the end of this week, you should have a prediction, based on your results, that anyone doing careful measurements using this apparatus is likely to obtain a $$V_{sound}$$ result within a certain range of values.  You will express this range by quoting your experimentally determined $$V_{sound} \pm \delta V_{sound}$$.
 
@@ -218,12 +218,13 @@ Once you have loaded beads into two or more adjacent nodes of the standing wave,
 
 + Perform and analyze a single measurement (yes, one trial) reasonably but quickly, to check that your basic approach is working.  (For instance, your speed of sound should not be a few centimeters per second, or greater than the speed of light.  Since others have measured the speed of sound before you, perhaps you can look up the accepted value and ensure that you are within a factor of two.)
 
-+ Get an understanding of the repeatability and precision of your measurement.  What options do you have for measuring bead spacing?  Hint:  you have a ruler, but you also have the ability to take a picture of your setup with the ruler as a scale bar.  How do your choices influence your results?
++ Get an understanding of the repeatability and precision of your measurement.  What options do you have for measuring bead spacing?  Hint:  you have a ruler and [calipers](calipers), but you also have the ability to take a picture of the levitated beads with the ruler as a scale bar.  How do your choices influence the precision you can achieve?
 
-+ Check other factors that might affect your measurement and its reproducibility (this is where you get to play!)
++ Check other factors that might affect your measurement and its reproducibility. (Creativity is encouraged!)
 
+Make sure you are taking notes on your exploratory observations as you go so that you have a record of them (reminder: we have set up [a spreadsheet for you on Google Classroom](https://classroom.google.com/c/NDk3MzIzMTc5MDg1?cjc=uuhmwg5){:target="_blank"}; use the "Week 1: Exploratory Observations" tab to record your data in this section. The template already set up could be a good place for you to record data, or you could modify it to fit your process.)
 
-Make sure you are recording your exploratory observations as you go so that you have a record of them (reminder: we have set up [a spreadsheet for you on Google Classroom](https://classroom.google.com/c/NDk3MzIzMTc5MDg1?cjc=uuhmwg5){:target="_blank"}; use the "Week 1: Exploratory Observations" tab to record your data in this section. Please make use of the organization of the template already set up for you to record your data.)
+After settling on a method that you trust to give you reproducible (precise) and ubiased (accurate) results, take at least five separate measurements using that method.  Use 
 
 
 <!-- ## Introduction to Experimental Uncertainty
@@ -300,20 +301,17 @@ Please read through this [guide](Significant-figures) for reporting final result
 Significant figure guidelines apply to final reported results. In this class this will be specifically when you type in a final result in Gradescope or in a figure caption. Please do not round your results at any time within your spreadsheets (although it is okay to adjust the settings in your spreadsheet to display fewer digits if you wish to do so; talk to your instructor if you would like to do this and are unsure how to do so.)  -->
 
  
-## Checkpoint 1
+## Things to Turn In
 
-In the middle of a module, weekly checkpoints should be submitted on Gradescope. This week's checkpoint checks your data analysis and error propagation skills. 
-
-
-And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-1){:target="_blank"}
-
-## Checkpoint Deadline
-
-Deadlines for weekly checkpoints will be as follows:
+In the middle of a module, weekly checkpoints should be submitted on Gradescope. This week's checkpoint checks your data analysis and error propagation skills. Deadlines for weekly checkpoints are given in the syllabus, but here's a reminder:
 
 + Wednesday sections: due Sundays at 10 pm
 + Thursday sections: due Mondays at 10 pm
 + Friday sections: due Tuesdays at 10 pm
+
+And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-1){:target="_blank"} before this week's lab.
+
+
 
 <!-- Please note that since all sections use the same Gradescope portal the deadlines listed on Gradescope are not accurate for all sections and cannot be relied upon. -->
 
