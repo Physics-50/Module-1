@@ -24,7 +24,7 @@ We might approximate the shape of the wavefronts following the well-established 
 From the picture, it appears that the radius of curvature is closest to $2z$ at $z \approx 4.5 \frac{\lambda_{\rm eff}}{2}$, and thus $z_R \approx 4.5\frac{\lambda_{\rm eff}}{2}$. 
 
 As discussed on the excellent Wikipedia page linked above, along the $z$ axis the amplitude of the standing wave should be proportional to
-$$  y \propto \sin{[\frac{2\pi z}{\lambda} - \arctan{(z/z_R)}]}.$$
+$$  y \propto \sin{\frac{2\pi z}{\lambda} - \arctan{(z/z_R)}}.$$
 If we can approximate the arctangent by its argument, we get the altered expression
 $$    y \approx A \sin \bigg[ \bigg(\frac{2 \pi}{\lambda} - \frac{1}{z_R} \bigg) z \bigg]
     = A \sin \bigg( \frac{2 \pi z}{\lambda_{\rm eff}} \bigg) $$
