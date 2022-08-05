@@ -203,6 +203,8 @@ Before levitating beads, check your standing wave's structure and strength by vi
 
 Now vary the frequency of the function generator signal.  Select frequency and use the arrows to toggle to the tenths place on the screen.  Use the dial to change the frequency by 0.1 kHz at a time.  The sugar should form a clearer pattern with stronger movement when you are closer to the frequency at which the speakers respond best.  You may decide this is exactly 40 kHz or something slightly different, but be sure to record the frequency you choose.  If several different frequencies all produce strong standing waves, you can choose any of them.
 
+Make sure you record which levitator you are using (they are numbered), so that you can be sure you have the same levitator next week.  Different units may respond well at slightly different frequencies.
+
 ### Levitating a Bead
 
 Now try to levitate a styrofoam bead (or two or ten)! 
