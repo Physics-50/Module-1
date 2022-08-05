@@ -11,7 +11,7 @@ This page provides an overview of the Module 1 content. You should use the links
 
 In this module you will measure the speed of sound by exciting a sound wave of a known frequency and measuring its wavelength.  Specifically, you will excite a standing wave of sound in an acoustic levitator, and trap styrofoam beads in the pressure nodes of the standing wave.  Week 1 reading reviews the vocabulary and theory!
 
-One of the main goals of this course is for you to "think like an experimental physicist." Instead of merely reinforcing specific concepts from other physics courses you've taken, modules will focus on the experimental process.  
+One of the main goals of this course is for you to "think like an experimental physicist." Instead of primarily reinforcing specific concepts from other physics courses you've taken, learning objectives focus on the experimental process and analytical skills.  
 
 ### Learning Objectives
 
