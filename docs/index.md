@@ -2,8 +2,6 @@
 
 This page provides an overview of the Module 1 content. You should use the links below to find the relevant instructions specific to each week.
 
-+ [Syllabus](syllabus)
-+ [Helpful Guidance](helpful-guidance)
 + [Week 1 - Exploration and First Careful Measurement](week1)
 + [Week 2 - Final Careful Measurements and Analysis](week2)
 + [Mini-questions](mini-questions)
