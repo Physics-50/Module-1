@@ -11,7 +11,7 @@ We have assumed that the levitator produces  **plane waves**, which are waves wh
 
 # Gaussian beams
 
-We might approximate the shape of the wavefronts following the well-established theory of [Gaussian beams](https://en.wikipedia.org/wiki/Gaussian_beam){: target="_new" }. To apply this theory to the levitator, we need to estimate the **Rayleigh range** $$z_R$$, which is the distance from the center of the pattern to the place along the symmetry axis at which the wavefront is most curved. Traditionally, we measure distance along the axis with the variable $$z$$, with the zero at the exact center of the pattern.  Gaussian beam theory also tells us that at $$z=z_R$$, the radius of curvature of the wavefront should be equal to $$2z$$.
+We might approximate the shape of the wavefronts following the well-established theory of [Gaussian beams](https://en.wikipedia.org/wiki/Gaussian_beam){:target="_blank" }. To apply this theory to the levitator, we need to estimate the **Rayleigh range** $$z_R$$, which is the distance from the center of the pattern to the place along the symmetry axis at which the wavefront is most curved. Traditionally, we measure distance along the axis with the variable $$z$$, with the zero at the exact center of the pattern.  Gaussian beam theory also tells us that at $$z=z_R$$, the radius of curvature of the wavefront should be equal to $$2z$$.
 
 <p class="center" markdown="0">
   <img src='images/Gouy-with-circles2.png' alt='Gouy with circles' style='width: 300px;'>
