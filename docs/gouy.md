@@ -23,7 +23,8 @@ We might approximate the shape of the wavefronts following the well-established 
 
 From the picture, it appears that the radius of curvature is closest to $2z$ at $z \approx 4.5 \frac{\lambda_{\rm eff}}{2}$, and thus $z_R \approx 4.5\frac{\lambda_{\rm eff}}{2}$. 
 
-As discussed on the excellent Wikipedia page linked above, along the $z$ axis the amplitude of the standing wave should be proportional to $$ y \propto \sin{\frac{2\pi z}{\lambda} - \arctan{(z/z_R)}}.$$
+As discussed on the excellent Wikipedia page linked above, along the $z$ axis the amplitude of the standing wave should be proportional to 
+$$ y \propto \sin{\bigg[\frac{2\pi z}{\lambda} - \text{arctan}(z/z_R)\bigg]}.$$
 If we can approximate the arctangent by its argument, we get the altered expression
 $$    y \approx A \sin \bigg[ \bigg(\frac{2 \pi}{\lambda} - \frac{1}{z_R} \bigg) z \bigg]
     = A \sin \bigg( \frac{2 \pi z}{\lambda_{\rm eff}} \bigg) $$
@@ -32,7 +33,7 @@ $$ \lambda_{\rm eff} = \frac{\lambda}{1-\frac{\lambda}{2 \pi z_R}}.$$
 From the image above it is most natural to find $z_R$ as a multiple of $\lambda_{\rm eff}/2$, so we introduce a parameter
 $$ n = \frac{z_R}{\lambda_{\rm eff}/2} = \frac{2z_R}{\lambda_{\rm eff}}.$$
 
-Using this definition to substitute for $$z_R$$ in Eq. (3), and solving for $\lambda$, we get:
+Using this definition to substitute for $z_R$ in Eq. (3), and solving for $\lambda$, we get:
 $$ \lambda = \frac{\lambda_{\rm eff}}{1+\frac{1}{\pi n}},$$
 
 the correction factor given in the lab manual for Week 2.  Based on visual analysis as discussed above, we find $n = 4.5 \pm 0.25$.  (The uncertainty is based on resolution error, since we can perform a visual comparison of an arc to a bright or dark fringe only every $\frac{1}{2}\frac{\lambda_{\rm eff}}{2}$.)
