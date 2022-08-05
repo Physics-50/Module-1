@@ -28,10 +28,7 @@ Throughout an experiment -- but especially in the exploratory phase, when unsure
 
 Before diving into data collection and analysis we would like to set some expectations. This course centers around the collection, analysis, and communication of experimental data and results. We expect all of these to be conducted with care and integrity.
 
-Collaboration:
-We expect every student to perform the data analysis, miniquestions, checkpoints, and deliverables for themselves, but you are welcome to discuss your results and analysis with your lab partner and classmates. For module 1 you may work on your own or with any other student in the course, but you may not work in a group of more than 2 students.
-
-To make sure we all start on the same page please answer the following mini-questions (mini-questions will appear throughout this manual and are required to be completed before you arrive in lab each week. Please see the syllabus for more information regarding mini-questions) - mini-questions are interspersed throughout the lab manual and need to be completed before the start of lab.
+To make sure we all start on the same page please answer the following mini-questions (mini-questions will appear throughout this manual and are required to be completed before you arrive in lab each week. Please see the syllabus for more information regarding mini-questions) - mini-questions are interspersed throughout the lab manual and need to be completed before the start of lab.  The first two mini-questions this week are based on information you can find in the [course syllabus](syllabus){:target="_blank"}.
 
 --------------------
 
@@ -42,13 +39,6 @@ To make sure we all start on the same page please answer the following mini-ques
 </iframe>
 
 ------------------------------
-
-Data Collection:
-Please make sure you read the tips for electronic lab notebooks in the syllabus. We emphasize that your notebook is a record of the experiment. Deleting experimental data from a lab notebook is never acceptable. However, it is acceptable to remeasure/reanalyze data because of inaccurate or incorrect initial efforts. This includes retaking data with an improved experimental procedure. 
-
-An example of an acceptable note keeping and data collection would be: 
-
-You are trying to time how fast your little brother can run. Initially you do this in your hallway but you realize you are getting unreliable results. You take him to a track and restart the experiment in a way that is less sensitive to the initial conditions. You make a note next to the data you collected with a procedure you believe to be less reliable and then focus on the newly collected data in your analysis, but you do not delete the original data from your lab notebook.
 
 --------
 
