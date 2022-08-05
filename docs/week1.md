@@ -161,9 +161,9 @@ The goal of this week is to be able to successfully levitate small styrofoam bea
 
 ## Instrumentation
 
-Your first goal is to create a standing wave with the acoustic levitator. At your station you will see three main pieces of equipment that will help you make this happen.  First, you have a **function generator**:
+Your first goal is to create a standing wave with the acoustic levitator. At your station you will see three main pieces of equipment that will help you make this happen.  First, you have a **function generator** (FG, shown on the right; the power supply, PS, will be important later):
 
-[![Image of FG](images/fg_and_power.jpg)](images/fg_and_power.jpg){:target="_blank"}
+[![Image of FG](images/fg_and_power.jpg)](images/fg_and_power.jpg)
 
 This will produce the periodic signal used to make the speakers produce sound of a particular frequency.  Adjusting the waveform, frequency, amplitude and offset are done as follows:
 
