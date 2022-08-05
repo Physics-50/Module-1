@@ -23,7 +23,7 @@ We might approximate the shape of the wavefronts following the well-established 
 
 From the picture, it appears that the radius of curvature is closest to $$2z$$ at $$z \approx 4.5 \frac{\lambda_{\rm eff}}{2}$$, and thus $$z_R \approx 4.5\frac{\lambda_{\rm eff}}{2}$$. 
 
-As discussed on the excellent [Wikipedia page on Gaussian beams](https://en.wikipedia.org/wiki/Gaussian_beam){: target="_new" }, along the $$z$$ axis the amplitude of the standing wave should be proportional to
+As discussed on the excellent [Wikipedia page on Gaussian beams](https://en.wikipedia.org/wiki/Gaussian_beam){:target="_blank"}, along the $$z$$ axis the amplitude of the standing wave should be proportional to
 \begin{equation}\label{eq:Gouy}
   y \propto \sin \bigg[\frac{2\pi z}{\lambda} - \text{arctan}(z/z_R) \bigg]
 \end{equation}
