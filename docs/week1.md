@@ -8,9 +8,6 @@
 3. [Goals for This Week](#goals-for-this-week)
 4. [Instrumentation](#instrumentation)
 5. [Collecting Data](#collecting-data) 
-<!-- 6. [Introduction to Experimental Uncertainty](#introduction-to-experimental-uncertainty)
-7. [Reproducibility](#reproducibility)
-8. [Significant Figures when Reporting Results](#significant-figures-when-reporting-results) -->
 6. [Things to Turn In](#things-to-turn-in)
 
 --------------
