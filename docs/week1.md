@@ -33,9 +33,9 @@ To make sure we all start on the same page please answer the following mini-ques
 --------------------
 
 #### Mini-question: Acceptable forms of collaboration
-*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSc1cnV36goAOx-2CoKGTioDpyajLhYshON1zceV19wu0WG5wQ/viewform){:target="_blank"}*
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSc4or810HGwheK0FnpkMKZB7J-IDEsdZR8oOwSVjiKzny9Mvw/viewform){:target="_blank"}*
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc1cnV36goAOx-2CoKGTioDpyajLhYshON1zceV19wu0WG5wQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc4or810HGwheK0FnpkMKZB7J-IDEsdZR8oOwSVjiKzny9Mvw/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 ------------------------------
@@ -43,9 +43,7 @@ To make sure we all start on the same page please answer the following mini-ques
 Data Collection:
 Please make sure you read the tips for electronic lab notebooks in the syllabus. We emphasize that your notebook is a record of the experiment. Deleting experimental data from a lab notebook is never acceptable. However, it is acceptable to remeasure/reanalyze data because of inaccurate or incorrect initial efforts. This includes retaking data with an improved experimental procedure.  The guide to uncertainties and error analysis also contains a section on how and when it is acceptable to exclude data from analysis. 
 
-An example of an acceptable note keeping and data collection would be: 
-
-You are trying to time how fast your little brother can run. Initially you do this in your hallway but you realize you are getting unreliable results. You take him to a track and restart the experiment in a way that is less sensitive to the initial conditions. You make a note next to the data you collected with a procedure you believe to be less reliable and then focus on the newly collected data in your analysis, but you do not delete the original data from your lab notebook.
+An example of an acceptable note keeping and data collection would be: You are trying to time how fast your little brother can run. Initially you do this in your hallway but you realize you are getting unreliable results. You take him to a track and restart the experiment in a way that is less sensitive to the initial conditions. You make a note next to the data you collected with a procedure you believe to be less reliable and then focus on the newly collected data in your analysis, but you do not delete the original data from your lab notebook.
 
 --------
 
@@ -83,9 +81,9 @@ In this module, you will be working with a rather cool little piece of equipment
 
 In your lab notebook, try the derivation yourself and document the result. -->
 
-Waves are rather ubiquitous in everyday life, whether they are ocean waves crashing on a beach or fans doing "the wave" around a sports stadium.  As you learned in Physics 24, a wave is a disturbance that travels through a medium.  In a wave traveling in the $$+x$$ direction at speed $$V$$, the disturbance $$y$$ away from equilibrium obeys $$y(x,t) = f(x-Vt)$$, for an arbitrary function $$f$$.  We often study sinusoidal waves, in which $$y=A\sin{(kx-\omega t)} = A\sin{[2\pi(\frac{x}{\lambda}-\nu t)]}$$.  Here **$$A$$ is the amplitude** of the wave, **$$\nu$$ is the frequency**, **$$\omega = 2\pi\nu$$ is the angular frequency**, and **$$\lambda$$ is the wavelength**.  Try not to confuse $$\nu$$  (the Greek letter "nu") with $$V$$!
+Waves are rather ubiquitous in everyday life, whether they are ocean waves crashing on a beach or fans doing "the wave" around a sports stadium.  As you learned in Physics 24, a wave is a disturbance that travels through a medium.  In a wave traveling in the $$+x$$ direction at **speed $$V$$**, the disturbance $$y$$ away from equilibrium obeys $$y(x,t) = f(x-Vt)$$, for an arbitrary function $$f$$.  We often study sinusoidal waves, in which $$y=A\sin{(kx-\omega t)} = A\sin{[2\pi(\frac{x}{\lambda}-\nu t)]}$$.  Here **$$A$$ is the amplitude** of the wave, **$$\nu$$ is the frequency**, **$$\omega = 2\pi\nu$$ is the angular frequency**, and **$$\lambda$$ is the wavelength**.  Try not to confuse $$\nu$$  (the Greek letter "nu") with $$V$$!
 
-Comparing the expressions for a general wave and a sinusoidal wave above, you can derive the relationship $$V = \lambda\nu$$ for the speed of a wave in terms of is wavelength and frequency.  (Try this derivation yourself and document it in your lab notebook.)  This equation will be central to your data analysis in this module, since you will excite a standing wave of sound at a known frequency, measure the wavelength, and infer the speed of sound.
+Comparing the expressions for a general wave and a sinusoidal wave above, you can derive the relationship **$$V = \lambda\nu$$** for the speed of a wave in terms of is wavelength and frequency.  (Try this derivation yourself and document it in your lab notebook.)  This equation will be central to your data analysis in this module, since you will excite a standing wave of sound at a known frequency, measure the wavelength, and infer the speed of sound.
 
 --------
 
