@@ -28,7 +28,7 @@ Throughout an experiment -- but especially in the exploratory phase, when unsure
 
 Before diving into data collection and analysis we would like to set some expectations. This course centers around the collection, analysis, and communication of experimental data and results. We expect all of these to be conducted with care and integrity.
 
-To make sure we all start on the same page please answer the following mini-questions (mini-questions will appear throughout this manual and are required to be completed before you arrive in lab each week. Please see the syllabus for more information regarding mini-questions) - mini-questions are interspersed throughout the lab manual and need to be completed before the start of lab.  The first mini-question this week are based on information you can find in the [course syllabus](syllabus){:target="_blank"}.
+To make sure we all start on the same page please answer the following mini-questions (mini-questions will appear throughout this manual and are required to be completed before you arrive in lab each week. Please see the syllabus for more information regarding mini-questions) - mini-questions are interspersed throughout the lab manual and need to be completed before the start of lab.  The first mini-question this week is based on information you can find in the [course syllabus](syllabus){:target="_blank"}.
 
 --------------------
 
@@ -48,9 +48,9 @@ An example of an acceptable note keeping and data collection would be: You are t
 --------
 
 #### Mini-question: Handling data
-*[Click here to open in a new tab](https://forms.gle/vuCCDuDNYRaWeC7e6){:target="_blank"}*
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSepUqCHsmbmS1bFhoLObhXYpbOxpcWww2g_lBhfKgsoMa4HYA/viewform){:target="_blank"}*
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeAKMIHuPP0wX4WZKX78GnCsjuOFV63meAfYjctYu1r6kWlMg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSepUqCHsmbmS1bFhoLObhXYpbOxpcWww2g_lBhfKgsoMa4HYA/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 ------------------------------
