@@ -30,9 +30,9 @@ Once you are confident that you have made a reasonable effort to explore the lik
 #### Miniquestion 1: What next?
 **You will only receive credit for this mini-question if you complete it in lab - do not complete it before coming to class.**
 
-*[Click here to open in a new tab](https://forms.gle/3Asc2orUQn6B69Wt9){:target="_blank"}*
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSfkUH0P7Mx8g1YyPjyyiVmqMdgyozESacqSwz08cqXdtNWfDQ/viewform){:target="_blank"}*
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdAfHaBHhobEU1VLJS9pzMm2SirXpQ_-7St16Cd7y0Zy22foA/viewform?embedded=true" width="640" height="699" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfkUH0P7Mx8g1YyPjyyiVmqMdgyozESacqSwz08cqXdtNWfDQ/viewform?embedded=true" width="640" height="699" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 <br><br>
