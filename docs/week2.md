@@ -27,7 +27,7 @@ Once you are confident that you have made a reasonable effort to explore the lik
 
 ----------------------
 
-#### Miniquestion 1: What next?
+#### Miniquestion 1: Week 2 Results Check-in
 **You will only receive credit for this mini-question if you complete it in lab - do not complete it before coming to class.**
 
 *[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSfkUH0P7Mx8g1YyPjyyiVmqMdgyozESacqSwz08cqXdtNWfDQ/viewform){:target="_blank"}*
