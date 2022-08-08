@@ -4,8 +4,6 @@ On this page you will find all of the mini-questions for Module 1. Although each
 
 + [Week 1](#week-1)
 + [Week 2](#week-2)
-+ [Week 3](#week-3)
-+ [Week 4](#week-4)
 
 
 ## Week 1
@@ -13,52 +11,30 @@ On this page you will find all of the mini-questions for Module 1. Although each
 --------
 
 #### Mini-question: 1. Acceptable forms of collaboration
-*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSc1cnV36goAOx-2CoKGTioDpyajLhYshON1zceV19wu0WG5wQ/viewform){:target="_blank"}*
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSc4or810HGwheK0FnpkMKZB7J-IDEsdZR8oOwSVjiKzny9Mvw/viewform){:target="_blank"}*
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc1cnV36goAOx-2CoKGTioDpyajLhYshON1zceV19wu0WG5wQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc4or810HGwheK0FnpkMKZB7J-IDEsdZR8oOwSVjiKzny9Mvw/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 ------------------------------
 
 #### Mini-question: 2. Handling data
-*[Click here to open in a new tab](https://forms.gle/vuCCDuDNYRaWeC7e6){:target="_blank"}*
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSepUqCHsmbmS1bFhoLObhXYpbOxpcWww2g_lBhfKgsoMa4HYA/viewform){:target="_blank"}*
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeAKMIHuPP0wX4WZKX78GnCsjuOFV63meAfYjctYu1r6kWlMg/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSepUqCHsmbmS1bFhoLObhXYpbOxpcWww2g_lBhfKgsoMa4HYA/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 
 ------------------------------
 
 
-#### Mini-question: Gradescope Submissions
-*[Click here to open in a new tab](https://forms.gle/9nFbE4uS5GR11hyp7){:target="_blank"}*
+#### Mini-question: 3. Sinusoidal Wave Quantities
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSfRGNia7Lbw8mW0D3XkbXyBzoKLazHHKiTZpJJnKjYUPRCOOQ/viewform){:target="_blank"}*
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdNDFetAdF9cWajrXCG1hsYfC3zsDBpWW-Q9VRCGyCRvSIibw/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRGNia7Lbw8mW0D3XkbXyBzoKLazHHKiTZpJJnKjYUPRCOOQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
 ------------------------------
 
 
-
-#### Mini-question: 3. Critical Angle Factors
-[*Click here to open in a new tab*](https://forms.gle/LbZ62rJKbnku1Btv9){:target="_blank"}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfFH6ZBvZzAlN_LNJQqnmFCPN97KyLGW44mU-AsTd_XSAxcTw/viewform?embedded=true" width="640" height="600" frameborder="1" marginheight="10" marginwidth="0">Loading…
-</iframe>
-
------------
-
-#### Mini-question: 4. Uncertainty Propagation
-[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSdGBpAsDmSC8Ndwu0ksH5ViBPUN4lclLMx04Tl8R2vVia4pQw/viewform){:target="_blank"}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdGBpAsDmSC8Ndwu0ksH5ViBPUN4lclLMx04Tl8R2vVia4pQw/viewform?embedded=true" width="640" height="600" frameborder="1" marginheight="10" marginwidth="0">Loading…
-</iframe>
-
-------------
-
-#### Mini-question: 5. Calculating coefficient of static friction and its uncertainty
-[*Click here to open in a new tab*](https://docs.google.com/forms/d/e/1FAIpQLSdKSGfERWII08uU0DZio3Wtcul85SiBFLkbG44IAQgMJg4hMg/viewform?usp=sf_link){:target="_blank"}
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKSGfERWII08uU0DZio3Wtcul85SiBFLkbG44IAQgMJg4hMg/viewform?embedded=true" width="640" height="600" frameborder="1" marginheight="10" marginwidth="0">Loading…
-</iframe>
-
--------------
 
 ## Week 2
 
