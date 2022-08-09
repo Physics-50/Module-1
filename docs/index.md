@@ -24,3 +24,9 @@ One of the main goals of this course is for you to "think like an experimental p
 3. Record and communicate experimental results.
 
 
+### Optional: DIY Acoustic Levitator!
+If after this Module you are interested in building your own levitator you can find the AIP publication as well as a link to the materials and instructions below. Happy levitating!
+
+[AIP Paper](https://aip.scitation.org/doi/full/10.1063/1.4989995){:target="_blank"}
+
+[Materials and instructions](https://www.instructables.com/id/Acoustic-Levitator/){:target="_blank"}
