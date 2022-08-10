@@ -318,3 +318,10 @@ And to double-check, make sure you have finished all of this week's mini-questio
 + Is your spreadsheet organized with appropriate annotations if any issues arose during data collection?
 + Does your procedure adequately lay out a method to generate reproducible measurements of the critical angle? 
 + Deductions for failing to submit the checkpoint on time will be applied as outlined in the syllabus -->
+
+### References
+
+1. Gorkov, L. P., “Forces acting on a small particle in an acoustic field within an ideal fluid,” Dokl. Akad. Nauk SSSR 140(1), 88 (1961).
+
+2. A. Marzo, A. Barnes, and B. W. Drinkwater, “<span class="NLM_article-title">Tinylev: A multi-emitter single-axis acoustic levitator</span>,” Rev. Sci. Instrum. <b>88</b>(8), 085105 (2017).
+
