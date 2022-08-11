@@ -7,7 +7,7 @@
 
 Instructors: <br>
 S. Gerbode (gerbode@hmc.edu)<br>
-T. Lynn (lynn@g.hmc.edu)<br>
+T. Lynn (lynn@hmc.edu)<br>
 R. Solanki (rsolanki@hmc.edu)<br>
 D. Tamayo (dtamayo@hmc.edu)<br>
 
@@ -105,8 +105,8 @@ Some checkpoints are submitted in two parts for which part 1 is a practice calcu
 The course grade will be calculated based upon your performance on the mini-questions, checkpoints, reports, and in-lab conduct.
 
 Final grades will be determined as follows:
-+ Timely completion of the reading miniquestions: 10%
-+ Checkpoints: 20%
++ Timely completion of the reading miniquestions: 20%
++ Checkpoints: 10%
 + Reports: 60%
 + Lab Citizenship: 10%
 
