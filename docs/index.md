@@ -15,7 +15,7 @@ One of the main goals of this course is for you to "think like an experimental p
 
 ### Learning Objectives
 
-<span class="strike">Reinforce concepts you learned in Ph24 and/or Ph51</span> ([why not?](https://physicstoday.scitation.org/doi/10.1063/PT.3.3816){:target="_blank"})
+~~Reinforce concepts you learned in Ph24 and/or Ph51~~ ([why not?](https://physicstoday.scitation.org/doi/10.1063/PT.3.3816){:target="_blank"})
 
 1. Create and execute a measurement plan for accuracy and precision, based on exploratory observations. 
 
