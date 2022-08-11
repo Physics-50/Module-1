@@ -47,7 +47,7 @@ If we (your instructors) could do all of these all of the time we would be bette
 # Course Structure and Due Dates
 In this course you will complete four modules that each last several weeks.  Before each week of an experimental module, you will start by reading the online manual (linked on Sakai), where you will find background information and lab instructions, with miniquestions embedded throughout the text. These miniquestions are intended to help you quickly confirm your understanding of what you are reading and should be completed as you read. **Each week you are expected to read through the material for the week and complete the embedded mini-questions before the start of lab in order to be prepared to use your time efficiently in class.** After submission of a miniquestion, if your answer is incorrect you will be prompted to resubmit your answer. In order to receive credit for your resubmission, you must explain why your new answer is correct. When resubmitting, remember that your goal is not to describe what you did wrong but rather to explain and justify the correct answer.
 
-During mid-module weeks, you will have a checkpoint due on Gradescope three days before the next lab meeting:
+During mid-module weeks, you will have a short "checkpoint" assignment designed to check data analysis or interpretation skills relevant to the experiment in progress.  Each checkpoint is due on Gradescope three days before the next lab meeting:
 
 + Monday sections: checkpoints due Fridays at 10 pm
 + Wednesday sections: checkpoints due Sundays at 10 pm
