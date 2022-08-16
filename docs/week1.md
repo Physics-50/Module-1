@@ -88,7 +88,7 @@ Comparing the expressions for a general wave and a sinusoidal wave above, you ca
 --------
 
 #### Mini-question: Sinusoidal Wave Quantities
-*[Click here to open in a new tab]((https://docs.google.com/forms/d/e/1FAIpQLSfRGNia7Lbw8mW0D3XkbXyBzoKLazHHKiTZpJJnKjYUPRCOOQ/viewform){:target="_blank"}*
+*[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSfRGNia7Lbw8mW0D3XkbXyBzoKLazHHKiTZpJJnKjYUPRCOOQ/viewform){:target="_blank"}*
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRGNia7Lbw8mW0D3XkbXyBzoKLazHHKiTZpJJnKjYUPRCOOQ/viewform?embedded=true" width="640" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…
 </iframe>
