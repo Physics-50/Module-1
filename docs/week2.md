@@ -2,13 +2,10 @@
 
 **The instructions in this week's lab manual do not need to be read in advance. The embedded mini-question should be completed in lab this week rather than in advance; in fact, you will only receive credit for the mini-question if is completed during the lab period. Instead of pre-lab reading we would like you to reflect on any discrepancies between your results from last week and the expected value and possible explanations for the discrepancy.**
 
-[Experimental Iteration](#experimental-iteration)
-
-[Resolving the Puzzle](#resolving-the-puzzle)
-
-[Goals for This Week](#goals-for-this-week)
-
-[Things to Turn In](#things-to-turn-in)
+1. [Experimental Iteration](#experimental-iteration)
+2. [Resolving the Puzzle](#resolving-the-puzzle)
+3. [Goals for This Week](#goals-for-this-week)
+4. [Things to Turn In](#things-to-turn-in)
 
 
 ## Experimental Iteration
