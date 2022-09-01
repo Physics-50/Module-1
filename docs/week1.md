@@ -103,7 +103,9 @@ The animations above show transverse (left) and longitudinal (right) travelling 
 If you like, you can play with another type of longitudinal wave in the Physics 50 lab; get a tall person to excite a longitudinal wave in one of the slinkies hanging from the ceiling.
 
 If waves of the same amplitude and frequency travel through a medium in opposite directions, they sum to form a disturbance pattern that does not appear to move, but only to oscillate in time.  This is called a **_standing wave_**. The mathematical details can be summed up as follows:  $$y_1(x,t) = A\sin{(kx-\omega t)}$$ travels in the $$+x$$ direction, $$y_2(x,t) = A\sin{(kx+\omega t)}$$ travels in the $$-x$$ direction, and their sum is $$y_{tot} = y_1 + y_2 = 2A\sin{(kx)}\cos{(\omega t)}$$ via the magic of trig identities.  The same phenomenon is illustrated by the figure below:
+
 <img class="size-full wp-image-1493" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/08/standing-waves.gif" alt="" width="288" height="288" />
+
 Above is a  standing wave formed by counter-propagating sine waves. The blue standing wave is the sum of the upper two traveling waves. Animation credit D. Russell.
 
 While the animation above is a great illustration of how traveling waves sum to make a standing wave, the transverse waves shown don't give a great visual impression of a standing wave of sound.  The figure below gives a clearer sense of how individual air molecules move in a standing wave of sound:
