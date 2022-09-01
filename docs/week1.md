@@ -28,7 +28,7 @@ Throughout an experiment -- but especially in the exploratory phase, when unsure
 
 Before diving into data collection and analysis we would like to set some expectations. This course centers around the collection, analysis, and communication of experimental data and results. We expect all of these to be conducted with care and integrity.
 
-To make sure we all start on the same page please answer the following mini-questions. (Mini-questions will appear throughout this manual and are required to be completed before you arrive in lab each week. Please see the syllabus for more information regarding mini-questions)  The first mini-question this week is based in part on information you can find in the [course syllabus](syllabus){:target="_blank"}.
+To make sure we all start on the same page please answer the following mini-questions. (Mini-questions will appear throughout this manual and are required to be completed before you arrive in lab each week. Please see the syllabus for more information regarding mini-questions)  The first mini-question this week is based in part on information you can find in the [course syllabus](https://physics-50.github.io/General/syllabus){:target="_blank"}.
 
 --------------------
 
