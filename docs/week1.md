@@ -304,6 +304,7 @@ In the middle of a module, weekly checkpoints should be submitted on Gradescope.
 + Wednesday sections: due Sundays at 10 pm
 + Thursday sections: due Mondays at 10 pm
 + Friday sections: due Tuesdays at 10 pm
++ Monday sections: due Fridays at 10 pm
 
 And to double-check, make sure you have finished all of this week's mini-questions by [checking here](mini-questions#week-1){:target="_blank"} before this week's lab.
 
