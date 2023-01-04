@@ -12,19 +12,16 @@
 
 --------------
 
-<!-- Before you begin working on this module you will need to collect a kit with supplies for module 1. These kits will be available from the Jacobs-Keck courtyard on Tuesday, January 18 from 9:30am-5:00pm. [If you are unable to collect a kit on this date please follow this link](getting-kits). -->
-
-For all experiments in this course, you will keep a data sheet (Google Sheet) and a lab notebook (Google Doc) that are individually assigned to you through Google Classroom.  Before you can access your assigned documents, you must first go to Google Classroom through a Chrome browser logged into your g.hmc.edu account and join the class with classroom code: **uuhmwg5** - or use this [link](https://classroom.google.com/c/NDk3MzIzMTc5MDg1?cjc=uuhmwg5){:target="_blank"}. After you've done this once, you will not have to log into Google classroom separately again; all links to documents we provide through Google classroom in this lab manual should work.  Once you've signed up for Google classroom you will also receive links to your assigned spreadsheet and lab notebook via e-mail, or you can access them through Google classroom under classwork.
+For all experiments in this course, you will keep a data sheet (Google Sheet) and a lab notebook (Google Doc) that are individually assigned to you through Google Classroom.  Before you can access your assigned documents, you must first go to Google Classroom through a Chrome browser logged into your g.hmc.edu account and join the class with classroom code: **kvcagws** - or use this [link](https://classroom.google.com/c/NTgxMTg4NTYwMDk0?cjc=kvcagws){:target="_blank"}. After you've done this once, you will not have to log into Google classroom separately again; all links to documents we provide through Google classroom in this lab manual should work.  Once you've signed up for Google classroom you will also receive links to your assigned spreadsheet and lab notebook via e-mail, or you can access them through Google classroom under classwork.
 
 Please make sure to join Google classroom from your g.hmc.edu account. Students from other Claremont colleges taking the course should consult HMC's CIS support if you have any issues - they will issue you a g.hmc.edu account. **The course will not appear in your Google Classroom account until you join the course with the class code.**
 
-Throughout an experiment -- but especially in the exploratory phase, when unsure what factors influence your measurement -- it can be especially important to take detailed notes. Organizing a digital lab notebook and data spreadsheet can be tricky, so for Week 1 we are providing a [template Google Sheet and Google Doc you should use, assigned from Google Classroom](https://classroom.google.com/c/NDk3MzIzMTc5MDg1?cjc=uuhmwg5){:target="_blank"}. 
+Throughout an experiment -- but especially in the exploratory phase, when unsure what factors influence your measurement -- it can be especially important to take detailed notes. Organizing a digital lab notebook and data spreadsheet can be tricky, so for Week 1 we are providing a [template Google Sheet and Google Doc you should use, assigned from Google Classroom.
 
 **Make sure you have your data spreadsheet and your Module 1 Lab Notebook handy as you go through the content on this page. Please note that we require you to use the provided spreadsheet/lab notebook. The shared spreadsheet will make it easier for us to troubleshoot if any issues come up, and provides a historical record of your data collection. It is acceptable for lab partners to use one spreadsheet for collecting data. However, the partner whose spreadsheet was not used for data collection must 1) make a note in their spreadsheet stating that the data was originally collected in your lab partner's notebook and 2) ensure you have a copy of the complete data set pasted into your own Google classroom assigned spreadsheet before the end of each lab session. Discussion and collaboration is encouraged, but both partners are individually responsible for completing their own analysis and submitting their own work.**
 
 
 ## Preface
-<!-- If you have any questions outside of class, we encourage you to reach out to your classmates through the class Piazza site or come to office hours to talk to an instructor. [You can sign up for the class Piazza site here.](https://piazza.com/hmc/spring2022/ph50) -->
 
 Before diving into data collection and analysis we would like to set some expectations. This course centers around the collection, analysis, and communication of experimental data and results. We expect all of these to be conducted with care and integrity.
 
@@ -214,7 +211,7 @@ Once you have loaded beads into two or more adjacent nodes of the standing wave,
 
 + Perform and analyze a single measurement (yes, one trial) reasonably but quickly, to check that your basic approach is working.  (For instance, your speed of sound should not be a few centimeters per second, or greater than the speed of light.  Since others have measured the speed of sound before you, perhaps you can look up the accepted value and ensure that you are within a factor of two.)
 
-+ Get an understanding of the repeatability and precision of your measurement.  What options do you have for measuring bead spacing?  Hint:  you have a ruler and [calipers](calipers){:target="_blank"}, but you also have the ability to take a picture of the levitated beads with the ruler as a scale bar.  How do your choices influence the precision you can achieve?
++ Get an understanding of the repeatability and precision of your measurement.  What options do you have for measuring bead spacing?  Hint:  you have a ruler, but you also have the ability to take a picture of the levitated beads with the ruler as a scale bar.  How do your choices influence the precision you can achieve?
 
 + Check other factors that might affect your measurement and its reproducibility. (Creativity is encouraged!)
 

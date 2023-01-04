@@ -76,10 +76,10 @@ Take a look at the pattern of the sound waves using sugar - you should see signi
 
 You will not be responsible for the details of the more complete theory but are encouraged to [read a summary here](gouy).  The **bottom line** is this:
 
-You can account for the 3D structure of the standing waves by applying the following correction to get the actual wavelength ($$\lambda$$) from  your measured value, $$\lambda_{\rm eff}$$:
+You can account for the curvature of the standing waves by applying the following correction to get the actual wavelength ($$\lambda$$) from  your measured value, $$\lambda_{\rm eff}$$:
 
 \begin{equation}
-  \lambda = \frac{\lambda_{\rm eff}}{1+\frac{1}{\pi n}}
+  \lambda = \frac{\pi n \lambda_{\rm eff}}{1+ \pi n}
 \end{equation}
 
 For our acoustic levitators, the instructors have determined that $$n=4.5 \pm 0.25$$. ([see previously mentioned supplemental materials](gouy)). 
