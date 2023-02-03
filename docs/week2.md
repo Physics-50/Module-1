@@ -134,10 +134,10 @@ At the end of this week you should have a final determination of the speed of so
 + Bring a rough draft of your Module 1 lab report (hard copy, please!) to class next week for peer review.
 + The final version of your Module 1 lab report will be due three days before the next module begins, as stated in the syllabus.  As a reminder, the report due dates are:
 
-  + Monday sections:  report due Friday 9/30 at 10p.m.
-  + Wednesday sections:  report due Sunday 9/25 at 10p.m.
-  + Thursday sections:  report due Monday 9/26 at 10p.m.
-  + Friday sections:  report due Tuesday 9/27 at 10p.m.
+  + Monday sections:  report due Friday at 10p.m.
+  + Wednesday sections:  report due Sunday at 10p.m.
+  + Thursday sections:  report due Monday at 10p.m.
+  + Friday sections:  report due Tuesday at 10p.m.
 
 <!-- Please submit the following to Module 1, Checkpoint #2 on Gradescope. 
 
