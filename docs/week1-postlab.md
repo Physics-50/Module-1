@@ -5,8 +5,6 @@
 In the middle of a module, weekly checkpoints should be submitted on Gradescope. This week's checkpoint checks your data analysis and error propagation skills. 
 
 
-
-
 Deadlines for weekly checkpoints are given in the syllabus, but here's a reminder:
 
 + Monday sections: due Fridays at 10 pm

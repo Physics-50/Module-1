@@ -1,5 +1,7 @@
 # Module 1 Week 1 During Lab
 
+Before starting, make sure you have your Module 1 Lab Notebook and Datasheet ready. It should already be in your Google Drive if you completed the preclass instructions. But if not, you can access it in [our Google Classroom Site](https://classroom.google.com/c/NjE4OTI1NTExMzgy?cjc=asy5uwz}{:target="_blank"}.
+
 ## Goals for This Week
 
 The goal of this week is to be able to successfully levitate small styrofoam beads in a standing wave of sound, and to use the positions of levitated beads to determine the speed of sound, $$V_{sound}$$.  At the end of this week, you should have a prediction, based on your results, that anyone doing careful measurements using this apparatus is likely to obtain a $$V_{sound}$$ result within a certain range of values.  You will express this range by quoting your experimentally determined $$V_{sound} \pm \delta V_{sound}$$.
