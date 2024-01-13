@@ -3,12 +3,7 @@
 **All Google Form Questions on this page are due before the start of you lab period**
 
 
-Don't forget about your Intro Lesson Homework (on Gradescope) and the two pre-course assessments:
-+ [E-CLASS](https://cuboulder.qualtrics.com/SE/?SID=SV_6sezdPSLqM8rBRQ){:target="_blank}
-+ [PLIC](https://yul1.qualtrics.com/jfe/form/SV_9LCfGKAXl768pbU){:target="_blank"}
-
-
-For all experiments in this course, you will keep a data sheet (Google Sheet) and a lab notebook (Google Doc) that are individually assigned to you through Google Classroom.  Before you can access your assigned documents, you must first go to Google Classroom through a Chrome browser logged into your g.hmc.edu account and join the class with [this link](https://classroom.google.com/c/NjE4OTI1NTExMzgy?cjc=asy5uwz){:target="_blank"}. After you've done this once, you will not have to log into Google classroom separately again; all links to documents we provide through Google classroom in this lab manual should work.  Once you've signed up for Google classroom you will also receive links to your assigned spreadsheet and lab notebook for each Module via e-mail, or you can access them through Google classroom under classwork.
+For all experiments in this course, you will keep a data sheet (Google Sheet) and a lab notebook (Google Doc) that are individually assigned to you through Google Classroom.  Before you can access your assigned documents, you must first go to Google Classroom through a Chrome browser logged into your g.hmc.edu account and join the class with [this link](https://classroom.google.com/c/NjU0MTk4ODkzNTcy){:target="_blank"}. After you've done this once, you will not have to log into Google classroom separately again; all links to documents we provide through Google classroom in this lab manual should work.  Once you've signed up for Google classroom you will also receive links to your assigned spreadsheet and lab notebook for each Module via e-mail, or you can access them through Google classroom under classwork.
 
 Please make sure to join Google classroom from your g.hmc.edu account. Students from other Claremont colleges taking the course should consult HMC's CIS support if you have any issues - they will issue you a g.hmc.edu account. **The course will not appear in your Google Classroom account until you join the course with the link.**
 
