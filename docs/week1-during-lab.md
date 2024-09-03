@@ -4,7 +4,7 @@ Before starting, make sure you have your Module 1 Lab Notebook and Datasheet rea
 
 ## Goals for This Week
 
-The goal of this week is to be able to successfully levitate small styrofoam beads in a standing wave of sound, and to use the positions of levitated beads to determine the speed of sound, $$V_{sound}$$.  At the end of this week, you should have a prediction, based on your results, that anyone doing careful measurements using this apparatus is likely to obtain a $$V_{sound}$$ result within a certain range of values.  You will express this range by quoting your experimentally determined $$V_{sound} \pm \delta V_{sound}$$.
+The goal of this week is to be able to successfully levitate small styrofoam beads in a standing wave of sound, and to use the positions of levitated beads to determine the speed of sound, $$V_{\rm sound}$$.  At the end of this week, you should have a prediction, based on your results, that anyone doing careful measurements using this apparatus is likely to obtain a $$V_{\rm sound}$$ result within a certain range of values.  You will express this range by quoting your experimentally determined $$V_{\rm sound} \pm \delta V_{\rm sound}$$.
 
 ## Instrumentation
 
@@ -73,4 +73,4 @@ Once you have loaded beads into two or more adjacent nodes of the standing wave,
 
 Make sure you are taking notes on your exploratory observations as you go so that you have a record of them (reminder: we have set up a spreadsheet for you on Google Classroom; use the "Week 1: Exploratory Observations" tab to record your data in this section. The template already set up could be a good place for you to record data, or you could modify it to fit your process.)
 
-After settling on a method that you trust to give you reproducible (precise) and unbiased (accurate) results, take at least five separate measurements to find the wavelength of your sound waves using that method.  Use the mean and S.E.M. of your wavelength results to find a value and uncertainty for $$V_{sound}$$.  Your instructor may ask each group to share these results with the class.
+After settling on a method that you trust to give you reproducible (precise) and unbiased (accurate) results, take at least five separate measurements to find the wavelength of your sound waves using that method.  Use the mean and S.E.M. of your wavelength results to find a value and uncertainty for $$V_{\rm sound}$$.  Your instructor may ask each group to share these results with the class.
