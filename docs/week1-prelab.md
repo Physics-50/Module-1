@@ -65,7 +65,7 @@ Comparing the expressions for a general wave and a sinusoidal wave above, you ca
 
 The easiest waves to visualize are *transverse waves*, in which the disturbance of the medium is perpendicular to the direction in which the wave travels.  Fans at a stadium make a transverse wave, since they individually move up and down while the wave itself  -- the pattern of disturbance -- travels sideways around the arena.  Sound waves, however, are *longitudinal waves*:  the individual air molecules oscillate parallel to the direction in which the wave is propagating.  To better understand the distinction, take a look at the following animations:
 
-<img class="wp-image-1517" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/08/transverse-longitudinal-waves2.gif" alt="" width="529" height="320" />
+<img class="wp-image-1517" src="images/transverse-longitudinal-waves2.gif" alt="" width="529" height="320" />
 
 The animations above show transverse (left) and longitudinal (right) travelling waves. Sound waves are longitudinal and look like the right-hand picture. To convince yourself that the individual particles are actually oscillating, follow the motion of one of the red dots on the right.  Animation credit D. Russell.
 
@@ -73,13 +73,13 @@ If you like, you can play with another type of longitudinal wave in the Physics 
 
 If waves of the same amplitude and frequency travel through a medium in opposite directions, they sum to form a disturbance pattern that does not appear to move, but only to oscillate in time.  This is called a **_standing wave_**. The mathematical details can be summed up as follows:  $$y_1(x,t) = A\sin{(kx-\omega t)}$$ travels in the $$+x$$ direction, $$y_2(x,t) = A\sin{(kx+\omega t)}$$ travels in the $$-x$$ direction, and their sum is $$y_{tot} = y_1 + y_2 = 2A\sin{(kx)}\cos{(\omega t)}$$ via the magic of trig identities.  The same phenomenon is illustrated by the figure below:
 
-<img class="size-full wp-image-1493" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/08/standing-waves.gif" alt="" width="288" height="288" />
+<img class="size-full wp-image-1493" src="images/standing-waves.gif" alt="" width="288" height="288" />
 
 Above is a  standing wave formed by counter-propagating sine waves. The blue standing wave is the sum of the upper two traveling waves. Animation credit D. Russell.
 
 While the animation above is a great illustration of how traveling waves sum to make a standing wave, the transverse waves shown don't give a great visual impression of a standing wave of sound.  The figure below gives a clearer sense of how individual air molecules move in a standing wave of sound:
 
-<img class="wp-image-1520" src="https://www.physics.hmc.edu/~physics50/wp/wp-content/uploads/2018/08/standing-displacement-antinode-vert-cropped-4.gif" alt="" width="600" height="416" />
+<img class="wp-image-1520" src="images/standing-displacement-antinode-vert-cropped-4.gif" alt="" width="600" height="416" />
 
 The animation above shows a standing wave of sound in air. In the left animation we see the air particles oscillating up and down, creating regions of high and low pressure. The middle animation represents the displacement from equilibrium of individual particles as a function of position (and how it changes over time). The right animation represents the deviation from equilibrium pressure as a function of position; the midpoint about which the pressure oscillates is the equilibrium pressure, not zero pressure. Notice the motion of the <span style="color: #ff0000;">red particles</span> for various locations and how the displacement and pressure animations relate to that motion.
 
