@@ -24,7 +24,7 @@ You must choose what settings on the function generator will produce sound waves
 
 Now, turn your attention to the **acoustic levitator** itself:
 
-<img class="wp-image-1588 size-full" src="/images/levitator-back.png" alt="" width="469" height="327">
+<img class="wp-image-1588 size-full" src="images/levitator-back.png" alt="" width="469" height="327">
 
 Set the switch on the levitator to “AMP.” The switch has 3 possible positions, so make sure it is pressed all the way to “AMP.” This sets the output from the FG to be the logic input for a digital driver located inside the acoustic levitator box. A digital driver uses a logic input of "low" or "high" as the instruction to switch between outputs of 0 V and whatever voltage is supplied to it by a separate power supply (labeled PS OUTPUT (+)). Thus, the output of the driver will be a square wave oscillating at the same frequency as the function generator, switching between 0 V and the output voltage of the power supply (once you connect it).
 
