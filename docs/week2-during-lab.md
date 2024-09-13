@@ -85,7 +85,7 @@ Please make use of this correction to estimate the speed of sound. Do you get a 
 At the end of this week you should have a final determination of the speed of sound based on careful measurements and the revised theory.  You will need to:
 + measure bead spacing by photographing beads with a ruler as an appropriately-placed scale bar.  Measuring bead spacing in pixels offers much finer resolution than direct measurement with a ruler.
 + combine data from at least five different images, resetting whatever features of the experiment are required to randomize important systematic errors.
-+ calculate speed of sound from your measured $$\lambda_{eff}$$ using the revised theory, and calculate uncertainty in speed of sound based on both uncertainty in $$\lambda_{eff}$$ and uncertainty in $$n$$.
++ calculate speed of sound from your measured $$\lambda_{\rm eff}$$ using the revised theory, and calculate uncertainty in speed of sound based on both uncertainty in $$\lambda_{\rm eff}$$ and uncertainty in $$n$$.
 + make sure you have comprehensive photographs of your apparatus before leaving lab today.  These should not just be the images you analyze, but additional photographs that show the placement and orientation of the levitator, ruler, imaging camera, and anything else that is relevant to understanding your results.
 
 <!-- ### Making an Experimental Plan
