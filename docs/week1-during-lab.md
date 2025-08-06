@@ -1,6 +1,6 @@
 # Module 1 Week 1 During Lab
 
-Before starting, make sure you have your Module 1 Lab Notebook and Datasheet ready. It should already be in your Google Drive if you completed the preclass instructions. But if not, you can access it in [our Google Classroom Site](URL GOES HERE){:target="_blank"}.
+Before starting, make sure you have your Module 1 Lab Notebook and Datasheet ready. It should already be in your Google Drive if you completed the preclass instructions. But if not, you can access it in [our Google Classroom Site](https://classroom.google.com/c/NzkxMTk3MDcxNjAw?cjc=q7qizp2g){:target="_blank"}.
 
 ## Goals for This Week
 
