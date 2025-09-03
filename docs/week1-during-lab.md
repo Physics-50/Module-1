@@ -46,11 +46,11 @@ When you reach a voltage output of around 6-10 volts, the current will start to 
 
 At this point, if all is well, your acoustic levitator is producing standing waves of sound.
 
-### Checking Best Drive Frequency
+### Finding a Good Drive Frequency
 
-Before levitating beads, check your standing wave's structure and strength by visualizing it with the aid of garlic powder.  As neatly as possible -- no garlic powder all over the floor, please! -- pour some garlic powder onto one of the black cardboard rectangles at your station and spread it out across the central third or half of the cardboard.  Gently slide the cardboard into the cavity of the acoustic levitator, holding it near the center axis, until you see a pattern forming in the powder.  Take note of the pattern (a photo might be a great addition to your lab notebook) and the speed of the garlic powder's movement.
+Before levitating beads, check your standing wave's structure and strength by visualizing it with the aid of garlic powder.  As neatly as possible -- no garlic powder all over the floor, please! -- shake or sprinkle some garlic powder onto one of the black cardboard rectangles at your station and spread it out across the central third or half of the cardboard.  Gently slide the cardboard into the cavity of the acoustic levitator, holding it near the center axis, until you see a pattern forming in the powder.  Take note of the pattern (a photo might be a great addition to your lab notebook) and the speed of the garlic powder's movement.
 
-Now vary the frequency of the function generator signal.  Select frequency and use the arrows to toggle to the tenths place on the screen.  Use the dial to change the frequency by 0.1 kHz at a time.  The garlic powder will form a clearer pattern with stronger movement when you are closer to the frequency at which the speakers respond best.  You may decide this is exactly 40 kHz or something slightly different, but be sure to record the frequency you choose.  If several different frequencies all produce strong standing waves, you can choose any of them.
+Now vary the frequency of the function generator signal.  Select frequency and use the arrows to toggle to the tenths place on the screen.  Use the dial to change the frequency by 0.1 kHz at a time.  The garlic powder will form a clear pattern with stronger movement when you are at afrequency at which the speakers respond well.  You may decide this is exactly 40 kHz or something slightly different, but be sure to record the frequency you choose.  If several different frequencies all produce strong standing waves, you can choose any of them; there is no need to spend more than a few minutes choosing a frequency that works well.
 
 Make sure you record which levitator you are using (they are numbered), so that you can be sure you have the same levitator next week.  Different units may respond well at slightly different frequencies.
 
