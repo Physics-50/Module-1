@@ -75,5 +75,5 @@ Make sure you are taking notes on your exploratory observations as you go so tha
 
 After settling on a method that you trust to give you reproducible (precise) and unbiased (accurate) results, take at least five separate measurements to find the wavelength of your sound waves using that method.  Use the mean and S.E.M. of your wavelength results to find a value and uncertainty for $$V_{\rm sound}$$.  Your instructor may ask each group to share these results with the class.
 
-<h2 style="text-align:center;">[Return to Pre-Lab](week1-prelab)</h2> 
-<h2 style="text-align:center;">[Go to Post-Lab](week1-postlab)</h2>
+<h2 style="text-align:left;">[Return to Pre-Lab](week1-prelab)</h2> 
+<h2 style="text-align:right;">[Go to Post-Lab](week1-postlab)</h2>

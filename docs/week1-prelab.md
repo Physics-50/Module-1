@@ -97,4 +97,4 @@ Finally, how do our standing waves of sound trap and levitate solid particles?  
 2. A. Marzo, A. Barnes, and B. W. Drinkwater, “<span class="NLM_article-title">Tinylev: A multi-emitter single-axis acoustic levitator</span>,” Rev. Sci. Instrum. <b>88</b>(8), 085105 (2017).
 
  
-<h2 style="text-align:center;">[Go to During Lab](week1-during-lab)</h2> 
+<h2 style="text-align:right;">[Go to During Lab](week1-during-lab)</h2> 
