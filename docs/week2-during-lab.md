@@ -120,3 +120,5 @@ At the end of this week you should have a final determination of the speed of so
 </iframe>
 
 ------ -->
+<h2 style="text-align:left;">[Previous: Pre-Lab](week2-prelab)</h2> 
+<h2 style="text-align:right;">[Next: Post-Lab](week2-postlab)</h2>

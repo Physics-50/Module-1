@@ -39,3 +39,5 @@ Your work will be graded based on:
 
 
 Don't forget to double check that you've completed [this week's miniquestion during lab.](mini-questions#week-2){:target="_blank"}
+
+<h2 style="text-align:left;">[Previous: During Lab](week2-during-lab)</h2>
