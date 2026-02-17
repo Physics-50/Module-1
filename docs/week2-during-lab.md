@@ -75,7 +75,7 @@ You can account for the curvature of the standing waves by applying the followin
   \lambda = \frac{\pi n \lambda_{\rm eff}}{1+ \pi n}
 \end{equation}
 
-For our acoustic levitators, the instructors have determined that $$n=4.5 \pm 0.25$$. ([see previously mentioned supplemental materials](gouy)). 
+For our acoustic levitators, the instructors have determined that $$n=4.50 \pm 0.25$$. ([see previously mentioned supplemental materials](gouy)). 
 
 Please make use of this correction to estimate the speed of sound. Do you get a more reasonable result?
 
