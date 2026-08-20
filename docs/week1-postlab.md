@@ -2,7 +2,7 @@
 
 ## Things to Turn In
 
-In the middle of a module, weekly checkpoints should be submitted on Gradescope. This week's checkpoint checks your data analysis and error propagation skills. 
+In the middle of a module, weekly checkpoints should be submitted on Gradescope. This week's checkpoint assesses your data analysis and error propagation skills. 
 
 
 Deadlines for weekly checkpoints are given in the syllabus, but here's a reminder:

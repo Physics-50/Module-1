@@ -1,15 +1,15 @@
 # Module 1 Week 1 Pre-lab
 
-**All Google Form Questions on this page are due before the start of you lab period**
+**All Google Form Questions on this page are due before the start of your lab period**
 
 
-For all experiments in this course, you will keep a data sheet (Google Sheet) and a lab notebook (Google Doc) that are individually assigned to you through Google Classroom.  Before you can access your assigned documents, you must first go to Google Classroom through a Chrome browser logged into your g.hmc.edu account and join the class with [this link](https://classroom.google.com/c/ODI0NDEyNjQzNDEz){:target="_blank"}. After you've done this once, you will not have to log into Google classroom separately again; all links to documents we provide through Google classroom in this lab manual should work.  Once you've signed up for Google classroom you will also receive links to your assigned spreadsheet and lab notebook for each Module via e-mail, or you can access them through Google classroom under classwork.
+For all experiments in this course, you will keep a data sheet (Google Sheet) and a lab notebook (Google Doc) that are individually assigned to you. At the start of the course, you will receive an email with a link to a Google Drive directory containing your assigned spreadsheet and lab notebook for each Module.
 
-Please make sure to join Google classroom from your g.hmc.edu account. Students from other Claremont colleges taking the course should consult HMC's CIS support if you have any issues - they will issue you a g.hmc.edu account. **The course will not appear in your Google Classroom account until you join the course with the link.**
+If you are having any trouble accessing your assigned spreadsheet or lab notebook, please contact your instructor.
 
-Throughout an experiment -- but especially in the exploratory phase, when unsure what factors influence your measurement -- it can be especially important to take detailed notes. Organizing a digital lab notebook and data spreadsheet can be tricky, so for Week 1 we are providing a template Google Sheet and Google Doc you should use, assigned from Google Classroom.
+Throughout an experiment -- but especially in the exploratory phase, when you are unsure what factors influence your measurement -- it can be especially important to take detailed notes. Organizing a digital lab notebook and data spreadsheet can be tricky, so for Week 1 we are providing a template Google Sheet and Google Doc you should use.
 
-**Make sure you have your data spreadsheet and your Module 1 Lab Notebook handy as you go through the content on this page. Please note that we require you to use the provided spreadsheet/lab notebook. The shared spreadsheet will make it easier for us to troubleshoot if any issues come up, and provides a historical record of your data collection. It is acceptable for lab partners to use one spreadsheet for collecting data. However, the partner whose spreadsheet was not used for data collection must 1) make a note in their spreadsheet stating that the data was originally collected in your lab partner's notebook and 2) ensure you have a copy of the complete data set pasted into your own Google classroom assigned spreadsheet before the end of each lab session. Discussion and collaboration is encouraged, but both partners are individually responsible for completing their own analysis and submitting their own work.**
+**Make sure you have your data spreadsheet and your Module 1 Lab Notebook handy as you go through the content on this page. Please note that we require you to use the provided spreadsheet/lab notebook. The shared spreadsheet will make it easier for us to troubleshoot if any issues come up, and will provide a historical record of your data collection. It is acceptable for lab partners to use one spreadsheet for collecting data. However, the partner whose spreadsheet was not used for data collection must 1) make a note in their spreadsheet stating that the data was originally collected in your lab partner's notebook and 2) ensure you have a copy of the complete data set pasted into your own assigned spreadsheet before the end of each lab session. Discussion and collaboration are encouraged, but both partners are individually responsible for completing their own analysis and submitting their own work.**
 
 
 ## Preface
@@ -31,7 +31,7 @@ To make sure we all start on the same page please answer the following mini-ques
 Data Collection:
 Please make sure you read the tips for electronic lab notebooks in the syllabus. We emphasize that your notebook is a record of the experiment. Deleting experimental data from a lab notebook is never acceptable. However, it is acceptable to remeasure/reanalyze data because of inaccurate or incorrect initial efforts. This includes retaking data with an improved experimental procedure.  The guide to uncertainties and error analysis also contains a section on how and when it is acceptable to exclude data from analysis. 
 
-An example of an acceptable note keeping and data collection would be: You are trying to time how fast your little brother can run. Initially you do this in your hallway but you realize you are getting unreliable results. You take him to a track and restart the experiment in a way that is less sensitive to the initial conditions. You make a note next to the data you collected with a procedure you believe to be less reliable and then focus on the newly collected data in your analysis, but you do not delete the original data from your lab notebook.
+An example of an acceptable note-keeping and data collection would be: You are trying to time how fast your little brother can run. Initially you do this in your hallway, but you realize you are getting unreliable results. You take him to a track and restart the experiment in a way that is less sensitive to the initial conditions. You make a note next to the data you collected with a procedure you believe to be less reliable and then focus on the newly collected data in your analysis, but you do not delete the original data from your lab notebook.
 
 --------
 
@@ -43,7 +43,7 @@ An example of an acceptable note keeping and data collection would be: You are t
 
 ------------------------------
 
-You may find yourself in a situation where it isn't as clear what is acceptable. When in doubt please ask. 
+You may find yourself in a situation where it isn't as clear what is acceptable. When in doubt, please ask. 
 
 ## Background
 
@@ -52,7 +52,7 @@ In this module, you will be working with a rather cool little piece of equipment
 
 Waves are rather ubiquitous in everyday life, whether they are ocean waves crashing on a beach or fans doing "the wave" around a sports stadium.  As you learned in Physics 24, a wave is a disturbance that travels through a medium.  In a wave traveling in the $$+x$$ direction at **speed $$V$$**, the disturbance $$y$$ away from equilibrium obeys $$y(x,t) = f(x-Vt)$$, for an arbitrary function $$f$$.  We often study sinusoidal waves, in which $$y=A\sin{(kx-\omega t)} = A\sin{[2\pi(\frac{x}{\lambda}-\nu t)]}$$.  Here **$$A$$ is the _amplitude_** of the wave, **$$\nu$$ is the _frequency_**, **$$\omega = 2\pi\nu$$ is the _angular frequency_**, and **$$\lambda$$ is the _wavelength_**.  Try not to confuse $$\nu$$  (the Greek letter "nu") with $$V$$!
 
-Comparing the expressions for a general wave and a sinusoidal wave above, you can derive the relationship **$$V = \lambda\nu$$** for the speed of a wave in terms of is wavelength and frequency.  (Try this derivation yourself and document it in your lab notebook.)  This equation will be central to your data analysis in this module, since you will excite a standing wave of sound at a known frequency, measure the wavelength, and infer the speed of sound.
+Comparing the expressions for a general wave and a sinusoidal wave above, you can derive the relationship **$$V = \lambda\nu$$** for the speed of a wave in terms of its wavelength and frequency.  (Try this derivation yourself and document it in your lab notebook.)  This equation will be central to your data analysis in this module, since you will excite a standing wave of sound at a known frequency, measure the wavelength, and infer the speed of sound.
 
 --------
 
@@ -67,7 +67,7 @@ The easiest waves to visualize are *transverse waves*, in which the disturbance 
 
 <img class="wp-image-1517" src="images/transverse-longitudinal-waves2.gif" alt="" width="529" height="320" />
 
-The animations above show transverse (left) and longitudinal (right) travelling waves. Sound waves are longitudinal and look like the right-hand picture. To convince yourself that the individual particles are actually oscillating, follow the motion of one of the red dots on the right.  Animation credit D. Russell.
+The animations above show transverse (left) and longitudinal (right) traveling waves. Sound waves are longitudinal and look like the right-hand picture. To convince yourself that the individual particles are actually oscillating, follow the motion of one of the red dots on the right.  Animation credit D. Russell.
 
 If you like, you can play with another type of longitudinal wave in the Physics 50 lab; get a tall person to excite a longitudinal wave in one of the slinkies hanging from the ceiling.
 
@@ -87,7 +87,7 @@ A standing wave has locations where the displacement from equilibrium is zero at
 
 You have probably studied _resonant_ standing waves, in which the component traveling waves are caused by a single incoming wave reflecting off boundaries at ends of a string or pipe.  In that case the geometry of the violin string or organ pipe dictates that only certain wavelengths (and therefore frequencies) will produce significant sound.  By contrast, our acoustic levitator employs _non-resonant_ standing waves; the two traveling waves come from two sets of speakers pointed in opposite directions and continually pushing air back and forth to produce sound.  The allowed frequencies are limited only by the electromechanical response of the speakers to the signal we use to drive them.
 
-Finally, how do our standing waves of sound trap and levitate solid particles?  Certainly air can push or pull solid objects -- just think of dust in a vacuuum cleaner or a beach umbrella in the wind.  The forces in the acoustic levitator are more complicated, since the pressure and air movement in any given spot is oscillating back and forth many times a second.  You might imagine that solid objects would simply be tugged back and forth in time with the wave instead of being stably trapped.  However, because the standing waves oscillate much too fast for macro-sized objects to follow the cycles of push and pull, the objects instead end up experiencing an effective force propotional to the time average of the square of the pressure.  You can read up on the theory of this acoustic radiation pressure if you like (see Gorkov, 1961 and Marzo et al., 2017), but you do not need to understand the details for this lab.  You should simply know that **beads end up trapped stably at pressure nodes of the standing wave**.
+Finally, how do our standing waves of sound trap and levitate solid particles?  Certainly air can push or pull solid objects -- just think of dust in a vacuum cleaner or a beach umbrella in the wind.  The forces in the acoustic levitator are more complicated, since the pressure and air movement in any given spot are oscillating back and forth many times a second.  You might imagine that solid objects would simply be tugged back and forth in time with the wave instead of being stably trapped.  However, because the standing waves oscillate much too fast for macro-sized objects to follow the cycles of push and pull, the objects instead end up experiencing an effective force proportional to the time average of the square of the pressure.  You can read up on the theory of this acoustic radiation pressure if you like (see Gorkov, 1961 and Marzo et al., 2017), but you do not need to understand the details for this lab.  You should simply know that **beads end up trapped stably at pressure nodes of the standing wave**.
 
 
 #### References

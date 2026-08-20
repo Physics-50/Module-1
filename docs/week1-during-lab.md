@@ -1,6 +1,6 @@
 # Module 1 Week 1 During Lab
 
-Before starting, make sure you have your Module 1 Lab Notebook and Datasheet ready. It should already exist in Google Drive if you completed the preclass instructions.  If you're not sure where to find it, you can access it in [our Google Classroom Site](https://classroom.google.com/c/ODI0NDEyNjQzNDEz){:target="_blank"}.
+Before starting, make sure you have your Module 1 Lab Notebook and Datasheet ready. It should already exist in Google Drive if you completed the preclass instructions.  If you're not sure where to find it, check the email you received with the link to your Module 1 Google Drive directory, or contact your instructor.
 
 ## Goals for This Week
 
@@ -12,7 +12,7 @@ Your first goal is to create a standing wave with the acoustic levitator. At you
 
 [![Image of FG](images/fg_and_power.jpg)](images/fg_and_power.jpg)
 
-The periodic signal from the function generator will make the speakers produce sound of a particular frequency.  Adjusting the waveform, frequency, amplitude and offset are done as follows:
+The periodic signal from the function generator will make the speakers produce sound of a particular frequency.  Adjusting the waveform, frequency, amplitude and offset is done as follows:
 
 + Turn on the function generator.
 + Select the waveform using the buttons to the right of the display.
@@ -28,7 +28,7 @@ Now, turn your attention to the **acoustic levitator** itself:
 
 Set the switch on the levitator to “AMP.” The switch has 3 possible positions, so make sure it is pressed all the way to “AMP.” This sets the output from the FG to be the logic input for a digital driver located inside the acoustic levitator box. A digital driver uses a logic input of "low" or "high" as the instruction to switch between outputs of 0 V and whatever voltage is supplied to it by a separate power supply (labeled PS OUTPUT (+)). Thus, the output of the driver will be a square wave oscillating at the same frequency as the function generator, switching between 0 V and the output voltage of the power supply (once you connect it).
 
-The L298N Motor Drive Controller Board has on-board logic that needs to be powered at 5V. This is separate from the power supply voltage that will pass through the PS terminal. The 5V logic supply input is connected to a USB power adapter. You should plug this adapter in to one of the wall outlets on your bench. A red light on the L298N board will turn on.
+The L298N Motor Drive Controller Board has on-board logic that needs to be powered at 5V. This is separate from the power supply voltage that will pass through the PS terminal. The 5V logic supply input is connected to a USB power adapter. You should plug this adapter into one of the wall outlets on your bench. A red light on the L298N board will turn on.
 
 In the picture of the acoustic levitator above, the inputs for both the function generator and power supply are highlighted. There should already be BNC cables attached to both of these on your apparatus.  Find the BNC cable connected to the “FG” input on the levitator case. Connect its other end to the "output" port of your function generator.  Do not connect the power supply.
 
@@ -36,13 +36,13 @@ Safety Warning: Whenever you are connecting elements in a circuit, make sure the
 
 Finally, focus on the **power supply**.  With the power supply turned off, turn all its front-panel knobs completely to the left (counter-clockwise) to ensure there is no voltage or current being supplied.  Make sure that the negative (–, black) terminal on the power supply is connected to the ground (GND, green) terminal. This simple connection ensures that the levitator apparatus, power supply and function generator all have a common ground. If there is no metal clip connecting the black and green terminals, notify your instructor and together you can make this connection with a small piece of wire.
 
-Find your station's BNC/banana adapter, and connect the red banana connector to the red positive (+) output on the power supply and the black banana connector to the ground (green) output of the power supply. Connect the output of this adapter to the BNC cable already plugged in to the “PS” input on the levitator case.
+Find your station's BNC/banana adapter, and connect the red banana connector to the red positive (+) output on the power supply and the black banana connector to the ground (green) output of the power supply. Connect the output of this adapter to the BNC cable already plugged into the “PS” input on the levitator case.
 
-Safety Tip: Never touch the two leads of the power supply together! This will short circuit the power supply and could damage it.
+Safety Tip: Never touch the two leads of the power supply together! This will short-circuit the power supply and could damage it.
 
-Now turn on the power supply. The light labeled C.V. (coarse voltage) should be green, meaning that the output of the power supply is limited by the voltage dial settings. Make sure the function generator is turned on and turn on its output (button above output port). Turn the coarse dial for the voltage slowly up (clockwise). Observe that the voltage reading on the front panel of the power supply rises, but the current stays at zero. The power supply might make clicking sounds - this is okay. 
+Now turn on the power supply. The light labeled C.V. (coarse voltage) should be green, meaning that the output of the power supply is limited by the voltage dial settings. Make sure the function generator is turned on and turn on its output (button above output port). Turn the coarse dial for the voltage slowly up (clockwise). Observe that the voltage reading on the front panel of the power supply rises, but the current stays at zero. The power supply might make clicking sounds -- this is okay. 
 
-When you reach a voltage output of around 6-10 volts, the current will start to rise, the green C.V. light will go off and the red C.C. light will go on. At this point both the current and the voltage will stop rising in response to further increases of the coarse voltage dial. The red C.C. light indicates that the power supply output is now being limited by the current dial settings. Turn the coarse current dial up until the green C.V. light comes back on. Alternate between increasing the voltage setting and the current setting as necessary until you have reached an output voltage between 12 and 14 V. **Do not exceed 15 V. Keep an eye on how much current the power supply is providing. If it goes above 225 mA (0.225 A) turn it down immediately** and check your circuit or ask an instructor. 
+When you reach a voltage output of around 6-10 volts, the current will start to rise, the green C.V. light will go off and the red C.C. light will go on. At this point both the current and the voltage will stop rising in response to further increases of the coarse voltage dial. The red C.C. light indicates that the power supply output is now being limited by the current dial settings. Turn the coarse current dial up until the green C.V. light comes back on. Alternate between increasing the voltage setting and the current setting as necessary until you have reached an output voltage between 12 and 14 V. **Do not exceed 15 V. Keep an eye on how much current the power supply is providing. If it goes above 225 mA (0.225 A), turn it down immediately** and check your circuit or ask an instructor. 
 
 At this point, if all is well, your acoustic levitator is producing standing waves of sound.
 
@@ -50,7 +50,7 @@ At this point, if all is well, your acoustic levitator is producing standing wav
 
 Before levitating beads, check your standing wave's structure and strength by visualizing it with the aid of garlic powder.  As neatly as possible -- no garlic powder all over the floor, please! -- shake or sprinkle some garlic powder onto one of the black cardboard rectangles at your station and spread it out across the central third or half of the cardboard.  Gently slide the cardboard into the cavity of the acoustic levitator, holding it near the center axis, until you see a pattern forming in the powder.  Take note of the pattern (a photo might be a great addition to your lab notebook) and the speed of the garlic powder's movement.
 
-Now vary the frequency of the function generator signal.  Select frequency and use the arrows to toggle to the tenths place on the screen.  Use the dial to change the frequency by 0.1 kHz at a time.  The garlic powder will form a clear pattern with stronger movement when you are at afrequency at which the speakers respond well.  You may decide this is exactly 40 kHz or something slightly different, but be sure to record the frequency you choose.  If several different frequencies all produce strong standing waves, you can choose any of them; there is no need to spend more than a few minutes choosing a frequency that works well.
+Now vary the frequency of the function generator signal.  Select frequency and use the arrows to toggle to the tenths place on the screen.  Use the dial to change the frequency by 0.1 kHz at a time.  The garlic powder will form a clear pattern with stronger movement when you are at a frequency at which the speakers respond well.  You may decide this is exactly 40 kHz or something slightly different, but be sure to record the frequency you choose.  If several different frequencies all produce strong standing waves, you can choose any of them; there is no need to spend more than a few minutes choosing a frequency that works well.
 
 Make sure you record which levitator you are using (they are numbered), so that you can be sure you have the same levitator next week.  Different units may respond well at slightly different frequencies.
 
@@ -58,7 +58,7 @@ Make sure you record which levitator you are using (they are numbered), so that 
 
 Now try to levitate a styrofoam bead (or two or ten)! 
 
-Place a few beads on a lens wipe or dryer sheet and move them around between the speakers of the acoustic levitator, near the central axis, until they hop into position. This should not be too difficult. If beads will not levitate, double check all your connections, the function generator settings (including if the output is on), and that the light on the driver is on. See the following [video for demonstrations of a few ways to load a bead into the levitator](https://youtu.be/YrpVdlcYu7Y){:target="_blank"}.  Ask an instructor if problems persist.
+Place a few beads on a lens wipe or dryer sheet and move them around between the speakers of the acoustic levitator, near the central axis, until they hop into position. This should not be too difficult. If beads will not levitate, double-check all your connections, the function generator settings (including if the output is on), and that the light on the driver is on. See the following [video for demonstrations of a few ways to load a bead into the levitator](https://youtu.be/YrpVdlcYu7Y){:target="_blank"}.  Ask an instructor if problems persist.
 
 
 ## Collecting Data
@@ -71,7 +71,7 @@ Once you have loaded beads into two or more adjacent nodes of the standing wave,
 
 + Check other factors that might affect your measurement and its reproducibility. (Creativity is encouraged!)
 
-Make sure you are taking notes on your exploratory observations as you go so that you have a record of them (reminder: we have set up a spreadsheet for you on Google Classroom; use the "Week 1: Exploratory Observations" tab to record your data in this section. The template already set up could be a good place for you to record data, or you could modify it to fit your process.)
+Make sure you are taking notes on your exploratory observations as you go so that you have a record of them (reminder: we have set up a spreadsheet for you; use the "Week 1: Exploratory Observations" tab to record your data in this section. The template that has already been set up could be a good place for you to record data, or you could modify it to fit your process.)
 
 After settling on a method that you trust to give you reproducible (precise) and unbiased (accurate) results, take at least five separate measurements to find the wavelength of your sound waves using that method.  Use the mean and S.E.M. of your wavelength results to find a value and uncertainty for $$V_{\rm sound}$$.  Your instructor may ask each group to share these results with the class.
 

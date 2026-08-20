@@ -1,6 +1,6 @@
 # Why am I getting too large a value for the speed of sound?
 
-We have assumed that the levitator produces  **plane waves**, which are waves whose phase fronts are flat (planar). As illustrated in Fig. 1, this is not a particularly good assumption. Could the curvature of the wavefronts influence what we measure for the wavelength?
+We have assumed that the levitator produces **plane waves**, which are waves whose phase fronts are flat (planar). As illustrated in Fig. 1, this is not a particularly good assumption. Could the curvature of the wavefronts influence what we measure for the wavelength?
 
 
 ![A figure from the paper describing our levitators](images/1.4989995.figures.online.f1.jpg)
@@ -40,7 +40,7 @@ where
 
 $$ \lambda_{\rm eff} = \frac{\lambda}{1-\frac{\lambda}{2 \pi z_R}}.$$
 
-From the image above it is most natural to find $$z_R$$ as a multiple of $$\lambda_{\rm eff}/2$$, so we introduce a parameter
+From the image above, it is most natural to find $$z_R$$ as a multiple of $$\lambda_{\rm eff}/2$$, so we introduce a parameter
 
 \begin{equation}
 n = \frac{z_R}{\lambda_{\rm eff}/2} = \frac{2z_R}{\lambda_{\rm eff}}.

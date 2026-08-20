@@ -13,12 +13,12 @@ When you come into the lab this week, please set up the experiment *using only y
 
 Once you are confident that you have made a reasonable effort to explore the likely sources of systematic error in this experiment, please proceed to the following mini-question. You should not spend more than 30 minutes in lab before answering this mini-question, in order to ensure you have time to complete the rest of this week's work.
 
-**If you are reading the lab manual before coming to lab please stop reading here!!!**
+**If you are reading the lab manual before coming to lab, please stop reading here!!!**
 
 ----------------------
 
-#### Miniquestion 1: Week 2 Results Check-in
-**You will only receive credit for this mini-question if you complete it in lab - do not complete it before coming to class.**
+#### Mini-question: Week 2 Results Check-in
+**You will only receive credit for this mini-question if you complete it in lab -- do not complete it before coming to class.**
 
 *[Click here to open in a new tab](https://docs.google.com/forms/d/e/1FAIpQLSfkUH0P7Mx8g1YyPjyyiVmqMdgyozESacqSwz08cqXdtNWfDQ/viewform){:target="_blank"}*
 
@@ -44,9 +44,9 @@ Once you are confident that you have made a reasonable effort to explore the lik
 
 ## Resolving the Puzzle
 
-You have surveyed a range of potential systematic errors and hopefully determined which ones appeared to be the most significant. After such a careful investigation it must have been satisfying to get a result that agreed with the expected value to within experimental error...... unless of course that is not what you got. 
+You have surveyed a range of potential systematic errors and hopefully determined which ones appeared to be the most significant. After such a careful investigation, it must have been satisfying to get a result that agreed with the expected value to within experimental error... unless of course that is not what you got. 
 
-Throughout this course we have we have asked you to pay careful attention to uncertainties. Here are some sample results reported by students last semester:
+Throughout this course, we have asked you to pay careful attention to uncertainties. Here are some sample results reported by students last semester:
 
 | Speed of Sound          | Uncertainty  | 
 | ----------------------- | ------------ | 
@@ -56,20 +56,20 @@ Throughout this course we have we have asked you to pay careful attention to unc
 
 If you have appropriately controlled for systematic errors and accounted for random errors, your results should differ from the true value by approximately their uncertainty. That is not the case for the sample data above.  
 
-But perhaps you still feel the above results are "close enough" to the expected value (343 m/s at $$20^{o}$$C). The results above differ from the expected value for the speed of sound by amounts on the order of _ten times_ their uncertainty! To get a sense of how unlikely that is, for a normal distribution a $$5 \sigma$$ event, (i.e. 5 error bars away from the mean) has a probability of 1 in $$\approx$$3.5 million, and a $$6 \sigma$$ event has a probability of 1 in $$\approx$$500 million. Clearly we should give some more thought to explaining the discrepancy between these results and the expected value.
+But perhaps you still feel the above results are "close enough" to the expected value (343 m/s at $$20^{o}$$C). The results above differ from the expected value for the speed of sound by amounts on the order of _ten times_ their uncertainty! To get a sense of how unlikely that is, for a normal distribution, a $$5 \sigma$$ event (i.e. 5 error bars away from the mean) has a probability of 1 in $$\approx$$3.5 million, and a $$6 \sigma$$ event has a probability of 1 in $$\approx$$500 million. Clearly we should give some more thought to explaining the discrepancy between these results and the expected value.
 
-When experimental results don't agree with the expected value it is a good idea to:
+When experimental results don't agree with the expected value, it is a good idea to:
 1. Check to make sure you trust your experimental results. Were you careful to minimize potential sources of systematic error?  Do other groups in your section see results consistent with yours, or could they point you toward a mistake you are making?
 2. Check to make sure you trust the "expected value." For example, 343 m/s is the accepted value of the speed of sound under a specific set of conditions. Do those match the conditions in the lab? 343 m/s is the appropriate speed at $$20^{o}$$C. While the speed of sound depends on temperature, our laboratory conditions were close enough to $$20^{\circ}$$ C that we aren't going to be able to explain the discrepancy with temperature. You might also consider pressure, but the dependence of the speed of sound on pressure is extremely weak.
-3. When all else fails it can be a good idea to check if you are confident in your theory. 
+3. When all else fails, it can be a good idea to check if you are confident in your theory. 
 
 The theory we have relied upon assumes plane waves of sound (waves of frequency $$\nu$$ traveling at speed $$V$$ with planar wavefronts distance $$\lambda$$ apart). Wouldn't it be nice if we could _see_ the sound waves to assess if this is a reasonable assumption?  It turns out we can, and we have!  You used garlic powder last week to visualize the shape of the standing waves.  If you don't have a record of this, quickly repeat the exercise now and record your observations.
 
-Take a look at the pattern of the sound waves using garlic powder - you should see significant deviations from plane wave behavior. The curved wavefronts you see can be mathematically modeled by integrating up a distribution of plane waves propagating in slightly different directions.  By analyzing the math in detail, we can find that the effective wavelength of a focused wave like the one in our amplifier is distorted away from that of a plane wave!  Rather than the wavelength $$\lambda$$ that appears in the simple plane-wave relationship $$\lambda\nu=V$$, what we have measured in our focused standing wave is a slightly different _effective wavelength_ $$\lambda_{\rm eff}$$. 
+Take a look at the pattern of the sound waves using garlic powder -- you should see significant deviations from plane wave behavior. The curved wavefronts you see can be mathematically modeled by integrating up a distribution of plane waves propagating in slightly different directions.  By analyzing the math in detail, we can find that the effective wavelength of a focused wave like the one in our amplifier is distorted away from that of a plane wave!  Rather than the wavelength $$\lambda$$ that appears in the simple plane-wave relationship $$\lambda\nu=V$$, what we have measured in our focused standing wave is a slightly different _effective wavelength_ $$\lambda_{\rm eff}$$. 
 
 You will not be responsible for the details of the more complete theory but are encouraged to [read a summary here](gouy).  The **bottom line** is this:
 
-You can account for the curvature of the standing waves by applying the following correction to get the actual wavelength ($$\lambda$$) from  your measured value, $$\lambda_{\rm eff}$$:
+You can account for the curvature of the standing waves by applying the following correction to get the actual wavelength ($$\lambda$$) from your measured value, $$\lambda_{\rm eff}$$:
 
 \begin{equation}
   \lambda = \frac{\pi n \lambda_{\rm eff}}{1+ \pi n}
@@ -82,7 +82,7 @@ Please make use of this correction to estimate the speed of sound. Do you get a 
 
 ## Goals for This Week
 
-At the end of this week you should have a final determination of the speed of sound based on careful measurements and the revised theory.  You will need to:
+At the end of this week, you should have a final determination of the speed of sound based on careful measurements and the revised theory.  You will need to:
 + measure bead spacing by photographing beads with a ruler as an appropriately-placed scale bar.  Measuring bead spacing in pixels offers much finer resolution than direct measurement with a ruler.
 + combine data from at least five different images, resetting whatever features of the experiment are required to randomize important systematic errors.
 + calculate speed of sound from your measured $$\lambda_{\rm eff}$$ using the revised theory, and calculate uncertainty in speed of sound based on both uncertainty in $$\lambda_{\rm eff}$$ and uncertainty in $$n$$.

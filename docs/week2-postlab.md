@@ -6,10 +6,10 @@
 + Bring a rough draft of your Module 1 lab report (hard copy, please!) to class next week for peer review.
 + The final version of your Module 1 lab report will be due three days before the next module begins, as stated in the syllabus.  As a reminder, the report due dates are:
 
-  + Monday sections:  report due Friday at 10p.m.
-  + Wednesday sections:  report due Sunday at 10p.m.
-  + Thursday sections:  report due Monday at 10p.m.
-  + Friday sections:  report due Tuesday at 10p.m.
+  + Monday sections: report due Friday at 10 p.m.
+  + Wednesday sections: report due Sunday at 10 p.m.
+  + Thursday sections: report due Monday at 10 p.m.
+  + Friday sections: report due Tuesday at 10 p.m.
 
 <!-- Please submit the following to Module 1, Checkpoint #2 on Gradescope. 
 
@@ -38,6 +38,6 @@ Your work will be graded based on:
 + final result is presented with appropriate significant figures -->
 
 
-Don't forget to double check that you've completed [this week's miniquestion during lab.](mini-questions#week-2){:target="_blank"}
+Don't forget to double-check that you've completed [this week's mini-question during lab.](mini-questions#week-2){:target="_blank"}
 
 <h2 style="text-align:left;">[Previous: During Lab](week2-during-lab)</h2>
