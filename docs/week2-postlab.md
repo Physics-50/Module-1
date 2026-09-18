@@ -1,15 +1,11 @@
 # Module 1 Week 2 Postlab
 
-## Things to Turn In
+## Oral Report
 
 + Since this is the end of a module, there will be no weekly checkpoint.
-+ Bring a rough draft of your Module 1 lab report (hard copy, please!) to class next week for peer review.
-+ The final version of your Module 1 lab report will be due three days before the next module begins, as stated in the syllabus.  As a reminder, the report due dates are:
-
-  + Monday sections: report due Friday at 10 p.m.
-  + Wednesday sections: report due Sunday at 10 p.m.
-  + Thursday sections: report due Monday at 10 p.m.
-  + Friday sections: report due Tuesday at 10 p.m.
++ Instead of a written report, you and your lab partner will give a short oral report together with your instructor, scheduled during the Module 1 Assessment week that follows (see [schedule](https://physics-50.github.io/General/schedule)).
++ Before your meeting, upload your single presentation slide to your Physics 50 Google Drive folder, and have your Google Doc lab notebook and Google Data Sheet open and ready.
++ See the [Science Communication Guides](https://physics-50.github.io/General/science_communication_guides#module-1-oral-report) for full details on format and expectations.
 
 <!-- Please submit the following to Module 1, Checkpoint #2 on Gradescope. 
 
